@@ -1,8 +1,82 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-06T09:33:35.645788",
+    "fetched_at": "2026-06-06T11:16:10.692572",
     "total_with_streams": 17,
     "events_with_streams": [
+        {
+            "name": "Formula 1 GP Monte Carlo",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Monte Carlo.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/qqqqfQQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/qqqqfQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Monte Carlo --- HD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Monte Carlo --- HD2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/39cc925b-2d69-4123-bdc3-155b542cb613/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/39cc925b-2d69-4123-bdc3-155b542cb613/master.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/39cc925b-2d69-4123-bdc3-155b542cb613/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/39cc925b-2d69-4123-bdc3-155b542cb613/master.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf KLM Open",
+            "type": "live_event",
+            "league": "Golf",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Golf KLM Open_5.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2016027627778383872/KrzKijtT_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/TATATAQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/TATATAQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Hwaseong vs Suwon Bluewings",
+            "type": "live_event",
+            "league": "South Korea K2 League",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Hwaseong vs Suwon Bluewings.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/TATATAQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/TATATAQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Gyeongnam vs Yongin",
+            "type": "live_event",
+            "league": "South Korea K2 League",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Gyeongnam vs Yongin.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/TATATAQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/TATATAQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "West Coast Eagles vs Port Adelaide Power",
             "type": "live_event",
@@ -42,6 +116,20 @@
                 {
                     "original_url": "http://193.47.62.59/hls/TATATA.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/TATATA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sagan Tosu vs Shonan Bellmare",
+            "type": "live_event",
+            "league": "Japan J2 League",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Sagan Tosu vs Shonan Bellmare.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/TATATAQQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/TATATAQQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -102,20 +190,6 @@
             ]
         },
         {
-            "name": "Yokohama F Marinos vs Shimizu S-Pulse",
-            "type": "live_event",
-            "league": "Japan J League",
-            "time": "09:00",
-            "page_link": "http://www.fawanews.sc/Yokohama F Marinos vs Shimizu S-Pulse.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/FAFAFAD.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FAFAFAD.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Boxing : Yabuki vs Calixto",
             "type": "live_event",
             "league": "Boxing",
@@ -140,76 +214,6 @@
                 {
                     "original_url": "http://193.47.62.53/hls/KUUUqQ.m3u8",
                     "m3u_url": "http://193.47.62.53/hls/KUUUqQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "NQ Cowboys vs Dolphins",
-            "type": "live_event",
-            "league": "NRL",
-            "time": "08:30",
-            "page_link": "http://www.fawanews.sc/NQ Cowboys vs Dolphins.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/ZSZSZSQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/ZSZSZSQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Gold Coast Suns vs Brisbane Lions",
-            "type": "live_event",
-            "league": "AFL Aussie Rules",
-            "time": "08:15",
-            "page_link": "http://www.fawanews.sc/Gold Coast Suns vs Brisbane Lions.html",
-            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/DFFF.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/DFFF.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Chiefs vs Reds",
-            "type": "live_event",
-            "league": "Super Rugby",
-            "time": "08:05",
-            "page_link": "http://www.fawanews.sc/Chiefs vs Reds.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2061613597822980096/KRZfGqQP_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/ZSZSZSQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/ZSZSZSQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tokyo Verdy vs Gamba Osaka",
-            "type": "live_event",
-            "league": "Japan J League",
-            "time": "08:00",
-            "page_link": "http://www.fawanews.sc/Tokyo Verdy vs Gamba Osaka.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/ZSZSZSQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/ZSZSZSQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Urawa Reds vs Okayama",
-            "type": "live_event",
-            "league": "Japan J League",
-            "time": "08:00",
-            "page_link": "http://www.fawanews.sc/Urawa Reds vs Okayama.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/ZSZSZSQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/ZSZSZSQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
