@@ -1,8 +1,86 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-06T16:58:53.031059",
-    "total_with_streams": 42,
+    "fetched_at": "2026-06-06T18:04:15.203370",
+    "total_with_streams": 49,
     "events_with_streams": [
+        {
+            "name": "Portugal vs Chile --- SD",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "18:45",
+            "page_link": "http://www.fawanews.sc/Portugal vs Chile.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/KKKK.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/KKKK.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Portugal vs Chile --- HD",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "18:45",
+            "page_link": "http://www.fawanews.sc/Portugal vs Chile --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4512422.m3u8?txSecret=45cca32b078e50444f362cde05e82736&txTime=6A25AE59",
+                    "m3u_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4512422.m3u8?txSecret=45cca32b078e50444f362cde05e82736&txTime=6A25AE59|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4512422.m3u8?txSecret=45cca32b078e50444f362cde05e82736&txTime=6A25AE59",
+                    "m3u_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4512422.m3u8?txSecret=45cca32b078e50444f362cde05e82736&txTime=6A25AE59|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Romania vs Wales --- SD",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "18:45",
+            "page_link": "http://www.fawanews.sc/Romania vs Wales.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/KKKKA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/KKKKA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Romania vs Wales --- HD",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "18:45",
+            "page_link": "http://www.fawanews.sc/Romania vs Wales --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.nbs3g.com/live/sd-1-4544838.m3u8?txSecret=506ac9b0bdd0cca010417fed7e8d09bf&txTime=6A25ACF4",
+                    "m3u_url": "https://pul-tenm.nbs3g.com/live/sd-1-4544838.m3u8?txSecret=506ac9b0bdd0cca010417fed7e8d09bf&txTime=6A25ACF4|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.nbs3g.com/live/sd-1-4544838.m3u8?txSecret=506ac9b0bdd0cca010417fed7e8d09bf&txTime=6A25ACF4",
+                    "m3u_url": "http://pul-tenm.nbs3g.com/live/sd-1-4544838.m3u8?txSecret=506ac9b0bdd0cca010417fed7e8d09bf&txTime=6A25ACF4|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Albania vs Luxembourg",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Albania vs Luxembourg.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/KKKKAA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/KKKKAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Boxing : Billam-Smith vs Rozicki",
             "type": "live_event",
@@ -32,44 +110,86 @@
             ]
         },
         {
-            "name": "Albania vs Luxembourg",
+            "name": "Chicago Cubs vs San Francisco Giants",
             "type": "live_event",
-            "league": "Friendly Match",
+            "league": "MLB Baseball",
+            "time": "19:20",
+            "page_link": "http://www.fawanews.sc/Chicago Cubs vs San Francisco Giants.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/FIIIZQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/FIIIZQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "St Louis Cardinals vs Cincinnati Reds",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "19:15",
+            "page_link": "http://www.fawanews.sc/St Louis Cardinals vs Cincinnati Reds.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/FIIIZQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/FIIIZQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Minnesota Twins vs Kansas City Royals",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "19:10",
+            "page_link": "http://www.fawanews.sc/Minnesota Twins vs Kansas City Royals.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/FIIIZQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/FIIIZQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Durham vs Northamptonshire",
+            "type": "live_event",
+            "league": "Cricket Vitality Blast",
             "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Albania vs Luxembourg.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Durham vs Northamptonshire.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572134193521360896/daDaZqiT_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/KKKKAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/KKKKAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/FIIIZQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/FIIIZQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Romania vs Wales",
+            "name": "Venezia vs Virtus Bologna",
             "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:45",
-            "page_link": "http://www.fawanews.sc/Romania vs Wales.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "league": "Italy Basketball Lega A",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Venezia vs Virtus Bologna.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2026588845379080192/mWY6CM61_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/KKKKA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/KKKKA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/FIIIZ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/FIIIZ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Portugal vs Chile",
+            "name": "Montevideo City vs Maldonado",
             "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:45",
-            "page_link": "http://www.fawanews.sc/Portugal vs Chile.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "league": "Uruguay Liga AUF",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Montevideo City vs Maldonado.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/KKKK.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/KKKK.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/FIII.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/FIII.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -154,20 +274,6 @@
                 {
                     "original_url": "http://193.47.62.58/hls/TPPPQ.m3u8",
                     "m3u_url": "http://193.47.62.58/hls/TPPPQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "British Virgin Islands vs Bonaire",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/British Virgin Islands vs Bonaire.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.58/hls/TPPP.m3u8",
-                    "m3u_url": "http://193.47.62.58/hls/TPPP.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
