@@ -1,8 +1,36 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-06T19:52:34.291766",
-    "total_with_streams": 49,
+    "fetched_at": "2026-06-06T20:54:32.969602",
+    "total_with_streams": 38,
     "events_with_streams": [
+        {
+            "name": "Boxing : Billam-Smith vs Rozicki",
+            "type": "live_event",
+            "league": "Boxing",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Boxing_Billam-Smith vs Rozicki.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/aaaaA.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/aaaaA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Boxing : Padley vs Fiaz",
+            "type": "live_event",
+            "league": "Boxing",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Boxing_Padley vs Fiaz.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/aaaa.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/aaaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "England vs New Zealand",
             "type": "live_event",
@@ -14,6 +42,24 @@
                 {
                     "original_url": "http://193.47.62.46/hls/UTTTQQQ.m3u8",
                     "m3u_url": "http://193.47.62.46/hls/UTTTQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs New Zealand --- HD",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/England vs New Zealand --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4512457.m3u8?txSecret=0b225fb3180c1548a37eb8d91e120dad&txTime=6A25CC5A",
+                    "m3u_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4512457.m3u8?txSecret=0b225fb3180c1548a37eb8d91e120dad&txTime=6A25CC5A|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4512457.m3u8?txSecret=0b225fb3180c1548a37eb8d91e120dad&txTime=6A25CC5A",
+                    "m3u_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4512457.m3u8?txSecret=0b225fb3180c1548a37eb8d91e120dad&txTime=6A25CC5A|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -32,6 +78,24 @@
             ]
         },
         {
+            "name": "Bolivia vs Scotland --- HD",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/Bolivia vs Scotland --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4541826.m3u8?txSecret=59cd7ff233249aa362df569e0a3a5816&txTime=6A25CCD2",
+                    "m3u_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4541826.m3u8?txSecret=59cd7ff233249aa362df569e0a3a5816&txTime=6A25CCD2|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4541826.m3u8?txSecret=59cd7ff233249aa362df569e0a3a5816&txTime=6A25CCD2",
+                    "m3u_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4541826.m3u8?txSecret=59cd7ff233249aa362df569e0a3a5816&txTime=6A25CCD2|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Qatar vs El Salvador",
             "type": "live_event",
             "league": "Friendly Match",
@@ -46,16 +110,20 @@
             ]
         },
         {
-            "name": "Cape Verde vs Bermuda",
+            "name": "Qatar vs El Salvador --- HD",
             "type": "live_event",
             "league": "Friendly Match",
             "time": "21:00",
-            "page_link": "http://www.fawanews.sc/Cape Verde vs Bermuda.html",
+            "page_link": "http://www.fawanews.sc/Qatar vs El Salvador --- HD.html",
             "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/FJJJQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FJJJQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://pul-tenm.nbs3g.com/live/sd-1-4542676.m3u8?txSecret=0dc6ea584ba975ee03b4060aa17bf412&txTime=6A25CCD2",
+                    "m3u_url": "https://pul-tenm.nbs3g.com/live/sd-1-4542676.m3u8?txSecret=0dc6ea584ba975ee03b4060aa17bf412&txTime=6A25CCD2|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.nbs3g.com/live/sd-1-4542676.m3u8?txSecret=0dc6ea584ba975ee03b4060aa17bf412&txTime=6A25CCD2",
+                    "m3u_url": "http://pul-tenm.nbs3g.com/live/sd-1-4542676.m3u8?txSecret=0dc6ea584ba975ee03b4060aa17bf412&txTime=6A25CCD2|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -106,176 +174,44 @@
             ]
         },
         {
-            "name": "USA vs Germany --- ENG SD",
+            "name": "UFC Fight Night : Belal Muhammad vs Gabriel Bonfim",
             "type": "live_event",
-            "league": "Friendly Match",
-            "time": "19:30",
-            "page_link": "http://www.fawanews.sc/USA vs Germany.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "league": "UFC Fight Night",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/UFC Fight Night_Belal Muhammad vs Gabriel Bonfim.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.48/hls/LAAA.m3u8",
-                    "m3u_url": "http://193.47.62.48/hls/LAAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.42/hls/RIIIE.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/RIIIE.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "USA vs Germany --- ENG HD",
+            "name": "MMA Brave CF 106",
             "type": "live_event",
-            "league": "Friendly Match",
-            "time": "19:30",
-            "page_link": "http://www.fawanews.sc/USA vs Germany --- ENG HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460235.m3u8?txSecret=67ef28706dd2efe17c3ce31c86e2bb85&txTime=6A25B832",
-                    "m3u_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460235.m3u8?txSecret=67ef28706dd2efe17c3ce31c86e2bb85&txTime=6A25B832|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4460235.m3u8?txSecret=67ef28706dd2efe17c3ce31c86e2bb85&txTime=6A25B832",
-                    "m3u_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4460235.m3u8?txSecret=67ef28706dd2efe17c3ce31c86e2bb85&txTime=6A25B832|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "USA vs Germany --- RU HD",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "19:30",
-            "page_link": "http://www.fawanews.sc/USA vs Germany --- RU HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5214577f-397a-4d2a-81d4-b70f4e7f1868/master.m3u8",
-                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5214577f-397a-4d2a-81d4-b70f4e7f1868/master.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5214577f-397a-4d2a-81d4-b70f4e7f1868/master.m3u8",
-                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5214577f-397a-4d2a-81d4-b70f4e7f1868/master.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Portugal vs Chile --- SD",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:45",
-            "page_link": "http://www.fawanews.sc/Portugal vs Chile.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/KKKK.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/KKKK.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Portugal vs Chile --- HD",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:45",
-            "page_link": "http://www.fawanews.sc/Portugal vs Chile --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4512422.m3u8?txSecret=45cca32b078e50444f362cde05e82736&txTime=6A25AE59",
-                    "m3u_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4512422.m3u8?txSecret=45cca32b078e50444f362cde05e82736&txTime=6A25AE59|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4512422.m3u8?txSecret=45cca32b078e50444f362cde05e82736&txTime=6A25AE59",
-                    "m3u_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4512422.m3u8?txSecret=45cca32b078e50444f362cde05e82736&txTime=6A25AE59|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Romania vs Wales --- SD",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:45",
-            "page_link": "http://www.fawanews.sc/Romania vs Wales.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/KKKKA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/KKKKA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Romania vs Wales --- HD",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:45",
-            "page_link": "http://www.fawanews.sc/Romania vs Wales --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.nbs3g.com/live/sd-1-4544838.m3u8?txSecret=506ac9b0bdd0cca010417fed7e8d09bf&txTime=6A25ACF4",
-                    "m3u_url": "https://pul-tenm.nbs3g.com/live/sd-1-4544838.m3u8?txSecret=506ac9b0bdd0cca010417fed7e8d09bf&txTime=6A25ACF4|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.nbs3g.com/live/sd-1-4544838.m3u8?txSecret=506ac9b0bdd0cca010417fed7e8d09bf&txTime=6A25ACF4",
-                    "m3u_url": "http://pul-tenm.nbs3g.com/live/sd-1-4544838.m3u8?txSecret=506ac9b0bdd0cca010417fed7e8d09bf&txTime=6A25ACF4|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Albania vs Luxembourg --- SD",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Albania vs Luxembourg.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/KKKKAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/KKKKAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Albania vs Luxembourg --- HD",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Albania vs Luxembourg --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.nbs3g.com/live/sd-1-4544859.m3u8?txSecret=55e1ba3b1a7a1937a7665733e725b158&txTime=6A25B0B2",
-                    "m3u_url": "https://pul-tenm.nbs3g.com/live/sd-1-4544859.m3u8?txSecret=55e1ba3b1a7a1937a7665733e725b158&txTime=6A25B0B2|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.nbs3g.com/live/sd-1-4544859.m3u8?txSecret=55e1ba3b1a7a1937a7665733e725b158&txTime=6A25B0B2",
-                    "m3u_url": "http://pul-tenm.nbs3g.com/live/sd-1-4544859.m3u8?txSecret=55e1ba3b1a7a1937a7665733e725b158&txTime=6A25B0B2|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boxing : Billam-Smith vs Rozicki",
-            "type": "live_event",
-            "league": "Boxing",
+            "league": "MMA Fighting",
             "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Boxing_Billam-Smith vs Rozicki.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "page_link": "http://www.fawanews.sc/MMA Brave CF 106.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1988209021162033152/6P4OdUoS_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.42/hls/aaaaA.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/aaaaA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.42/hls/RIII.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/RIII.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Boxing : Padley vs Fiaz",
+            "name": "MMA Oktagon 89 Bratislava",
             "type": "live_event",
-            "league": "Boxing",
+            "league": "MMA Fighting",
             "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Boxing_Padley vs Fiaz.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "page_link": "http://www.fawanews.sc/MMA Oktagon 89 Bratislava.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.42/hls/aaaa.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/aaaa.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.58/hls/TPPPQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.58/hls/TPPPQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -560,48 +496,6 @@
             ]
         },
         {
-            "name": "Venezia vs Virtus Bologna",
-            "type": "live_event",
-            "league": "Italy Basketball Lega A",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Venezia vs Virtus Bologna.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2026588845379080192/mWY6CM61_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/FIIIZ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FIIIZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Montevideo City vs Maldonado",
-            "type": "live_event",
-            "league": "Uruguay Liga AUF",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Montevideo City vs Maldonado.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/FIII.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FIII.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Catalans Dragons vs Wigan Warriors",
-            "type": "live_event",
-            "league": "English Rugby Super League",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/Catalans Dragons vs Wigan Warriors.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.58/hls/TPPPQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.58/hls/TPPPQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Detroit Tigers vs Seattle Mariners",
             "type": "live_event",
             "league": "MLB Baseball",
@@ -616,20 +510,6 @@
             ]
         },
         {
-            "name": "MMA Oktagon 89 Bratislava",
-            "type": "live_event",
-            "league": "MMA Fighting",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/MMA Oktagon 89 Bratislava.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.58/hls/TPPPQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.58/hls/TPPPQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Darts Nardic Masters",
             "type": "live_event",
             "league": "Darts",
@@ -640,48 +520,6 @@
                 {
                     "original_url": "http://193.47.62.58/hls/TPPPQQQ.m3u8",
                     "m3u_url": "http://193.47.62.58/hls/TPPPQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Bahcesehir Kol vs Besiktas",
-            "type": "live_event",
-            "league": "Turkey Basketball Super Lig",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Bahcesehir Kol vs Besiktas.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.58/hls/TPPPQQ.m3u8",
-                    "m3u_url": "http://193.47.62.58/hls/TPPPQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Gibraltar vs Cayman Islands",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Gibraltar vs Cayman Islands.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.58/hls/TPPPQ.m3u8",
-                    "m3u_url": "http://193.47.62.58/hls/TPPPQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Minnesota Lynx W vs Seattle Storm W",
-            "type": "live_event",
-            "league": "WNBA Basketball",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Minnesota Lynx W vs Seattle Storm W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.58/hls/TPPPQQX.m3u8",
-                    "m3u_url": "http://193.47.62.58/hls/TPPPQQX.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
