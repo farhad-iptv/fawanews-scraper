@@ -1,8 +1,156 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-07T09:55:48.776032",
-    "total_with_streams": 13,
+    "fetched_at": "2026-06-07T11:42:29.258438",
+    "total_with_streams": 22,
     "events_with_streams": [
+        {
+            "name": "Formula 1 GP Monte Carlo --- ENG SD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Monte Carlo_race.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/JMMM.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/JMMM.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Monte Carlo --- SWE SD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Monte Carlo_race_swe.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.53/hls/JMMMQ.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/JMMMQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Monte Carlo --- SWE HD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Monte Carlo_race_swe_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.53/hls/JMMMQX.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/JMMMQX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Monte Carlo --- RU HD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Monte Carlo_race_ru_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/942babea-428a-4807-b1b6-c7ce81034fa2/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/942babea-428a-4807-b1b6-c7ce81034fa2/master.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/942babea-428a-4807-b1b6-c7ce81034fa2/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/942babea-428a-4807-b1b6-c7ce81034fa2/master.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "MotoGP Grand Prix of Hungary",
+            "type": "live_event",
+            "league": "MotoGP",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/MotoGP Grand Prix Hungary.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.53/hls/KUUUQ.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/KUUUQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Roland Garros --- SD",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Tennis Roland Garros_final.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1799246307644612609/zULoScyz_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/vavava.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/vavava.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Roland Garros --- HD",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Tennis Roland Garros_final_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1799246307644612609/zULoScyz_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7370262d-2950-4ac2-b7ff-07266974a3df/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7370262d-2950-4ac2-b7ff-07266974a3df/master.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7370262d-2950-4ac2-b7ff-07266974a3df/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7370262d-2950-4ac2-b7ff-07266974a3df/master.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Pitea vs Enkoping SK",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Pitea vs Enkoping SK.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/gvvv.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/gvvv.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf PGA The Memorial Tournament",
+            "type": "live_event",
+            "league": "Golf PGA",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Golf PGA The Memorial Tournament_final.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/yggg.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/yggg.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cycling Tour Auvergne Rhone",
+            "type": "live_event",
+            "league": "Cycling",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Cycling Tour Auvergne Rhone.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1934612992903057408/bI1HbE6N_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/dppp.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dppp.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Afghanistan vs Pakistan",
             "type": "live_event",
@@ -42,6 +190,20 @@
                 {
                     "original_url": "http://193.47.62.59/hls/fbbbq.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/fbbbq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "LIV Golf Spain",
+            "type": "live_event",
+            "league": "Golf",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/LIV Golf Spain.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2010379634076946432/-L9AJaQS_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/zzzz.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/zzzz.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -130,20 +292,6 @@
             ]
         },
         {
-            "name": "Tennis Roland Garros",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis Roland Garros_final.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1799246307644612609/zULoScyz_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/vavava.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/vavava.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Rugby SVNS France",
             "type": "live_event",
             "league": "Rugby 7s",
@@ -154,20 +302,6 @@
                 {
                     "original_url": "http://193.47.62.53/hls/KUUUqQ.m3u8",
                     "m3u_url": "http://193.47.62.53/hls/KUUUqQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "MotoGP Grand Prix of Hungary",
-            "type": "live_event",
-            "league": "MotoGP",
-            "time": "08:30",
-            "page_link": "http://www.fawanews.sc/MotoGP Grand Prix Hungary.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.53/hls/KUUUQ.m3u8",
-                    "m3u_url": "http://193.47.62.53/hls/KUUUQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
