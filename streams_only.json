@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-07T19:17:10.733694",
-    "total_with_streams": 39,
+    "fetched_at": "2026-06-07T20:43:45.092898",
+    "total_with_streams": 35,
     "events_with_streams": [
         {
             "name": "Morocco vs Norway --- ENG",
@@ -14,6 +14,10 @@
                 {
                     "original_url": "http://193.47.62.51/hls/PPPPXD.m3u8",
                     "m3u_url": "http://193.47.62.51/hls/PPPPXD.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.53/hls/PPPPXD.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/PPPPXD.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -28,6 +32,10 @@
                 {
                     "original_url": "http://193.47.62.51/hls/PPPPXDZ.m3u8",
                     "m3u_url": "http://193.47.62.51/hls/PPPPXDZ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.53/hls/PPPPXDZ.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/PPPPXDZ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -162,48 +170,86 @@
             ]
         },
         {
-            "name": "Croatia vs Slovenia --- HD 2",
+            "name": "Ecuador vs Guatemala",
             "type": "live_event",
             "league": "Friendly Match",
-            "time": "19:45",
-            "page_link": "http://www.fawanews.sc/Croatia vs Slovenia --- HD2.html",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/Ecuador vs Guatemala.html",
             "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://www.rtmpcdn.com/live/7d178eed-6956-49db-a59b-48c64ba9e817.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/7d178eed-6956-49db-a59b-48c64ba9e817.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/7d178eed-6956-49db-a59b-48c64ba9e817.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/7d178eed-6956-49db-a59b-48c64ba9e817.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/rgggd.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/rgggd.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Kosovo vs Andorra --- SD",
+            "name": "OHiggins vs Palestino",
             "type": "live_event",
-            "league": "Friendly Match",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Kosovo vs Andorra.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "league": "Chile Copa",
+            "time": "23:00",
+            "page_link": "http://www.fawanews.sc/OHiggins vs Palestino.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/GPPPZZ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/GPPPZZ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/YOOOO.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/YOOOO.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Kosovo vs Andorra --- HD",
+            "name": "Limache vs Everton",
             "type": "live_event",
-            "league": "Friendly Match",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Kosovo vs Andorra --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "league": "Chile Copa",
+            "time": "23:00",
+            "page_link": "http://www.fawanews.sc/Limache vs Everton.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/GPPPZZX.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/GPPPZZX.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/UOOOQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/UOOOQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Defensor Sp vs Boston River",
+            "type": "live_event",
+            "league": "Uruguay Liga AUF",
+            "time": "22:30",
+            "page_link": "http://www.fawanews.sc/Defensor Sp vs Boston River.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/YOOOOD.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/YOOOOD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "San Diego Padres vs New York Mets",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "21:10",
+            "page_link": "http://www.fawanews.sc/San Diego Padres vs New York Mets.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/UOOOQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/UOOOQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Los Angeles Dodgers vs Los Angeles Angels",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "21:10",
+            "page_link": "http://www.fawanews.sc/Los Angeles Dodgers vs Los Angeles Angels.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/UOOOQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/UOOOQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -232,6 +278,20 @@
                 {
                     "original_url": "http://193.47.62.59/hls/UOOO.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/UOOO.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Nascar Cup Series Firekeepers Casino 400",
+            "type": "live_event",
+            "league": "Nascar",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Nascar Cup Series Firekeepers Casino 400.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063682841502773249/B1XWsfrs_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/rggg.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/rggg.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -376,20 +436,6 @@
             ]
         },
         {
-            "name": "Golf PGA Champions Tour",
-            "type": "live_event",
-            "league": "Golf PGA",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Golf PGA Champions Tour.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995929949794881536/7gF7GFlJ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/tttt.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/tttt.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "CA Cerro vs Penarol",
             "type": "live_event",
             "league": "Uruguay Liga AUF",
@@ -418,20 +464,6 @@
             ]
         },
         {
-            "name": "Miami Marlins vs Tampa Bay Rays",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "18:40",
-            "page_link": "http://www.fawanews.sc/Miami Marlins vs Tampa Bay Rays.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/ZAAADDDDD.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/ZAAADDDDD.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Detroit Tigers vs Seattle Mariners",
             "type": "live_event",
             "league": "MLB Baseball",
@@ -442,20 +474,6 @@
                 {
                     "original_url": "http://193.47.62.59/hls/ZAAADDDD.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/ZAAADDDD.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Toronto Blue Jays vs Baltimore Orioles",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "18:37",
-            "page_link": "http://www.fawanews.sc/Toronto Blue Jays vs Baltimore Orioles.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/ZAAADDD.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/ZAAADDD.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -484,76 +502,6 @@
                 {
                     "original_url": "http://193.47.62.59/hls/ZAAAD.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/ZAAAD.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Atlanta Braves vs Pittsburgh Pirates",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "18:35",
-            "page_link": "http://www.fawanews.sc/Atlanta Braves vs Pittsburgh Pirates.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/ZAAA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/ZAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Belgium U17 vs Italy U17",
-            "type": "live_event",
-            "league": "Euro U17",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Belgium U17 vs Italy U17.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2058864755708739584/6a33PC_Q_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/TATATA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/TATATA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Baskonia vs Joventut Badalona",
-            "type": "live_event",
-            "league": "Spain Basketball ACB",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Baskonia vs Joventut Badalona.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2028394125469331456/oIc6aE12_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/TATATAFFF.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/TATATAFFF.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Anadolu Efes vs Fenerbahce",
-            "type": "live_event",
-            "league": "Turkey Basketball Super Lig",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Anadolu Efes vs Fenerbahce.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/TATATAFF.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/TATATAFF.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cholet vs Paris",
-            "type": "live_event",
-            "league": "France Basketball LNB",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Cholet vs Paris.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1852319926784040960/zYiNkhZ0_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/TATATAF.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/TATATAF.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
