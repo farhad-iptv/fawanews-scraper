@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-07T11:42:29.258438",
-    "total_with_streams": 22,
+    "fetched_at": "2026-06-07T13:18:25.756013",
+    "total_with_streams": 35,
     "events_with_streams": [
         {
             "name": "Formula 1 GP Monte Carlo --- ENG SD",
@@ -14,6 +14,24 @@
                 {
                     "original_url": "http://193.47.62.49/hls/JMMM.m3u8",
                     "m3u_url": "http://193.47.62.49/hls/JMMM.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Monte Carlo --- ENG HD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Monte Carlo_race_eng_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/4840cf02-afa8-4c6b-a84b-beb7c66605c6/456db1a9-29a4-45fd-9e58-b22cf12c7be6/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/4840cf02-afa8-4c6b-a84b-beb7c66605c6/456db1a9-29a4-45fd-9e58-b22cf12c7be6/master.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/4840cf02-afa8-4c6b-a84b-beb7c66605c6/456db1a9-29a4-45fd-9e58-b22cf12c7be6/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/4840cf02-afa8-4c6b-a84b-beb7c66605c6/456db1a9-29a4-45fd-9e58-b22cf12c7be6/master.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -42,6 +60,24 @@
                 {
                     "original_url": "http://193.47.62.53/hls/JMMMQX.m3u8",
                     "m3u_url": "http://193.47.62.53/hls/JMMMQX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Monte Carlo --- CN HD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Monte Carlo_race_cn_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://bp-livewxtytx.bestv.cn/live/wxty.m3u8?txSecret=09c54954f8407f993fe04321d9c2a7ed&txTime=6a2679cf&action=TP&sign=f3d0f245bd1316f4a2c7b0963c5160dc&time=1780820047227&userId=0&channelIdNew=199999",
+                    "m3u_url": "https://bp-livewxtytx.bestv.cn/live/wxty.m3u8?txSecret=09c54954f8407f993fe04321d9c2a7ed&txTime=6a2679cf&action=TP&sign=f3d0f245bd1316f4a2c7b0963c5160dc&time=1780820047227&userId=0&channelIdNew=199999|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://bp-livewxtytx.bestv.cn/live/wxty.m3u8?txSecret=09c54954f8407f993fe04321d9c2a7ed&txTime=6a2679cf&action=TP&sign=f3d0f245bd1316f4a2c7b0963c5160dc&time=1780820047227&userId=0&channelIdNew=199999",
+                    "m3u_url": "http://bp-livewxtytx.bestv.cn/live/wxty.m3u8?txSecret=09c54954f8407f993fe04321d9c2a7ed&txTime=6a2679cf&action=TP&sign=f3d0f245bd1316f4a2c7b0963c5160dc&time=1780820047227&userId=0&channelIdNew=199999|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -106,6 +142,206 @@
                 {
                     "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7370262d-2950-4ac2-b7ff-07266974a3df/master.m3u8",
                     "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7370262d-2950-4ac2-b7ff-07266974a3df/master.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Saracens W vs Ealing Trailfinders W",
+            "type": "live_event",
+            "league": "English Premiership Rugby",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Saracens W vs Ealing Trailfinders W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1947922197328134144/2PBgulm5_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/fsssFFFFF.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/fsssFFFFF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Trelleborg vs Skovde AIK",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Trelleborg vs Skovde AIK.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/fsssFFFF.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/fsssFFFF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Atvidaberg vs Tvaaker",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Atvidaberg vs Tvaaker.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/fsssFFF.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/fsssFFF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Arlanda vs Assyriska FF",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Arlanda vs Assyriska FF.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/fsssFF.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/fsssFF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cycling Giro D'italia",
+            "type": "live_event",
+            "league": "Cycling",
+            "time": "14:15",
+            "page_link": "http://www.fawanews.sc/Cycling Giro Ditalia_7.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1773758182705287168/c8FnoFaF_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/fsssF.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/fsssF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Liechtenstein vs Cyprus",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Liechtenstein vs Cyprus.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/gvvvzfffff.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/gvvvzfffff.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Liechtenstein vs Cyprus --- HD",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Liechtenstein vs Cyprus --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.nbs3g.com/live/sd-1-4544862.m3u8?txSecret=afad581b5c5420342facf8af6302fd23&txTime=6A26BE3B",
+                    "m3u_url": "https://pul-tenm.nbs3g.com/live/sd-1-4544862.m3u8?txSecret=afad581b5c5420342facf8af6302fd23&txTime=6A26BE3B|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.nbs3g.com/live/sd-1-4544862.m3u8?txSecret=afad581b5c5420342facf8af6302fd23&txTime=6A26BE3B",
+                    "m3u_url": "http://pul-tenm.nbs3g.com/live/sd-1-4544862.m3u8?txSecret=afad581b5c5420342facf8af6302fd23&txTime=6A26BE3B|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kenya vs Lesotho",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Kenya vs Lesotho.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/gvvvzffff.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/gvvvzffff.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Oman vs Mozambique",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Oman vs Mozambique.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/fsss.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/fsss.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "DR Congo U20 vs Colombia U19",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/DR Congo U20 vs Colombia U19.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/gvvvzfff.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/gvvvzfff.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf LPGA Women Golf Open",
+            "type": "live_event",
+            "league": "Golf LPGA",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Golf LPGA Women Golf Open_final.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1665698199661600769/nxoC7o2Q_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/gvvvzff.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/gvvvzff.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sollentuna vs Umea FC",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Sollentuna vs Umea FC.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/gvvvzf.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/gvvvzf.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Progreso vs Albion",
+            "type": "live_event",
+            "league": "Uruguay Liga AUF",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Progreso vs Albion.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/gvvvz.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/gvvvz.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing UK",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -264,34 +500,6 @@
             ]
         },
         {
-            "name": "England vs New Zealand",
-            "type": "live_event",
-            "league": "Cricket",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/England vs New Zealand_6.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/vavavaQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/vavavaQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Essendon Bombers vs Carlton Blues",
-            "type": "live_event",
-            "league": "AFL Aussie Rules",
-            "time": "10:20",
-            "page_link": "http://www.fawanews.sc/Essendon Bombers vs Carlton Blues.html",
-            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/vavavaQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/vavavaQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Rugby SVNS France",
             "type": "live_event",
             "league": "Rugby 7s",
@@ -302,20 +510,6 @@
                 {
                     "original_url": "http://193.47.62.53/hls/KUUUqQ.m3u8",
                     "m3u_url": "http://193.47.62.53/hls/KUUUqQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "India vs Afghanistan",
-            "type": "live_event",
-            "league": "Cricket",
-            "time": "05:00",
-            "page_link": "http://www.fawanews.sc/India vs Afghanistan.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/EEEE.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/EEEE.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
