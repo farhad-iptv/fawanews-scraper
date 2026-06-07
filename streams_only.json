@@ -1,47 +1,173 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-07T06:48:43.046340",
-    "total_with_streams": 12,
+    "fetched_at": "2026-06-07T09:55:48.776032",
+    "total_with_streams": 13,
     "events_with_streams": [
         {
-            "name": "Cronulla Sharks vs St George Illawarra Dragons",
+            "name": "Afghanistan vs Pakistan",
             "type": "live_event",
-            "league": "NRL",
-            "time": "07:05",
-            "page_link": "http://www.fawanews.sc/Cronulla Sharks vs St George Illawarra Dragons.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
+            "league": "Friendly Match",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Afghanistan vs Pakistan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/DDDDRR.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/DDDDRR.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/fbbbqqq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/fbbbqqq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Sydney Swans vs St Kilda Saints",
+            "name": "Kristianstad vs Lunds",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Kristianstad vs Lunds.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/fbbbqq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/fbbbqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "AFC Malmo vs Eskilsminne",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/AFC Malmo vs Eskilsminne.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/fbbbq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/fbbbq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf KLM Open",
+            "type": "live_event",
+            "league": "Golf",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Golf KLM Open_final.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2016027627778383872/KrzKijtT_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/fbbb.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/fbbb.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Seoul E-Land vs Cheongju",
+            "type": "live_event",
+            "league": "South Korea K2 League",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Seoul E-Land vs Cheongju.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/vavavaQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/vavavaQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Gimpo FC vs Jeonnam",
+            "type": "live_event",
+            "league": "South Korea K2 League",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Gimpo FC vs Jeonnam.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/vavavaQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/vavavaQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cheonan City vs Suwon FC",
+            "type": "live_event",
+            "league": "South Korea K2 League",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Cheonan City vs Suwon FC.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/vavavaQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/vavavaQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs New Zealand",
+            "type": "live_event",
+            "league": "Cricket",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/England vs New Zealand_6.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/vavavaQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/vavavaQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Essendon Bombers vs Carlton Blues",
             "type": "live_event",
             "league": "AFL Aussie Rules",
-            "time": "06:15",
-            "page_link": "http://www.fawanews.sc/Sydney Swans vs St Kilda Saints.html",
+            "time": "10:20",
+            "page_link": "http://www.fawanews.sc/Essendon Bombers vs Carlton Blues.html",
             "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/DDDDRRR.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/DDDDRRR.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/vavavaQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/vavavaQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Wests Tigers vs Penrith Panthers",
+            "name": "Tennis Roland Garros",
             "type": "live_event",
-            "league": "NRL",
-            "time": "05:00",
-            "page_link": "http://www.fawanews.sc/Wests Tigers vs Penrith Panthers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
+            "league": "Tennis Masters",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Tennis Roland Garros_final.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1799246307644612609/zULoScyz_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/DDDDRR.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/DDDDRR.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/vavava.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/vavava.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Rugby SVNS France",
+            "type": "live_event",
+            "league": "Rugby 7s",
+            "time": "09:45",
+            "page_link": "http://www.fawanews.sc/Rugby SVNS France.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1820397648425209856/1m0K_CQH_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.53/hls/KUUUqQ.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/KUUUqQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "MotoGP Grand Prix of Hungary",
+            "type": "live_event",
+            "league": "MotoGP",
+            "time": "08:30",
+            "page_link": "http://www.fawanews.sc/MotoGP Grand Prix Hungary.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.53/hls/KUUUQ.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/KUUUQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -56,122 +182,6 @@
                 {
                     "original_url": "http://193.47.62.59/hls/EEEE.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/EEEE.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Queensland W vs Brumbies W",
-            "type": "live_event",
-            "league": "Super Rugby",
-            "time": "04:05",
-            "page_link": "http://www.fawanews.sc/Queensland W vs Brumbies W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2061613597822980096/KRZfGqQP_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/DDDDR.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/DDDDR.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Carolina Hurricanes vs Vegas Golden Knights --- ENG SD",
-            "type": "live_event",
-            "league": "NHL Hockey",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Carolina Hurricanes vs Vegas Golden Knights --- ENG SD.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.46/hls/HYHYHY.m3u8",
-                    "m3u_url": "http://193.47.62.46/hls/HYHYHY.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Carolina Hurricanes vs Vegas Golden Knights --- ENG HD",
-            "type": "live_event",
-            "league": "NHL Hockey",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Carolina Hurricanes vs Vegas Golden Knights --- ENG HD.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.56/hls/HYHYHY.m3u8",
-                    "m3u_url": "http://193.47.62.56/hls/HYHYHY.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Carolina Hurricanes vs Vegas Golden Knights --- RU HD",
-            "type": "live_event",
-            "league": "NHL Hockey",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Carolina Hurricanes vs Vegas Golden Knights --- RU HD.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",
-            "streams": [
-                {
-                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/83809dea-d376-4c83-82fd-6a477d91a8be/master.m3u8",
-                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/83809dea-d376-4c83-82fd-6a477d91a8be/master.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/83809dea-d376-4c83-82fd-6a477d91a8be/master.m3u8",
-                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/83809dea-d376-4c83-82fd-6a477d91a8be/master.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boxing : Mosqueda vs Aranda",
-            "type": "live_event",
-            "league": "Boxing",
-            "time": "04:00",
-            "page_link": "http://www.fawanews.sc/Boxing_Mosqueda vs Aranda.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/DDDD.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/DDDD.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "San Diego Padres vs New York Mets",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "03:10",
-            "page_link": "http://www.fawanews.sc/San Diego Padres vs New York Mets.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/GAAAQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/GAAAQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Los Angeles Dodgers vs Los Angeles Angels",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "03:10",
-            "page_link": "http://www.fawanews.sc/Los Angeles Dodgers vs Los Angeles Angels.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/GAAAQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/GAAAQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Colorado Rockies vs Milwaukee Brewers",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "02:10",
-            "page_link": "http://www.fawanews.sc/Colorado Rockies vs Milwaukee Brewers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/GAAAQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/GAAAQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
