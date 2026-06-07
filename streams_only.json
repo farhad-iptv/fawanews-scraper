@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-07T16:50:07.391096",
-    "total_with_streams": 23,
+    "fetched_at": "2026-06-07T17:58:48.352721",
+    "total_with_streams": 32,
     "events_with_streams": [
         {
             "name": "Tennis Roland Garros --- ENG SD",
@@ -12,8 +12,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1799246307644612609/zULoScyz_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/vavava.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/vavava.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.52/hls/vavava.m3u8",
+                    "m3u_url": "http://193.47.62.52/hls/vavava.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -82,6 +82,146 @@
             ]
         },
         {
+            "name": "Kosovo vs Andorra",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Kosovo vs Andorra.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/GPPPZZ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/GPPPZZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "CA Cerro vs Penarol",
+            "type": "live_event",
+            "league": "Uruguay Liga AUF",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/CA Cerro vs Penarol.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/GPPPZ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/GPPPZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Inter Toronto vs Forge",
+            "type": "live_event",
+            "league": "Canada Premier League",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Inter Toronto vs Forge.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/GPPP.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/GPPP.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Miami Marlins vs Tampa Bay Rays",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "18:40",
+            "page_link": "http://www.fawanews.sc/Miami Marlins vs Tampa Bay Rays.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/ZAAADDDDD.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/ZAAADDDDD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Detroit Tigers vs Seattle Mariners",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "18:40",
+            "page_link": "http://www.fawanews.sc/Detroit Tigers vs Seattle Mariners.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/ZAAADDDD.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/ZAAADDDD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Toronto Blue Jays vs Baltimore Orioles",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "18:37",
+            "page_link": "http://www.fawanews.sc/Toronto Blue Jays vs Baltimore Orioles.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/ZAAADDD.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/ZAAADDD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Philadelphia Phillies vs Chicago White Sox",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "18:35",
+            "page_link": "http://www.fawanews.sc/Philadelphia Phillies vs Chicago White Sox.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/ZAAADD.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/ZAAADD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "New York Yankees vs Boston Red Sox",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "18:35",
+            "page_link": "http://www.fawanews.sc/New York Yankees vs Boston Red Sox.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/ZAAAD.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/ZAAAD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Atlanta Braves vs Pittsburgh Pirates",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "18:35",
+            "page_link": "http://www.fawanews.sc/Atlanta Braves vs Pittsburgh Pirates.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/ZAAA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/ZAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Belgium U17 vs Italy U17",
+            "type": "live_event",
+            "league": "Euro U17",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Belgium U17 vs Italy U17.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2058864755708739584/6a33PC_Q_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/TATATA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/TATATA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Baskonia vs Joventut Badalona",
             "type": "live_event",
             "league": "Spain Basketball ACB",
@@ -120,20 +260,6 @@
                 {
                     "original_url": "http://193.47.62.59/hls/TATATAF.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/TATATAF.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Belgium U17 vs Italy U17",
-            "type": "live_event",
-            "league": "Euro U17",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Belgium U17 vs Italy U17.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2058864755708739584/6a33PC_Q_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/TATATA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/TATATA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
