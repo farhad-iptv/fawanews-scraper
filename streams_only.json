@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-08T19:59:57.844807",
-    "total_with_streams": 22,
+    "fetched_at": "2026-06-08T21:50:32.992707",
+    "total_with_streams": 18,
     "events_with_streams": [
         {
             "name": "France vs Northern Ireland --- ENG",
@@ -122,6 +122,20 @@
             ]
         },
         {
+            "name": "Niger vs Mauritania",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Niger vs Mauritania.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/UUUUUDDD.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/UUUUUDDD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Tampa Bay Rays vs Boston Red Sox",
             "type": "live_event",
             "league": "MLB Baseball",
@@ -234,20 +248,6 @@
             ]
         },
         {
-            "name": "Olympiacos vs Panathinaikos",
-            "type": "live_event",
-            "league": "Greece Basketball League",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Olympiacos vs Panathinaikos.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/DUUUS.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/DUUUS.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "WWE Monday Night RAW",
             "type": "live_event",
             "league": "WWE Wrestling",
@@ -276,62 +276,6 @@
                 {
                     "original_url": "http://ulag.loreofeldenring.site/dailymotion/live/playlist/5.m3u8",
                     "m3u_url": "http://ulag.loreofeldenring.site/dailymotion/live/playlist/5.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Germany U23 W vs Denmark U23 W",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "19:15",
-            "page_link": "http://www.fawanews.sc/Germany U23 W vs Denmark U23 W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/DUUUSSSS.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/DUUUSSSS.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Wydad AC vs Olympique de Safi",
-            "type": "live_event",
-            "league": "Morocco Botola Pro",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Wydad AC vs Olympique de Safi.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1691172942208462848/LOYG0YwO_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/DUUU.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/DUUU.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Berkane vs IR Tanger",
-            "type": "live_event",
-            "league": "Morocco Botola Pro",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Berkane vs IR Tanger.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1691172942208462848/LOYG0YwO_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/UUUUUDDDDDD.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/UUUUUDDDDDD.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Enppi vs Al Masry",
-            "type": "live_event",
-            "league": "Egypt Premier League",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/Enppi vs Al Masry.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1185152368108851201/3_mNlM6J_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/UUUUU.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/UUUUU.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
