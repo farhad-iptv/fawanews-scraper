@@ -1,36 +1,8 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-07T22:59:42.868294",
+    "fetched_at": "2026-06-08T00:08:06.828261",
     "total_with_streams": 15,
     "events_with_streams": [
-        {
-            "name": "Colombia vs Jordan --- ES",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/Colombia vs Jordan.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.48/hls/HAAAAQQ.m3u8",
-                    "m3u_url": "http://193.47.62.48/hls/HAAAAQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Colombia vs Jordan --- ES HD",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/Colombia vs Jordan --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.54/hls/HAAAAQQ.m3u8",
-                    "m3u_url": "http://193.47.62.54/hls/HAAAAQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
         {
             "name": "Colombia vs Jordan --- ENG",
             "type": "live_event",
@@ -56,6 +28,34 @@
                 {
                     "original_url": "http://193.47.62.54/hls/HAAAAQQX.m3u8",
                     "m3u_url": "http://193.47.62.54/hls/HAAAAQQX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Colombia vs Jordan --- ES",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "00:00",
+            "page_link": "http://www.fawanews.sc/Colombia vs Jordan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.48/hls/HAAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.48/hls/HAAAAQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Colombia vs Jordan --- ES HD",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "00:00",
+            "page_link": "http://www.fawanews.sc/Colombia vs Jordan --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.54/hls/HAAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.54/hls/HAAAAQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
