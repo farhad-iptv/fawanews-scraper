@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-11T18:30:50.315479",
-    "total_with_streams": 31,
+    "fetched_at": "2026-06-11T21:01:39.872595",
+    "total_with_streams": 26,
     "events_with_streams": [
         {
             "name": "Mexico vs South Africa --- ENG",
@@ -30,6 +30,60 @@
                 {
                     "original_url": "http://193.47.62.43/hls/zazaza.m3u8",
                     "m3u_url": "http://193.47.62.43/hls/zazaza.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Mexico vs South Africa --- ENG HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Mexico_vs_South_Africa_eng_hd_1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://daffodil.formaturamaxi.com.br/fox.m3u8",
+                    "m3u_url": "https://daffodil.formaturamaxi.com.br/fox.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://daffodil.formaturamaxi.com.br/fox.m3u8",
+                    "m3u_url": "http://daffodil.formaturamaxi.com.br/fox.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Mexico vs South Africa --- HD 1",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Mexico_vs_South_Africa_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4459820.m3u8?txSecret=a3150cbd06fbf164c978a52d1d1be371&txTime=6A2C55C9",
+                    "m3u_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4459820.m3u8?txSecret=a3150cbd06fbf164c978a52d1d1be371&txTime=6A2C55C9|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4459820.m3u8?txSecret=a3150cbd06fbf164c978a52d1d1be371&txTime=6A2C55C9",
+                    "m3u_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4459820.m3u8?txSecret=a3150cbd06fbf164c978a52d1d1be371&txTime=6A2C55C9|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Mexico vs South Africa --- HD 2",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Mexico_vs_South_Africa_hd2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live12.xiazhix1.top/live/37111391.m3u8",
+                    "m3u_url": "https://live12.xiazhix1.top/live/37111391.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live12.xiazhix1.top/live/37111391.m3u8",
+                    "m3u_url": "http://live12.xiazhix1.top/live/37111391.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -332,48 +386,6 @@
             ]
         },
         {
-            "name": "Helsingborg vs Landskrona",
-            "type": "live_event",
-            "league": "Sweden Superettan",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Helsingborg vs Landskrona.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.43/hls/JDDD.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/JDDD.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Frolunda vs Onsala",
-            "type": "live_event",
-            "league": "Sweden Svenska Cupen",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Frolunda vs Onsala.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.43/hls/SSSSZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/SSSSZZZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Portugal U20 vs Canada U20",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Portugal U20 vs Canada U20.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.43/hls/SSSSZ.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/SSSSZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Golf LPGA Women Golf Open",
             "type": "live_event",
             "league": "Golf LPGA",
@@ -388,34 +400,6 @@
             ]
         },
         {
-            "name": "Horse Racing --- CH 1",
-            "type": "live_event",
-            "league": "Horse Racing",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Horse Racing --- CH 2",
-            "type": "live_event",
-            "league": "Horse Racing",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Golf PGA The Memorial Tournament",
             "type": "live_event",
             "league": "Golf PGA",
@@ -426,48 +410,6 @@
                 {
                     "original_url": "http://193.47.62.59/hls/BRRRD.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/BRRRD.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Stuttgart",
-            "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Stuttgart.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/GAAAQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/GAAAQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Hertogenbosch",
-            "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Hertogenbosch.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/GAAA.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/GAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis WTA London/Hertogenbosch",
-            "type": "live_event",
-            "league": "Tennis WTA",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Tennis WTA London.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/GAAAQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/GAAAQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
