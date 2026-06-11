@@ -1,8 +1,64 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-11T21:01:39.872595",
-    "total_with_streams": 26,
+    "fetched_at": "2026-06-11T23:02:28.968637",
+    "total_with_streams": 29,
     "events_with_streams": [
+        {
+            "name": "Boxing : Mathieu vs Falcao",
+            "type": "live_event",
+            "league": "Boxing",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Boxing_Mathieu vs Falcao.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.43/hls/FGGGZZZX.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/FGGGZZZX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Baltimore Orioles vs Seattle Mariners",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "00:05",
+            "page_link": "http://www.fawanews.sc/Baltimore Orioles vs Seattle Mariners.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.43/hls/FGGGZZZXqq.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/FGGGZZZXqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Indiana Fever W vs Chicago Sky W",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "00:00",
+            "page_link": "http://www.fawanews.sc/Indiana Fever W vs Chicago Sky W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.43/hls/FGGGZZZXq.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/FGGGZZZXq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Pittsburgh Pirates vs Los Angeles Dodgers",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "23:40",
+            "page_link": "http://www.fawanews.sc/Pittsburgh Pirates vs Los Angeles Dodgers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.43/hls/FGGGZZZ.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/FGGGZZZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Mexico vs South Africa --- ENG",
             "type": "live_event",
@@ -214,20 +270,6 @@
                 {
                     "original_url": "http://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
                     "m3u_url": "http://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Pittsburgh Pirates vs Los Angeles Dodgers",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "23:40",
-            "page_link": "http://www.fawanews.sc/Pittsburgh Pirates vs Los Angeles Dodgers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.43/hls/FGGGZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/FGGGZZZ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
