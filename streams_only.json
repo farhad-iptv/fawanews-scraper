@@ -1,293 +1,313 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-12T06:24:56.469228",
-    "total_with_streams": 14,
+    "fetched_at": "2026-06-12T10:46:34.638022",
+    "total_with_streams": 22,
     "events_with_streams": [
         {
-            "name": "South Korea vs Czech Republic --- ENG",
+            "name": "Formula 1 GP Catalunya --- ENG SD",
             "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "03:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_South_Korea_vs_Czech_Republic_eng.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.47/hls/zazaza.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/zazaza.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.59/hls/zazaza.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/zazaza.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.49/hls/zazaza.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/zazaza.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.53/hls/zazaza.m3u8",
-                    "m3u_url": "http://193.47.62.53/hls/zazaza.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.43/hls/zazaza.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/zazaza.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "South Korea vs Czech Republic --- ENG HD",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "03:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_South_Korea_vs_Czech_Republic_eng_hd_4.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://601.thelistener.pk/fs1.m3u8",
-                    "m3u_url": "https://601.thelistener.pk/fs1.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://601.thelistener.pk/fs1.m3u8",
-                    "m3u_url": "http://601.thelistener.pk/fs1.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "South Korea vs Czech Republic --- HD 2",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "03:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_South_Korea_vs_Czech_Republic_hd_2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live.egmdispatch.com/live/66456906_180fd87366c39a99aa4e272b5ba2bfed.m3u8",
-                    "m3u_url": "https://live.egmdispatch.com/live/66456906_180fd87366c39a99aa4e272b5ba2bfed.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live.egmdispatch.com/live/66456906_180fd87366c39a99aa4e272b5ba2bfed.m3u8",
-                    "m3u_url": "http://live.egmdispatch.com/live/66456906_180fd87366c39a99aa4e272b5ba2bfed.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "South Korea vs Czech Republic --- HD 3",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "03:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_South_Korea_vs_Czech_Republic_hd_3.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live12.xiazhix1.top/live/85042987.m3u8",
-                    "m3u_url": "https://live12.xiazhix1.top/live/85042987.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live12.xiazhix1.top/live/85042987.m3u8",
-                    "m3u_url": "http://live12.xiazhix1.top/live/85042987.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "South Korea vs Czech Republic --- HD 1",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "03:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_South_Korea_vs_Czech_Republic_hd.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live.egmdispatch.com/live/66456906_180fd87366c39a99aa4e272b5ba2bfed.m3u8",
-                    "m3u_url": "https://live.egmdispatch.com/live/66456906_180fd87366c39a99aa4e272b5ba2bfed.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live.egmdispatch.com/live/66456906_180fd87366c39a99aa4e272b5ba2bfed.m3u8",
-                    "m3u_url": "http://live.egmdispatch.com/live/66456906_180fd87366c39a99aa4e272b5ba2bfed.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "South Korea vs Czech Republic --- SWE",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "03:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_South_Korea_vs_Czech_Republic_swe.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.47/hls/zazazae.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/zazazae.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.59/hls/zazazae.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/zazazae.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.49/hls/zazazae.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/zazazae.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.53/hls/zazazae.m3u8",
-                    "m3u_url": "http://193.47.62.53/hls/zazazae.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.43/hls/zazazae.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/zazazae.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "South Korea vs Czech Republic --- SWAHILI",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "03:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_South_Korea_vs_Czech_Republic_swa.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.47/hls/zazazaeddd.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/zazazaeddd.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.59/hls/zazazaeddd.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/zazazaeddd.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.49/hls/zazazaeddd.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/zazazaeddd.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.53/hls/zazazaeddd.m3u8",
-                    "m3u_url": "http://193.47.62.53/hls/zazazaeddd.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.41/hls/zazazaeddd.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/zazazaeddd.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "South Korea vs Czech Republic --- FR",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "03:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_South_Korea_vs_Czech_Republic_fr.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.47/hls/zazazaed.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/zazazaed.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.59/hls/zazazaed.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/zazazaed.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.49/hls/zazazaed.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/zazazaed.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.53/hls/zazazaed.m3u8",
-                    "m3u_url": "http://193.47.62.53/hls/zazazaed.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "South Korea vs Czech Republic --- ES",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "03:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_South_Korea_vs_Czech_Republic_es.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.47/hls/zazazaedd.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/zazazaedd.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.59/hls/zazazaedd.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/zazazaedd.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.49/hls/zazazaedd.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/zazazaedd.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.53/hls/zazazaedd.m3u8",
-                    "m3u_url": "http://193.47.62.53/hls/zazazaedd.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "South Korea vs Czech Republic --- CN HD",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "03:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_South_Korea_vs_Czech_Republic_cn_hd.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
-                    "m3u_url": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
-                    "m3u_url": "http://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Chiefs vs Crusaders",
-            "type": "live_event",
-            "league": "Super Rugby",
-            "time": "08:05",
-            "page_link": "http://www.fawanews.sc/Chiefs vs Crusaders.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2061613597822980096/KRZfGqQP_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/dfff.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/dfff.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boxing : Mathieu vs Falcao",
-            "type": "live_event",
-            "league": "Boxing",
+            "league": "Formula 1 GP",
             "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Boxing_Mathieu vs Falcao.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Catalunya.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.43/hls/FGGGZZZX.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/FGGGZZZX.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/dfffV.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dfffV.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Portland Fire W vs Las Vegas Aces W",
+            "name": "Formula 1 GP Catalunya --- ENG HD",
             "type": "live_event",
-            "league": "WNBA Basketball",
-            "time": "03:00",
-            "page_link": "http://www.fawanews.sc/Portland Fire W vs Las Vegas Aces W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "league": "Formula 1 GP",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Catalunya --- ENG HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.43/hls/DADADAQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/DADADAQQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/dfffVX.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dfffVX.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "West Indies vs Sri Lanka",
+            "name": "Fountain Gate vs Azam",
             "type": "live_event",
-            "league": "Cricket",
-            "time": "01:30",
-            "page_link": "http://www.fawanews.sc/West Indies vs Sri Lanka.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "league": "Tanzania Ligi Kuu Bara",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Fountain Gate vs Azam.html",
+            "image_url": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/FJJJ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FJJJ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/ELLLQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/ELLLQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Coastal Union vs Namungo",
+            "type": "live_event",
+            "league": "Tanzania Ligi Kuu Bara",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Coastal Union vs Namungo.html",
+            "image_url": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/ELLL.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/ELLL.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "World Superbikes Emilia-Romagna",
+            "type": "live_event",
+            "league": "World Superbikes",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/World Superbikes Emilia-Romagna.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1486618439510806530/0sditKjT_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/ELLLQQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/ELLLQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 1",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 2",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Japan vs Poland",
+            "type": "live_event",
+            "league": "Volleyball Nations League",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Japan vs Poland.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/dfffVV.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dfffVV.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf PGA RBC Canadian Open",
+            "type": "live_event",
+            "league": "Golf PGA",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Golf PGA RBC Canadian Open.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/BRRRD.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/BRRRD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Darts World Cup",
+            "type": "live_event",
+            "league": "Darts",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Darts World Cup.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.43/hls/CACACACA.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/CACACACA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Dolphins vs Sydney Roosters",
+            "type": "live_event",
+            "league": "NRL",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Dolphins vs Sydney Roosters.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/dfffVVvv.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dfffVVvv.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Geelong Cats vs Gold Coast Suns",
+            "type": "live_event",
+            "league": "AFL Aussie Rules",
+            "time": "10:40",
+            "page_link": "http://www.fawanews.sc/Geelong Cats vs Gold Coast Suns.html",
+            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/dfffVVv.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dfffVVv.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FIA Formula 2 Catalunya",
+            "type": "live_event",
+            "league": "FIA Formula 2",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/FIA Formula 2 Catalunya.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2061372235508494338/LKV69QHd.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/dfffV.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dfffV.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis ATP Stuttgart",
+            "type": "live_event",
+            "league": "Tennis ATP",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Tennis ATP Stuttgart.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/GAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/GAAAQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis ATP Hertogenbosch",
+            "type": "live_event",
+            "league": "Tennis ATP",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Tennis ATP Hertogenbosch.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/GAAA.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/GAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis WTA London/Hertogenbosch",
+            "type": "live_event",
+            "league": "Tennis WTA",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Tennis WTA London.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/GAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/GAAAQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ukraine vs Cuba",
+            "type": "live_event",
+            "league": "Volleyball Nations League",
+            "time": "09:30",
+            "page_link": "http://www.fawanews.sc/Ukraine vs Cuba.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/dfffVV.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dfffVV.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Snooker China Open --- Table 1",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "09:30",
+            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/brrrQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/brrrQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Snooker China Open --- Table 2",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "09:30",
+            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/brrrQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/brrrQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Snooker China Open --- Table 3",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "09:30",
+            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 3.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/brrr.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/brrr.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Snooker China Open --- Table 4",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "09:30",
+            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 4.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/brrrX.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/brrrX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FIA Formula 3 Catalunya",
+            "type": "live_event",
+            "league": "FIA Formula 3",
+            "time": "08:45",
+            "page_link": "http://www.fawanews.sc/FIA Formula 3 Catalunya.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2061372301917007872/tNkSjoCt_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/dfffV.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dfffV.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
