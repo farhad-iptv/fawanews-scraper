@@ -1,8 +1,34 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-14T22:59:01.161855",
-    "total_with_streams": 23,
+    "fetched_at": "2026-06-15T00:06:46.510314",
+    "total_with_streams": 19,
     "events_with_streams": [
+        {
+            "name": "UFC Freedom 250 : Topouria vs Gaethje",
+            "type": "live_event",
+            "league": "UFC Fight Night",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/UFC_fight_night_250_Topouria vs Gaethje.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/TATATADDDDXd.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/TATATADDDDXd.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.56/hls/TATATADDDDXd.m3u8",
+                    "m3u_url": "http://193.47.62.56/hls/TATATADDDDXd.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.48/hls/TATATADDDDXd.m3u8",
+                    "m3u_url": "http://193.47.62.48/hls/TATATADDDDXd.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.52/hls/TATATADDDDXd.m3u8",
+                    "m3u_url": "http://193.47.62.52/hls/TATATADDDDXd.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Ivory Coast vs Ecuador --- ENG",
             "type": "live_event",
@@ -30,7 +56,25 @@
             ]
         },
         {
-            "name": "Ivory Coast vs Ecuador --- HD 1",
+            "name": "Ivory Coast vs Ecuador --- ENG HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "00:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Ivory_Coast_vs_Ecuador_hd2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live12.xiazhix1.top/live/23898522.m3u8",
+                    "m3u_url": "https://live12.xiazhix1.top/live/23898522.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live12.xiazhix1.top/live/23898522.m3u8",
+                    "m3u_url": "http://live12.xiazhix1.top/live/23898522.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ivory Coast vs Ecuador --- HD",
             "type": "live_event",
             "league": "FIFA World Cup",
             "time": "00:00",
@@ -38,12 +82,12 @@
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://play.88player.top/m3u8.html?url=https://play.ntcwix.com/rrty/hd-zh-1-4460950_gqzm.m3u8?auth_key=1781481299-0-0-4a85668aafd783a64fb3c978c56ea5f6&token=1b48c17f12c1638e&device=4&platform=rrty",
-                    "m3u_url": "https://play.88player.top/m3u8.html?url=https://play.ntcwix.com/rrty/hd-zh-1-4460950_gqzm.m3u8?auth_key=1781481299-0-0-4a85668aafd783a64fb3c978c56ea5f6&token=1b48c17f12c1638e&device=4&platform=rrty|Referer=http://www.fawanews.sc"
+                    "original_url": "https://play.ntcwix.com/rrty/hd-zh-1-4460950_gqzm.m3u8?auth_key=1781481299-0-0-4a85668aafd783a64fb3c978c56ea5f6&token=1b48c17f12c1638e&device=4&platform=rrty",
+                    "m3u_url": "https://play.ntcwix.com/rrty/hd-zh-1-4460950_gqzm.m3u8?auth_key=1781481299-0-0-4a85668aafd783a64fb3c978c56ea5f6&token=1b48c17f12c1638e&device=4&platform=rrty|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://play.88player.top/m3u8.html?url=https://play.ntcwix.com/rrty/hd-zh-1-4460950_gqzm.m3u8?auth_key=1781481299-0-0-4a85668aafd783a64fb3c978c56ea5f6&token=1b48c17f12c1638e&device=4&platform=rrty",
-                    "m3u_url": "http://play.88player.top/m3u8.html?url=https://play.ntcwix.com/rrty/hd-zh-1-4460950_gqzm.m3u8?auth_key=1781481299-0-0-4a85668aafd783a64fb3c978c56ea5f6&token=1b48c17f12c1638e&device=4&platform=rrty|Referer=http://www.fawanews.sc"
+                    "original_url": "http://play.ntcwix.com/rrty/hd-zh-1-4460950_gqzm.m3u8?auth_key=1781481299-0-0-4a85668aafd783a64fb3c978c56ea5f6&token=1b48c17f12c1638e&device=4&platform=rrty",
+                    "m3u_url": "http://play.ntcwix.com/rrty/hd-zh-1-4460950_gqzm.m3u8?auth_key=1781481299-0-0-4a85668aafd783a64fb3c978c56ea5f6&token=1b48c17f12c1638e&device=4&platform=rrty|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -196,32 +240,6 @@
             ]
         },
         {
-            "name": "UFC 250 : Topouria vs Gaethje",
-            "type": "live_event",
-            "league": "UFC Fight Night",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/UFC_fight_night_250_Topouria vs Gaethje.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/TATATADDDDXd.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/TATATADDDDXd.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.56/hls/TATATADDDDXd.m3u8",
-                    "m3u_url": "http://193.47.62.56/hls/TATATADDDDXd.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.48/hls/TATATADDDDXd.m3u8",
-                    "m3u_url": "http://193.47.62.48/hls/TATATADDDDXd.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.52/hls/TATATADDDDXd.m3u8",
-                    "m3u_url": "http://193.47.62.52/hls/TATATADDDDXd.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Vegas Golden Knights vs Carolina Hurricanes --- ENG SD",
             "type": "live_event",
             "league": "NHL Hockey",
@@ -258,8 +276,26 @@
             "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/AAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/AAAAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4fb679e6-3e35-46f2-a447-764c2a0d3aaa/360p/media.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4fb679e6-3e35-46f2-a447-764c2a0d3aaa/360p/media.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4fb679e6-3e35-46f2-a447-764c2a0d3aaa/360p/media.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4fb679e6-3e35-46f2-a447-764c2a0d3aaa/360p/media.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Boston Red Sox vs Texas Rangers",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "00:20",
+            "page_link": "http://www.fawanews.sc/Boston Red Sox vs Texas Rangers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/AYYY.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/AYYY.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -330,94 +366,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/JSSSS.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/JSSSS.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "U Catolica vs U De Concepcion",
-            "type": "live_event",
-            "league": "Chile Liga de Primera",
-            "time": "22:30",
-            "page_link": "http://www.fawanews.sc/U Catolica vs U De Concepcion.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/NZZZFFFFF.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/NZZZFFFFF.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Chicago Wolves vs Toronto Marlies",
-            "type": "live_event",
-            "league": "Hockey AHL",
-            "time": "22:00",
-            "page_link": "http://www.fawanews.sc/Chicago Wolves vs Toronto Marlies.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1982747397609472000/axCuVhx5_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/40f66be5-5ae4-4955-b8a8-5b10fafae541/1080p/media.m3u8",
-                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/40f66be5-5ae4-4955-b8a8-5b10fafae541/1080p/media.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/40f66be5-5ae4-4955-b8a8-5b10fafae541/1080p/media.m3u8",
-                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/40f66be5-5ae4-4955-b8a8-5b10fafae541/1080p/media.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Brazil vs Argentina",
-            "type": "live_event",
-            "league": "Volleyball Nations League",
-            "time": "22:00",
-            "page_link": "http://www.fawanews.sc/Brazil vs Argentina.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/NZZZFFFF.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/NZZZFFFF.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Los Angeles Angels vs Tampa Bay Rays",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "21:07",
-            "page_link": "http://www.fawanews.sc/Los Angeles Angels vs Tampa Bay Rays.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/NZZZFFF.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/NZZZFFF.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Athletics vs Colorado Rockies",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "20:05",
-            "page_link": "http://www.fawanews.sc/Athletics vs Colorado Rockies.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/NZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/NZZZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Golf LPGA Women Golf Open",
-            "type": "live_event",
-            "league": "Golf LPGA",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Golf LPGA Tour Dow Championship.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1665698199661600769/nxoC7o2Q_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.43/hls/SSSS.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/SSSS.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
