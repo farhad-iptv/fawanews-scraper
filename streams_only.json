@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-15T00:06:46.510314",
-    "total_with_streams": 19,
+    "fetched_at": "2026-06-15T05:34:01.420563",
+    "total_with_streams": 14,
     "events_with_streams": [
         {
             "name": "UFC Freedom 250 : Topouria vs Gaethje",
@@ -30,11 +30,57 @@
             ]
         },
         {
-            "name": "Ivory Coast vs Ecuador --- ENG",
+            "name": "UFC Freedom 250 : Topouria vs Gaethje --- HD 1",
+            "type": "live_event",
+            "league": "UFC Fight Night",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/UFC_fight_night_250_Topouria vs Gaethje --- HD3.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://lba5.lefiles.cfd/live/ufc/stream.m3u8",
+                    "m3u_url": "https://lba5.lefiles.cfd/live/ufc/stream.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://lba5.lefiles.cfd/live/ufc/stream.m3u8",
+                    "m3u_url": "http://lba5.lefiles.cfd/live/ufc/stream.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "UFC Freedom 250 : Topouria vs Gaethje --- HD 2",
+            "type": "live_event",
+            "league": "UFC Fight Night",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/UFC_fight_night_250_Topouria vs Gaethje --- HD22.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/DDDDD.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/DDDDD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "West Indies vs Sri Lanka",
+            "type": "live_event",
+            "league": "Cricket",
+            "time": "01:30",
+            "page_link": "http://www.fawanews.sc/West Indies vs Sri Lanka.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/jjjjdd.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/jjjjdd.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tunisia vs Sweden --- ENG",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Ivory_Coast_vs_Ecuador_eng.html",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Tunisia_vs_Sweden_eng.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -56,11 +102,11 @@
             ]
         },
         {
-            "name": "Ivory Coast vs Ecuador --- ENG HD",
+            "name": "Tunisia vs Sweden --- ENG HD",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Ivory_Coast_vs_Ecuador_hd2.html",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Tunisia_vs_Sweden_hd2.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -74,29 +120,11 @@
             ]
         },
         {
-            "name": "Ivory Coast vs Ecuador --- HD",
+            "name": "Tunisia vs Sweden --- SWE",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Ivory_Coast_vs_Ecuador_hd1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://play.ntcwix.com/rrty/hd-zh-1-4460950_gqzm.m3u8?auth_key=1781481299-0-0-4a85668aafd783a64fb3c978c56ea5f6&token=1b48c17f12c1638e&device=4&platform=rrty",
-                    "m3u_url": "https://play.ntcwix.com/rrty/hd-zh-1-4460950_gqzm.m3u8?auth_key=1781481299-0-0-4a85668aafd783a64fb3c978c56ea5f6&token=1b48c17f12c1638e&device=4&platform=rrty|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://play.ntcwix.com/rrty/hd-zh-1-4460950_gqzm.m3u8?auth_key=1781481299-0-0-4a85668aafd783a64fb3c978c56ea5f6&token=1b48c17f12c1638e&device=4&platform=rrty",
-                    "m3u_url": "http://play.ntcwix.com/rrty/hd-zh-1-4460950_gqzm.m3u8?auth_key=1781481299-0-0-4a85668aafd783a64fb3c978c56ea5f6&token=1b48c17f12c1638e&device=4&platform=rrty|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Ivory Coast vs Ecuador --- SWE",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Ivory_Coast_vs_Ecuador_swe.html",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Tunisia_vs_Sweden_swe.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -118,11 +146,11 @@
             ]
         },
         {
-            "name": "Ivory Coast vs Ecuador --- SWAHILI",
+            "name": "Tunisia vs Sweden --- SWAHILI",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Ivory_Coast_vs_Ecuador_swa.html",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Tunisia_vs_Sweden_swa.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -144,11 +172,11 @@
             ]
         },
         {
-            "name": "Ivory Coast vs Ecuador --- FR",
+            "name": "Tunisia vs Sweden --- FR",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Ivory_Coast_vs_Ecuador_fr.html",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Tunisia_vs_Sweden_fr.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -170,11 +198,29 @@
             ]
         },
         {
-            "name": "Ivory Coast vs Ecuador --- NL",
+            "name": "Tunisia vs Sweden --- FR HD",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Ivory_Coast_vs_Ecuador_nl.html",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Tunisia_vs_Sweden_fr_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460953.m3u8?txSecret=c3f129b1da68a12c0e9f4696eb1cb7ce&txTime=6A30AAD9",
+                    "m3u_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460953.m3u8?txSecret=c3f129b1da68a12c0e9f4696eb1cb7ce&txTime=6A30AAD9|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4460953.m3u8?txSecret=c3f129b1da68a12c0e9f4696eb1cb7ce&txTime=6A30AAD9",
+                    "m3u_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4460953.m3u8?txSecret=c3f129b1da68a12c0e9f4696eb1cb7ce&txTime=6A30AAD9|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tunisia vs Sweden --- NL",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Tunisia_vs_Sweden_nl.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -196,11 +242,11 @@
             ]
         },
         {
-            "name": "Ivory Coast vs Ecuador --- ES",
+            "name": "Tunisia vs Sweden --- ES",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Ivory_Coast_vs_Ecuador_es.html",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Tunisia_vs_Sweden_es.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -222,11 +268,29 @@
             ]
         },
         {
-            "name": "Ivory Coast vs Ecuador --- CN HD",
+            "name": "Tunisia vs Sweden --- HD 3",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Ivory_Coast_vs_Ecuador_cn_hd.html",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Tunisia_vs_Sweden_hd3.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live12.xiazhix1.top/live/036823906.m3u8",
+                    "m3u_url": "https://live12.xiazhix1.top/live/036823906.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live12.xiazhix1.top/live/036823906.m3u8",
+                    "m3u_url": "http://live12.xiazhix1.top/live/036823906.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tunisia vs Sweden --- CN HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Tunisia_vs_Sweden_cn_hd.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -236,136 +300,6 @@
                 {
                     "original_url": "http://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
                     "m3u_url": "http://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Vegas Golden Knights vs Carolina Hurricanes --- ENG SD",
-            "type": "live_event",
-            "league": "NHL Hockey",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Vegas Golden Knights vs Carolina Hurricanes_6 --- ENG SD.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/AAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/AAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Vegas Golden Knights vs Carolina Hurricanes --- ENG HD",
-            "type": "live_event",
-            "league": "NHL Hockey",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Vegas Golden Knights vs Carolina Hurricanes_6 --- ENG HD.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/AAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/AAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Vegas Golden Knights vs Carolina Hurricanes --- RU HD",
-            "type": "live_event",
-            "league": "NHL Hockey",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Vegas Golden Knights vs Carolina Hurricanes_6 --- RU HD.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",
-            "streams": [
-                {
-                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4fb679e6-3e35-46f2-a447-764c2a0d3aaa/360p/media.m3u8",
-                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4fb679e6-3e35-46f2-a447-764c2a0d3aaa/360p/media.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4fb679e6-3e35-46f2-a447-764c2a0d3aaa/360p/media.m3u8",
-                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4fb679e6-3e35-46f2-a447-764c2a0d3aaa/360p/media.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boston Red Sox vs Texas Rangers",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "00:20",
-            "page_link": "http://www.fawanews.sc/Boston Red Sox vs Texas Rangers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/AYYY.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/AYYY.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boxing : Haddir vs Diarra",
-            "type": "live_event",
-            "league": "Boxing",
-            "time": "23:00",
-            "page_link": "http://www.fawanews.sc/Boxing_Haddir vs Diarra.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/AYYYG.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/AYYYG.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Vancouver FC vs Pacific FC",
-            "type": "live_event",
-            "league": "Canada Premier League",
-            "time": "23:00",
-            "page_link": "http://www.fawanews.sc/Vancouver FC vs Pacific FC.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/JSSSSZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/JSSSSZZZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Novorizontino vs Nautico",
-            "type": "live_event",
-            "league": "Brazil Serie B",
-            "time": "23:00",
-            "page_link": "http://www.fawanews.sc/Novorizontino vs Nautico.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/JSSSSZZ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/JSSSSZZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Botafogo SP vs Operario-PR",
-            "type": "live_event",
-            "league": "Brazil Serie B",
-            "time": "23:00",
-            "page_link": "http://www.fawanews.sc/Botafogo SP vs Operario-PR.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/JSSSSZ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/JSSSSZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "USA vs Italy",
-            "type": "live_event",
-            "league": "Volleyball Nations League",
-            "time": "23:00",
-            "page_link": "http://www.fawanews.sc/USA vs Italy.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/JSSSS.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/JSSSS.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
