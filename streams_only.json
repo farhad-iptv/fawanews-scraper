@@ -1,14 +1,14 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-17T18:39:24.357075",
-    "total_with_streams": 30,
+    "fetched_at": "2026-06-17T21:00:27.140296",
+    "total_with_streams": 25,
     "events_with_streams": [
         {
-            "name": "Portugal vs DR Congo --- ENG",
+            "name": "England vs Croatia --- ENG",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Portugal_vs_DR_Congo_eng.html",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Croatia_eng.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -34,29 +34,55 @@
             ]
         },
         {
-            "name": "Portugal vs DR Congo --- FR HD",
+            "name": "England vs Croatia --- ENG HD",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Portugal_vs_DR_Congo_fr_hd.html",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Croatia_eng_hd.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460932.m3u8?txSecret=312ad6d40b1813fca65dd0cd13d4c4fe&txTime=6A342230",
-                    "m3u_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460932.m3u8?txSecret=312ad6d40b1813fca65dd0cd13d4c4fe&txTime=6A342230|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.42/hls/zzzzCCCCC.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/zzzzCCCCC.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4460932.m3u8?txSecret=312ad6d40b1813fca65dd0cd13d4c4fe&txTime=6A342230",
-                    "m3u_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4460932.m3u8?txSecret=312ad6d40b1813fca65dd0cd13d4c4fe&txTime=6A342230|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.57/hls/zzzzCCCCC.m3u8",
+                    "m3u_url": "http://193.47.62.57/hls/zzzzCCCCC.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.49/hls/zzzzCCCCC.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/zzzzCCCCC.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.44/hls/zzzzCCCCC.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/zzzzCCCCC.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Portugal vs DR Congo --- HD 1",
+            "name": "England vs Croatia --- FR HD",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Portugal_vs_DR_Congo_hd1.html",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Croatia_fr_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460935.m3u8?txSecret=480eeda542b9127741d9242685be339c&txTime=6A344BE8",
+                    "m3u_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460935.m3u8?txSecret=480eeda542b9127741d9242685be339c&txTime=6A344BE8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4460935.m3u8?txSecret=480eeda542b9127741d9242685be339c&txTime=6A344BE8",
+                    "m3u_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4460935.m3u8?txSecret=480eeda542b9127741d9242685be339c&txTime=6A344BE8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs Croatia --- HD 1",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Croatia_hd1.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -70,11 +96,11 @@
             ]
         },
         {
-            "name": "Portugal vs DR Congo --- SWE",
+            "name": "England vs Croatia --- SWE",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Portugal_vs_DR_Congo_swe.html",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Croatia_swe.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -92,41 +118,49 @@
                 {
                     "original_url": "http://193.47.62.52/hls/zzzzCCCC.m3u8",
                     "m3u_url": "http://193.47.62.52/hls/zzzzCCCC.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.41/hls/zzzzCCCC.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/zzzzCCCC.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Portugal vs DR Congo --- PT",
+            "name": "England vs Croatia --- SWAHILI",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Portugal_vs_DR_Congo_pt.html",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Croatia_swa.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/huuu.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/huuu.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.44/hls/zzzzCCCCX.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/zzzzCCCCX.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.56/hls/huuu.m3u8",
-                    "m3u_url": "http://193.47.62.56/hls/huuu.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.56/hls/zzzzCCCCX.m3u8",
+                    "m3u_url": "http://193.47.62.56/hls/zzzzCCCCX.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.48/hls/huuu.m3u8",
-                    "m3u_url": "http://193.47.62.48/hls/huuu.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.48/hls/zzzzCCCCX.m3u8",
+                    "m3u_url": "http://193.47.62.48/hls/zzzzCCCCX.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.52/hls/huuu.m3u8",
-                    "m3u_url": "http://193.47.62.52/hls/huuu.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.52/hls/zzzzCCCCX.m3u8",
+                    "m3u_url": "http://193.47.62.52/hls/zzzzCCCCX.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.41/hls/zzzzCCCCX.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/zzzzCCCCX.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Portugal vs DR Congo --- FR",
+            "name": "England vs Croatia --- FR",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Portugal_vs_DR_Congo_fr.html",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Croatia_fr.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -148,11 +182,37 @@
             ]
         },
         {
-            "name": "Portugal vs DR Congo --- NL",
+            "name": "England vs Croatia --- CRO",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Portugal_vs_DR_Congo_nl.html",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Croatia_cro.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/huuu.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/huuu.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.56/hls/huuu.m3u8",
+                    "m3u_url": "http://193.47.62.56/hls/huuu.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.48/hls/huuu.m3u8",
+                    "m3u_url": "http://193.47.62.48/hls/huuu.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.52/hls/huuu.m3u8",
+                    "m3u_url": "http://193.47.62.52/hls/huuu.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs Croatia --- NL",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Croatia_nl.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -174,11 +234,11 @@
             ]
         },
         {
-            "name": "Portugal vs DR Congo --- ES",
+            "name": "England vs Croatia --- ES",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Portugal_vs_DR_Congo_es.html",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Croatia_es.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -200,11 +260,11 @@
             ]
         },
         {
-            "name": "Portugal vs DR Congo --- AR",
+            "name": "England vs Croatia --- AR",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Portugal_vs_DR_Congo_ar.html",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Croatia_ar.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -218,11 +278,11 @@
             ]
         },
         {
-            "name": "Portugal vs DR Congo --- CN HD",
+            "name": "England vs Croatia --- CN HD",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Portugal_vs_DR_Congo_cn_hd.html",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Croatia_cn_hd.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -274,20 +334,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/SIIIIAAAA.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/SIIIIAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Paris vs Monaco",
-            "type": "live_event",
-            "league": "France Basketball LNB",
-            "time": "19:30",
-            "page_link": "http://www.fawanews.sc/Paris vs Monaco.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1852319926784040960/zYiNkhZ0_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/SIIIIAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/SIIIIAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -418,62 +464,6 @@
             ]
         },
         {
-            "name": "Hammarby W vs AIK W",
-            "type": "live_event",
-            "league": "Sweden Women Allsvenskan",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Hammarby W vs AIK W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/AOOOAAAAQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/AOOOAAAAQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Djurgarden W vs Malmo FF W",
-            "type": "live_event",
-            "league": "Sweden Women Allsvenskan",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Djurgarden W vs Malmo FF W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/AOOOAAAAQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/AOOOAAAAQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Besiktas vs Fenerbahce",
-            "type": "live_event",
-            "league": "Turkey Basketball Super Lig",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Besiktas vs Fenerbahce.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/AOOOAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/AOOOAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cincinnati Reds vs New York Mets",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "17:40",
-            "page_link": "http://www.fawanews.sc/Cincinnati Reds vs New York Mets.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/AOOOAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/AOOOAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Tennis WTA Berlin/Nottingham --- CH 1",
             "type": "live_event",
             "league": "Tennis WTA",
@@ -484,34 +474,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/GAAAQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/GAAAQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Snooker China Open --- Table 1",
-            "type": "live_event",
-            "league": "Snooker",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/brrrQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/brrrQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Snooker China Open --- Table 2",
-            "type": "live_event",
-            "league": "Snooker",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/brrrQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/brrrQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
