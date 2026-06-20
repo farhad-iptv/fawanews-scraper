@@ -1,14 +1,84 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-20T17:52:33.001131",
-    "total_with_streams": 33,
+    "fetched_at": "2026-06-20T19:08:21.654956",
+    "total_with_streams": 31,
     "events_with_streams": [
         {
-            "name": "Netherlands vs Sweden --- SWE",
+            "name": "Germany vs Ivory Coast --- ENG",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_swe.html",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Germany_vs_Ivory_Coast_eng.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/dXFPPPA.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/dXFPPPA.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/dXFPPPA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dXFPPPA.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/dXFPPPA.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/dXFPPPA.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/dXFPPPA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/dXFPPPA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Germany vs Ivory Coast --- ENG HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Germany_vs_Ivory_Coast_eng_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/dXVVVV.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/dXVVVV.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/dXVVVV.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dXVVVV.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/dXVVVV.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/dXVVVV.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/dXVVVV.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/dXVVVV.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Germany vs Ivory Coast --- HD 1",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Germany_vs_Ivory_Coast_hd1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8",
+                    "m3u_url": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8",
+                    "m3u_url": "http://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Germany vs Ivory Coast --- SWE",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Germany_vs_Ivory_Coast_swe.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -34,11 +104,11 @@
             ]
         },
         {
-            "name": "Netherlands vs Sweden --- SWE HD",
+            "name": "Germany vs Ivory Coast --- SWE HD",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_swe_hd.html",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Germany_vs_Ivory_Coast_swe_hd.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -60,89 +130,11 @@
             ]
         },
         {
-            "name": "Netherlands vs Sweden --- ENG",
+            "name": "Germany vs Ivory Coast --- FR",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_eng.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.47/hls/dXFPPPA.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/dXFPPPA.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.59/hls/dXFPPPA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/dXFPPPA.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.51/hls/dXFPPPA.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/dXFPPPA.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/dXFPPPA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/dXFPPPA.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.41/hls/dXFPPPA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/dXFPPPA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Netherlands vs Sweden --- ENG HD",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_eng_hd.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.47/hls/dXVVVV.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/dXVVVV.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.59/hls/dXVVVV.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/dXVVVV.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.51/hls/dXVVVV.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/dXVVVV.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/dXVVVV.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/dXVVVV.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.41/hls/dXVVVV.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/dXVVVV.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Netherlands vs Sweden --- HD 1",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_hd1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8",
-                    "m3u_url": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8",
-                    "m3u_url": "http://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Netherlands vs Sweden --- FR",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_fr.html",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Germany_vs_Ivory_Coast_fr.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -164,11 +156,11 @@
             ]
         },
         {
-            "name": "Netherlands vs Sweden --- NL",
+            "name": "Germany vs Ivory Coast --- NL",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_nl.html",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Germany_vs_Ivory_Coast_nl.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -190,11 +182,11 @@
             ]
         },
         {
-            "name": "Netherlands vs Sweden --- ES",
+            "name": "Germany vs Ivory Coast --- ES",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_es.html",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Germany_vs_Ivory_Coast_es.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -216,11 +208,11 @@
             ]
         },
         {
-            "name": "Netherlands vs Sweden --- JP HD",
+            "name": "Germany vs Ivory Coast --- JP HD",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_jp.html",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Germany_vs_Ivory_Coast_jp.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -234,11 +226,11 @@
             ]
         },
         {
-            "name": "Netherlands vs Sweden --- CN HD",
+            "name": "Germany vs Ivory Coast --- CN HD",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_cn_hd.html",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Germany_vs_Ivory_Coast_cn_hd.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
@@ -294,6 +286,62 @@
             ]
         },
         {
+            "name": "Montpellier vs Stade Francais Paris",
+            "type": "live_event",
+            "league": "Rugby Top 14",
+            "time": "20:05",
+            "page_link": "http://www.fawanews.sc/Montpellier vs Stade Francais Paris.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1660209856731643905/f1K1xeM7_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/GDDD.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/GDDD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Almeria vs Malaga",
+            "type": "live_event",
+            "league": "Spanish Segunda Liga",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Almeria vs Malaga.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/HAAAZQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/HAAAZQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Castleford vs Toulouse Olympique",
+            "type": "live_event",
+            "league": "English Rugby Super League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Castleford vs Toulouse Olympique.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/HAAAZQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/HAAAZQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Phoenix Mercury W vs Seattle Storm W",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Phoenix Mercury W vs Seattle Storm W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/HAAAZQQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/HAAAZQQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Chicago Cubs vs Toronto Blue Jays",
             "type": "live_event",
             "league": "MLB Baseball",
@@ -304,6 +352,20 @@
                 {
                     "original_url": "http://193.47.62.42/hls/HAAAZQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/HAAAZQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "AMA Supercross Championship Mount Morris",
+            "type": "live_event",
+            "league": "AMA Supercross",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/AMA Supercross Championship Mount Morris.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2024977696950730754/Cm5bQpPD.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/YYYY.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/YYYY.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -462,34 +524,6 @@
             ]
         },
         {
-            "name": "Vitebsk vs Dynamo Brest",
-            "type": "live_event",
-            "league": "Belarus Vysshaya Liga",
-            "time": "16:30",
-            "page_link": "http://www.fawanews.sc/Vitebsk vs Dynamo Brest.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1469076834/125px-Flag_of_Belarus_400x400.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/OLLLAAA.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/OLLLAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Banga vs Zalgiris",
-            "type": "live_event",
-            "league": "Lithuania Toplyga",
-            "time": "16:30",
-            "page_link": "http://www.fawanews.sc/Banga vs Zalgiris.html",
-            "image_url": "https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/OLLLAA.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/OLLLAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Golf US Open",
             "type": "live_event",
             "league": "Golf",
@@ -500,76 +534,6 @@
                 {
                     "original_url": "http://193.47.62.59/hls/FOOOA.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/FOOOA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Halle",
-            "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Halle.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/NNNN.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/NNNN.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Horse Racing --- CH 1",
-            "type": "live_event",
-            "league": "Horse Racing",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Horse Racing --- CH 2",
-            "type": "live_event",
-            "league": "Horse Racing",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "England vs New Zealand",
-            "type": "live_event",
-            "league": "Cricket",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/England vs New Zealand.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/EEEEDDD.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/EEEEDDD.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis WTA Berlin/Nottingham",
-            "type": "live_event",
-            "league": "Tennis WTA",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Tennis WTA Nottingham.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/GAAAQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/GAAAQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
