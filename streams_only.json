@@ -1,23 +1,253 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-20T14:38:30.172893",
-    "total_with_streams": 26,
+    "fetched_at": "2026-06-20T16:11:20.302894",
+    "total_with_streams": 35,
     "events_with_streams": [
         {
-            "name": "South Africa vs Barbarians",
+            "name": "Netherlands vs Sweden --- SWE",
             "type": "live_event",
-            "league": "Rugby Friendly",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/South Africa vs Barbarians.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_swe.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/FHHHZQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/FHHHZQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/dXFPPP.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/dXFPPP.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.44/hls/FHHHZQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/FHHHZQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/dXFPPP.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dXFPPP.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/dXFPPP.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/dXFPPP.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/dXFPPP.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/dXFPPP.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.42/hls/dXFPPP.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/dXFPPP.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Netherlands vs Sweden --- SWE HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_swe_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/dXVVVVZ.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/dXVVVVZ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/dXVVVVZ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dXVVVVZ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/dXVVVVZ.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/dXVVVVZ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/dXVVVVZ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/dXVVVVZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Netherlands vs Sweden --- ENG",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_eng.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/dXFPPPA.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/dXFPPPA.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/dXFPPPA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dXFPPPA.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/dXFPPPA.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/dXFPPPA.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/dXFPPPA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/dXFPPPA.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.41/hls/dXFPPPA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/dXFPPPA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Netherlands vs Sweden --- ENG HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_eng_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/dXVVVV.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/dXVVVV.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/dXVVVV.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dXVVVV.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/dXVVVV.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/dXVVVV.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/dXVVVV.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/dXVVVV.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.41/hls/dXVVVV.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/dXVVVV.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Netherlands vs Sweden --- HD 1",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_hd1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8",
+                    "m3u_url": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8",
+                    "m3u_url": "http://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Netherlands vs Sweden --- FR",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_fr.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/dXZRRRZ.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/dXZRRRZ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/dXZRRRZ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dXZRRRZ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/dXZRRRZ.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/dXZRRRZ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/dXZRRRZ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/dXZRRRZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Netherlands vs Sweden --- NL",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_nl.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/dXZRRRZa.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/dXZRRRZa.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/dXZRRRZa.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dXZRRRZa.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/dXZRRRZa.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/dXZRRRZa.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/dXZRRRZa.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/dXZRRRZa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Netherlands vs Sweden --- ES",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_es.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/dXZRRR.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/dXZRRR.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/dXZRRR.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dXZRRR.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/dXZRRR.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/dXZRRR.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/dXZRRR.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/dXZRRR.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Netherlands vs Sweden --- VT",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_vt.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
+                    "m3u_url": "https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
+                    "m3u_url": "http://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Netherlands vs Sweden --- CN HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Netherlands_vs_Sweden_cn_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
+                    "m3u_url": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
+                    "m3u_url": "http://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -32,6 +262,76 @@
                 {
                     "original_url": "http://193.47.62.59/hls/VAAA.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/VAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Detroit Tigers vs Chicago White Sox",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "18:10",
+            "page_link": "http://www.fawanews.sc/Detroit Tigers vs Chicago White Sox.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ONNNAA.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ONNNAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Atlanta Dream W vs Indiana Fever W",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Atlanta Dream W vs Indiana Fever W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ONNNA.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ONNNA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Catalans Dragons vs Bradford",
+            "type": "live_event",
+            "league": "English Rugby Super League",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Catalans Dragons vs Bradford.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ONNN.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ONNN.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Turkey W vs Germany W",
+            "type": "live_event",
+            "league": "Volleyball Nations League",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Turkey W vs Germany W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/OLLLAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/OLLLAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Boxing : Garner vs Magnesi",
+            "type": "live_event",
+            "league": "Boxing",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Boxing_Garner vs Magnesi.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FMMM.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FMMM.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -148,6 +448,20 @@
             ]
         },
         {
+            "name": "Levadia vs Kalju",
+            "type": "live_event",
+            "league": "Estonia Meistriliiga",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Levadia vs Kalju.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1977991086506225664/voApDdum_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/FHHHZQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/FHHHZQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Dynamo Kyiv vs Slavia Prague",
             "type": "live_event",
             "league": "Friendly Match",
@@ -190,76 +504,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/KDDD.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/KDDD.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Slavia Mozyr vs Isloch",
-            "type": "live_event",
-            "league": "Belarus Vysshaya Liga",
-            "time": "14:30",
-            "page_link": "http://www.fawanews.sc/Slavia Mozyr vs Isloch.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1469076834/125px-Flag_of_Belarus_400x400.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/FHHHZQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/FHHHZQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Thailand W vs Canada W",
-            "type": "live_event",
-            "league": "Volleyball Nations League",
-            "time": "14:30",
-            "page_link": "http://www.fawanews.sc/Thailand W vs Canada W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/FHHHZQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/FHHHZQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "BFC Daugavpils vs Grobina",
-            "type": "live_event",
-            "league": "Latvia Virsliga",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/BFC Daugavpils vs Grobina.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/FHHHZQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/FHHHZQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "China W vs Brazil W",
-            "type": "live_event",
-            "league": "Volleyball Nations League",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/China W vs Brazil W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/FHHHZ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/FHHHZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Zhenis vs Ertis Pavlodar",
-            "type": "live_event",
-            "league": "Kazakhstan Premier League",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Zhenis vs Ertis Pavlodar.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1610490753976832006/lga9ESei.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/FHHH.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/FHHH.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -358,20 +602,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/GAAAQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/GAAAQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "India vs Afghanistan",
-            "type": "live_event",
-            "league": "Cricket",
-            "time": "09:00",
-            "page_link": "http://www.fawanews.sc/India vs Afghanistan.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/eeeeD.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/eeeeD.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
