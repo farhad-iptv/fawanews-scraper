@@ -1,13 +1,13 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-20T23:06:38.118185",
-    "total_with_streams": 31,
+    "fetched_at": "2026-06-21T01:45:11.768222",
+    "total_with_streams": 25,
     "events_with_streams": [
         {
             "name": "UFC Fight Night : Kape vs Horiguchi --- CH 1",
             "type": "live_event",
             "league": "UFC Fight Night",
-            "time": "23:00",
+            "time": "--:--",
             "page_link": "http://www.fawanews.sc/UFC Fight Night_Kape vs Horiguchi.html",
             "image_url": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",
             "streams": [
@@ -21,7 +21,7 @@
             "name": "UFC Fight Night : Kape vs Horiguchi --- CH 2 HD",
             "type": "live_event",
             "league": "UFC Fight Night",
-            "time": "23:00",
+            "time": "--:--",
             "page_link": "http://www.fawanews.sc/UFC Fight Night_Kape vs Horiguchi --- CH 2 HD.html",
             "image_url": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",
             "streams": [
@@ -36,34 +36,16 @@
             ]
         },
         {
-            "name": "Boxing : Garner vs Magnesi --- CH 1",
+            "name": "Boxing : Collazo vs Valdez Aguilar",
             "type": "live_event",
             "league": "Boxing",
             "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Boxing_Garner vs Magnesi.html",
+            "page_link": "http://www.fawanews.sc/Boxing_Collazo vs Valdez Aguilar.html",
             "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.42/hls/FMMM.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/FMMM.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boxing : Garner vs Magnesi --- CH 2 HD",
-            "type": "live_event",
-            "league": "Boxing",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Boxing_Garner vs Magnesi --- CH 2 HD.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
-            "streams": [
-                {
-                    "original_url": "https://601.mercadodavoz.com.br/ppv.m3u8",
-                    "m3u_url": "https://601.mercadodavoz.com.br/ppv.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://601.mercadodavoz.com.br/ppv.m3u8",
-                    "m3u_url": "http://601.mercadodavoz.com.br/ppv.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.42/hls/etttqqq.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/etttqqq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -124,6 +106,24 @@
                 {
                     "original_url": "http://193.47.62.42/hls/adXVVVV.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/adXVVVV.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ecuador vs Curacao --- JP HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Ecuador_vs_Curacao_jp.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8",
+                    "m3u_url": "https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8",
+                    "m3u_url": "http://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -280,24 +280,6 @@
             ]
         },
         {
-            "name": "Ecuador vs Curacao --- JP HD",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "21:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Ecuador_vs_Curacao_jp.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8",
-                    "m3u_url": "https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8",
-                    "m3u_url": "http://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Ecuador vs Curacao --- CN HD",
             "type": "live_event",
             "league": "FIFA World Cup",
@@ -372,6 +354,20 @@
             ]
         },
         {
+            "name": "Poua v Matatu",
+            "type": "live_event",
+            "league": "Super Rugby Aupiki",
+            "time": "02:45",
+            "page_link": "http://www.fawanews.sc/Poua vs Matatu.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1655443028717481984/03i7ZZ3j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/geeeqqqD.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/geeeqqqD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Colorado Rockies vs Pittsburgh Pirates",
             "type": "live_event",
             "league": "MLB Baseball",
@@ -382,20 +378,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/etttqqqq.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/etttqqqq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boxing : Collazo vs Valdez Aguilar",
-            "type": "live_event",
-            "league": "Boxing",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/Boxing_Collazo vs Valdez Aguilar.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/etttqqq.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/etttqqq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -466,76 +448,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/GDDDDQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/GDDDDQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Recoleta vs Colo Colo",
-            "type": "live_event",
-            "league": "Chile Copa",
-            "time": "22:30",
-            "page_link": "http://www.fawanews.sc/Recoleta vs Colo Colo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/geeeqqq.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/geeeqqq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tampa Bay Rays vs Washington Nationals",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "21:10",
-            "page_link": "http://www.fawanews.sc/Tampa Bay Rays vs Washington Nationals.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/GDDDDQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/GDDDDQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Miami Marlins vs San Francisco Giants",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "21:10",
-            "page_link": "http://www.fawanews.sc/Miami Marlins vs San Francisco Giants.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/GDDDDQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/GDDDDQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Atlanta Braves vs Milwaukee Brewers",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "21:10",
-            "page_link": "http://www.fawanews.sc/Atlanta Braves vs Milwaukee Brewers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/GDDDDQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/GDDDDQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Texas Rangers vs San Diego Padres",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "21:05",
-            "page_link": "http://www.fawanews.sc/Texas Rangers vs San Diego Padres.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/GDDDD.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/GDDDD.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
