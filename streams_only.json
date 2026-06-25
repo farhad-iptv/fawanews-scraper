@@ -1,8 +1,148 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-25T12:36:16.848210",
-    "total_with_streams": 12,
+    "fetched_at": "2026-06-25T15:36:45.558664",
+    "total_with_streams": 21,
     "events_with_streams": [
+        {
+            "name": "Pittsburgh Pirates vs Seattle Mariners",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "17:35",
+            "page_link": "http://www.fawanews.sc/Pittsburgh Pirates vs Seattle Mariners.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ULLLQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ULLLQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tampa Bay Rays vs Kansas City Royals",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "17:10",
+            "page_link": "http://www.fawanews.sc/Tampa Bay Rays vs Kansas City Royals.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ULLL.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ULLL.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Pitea W vs Hammarby W",
+            "type": "live_event",
+            "league": "Sweden Women Allsvenskan",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Pitea W vs Hammarby W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/RUUUAAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/RUUUAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "BFC Daugavpils vs Riga FC",
+            "type": "live_event",
+            "league": "Latvia Virsliga",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/BFC Daugavpils vs Riga FC.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/RUUUAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/RUUUAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Iran vs USA",
+            "type": "live_event",
+            "league": "Volleyball Nations League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Iran vs USA.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/RUUUAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/RUUUAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ukraine vs Italy",
+            "type": "live_event",
+            "league": "Volleyball Nations League",
+            "time": "15:30",
+            "page_link": "http://www.fawanews.sc/Ukraine vs Italy.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/RUUUAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/RUUUAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "China vs Belgium",
+            "type": "live_event",
+            "league": "Volleyball Nations League",
+            "time": "15:30",
+            "page_link": "http://www.fawanews.sc/China vs Belgium.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/RUUUAAA.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/RUUUAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Grobina vs Auda",
+            "type": "live_event",
+            "league": "Latvia Virsliga",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Grobina vs Auda.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/RUUUAA.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/RUUUAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "West Indies vs Sri Lanka",
+            "type": "live_event",
+            "league": "Cricket Test Series",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/West Indies vs Sri Lanka.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/RUUUA.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/RUUUA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "India W vs Bangladesh W",
+            "type": "live_event",
+            "league": "Cricket T20 World Cup",
+            "time": "14:30",
+            "page_link": "http://www.fawanews.sc/India W vs Bangladesh W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/RUUU.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/RUUU.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Horse Racing --- CH 1",
             "type": "live_event",
@@ -88,16 +228,44 @@
             ]
         },
         {
-            "name": "Tennis WTA Eastbourne/Bad Homburg",
+            "name": "Tennis ATP Hurlingham",
             "type": "live_event",
-            "league": "Tennis WTA",
+            "league": "Tennis ATP",
             "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Tennis WTA Eastbourne-Bad Homburg.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Tennis ATP Hurlingham.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
             "streams": [
                 {
                     "original_url": "http://193.47.62.42/hls/ayyyy.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/ayyyy.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis ATP Mallorca",
+            "type": "live_event",
+            "league": "Tennis ATP",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Tennis ATP Mallorca.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ayyyyQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ayyyyQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis WTA Bad Homburg",
+            "type": "live_event",
+            "league": "Tennis WTA",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Tennis WTA Bad Homburg.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/STTTTQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/STTTTQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -126,48 +294,6 @@
                 {
                     "original_url": "http://193.47.62.59/hls/brrrQ.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/brrrQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Parramatta Eels vs South Sydney Rabbitohs",
-            "type": "live_event",
-            "league": "NRL",
-            "time": "10:50",
-            "page_link": "http://www.fawanews.sc/Parramatta Eels vs South Sydney Rabbitohs.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/bbbbZ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/bbbbZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Brisbane Lions vs Sydney Swans",
-            "type": "live_event",
-            "league": "AFL Aussie Rules",
-            "time": "10:30",
-            "page_link": "http://www.fawanews.sc/Brisbane Lions vs Sydney Swans.html",
-            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/bbbb.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/bbbb.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Mallorca",
-            "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Mallorca.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/ayyyyQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/ayyyyQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
