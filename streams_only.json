@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-26T22:41:30.805872",
+    "fetched_at": "2026-06-26T23:54:11.790432",
     "total_with_streams": 38,
     "events_with_streams": [
         {
@@ -116,6 +116,24 @@
             ]
         },
         {
+            "name": "Uruguay vs Spain --- HD 1",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "02:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Uruguay_vs_Spain_hd1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live06.zuqiu106.com/live/20233432.m3u8",
+                    "m3u_url": "https://live06.zuqiu106.com/live/20233432.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live06.zuqiu106.com/live/20233432.m3u8",
+                    "m3u_url": "http://live06.zuqiu106.com/live/20233432.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Cape Verde vs Saudi Arabia --- HD 1",
             "type": "live_event",
             "league": "FIFA World Cup",
@@ -134,20 +152,28 @@
             ]
         },
         {
-            "name": "Uruguay vs Spain --- HD 1",
+            "name": "Uruguay vs Spain --- FR",
             "type": "live_event",
             "league": "FIFA World Cup",
             "time": "02:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Uruguay_vs_Spain_hd1.html",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Uruguay_vs_Spain_fr.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://live06.zuqiu106.com/live/20233432.m3u8",
-                    "m3u_url": "https://live06.zuqiu106.com/live/20233432.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/RFRFRFQQ.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/RFRFRFQQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://live06.zuqiu106.com/live/20233432.m3u8",
-                    "m3u_url": "http://live06.zuqiu106.com/live/20233432.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/RFRFRFQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/RFRFRFQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/RFRFRFQQ.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/RFRFRFQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/RFRFRFQQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/RFRFRFQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -230,32 +256,6 @@
             ]
         },
         {
-            "name": "Uruguay vs Spain --- ES",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Uruguay_vs_Spain_es.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.47/hls/RFRFRFQQX.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/RFRFRFQQX.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.59/hls/RFRFRFQQX.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/RFRFRFQQX.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.51/hls/RFRFRFQQX.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/RFRFRFQQX.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/RFRFRFQQX.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/RFRFRFQQX.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Uruguay vs Spain --- SWE",
             "type": "live_event",
             "league": "FIFA World Cup",
@@ -278,6 +278,32 @@
                 {
                     "original_url": "http://193.47.62.55/hls/RFRFRF.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/RFRFRF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Uruguay vs Spain --- ES",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "02:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Uruguay_vs_Spain_es.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/RFRFRFQQX.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/RFRFRFQQX.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/RFRFRFQQX.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/RFRFRFQQX.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/RFRFRFQQX.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/RFRFRFQQX.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/RFRFRFQQX.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/RFRFRFQQX.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -402,6 +428,38 @@
             ]
         },
         {
+            "name": "WWE Friday Night Smackdown --- CH 2",
+            "type": "live_event",
+            "league": "WWE Wrestling",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/WWE Friday Night Smackdown --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8",
+                    "m3u_url": "https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8",
+                    "m3u_url": "http://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "US Darts Masters",
+            "type": "live_event",
+            "league": "Darts",
+            "time": "00:45",
+            "page_link": "http://www.fawanews.sc/US Darts Masters.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ELLLQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ELLLQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Milwaukee Brewers vs Chicago Cubs",
             "type": "live_event",
             "league": "MLB Baseball",
@@ -454,6 +512,20 @@
                 {
                     "original_url": "http://193.47.62.42/hls/KBBB.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/KBBB.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "NHL Draft 2026",
+            "type": "live_event",
+            "league": "NHL Hockey",
+            "time": "00:15",
+            "page_link": "http://www.fawanews.sc/NHL Draft 2026.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/LVVVQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/LVVVQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -542,34 +614,6 @@
             ]
         },
         {
-            "name": "NHL Draft 2026",
-            "type": "live_event",
-            "league": "NHL Hockey",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/NHL Draft 2026.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/LVVVQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/LVVVQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Everton vs Copiapo",
-            "type": "live_event",
-            "league": "Chile Copa",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/Everton vs Copiapo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/TIIIQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/TIIIQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "U de Deportes vs Grau",
             "type": "live_event",
             "league": "Peru Copa",
@@ -636,34 +680,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/SRRRAQQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/SRRRAQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Darts World Series US",
-            "type": "live_event",
-            "league": "Darts",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Darts World Series US.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/ELLLQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/ELLLQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Golf PGA Travelers Championship",
-            "type": "live_event",
-            "league": "Golf PGA",
-            "time": "14:15",
-            "page_link": "http://www.fawanews.sc/Golf PGA Travelers Championship.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/bbbbZQqQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/bbbbZQqQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
