@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-26T19:14:27.147100",
-    "total_with_streams": 32,
+    "fetched_at": "2026-06-26T21:02:40.405377",
+    "total_with_streams": 31,
     "events_with_streams": [
         {
             "name": "Senegal vs Iraq --- ENG",
@@ -292,6 +292,32 @@
             ]
         },
         {
+            "name": "Norway vs France --- ES",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Norway_vs_France_es.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/RFRFRFQQX.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/RFRFRFQQX.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/RFRFRFQQX.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/RFRFRFQQX.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/RFRFRFQQX.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/RFRFRFQQX.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/RFRFRFQQX.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/RFRFRFQQX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Norway vs France --- SWE",
             "type": "live_event",
             "league": "FIFA World Cup",
@@ -354,6 +380,90 @@
             ]
         },
         {
+            "name": "Pittsburgh Pirates vs Cincinnati Reds",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "23:40",
+            "page_link": "http://www.fawanews.sc/Pittsburgh Pirates vs Cincinnati Reds.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/SRRRAQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/SRRRAQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Detroit Tigers vs Houston Astros",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "23:40",
+            "page_link": "http://www.fawanews.sc/Detroit Tigers vs Houston Astros.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/SRRRAQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/SRRRAQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Novorizontino vs Vila Nova FC",
+            "type": "live_event",
+            "league": "Brazil Serie B",
+            "time": "23:00",
+            "page_link": "http://www.fawanews.sc/Novorizontino vs Vila Nova FC.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/SRRRAQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/SRRRAQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "HFX Wanderers vs Pacific FC",
+            "type": "live_event",
+            "league": "Canada Premier League",
+            "time": "22:30",
+            "page_link": "http://www.fawanews.sc/HFX Wanderers vs Pacific FC.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/SRRRAQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/SRRRAQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sport Huancayo vs AD Tarma",
+            "type": "live_event",
+            "league": "Peru Copa",
+            "time": "21:15",
+            "page_link": "http://www.fawanews.sc/Sport Huancayo vs AD Tarma.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/SRRRAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/SRRRAQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Alianza Huanuco vs Minas",
+            "type": "live_event",
+            "league": "Peru Copa",
+            "time": "21:15",
+            "page_link": "http://www.fawanews.sc/Alianza Huanuco vs Minas.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/SRRRAQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/SRRRAQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Leeds vs Hull KR",
             "type": "live_event",
             "league": "English Rugby Super League",
@@ -410,48 +520,6 @@
             ]
         },
         {
-            "name": "Dundalk vs Waterford",
-            "type": "live_event",
-            "league": "Ireland Premier Division",
-            "time": "19:45",
-            "page_link": "http://www.fawanews.sc/Dundalk vs Waterford.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/KVVVQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/KVVVQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Derry City vs Drogheda",
-            "type": "live_event",
-            "league": "Ireland Premier Division",
-            "time": "19:45",
-            "page_link": "http://www.fawanews.sc/Derry City vs Drogheda.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/KVVVQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/KVVVQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Shamrock Rovers vs Galway",
-            "type": "live_event",
-            "league": "Ireland Premier Division",
-            "time": "19:30",
-            "page_link": "http://www.fawanews.sc/Shamrock Rovers vs Galway.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/KVVVQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/KVVVQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Serbia vs Cuba",
             "type": "live_event",
             "league": "Volleyball Nations League",
@@ -466,48 +534,6 @@
             ]
         },
         {
-            "name": "Brazil vs Italy",
-            "type": "live_event",
-            "league": "Volleyball Nations League",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Brazil vs Italy.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/KVVVQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/KVVVQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Belgium vs Germany",
-            "type": "live_event",
-            "league": "Volleyball Nations League",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Belgium vs Germany.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/KVVVQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/KVVVQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cajamarca vs FC Cajamarca",
-            "type": "live_event",
-            "league": "Peru Copa",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Cajamarca vs FC Cajamarca.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/KVVV.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/KVVV.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Sri Lanka W vs Scotland W",
             "type": "live_event",
             "league": "Cricket T20 World Cup",
@@ -518,34 +544,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/tfffqQQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/tfffqQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Assyriska FF vs Vasalund",
-            "type": "live_event",
-            "league": "Sweden Division 1",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/Assyriska FF vs Vasalund.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/tfffqQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/tfffqQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Hassleholms IF vs Tvaaker",
-            "type": "live_event",
-            "league": "Sweden Division 1",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/Hassleholms IF vs Tvaaker.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/tfffqQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/tfffqQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
