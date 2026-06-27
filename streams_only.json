@@ -1,8 +1,124 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-27T09:09:20.398703",
-    "total_with_streams": 11,
+    "fetched_at": "2026-06-27T11:09:09.995260",
+    "total_with_streams": 21,
     "events_with_streams": [
+        {
+            "name": "Liaoning Tieren vs Shandong Taishan",
+            "type": "live_event",
+            "league": "China Super League",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Liaoning Tieren vs Shandong Taishan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/PLLLQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/PLLLQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ilves vs SJK",
+            "type": "live_event",
+            "league": "Finland Veikkausliiga",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Ilves vs SJK.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/PLLLQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/PLLLQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Laholms vs Utsikten",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Laholms vs Utsikten.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/PLLLQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/PLLLQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Trollhattan vs Angelholm",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Trollhattan vs Angelholm.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/PLLLQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/PLLLQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Stockholm Internazionale vs Enkoping SK",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Stockholm Internazionale vs Enkoping SK.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/PLLL.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/PLLL.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis WTA Eastbourne",
+            "type": "live_event",
+            "league": "Tennis WTA",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Tennis WTA Eastbourne.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/zlllQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/zlllQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Austria --- SD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Austria --- SD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/zlllQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/zlllQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Austria --- HD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Austria --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fa4890c5-4037-4a20-994c-8ce19ea82f60/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fa4890c5-4037-4a20-994c-8ce19ea82f60/master.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fa4890c5-4037-4a20-994c-8ce19ea82f60/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fa4890c5-4037-4a20-994c-8ce19ea82f60/master.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Japan B vs Maori All Blacks",
             "type": "live_event",
@@ -14,6 +130,48 @@
                 {
                     "original_url": "http://193.47.62.42/hls/VHHHQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/VHHHQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs New Zealand",
+            "type": "live_event",
+            "league": "Cricket Test Series",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/England vs New Zealand.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/bbbbZQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/bbbbZQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Snooker China Open --- Table 1",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/brrrQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/brrrQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Snooker China Open --- Table 2",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/brrrQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/brrrQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -42,6 +200,20 @@
                 {
                     "original_url": "http://193.47.62.42/hls/VHHHQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/VHHHQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Pakistan W vs Netherlands W",
+            "type": "live_event",
+            "league": "Cricket T20 World Cup",
+            "time": "10:30",
+            "page_link": "http://www.fawanews.sc/Pakistan W vs Netherlands W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/YVVV.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/YVVV.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -88,20 +260,6 @@
             ]
         },
         {
-            "name": "NQ Cowboys vs Penrith Panthers",
-            "type": "live_event",
-            "league": "NRL",
-            "time": "08:30",
-            "page_link": "http://www.fawanews.sc/NQ Cowboys vs Penrith Panthers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/ZIIIQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/ZIIIQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "MotoGP Grand Prix of Netherlands",
             "type": "live_event",
             "league": "MotoGP",
@@ -144,20 +302,6 @@
                 {
                     "original_url": "http://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8",
                     "m3u_url": "http://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Carlton Blues vs West Coast Eagles",
-            "type": "live_event",
-            "league": "AFL Aussie Rules",
-            "time": "04:15",
-            "page_link": "http://www.fawanews.sc/Carlton Blues vs West Coast Eagles.html",
-            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/ZIII.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/ZIII.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
