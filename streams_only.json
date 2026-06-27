@@ -1,8 +1,40 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-27T12:49:41.192805",
-    "total_with_streams": 34,
+    "fetched_at": "2026-06-27T14:23:48.830815",
+    "total_with_streams": 58,
     "events_with_streams": [
+        {
+            "name": "Formula 1 GP Austria --- SD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Austria --- SD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/zlllQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/zlllQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Austria --- HD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Austria --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a5fcaea0-3c13-4fc1-8f8a-ac98a9c3ae8f/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a5fcaea0-3c13-4fc1-8f8a-ac98a9c3ae8f/master.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a5fcaea0-3c13-4fc1-8f8a-ac98a9c3ae8f/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a5fcaea0-3c13-4fc1-8f8a-ac98a9c3ae8f/master.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Simba vs Singida Black Stars",
             "type": "live_event",
@@ -40,7 +72,7 @@
             ]
         },
         {
-            "name": "UFC Fight Night : Fiziev vs Torres",
+            "name": "UFC Fight Night : Fiziev vs Torres --- CH 1",
             "type": "live_event",
             "league": "UFC Fight Night",
             "time": "14:00",
@@ -50,6 +82,332 @@
                 {
                     "original_url": "http://193.47.62.42/hls/ZDDDQQq.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/ZDDDQQq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "UFC Fight Night : Fiziev vs Torres --- CH 2 HD",
+            "type": "live_event",
+            "league": "UFC Fight Night",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/UFC Fight Night_Fiziev vs Torres ---- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://word.onnext.site/dailymotion/live/playlist/24.m3u8",
+                    "m3u_url": "https://word.onnext.site/dailymotion/live/playlist/24.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://word.onnext.site/dailymotion/live/playlist/24.m3u8",
+                    "m3u_url": "http://word.onnext.site/dailymotion/live/playlist/24.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Hull FC vs Wigan Warriors",
+            "type": "live_event",
+            "league": "English Rugby Super League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Hull FC vs Wigan Warriors.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/DAAAAQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/DAAAAQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf PGA Travelers Championship",
+            "type": "live_event",
+            "league": "Golf PGA",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Golf PGA Travelers Championship.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/bbbbZQqQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/bbbbZQqQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Mariehamn vs Inter Turku",
+            "type": "live_event",
+            "league": "Finland Veikkausliiga",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Mariehamn vs Inter Turku.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/TSSSSQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/TSSSSQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "HJK vs KuPS",
+            "type": "live_event",
+            "league": "Finland Veikkausliiga",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/HJK vs KuPS.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/TSSSSQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/TSSSSQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Wales U20 vs Georgia U20",
+            "type": "live_event",
+            "league": "Rugby World Championship",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Wales U20 vs Georgia U20.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/TSSSSQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/TSSSSQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "France U20 vs Fiji U20",
+            "type": "live_event",
+            "league": "Rugby World Championship",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/France U20 vs Fiji U20.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/TSSSS.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/TSSSS.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Goteborg vs HamKam",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Goteborg vs HamKam.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ZDDDXX.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ZDDDXX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kristiansund vs Aalesund",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Kristiansund vs Aalesund.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ZDDDX.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ZDDDX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Operario-PR vs America MG",
+            "type": "live_event",
+            "league": "Brazil Serie B",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Operario-PR vs America MG.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/DAAAAQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/DAAAAQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Lunds vs Skovde AIK",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Lunds vs Skovde AIK.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/DAAAAQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/DAAAAQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Atvidaberg vs Rosengard",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Atvidaberg vs Rosengard.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/DAAAAQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/DAAAAQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "AFC Malmo vs Jonkoping",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/AFC Malmo vs Jonkoping.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/DAAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/DAAAAQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Gefle vs Stocksund",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Gefle vs Stocksund.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/DAAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/DAAAAQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Arlanda vs Karlstad",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Arlanda vs Karlstad.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/DAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/DAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Strommen vs Moss",
+            "type": "live_event",
+            "league": "Norway OBOS-ligaen",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Strommen vs Moss.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/UCCCQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/UCCCQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Stabaek vs Bryne",
+            "type": "live_event",
+            "league": "Norway OBOS-ligaen",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Stabaek vs Bryne.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/UCCCQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/UCCCQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sandnes vs Raufoss",
+            "type": "live_event",
+            "league": "Norway OBOS-ligaen",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Sandnes vs Raufoss.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/UCCCQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/UCCCQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Lyn vs Hodd",
+            "type": "live_event",
+            "league": "Norway OBOS-ligaen",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Lyn vs Hodd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/UCCCQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/UCCCQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Haugesund vs Kongsvinger",
+            "type": "live_event",
+            "league": "Norway OBOS-ligaen",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Haugesund vs Kongsvinger.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/UCCCQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/UCCCQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Asane vs Ranheim",
+            "type": "live_event",
+            "league": "Norway OBOS-ligaen",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Asane vs Ranheim.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/UCCC.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/UCCC.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "West Indies W vs Ireland W",
+            "type": "live_event",
+            "league": "Cricket T20 World Cup",
+            "time": "14:30",
+            "page_link": "http://www.fawanews.sc/West Indies W vs Ireland W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/YVVV.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/YVVV.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis ATP Eastbourne",
+            "type": "live_event",
+            "league": "Tennis ATP",
+            "time": "14:30",
+            "page_link": "http://www.fawanews.sc/Tennis ATP Eastbourne.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ayyyyQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ayyyyQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -78,6 +436,20 @@
                 {
                     "original_url": "http://193.47.62.42/hls/ZDDDQQqQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/ZDDDQQqQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Jippo vs Ekenas",
+            "type": "live_event",
+            "league": "Finland Ykkosliiga",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Jippo vs Ekenas.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ZDDDQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ZDDDQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -358,38 +730,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/zlllQQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/zlllQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Formula 1 GP Austria --- SD",
-            "type": "live_event",
-            "league": "Formula 1 GP",
-            "time": "11:30",
-            "page_link": "http://www.fawanews.sc/Formula 1 GP Austria --- SD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/zlllQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/zlllQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Formula 1 GP Austria --- HD",
-            "type": "live_event",
-            "league": "Formula 1 GP",
-            "time": "11:30",
-            "page_link": "http://www.fawanews.sc/Formula 1 GP Austria --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fa4890c5-4037-4a20-994c-8ce19ea82f60/master.m3u8",
-                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fa4890c5-4037-4a20-994c-8ce19ea82f60/master.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fa4890c5-4037-4a20-994c-8ce19ea82f60/master.m3u8",
-                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fa4890c5-4037-4a20-994c-8ce19ea82f60/master.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
