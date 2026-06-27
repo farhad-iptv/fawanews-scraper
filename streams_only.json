@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-26T23:54:11.790432",
-    "total_with_streams": 38,
+    "fetched_at": "2026-06-27T02:03:20.767796",
+    "total_with_streams": 34,
     "events_with_streams": [
         {
             "name": "Uruguay vs Spain --- ENG",
@@ -178,6 +178,24 @@
             ]
         },
         {
+            "name": "Uruguay vs Spain --- FR HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "00:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Uruguay_vs_Spain_fr_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460925.m3u8?txSecret=19c405bd271aaecfe032bad1508aa126&txTime=6A4061A8",
+                    "m3u_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460925.m3u8?txSecret=19c405bd271aaecfe032bad1508aa126&txTime=6A4061A8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4460925.m3u8?txSecret=19c405bd271aaecfe032bad1508aa126&txTime=6A4061A8",
+                    "m3u_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4460925.m3u8?txSecret=19c405bd271aaecfe032bad1508aa126&txTime=6A4061A8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Cape Verde vs Saudi Arabia --- FR",
             "type": "live_event",
             "league": "FIFA World Cup",
@@ -200,6 +218,24 @@
                 {
                     "original_url": "http://193.47.62.55/hls/JJJJQ.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/JJJJQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cape Verde vs Saudi Arabia --- FR HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "00:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Cape_Verde_vs_Saudi_Arabia_fr_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460966.m3u8?txSecret=b19f270460748649a7b5304bf7c7d8b0&txTime=6A4061A8",
+                    "m3u_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460966.m3u8?txSecret=b19f270460748649a7b5304bf7c7d8b0&txTime=6A4061A8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4460966.m3u8?txSecret=b19f270460748649a7b5304bf7c7d8b0&txTime=6A4061A8",
+                    "m3u_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4460966.m3u8?txSecret=b19f270460748649a7b5304bf7c7d8b0&txTime=6A4061A8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -344,6 +380,20 @@
             ]
         },
         {
+            "name": "San Francisco Giants vs Atlanta Braves",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "03:15",
+            "page_link": "http://www.fawanews.sc/San Francisco Giants vs Atlanta Braves.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/mlllQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/mlllQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Golden State Valkyries W vs Atlanta Dream W",
             "type": "live_event",
             "league": "WNBA Basketball",
@@ -382,6 +432,20 @@
                 {
                     "original_url": "http://193.47.62.42/hls/LVVVQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/LVVVQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "BKFC Fight Night : Vancamp vs Cisneros",
+            "type": "live_event",
+            "league": "MMA Fighting",
+            "time": "02:00",
+            "page_link": "http://www.fawanews.sc/BKFC Fight Night Vancamp vs Cisneros.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/mlll.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/mlll.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -530,62 +594,6 @@
             ]
         },
         {
-            "name": "Tampa Bay Rays vs Arizona Diamondbacks",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "00:10",
-            "page_link": "http://www.fawanews.sc/Tampa Bay Rays vs Arizona Diamondbacks.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/TIIIQQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/TIIIQQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "New York Mets vs Philadelphia Phillies",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "00:10",
-            "page_link": "http://www.fawanews.sc/New York Mets vs Philadelphia Phillies.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/TIIIQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/TIIIQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cleveland Guardians vs Seattle Mariners",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "00:10",
-            "page_link": "http://www.fawanews.sc/Cleveland Guardians vs Seattle Mariners.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/TIIIQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/TIIIQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boston Red Sox vs New York Yankees",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "00:10",
-            "page_link": "http://www.fawanews.sc/Boston Red Sox vs New York Yankees.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/TIIIQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/TIIIQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Toronto Blue Jays vs Texas Rangers",
             "type": "live_event",
             "league": "MLB Baseball",
@@ -614,20 +622,6 @@
             ]
         },
         {
-            "name": "U de Deportes vs Grau",
-            "type": "live_event",
-            "league": "Peru Copa",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/U de Deportes vs Grau.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/TIII.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/TIII.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Pittsburgh Pirates vs Cincinnati Reds",
             "type": "live_event",
             "league": "MLB Baseball",
@@ -638,48 +632,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/SRRRAQQQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/SRRRAQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Detroit Tigers vs Houston Astros",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "23:40",
-            "page_link": "http://www.fawanews.sc/Detroit Tigers vs Houston Astros.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/SRRRAQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/SRRRAQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Novorizontino vs Vila Nova FC",
-            "type": "live_event",
-            "league": "Brazil Serie B",
-            "time": "23:00",
-            "page_link": "http://www.fawanews.sc/Novorizontino vs Vila Nova FC.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/SRRRAQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/SRRRAQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "HFX Wanderers vs Pacific FC",
-            "type": "live_event",
-            "league": "Canada Premier League",
-            "time": "22:30",
-            "page_link": "http://www.fawanews.sc/HFX Wanderers vs Pacific FC.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/SRRRAQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/SRRRAQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
