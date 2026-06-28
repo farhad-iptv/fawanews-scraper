@@ -1,8 +1,202 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-28T09:51:55.821206",
-    "total_with_streams": 10,
+    "fetched_at": "2026-06-28T11:40:47.444095",
+    "total_with_streams": 22,
     "events_with_streams": [
+        {
+            "name": "Formula 1 GP Austria --- ENG SD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Austria_sd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/HHHH.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/HHHH.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/HHHH.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HHHH.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Austria --- ENG HD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Austria --- ENG HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.48/hls/HHHH.m3u8",
+                    "m3u_url": "http://193.47.62.48/hls/HHHH.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.52/hls/HHHH.m3u8",
+                    "m3u_url": "http://193.47.62.52/hls/HHHH.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Austria --- RU HD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Austria --- RU HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d19b67ce-0e97-4f3b-b9c3-950e06ca4eec/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d19b67ce-0e97-4f3b-b9c3-950e06ca4eec/master.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d19b67ce-0e97-4f3b-b9c3-950e06ca4eec/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d19b67ce-0e97-4f3b-b9c3-950e06ca4eec/master.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf PGA Travelers Championship",
+            "type": "live_event",
+            "league": "Golf PGA",
+            "time": "13:45",
+            "page_link": "http://www.fawanews.sc/Golf PGA Travelers Championship.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/bbbbZQqQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/bbbbZQqQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ireland vs India",
+            "type": "live_event",
+            "league": "Cricket T20",
+            "time": "13:30",
+            "page_link": "http://www.fawanews.sc/Ireland vs India.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FIIIQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FIIIQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Switzerland U19 W vs Spain U19 W",
+            "type": "live_event",
+            "league": "Euro U19",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Switzerland U19 W vs Spain U19 W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2058864755708739584/6a33PC_Q_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FIIIQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FIIIQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ertis Pavlodar vs Kaisar Kyzylorda",
+            "type": "live_event",
+            "league": "Kazakhstan Premier League",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Ertis Pavlodar vs Kaisar Kyzylorda.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1610490753976832006/lga9ESei_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FIIIQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FIIIQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 1",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 2",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Iran vs Cuba",
+            "type": "live_event",
+            "league": "Volleyball Nations League",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Iran vs Cuba.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FIIIQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FIIIQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Olympic vs Eskilsminne",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Olympic vs Eskilsminne.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FIIIQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FIIIQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "China vs Germany",
+            "type": "live_event",
+            "league": "Volleyball Nations League",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/China vs Germany.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FIIIQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FIIIQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Bulgaria vs Ukraine",
+            "type": "live_event",
+            "league": "Volleyball Nations League",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Bulgaria vs Ukraine.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FIII.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FIII.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Dalian Yingbo vs Shanghai Shenhua",
             "type": "live_event",
@@ -46,6 +240,20 @@
             ]
         },
         {
+            "name": "Tennis ATP Eastbourne",
+            "type": "live_event",
+            "league": "Tennis ATP",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Tennis ATP Eastbourne.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ayyyyQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ayyyyQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Golf Open d'Italia",
             "type": "live_event",
             "league": "Golf",
@@ -74,20 +282,6 @@
             ]
         },
         {
-            "name": "FIA Formula 2 Austria",
-            "type": "live_event",
-            "league": "FIA Formula 2",
-            "time": "09:00",
-            "page_link": "http://www.fawanews.sc/FIA Formula 2 Austria.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2061372235508494338/LKV69QHd_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/zlllQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/zlllQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "MotoGP Grand Prix of Netherlands",
             "type": "live_event",
             "league": "MotoGP",
@@ -98,20 +292,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/zlllQQQ.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/zlllQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Fremantle Dockers vs Gold Coast Suns",
-            "type": "live_event",
-            "league": "AFL Aussie Rules",
-            "time": "08:10",
-            "page_link": "http://www.fawanews.sc/Fremantle Dockers vs Gold Coast Suns.html",
-            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/XAXAXAQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/XAXAXAQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
