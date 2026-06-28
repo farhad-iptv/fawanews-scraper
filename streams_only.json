@@ -1,8 +1,78 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-28T06:41:03.189231",
-    "total_with_streams": 11,
+    "fetched_at": "2026-06-28T09:51:55.821206",
+    "total_with_streams": 10,
     "events_with_streams": [
+        {
+            "name": "Dalian Yingbo vs Shanghai Shenhua",
+            "type": "live_event",
+            "league": "China Super League",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Dalian Yingbo vs Shanghai Shenhua.html",
+            "image_url": "https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/AAAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/AAAAAQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Qingdao West Coast vs Zhejiang Professional",
+            "type": "live_event",
+            "league": "China Super League",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Qingdao West Coast vs Zhejiang Professional.html",
+            "image_url": "https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/AAAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/AAAAAQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs New Zealand",
+            "type": "live_event",
+            "league": "Cricket Test Series",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/England vs New Zealand.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/bbbbZQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/bbbbZQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf Open d'Italia",
+            "type": "live_event",
+            "league": "Golf",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Golf Open d Italia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1934409407993139200/EnyJX2wL_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/bbbbZQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/bbbbZQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "South Africa W vs Bangladesh W",
+            "type": "live_event",
+            "league": "Cricket T20 World Cup",
+            "time": "10:30",
+            "page_link": "http://www.fawanews.sc/South Africa W vs Bangladesh W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/AAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/AAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "FIA Formula 2 Austria",
             "type": "live_event",
@@ -46,48 +116,6 @@
             ]
         },
         {
-            "name": "FIA Formula 3 Austria",
-            "type": "live_event",
-            "league": "FIA Formula 3",
-            "time": "07:30",
-            "page_link": "http://www.fawanews.sc/FIA Formula 3 Austria.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2061372301917007872/tNkSjoCt_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/zlllQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/zlllQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Newcastle Knights vs Wests Tigers",
-            "type": "live_event",
-            "league": "NRL",
-            "time": "07:05",
-            "page_link": "http://www.fawanews.sc/Newcastle Knights vs Wests Tigers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/XAXAXA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/XAXAXA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "North Melbourne vs Essendon Bombers",
-            "type": "live_event",
-            "league": "AFL Aussie Rules",
-            "time": "06:15",
-            "page_link": "http://www.fawanews.sc/North Melbourne vs Essendon Bombers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/XAXAXAQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/XAXAXAQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "World Rally Championship Greece --- SD",
             "type": "live_event",
             "league": "World Rally",
@@ -116,48 +144,6 @@
                 {
                     "original_url": "http://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8",
                     "m3u_url": "http://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Canberra Raiders vs St George Illawarra Dragons",
-            "type": "live_event",
-            "league": "NRL",
-            "time": "05:00",
-            "page_link": "http://www.fawanews.sc/Canberra Raiders vs St George Illawarra Dragons.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/XAXAXA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/XAXAXA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boxing : Zayas vs Ennis",
-            "type": "live_event",
-            "league": "Boxing",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Boxing_Zayas vs Ennis.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/ZZZZQQQq.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/ZZZZQQQq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Los Angeles Angels vs Athletics",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "02:38",
-            "page_link": "http://www.fawanews.sc/Los Angeles Angels vs Athletics.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/ZZZZQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/ZZZZQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
