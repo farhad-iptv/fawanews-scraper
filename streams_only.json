@@ -1,8 +1,36 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-29T08:48:30.657287",
-    "total_with_streams": 1,
+    "fetched_at": "2026-06-29T12:56:20.883433",
+    "total_with_streams": 17,
     "events_with_streams": [
+        {
+            "name": "Horse Racing --- CH 1",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 2",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "England vs New Zealand",
             "type": "live_event",
@@ -14,6 +42,202 @@
                 {
                     "original_url": "http://193.47.62.42/hls/bbbbZQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/bbbbZQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Snooker Champions League --- Table 1",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Snooker Champions League --- Table 1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/taaaQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/taaaQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Snooker Champions League --- Table 2",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Snooker Champions League --- Table 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/taaa.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/taaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Wimbledon --- CH 1",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FQQQZZZZZZZZZ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FQQQZZZZZZZZZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Wimbledon --- CH 2",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FQQQZZZZZZZZ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FQQQZZZZZZZZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Wimbledon --- CH 3",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 3.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FQQQZZZZZZZ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FQQQZZZZZZZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Wimbledon --- CH 4",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 4.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FQQQZZZZZZ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FQQQZZZZZZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Wimbledon --- CH 5",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 5.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FQQQZZZX.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FQQQZZZX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Wimbledon --- CH 6",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 6.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FQQQZZZZ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FQQQZZZZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Wimbledon --- CH 7",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 7.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FQQQZZZ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FQQQZZZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Wimbledon --- CH 8",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 8.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FQQQZZ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FQQQZZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Wimbledon --- CH 9",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 9.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FQQQZ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FQQQZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Wimbledon --- CH 10",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 10.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Wimbledon --- CH 11",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 11.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FQQQX.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FQQQX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Wimbledon --- CH 12",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 12.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FQQQXX.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FQQQXX.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
