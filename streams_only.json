@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-06-29T16:34:20.773766",
-    "total_with_streams": 38,
+    "fetched_at": "2026-06-29T18:58:18.923370",
+    "total_with_streams": 35,
     "events_with_streams": [
         {
             "name": "Brazil vs Japan --- ENG",
@@ -56,6 +56,24 @@
                 {
                     "original_url": "http://193.47.62.42/hls/ZzsssQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/ZzsssQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Brazil vs Japan --- FR HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Brazil_vs_Japan_fr_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4459720.m3u8?txSecret=5333d78d022364edf09ef3de0e297225&txTime=6A43F3B8",
+                    "m3u_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4459720.m3u8?txSecret=5333d78d022364edf09ef3de0e297225&txTime=6A43F3B8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4459720.m3u8?txSecret=5333d78d022364edf09ef3de0e297225&txTime=6A43F3B8",
+                    "m3u_url": "http://pul-tenm.nbs3g.com/live/hd-en-1-4459720.m3u8?txSecret=5333d78d022364edf09ef3de0e297225&txTime=6A43F3B8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -126,6 +144,32 @@
                 {
                     "original_url": "http://193.47.62.55/hls/Zckkkq.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/Zckkkq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Brazil vs Japan --- AR",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Brazil_vs_Japan_ar.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/Zckkkqr.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/Zckkkqr.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/Zckkkqr.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/Zckkkqr.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/Zckkkqr.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/Zckkkqr.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/Zckkkqr.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/Zckkkqr.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -320,6 +364,24 @@
             ]
         },
         {
+            "name": "Lebanon vs India",
+            "type": "live_event",
+            "league": "Basketball World Cup Qualification",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Lebanon vs India.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.nbs3g.com/live/sd-2-3871438.m3u8?txSecret=0e363fa7bd0e4c6375bfde67cb70934e&txTime=6A4401C8",
+                    "m3u_url": "https://pul-tenm.nbs3g.com/live/sd-2-3871438.m3u8?txSecret=0e363fa7bd0e4c6375bfde67cb70934e&txTime=6A4401C8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.nbs3g.com/live/sd-2-3871438.m3u8?txSecret=0e363fa7bd0e4c6375bfde67cb70934e&txTime=6A4401C8",
+                    "m3u_url": "http://pul-tenm.nbs3g.com/live/sd-2-3871438.m3u8?txSecret=0e363fa7bd0e4c6375bfde67cb70934e&txTime=6A4401C8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "FBC Melgar vs Moquegua",
             "type": "live_event",
             "league": "Peru Copa",
@@ -372,90 +434,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/EOOO.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/EOOO.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Crvena zvezda vs Slovan Bratislava",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Crvena zvezda vs Slovan Bratislava.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/IDDDDQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/IDDDDQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "FK Panevezys vs Suduva",
-            "type": "live_event",
-            "league": "Lithuania Toplyga",
-            "time": "16:45",
-            "page_link": "http://www.fawanews.sc/FK Panevezys vs Suduva.html",
-            "image_url": "https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/IDDDDQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/IDDDDQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "FA Siauliai vs Transinvest",
-            "type": "live_event",
-            "league": "Lithuania Toplyga",
-            "time": "16:30",
-            "page_link": "http://www.fawanews.sc/FA Siauliai vs Transinvest.html",
-            "image_url": "https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/IDDDDQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/IDDDDQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Italy U19 vs Serbia U19",
-            "type": "live_event",
-            "league": "Euro U19",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Italy U19 vs Serbia U19.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2058864755708739584/6a33PC_Q_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/IDDDDQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/IDDDDQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Jelgava vs Grobina",
-            "type": "live_event",
-            "league": "Latvia Virsliga",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Jelgava vs Grobina.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/IDDDDQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/IDDDDQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Auda vs Riga FC",
-            "type": "live_event",
-            "league": "Latvia Virsliga",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Auda vs Riga FC.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/IDDDD.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/IDDDD.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
