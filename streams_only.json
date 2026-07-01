@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-01T02:50:26.123500",
-    "total_with_streams": 32,
+    "fetched_at": "2026-07-01T07:03:26.774685",
+    "total_with_streams": 33,
     "events_with_streams": [
         {
             "name": "Mexico vs Ecuador --- ENG",
@@ -56,6 +56,24 @@
                 {
                     "original_url": "http://193.47.62.42/hls/XCZzsssQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/XCZzsssQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Mexico vs Ecuador --- FR HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "02:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Mexico_vs_Ecuador_fr_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459723.m3u8?txSecret=b163108b84b6d039d68df509349b1e78&txTime=6A45D3B8",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459723.m3u8?txSecret=b163108b84b6d039d68df509349b1e78&txTime=6A45D3B8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459723.m3u8?txSecret=b163108b84b6d039d68df509349b1e78&txTime=6A45D3B8",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459723.m3u8?txSecret=b163108b84b6d039d68df509349b1e78&txTime=6A45D3B8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
