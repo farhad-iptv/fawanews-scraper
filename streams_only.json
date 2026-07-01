@@ -1,8 +1,444 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-01T13:31:20.967413",
-    "total_with_streams": 19,
+    "fetched_at": "2026-07-01T16:15:51.748708",
+    "total_with_streams": 41,
     "events_with_streams": [
+        {
+            "name": "England vs DR Congo --- ENG",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_DR_Congo_eng.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/HXCZzsss.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/HXCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/HXCZzsss.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HXCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/HXCZzsss.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/HXCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/HXCZzsss.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/HXCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.42/hls/HXCZzsss.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/HXCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs DR Congo --- ENG HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_DR_Congo_eng_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/HXCZzsssQ.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/HXCZzsssQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/HXCZzsssQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HXCZzsssQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/HXCZzsssQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/HXCZzsssQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.42/hls/HXCZzsssQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/HXCZzsssQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs DR Congo --- FR HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_DR_Congo_fr_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459724.m3u8?txSecret=762a90e4272acc41d63530b5d4182a5b&txTime=6A468830",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459724.m3u8?txSecret=762a90e4272acc41d63530b5d4182a5b&txTime=6A468830|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459724.m3u8?txSecret=762a90e4272acc41d63530b5d4182a5b&txTime=6A468830",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459724.m3u8?txSecret=762a90e4272acc41d63530b5d4182a5b&txTime=6A468830|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs DR Congo --- HD 1",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_DR_Congo_hd1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/cctv5.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/cctv5.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/cctv5.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/cctv5.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs DR Congo --- SWAHILI",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_DR_Congo_swa.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/HXCZckkk.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/HXCZckkk.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/HXCZckkk.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HXCZckkk.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/HXCZckkk.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/HXCZckkk.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/HXCZckkk.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/HXCZckkk.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs DR Congo --- FR",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_DR_Congo_fr.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/HXCZckkkq.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/HXCZckkkq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/HXCZckkkq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HXCZckkkq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/HXCZckkkq.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/HXCZckkkq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/HXCZckkkq.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/HXCZckkkq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs DR Congo --- SWE",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_DR_Congo_swe.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/HXCZckkkqq.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/HXCZckkkqq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/HXCZckkkqq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HXCZckkkqq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/HXCZckkkqq.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/HXCZckkkqq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/HXCZckkkqq.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/HXCZckkkqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs DR Congo --- NL",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_DR_Congo_nl.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/HXCZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/HXCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/HXCZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HXCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/HXCZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/HXCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/HXCZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/HXCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs DR Congo --- ES",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_DR_Congo_es.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/HXCZckkkqqq.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/HXCZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/HXCZckkkqqq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HXCZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/HXCZckkkqqq.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/HXCZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/HXCZckkkqqq.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/HXCZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs DR Congo --- AR",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_DR_Congo_ar.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/HXCZckkkqr.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/HXCZckkkqr.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/HXCZckkkqr.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HXCZckkkqr.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/HXCZckkkqr.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/HXCZckkkqr.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/HXCZckkkqr.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/HXCZckkkqr.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs DR Congo --- CN HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_DR_Congo_cn_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
+                    "m3u_url": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
+                    "m3u_url": "http://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Iberia 1999 vs Torpedo Kutaisi",
+            "type": "live_event",
+            "league": "Georgia Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Iberia 1999 vs Torpedo Kutaisi.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1825848604407275520/wi-U3cyM_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/lrrrQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/lrrrQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Baltimore Orioles vs Chicago White Sox",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "17:35",
+            "page_link": "http://www.fawanews.sc/Baltimore Orioles vs Chicago White Sox.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/lrrrQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/lrrrQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Celje vs Hajduk Split",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "17:15",
+            "page_link": "http://www.fawanews.sc/Celje vs Hajduk Split.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4564490.m3u8?txSecret=a9dc4b9ec706f56c16408310bf46a42e&txTime=6A468B00",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4564490.m3u8?txSecret=a9dc4b9ec706f56c16408310bf46a42e&txTime=6A468B00|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4564490.m3u8?txSecret=a9dc4b9ec706f56c16408310bf46a42e&txTime=6A468B00",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4564490.m3u8?txSecret=a9dc4b9ec706f56c16408310bf46a42e&txTime=6A468B00|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "HJK vs Ilves",
+            "type": "live_event",
+            "league": "Finland Cup",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/HJK vs Ilves.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/lrrrQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/lrrrQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Dinamo Tbilisi vs Dila Gori",
+            "type": "live_event",
+            "league": "Georgia Cup",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Dinamo Tbilisi vs Dila Gori.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1825848604407275520/wi-U3cyM_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/lrrrQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/lrrrQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Winterthur vs St Gallen",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Winterthur vs St Gallen.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4565246.m3u8?txSecret=ed78a94b7cd3a95b09109ba85a55ca53&txTime=6A468B00",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4565246.m3u8?txSecret=ed78a94b7cd3a95b09109ba85a55ca53&txTime=6A468B00|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4565246.m3u8?txSecret=ed78a94b7cd3a95b09109ba85a55ca53&txTime=6A468B00",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4565246.m3u8?txSecret=ed78a94b7cd3a95b09109ba85a55ca53&txTime=6A468B00|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "PAOK vs Beveren",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/PAOK vs Beveren.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4564947.m3u8?txSecret=01deaaefa8f946b15552fe44dc0be8c4&txTime=6A468830",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4564947.m3u8?txSecret=01deaaefa8f946b15552fe44dc0be8c4&txTime=6A468830|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4564947.m3u8?txSecret=01deaaefa8f946b15552fe44dc0be8c4&txTime=6A468830",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4564947.m3u8?txSecret=01deaaefa8f946b15552fe44dc0be8c4&txTime=6A468830|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tiszakecske vs Brno",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Tiszakecske vs Brno.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinxie.com/live/9gklzi1do60um7x_ae25915497fd4aab66170fbe4a6bffc1.m3u8",
+                    "m3u_url": "https://live.kinxie.com/live/9gklzi1do60um7x_ae25915497fd4aab66170fbe4a6bffc1.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.kinxie.com/live/9gklzi1do60um7x_ae25915497fd4aab66170fbe4a6bffc1.m3u8",
+                    "m3u_url": "http://live.kinxie.com/live/9gklzi1do60um7x_ae25915497fd4aab66170fbe4a6bffc1.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Spain U19 W vs Iceland U19 W",
+            "type": "live_event",
+            "league": "Euro U19",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Spain U19 W vs Iceland U19 W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2058864755708739584/6a33PC_Q_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/lrrrQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/lrrrQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tukums 2000 vs Super Nova",
+            "type": "live_event",
+            "league": "Latvia Virsliga",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Tukums 2000 vs Super Nova.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/lrrrQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/lrrrQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Zenit vs Dynamo Makhachkala",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Zenit vs Dynamo Makhachkala.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/lrrr.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/lrrr.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Horse Racing --- CH 1",
             "type": "live_event",
