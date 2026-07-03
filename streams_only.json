@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-03T22:54:17.222002",
-    "total_with_streams": 38,
+    "fetched_at": "2026-07-03T23:56:13.670087",
+    "total_with_streams": 39,
     "events_with_streams": [
         {
             "name": "Argentina vs Cape Verde --- ENG",
@@ -82,6 +82,24 @@
             ]
         },
         {
+            "name": "Argentina vs Cape Verde --- HD 1",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "23:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Argentina_vs_Cape_Verde_hd1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MvYMRSYT2Uyo5ExEF.m3u8?txSecret=876a46b350bc949d1e3434be855b7063&txTime=19F2B3EA25B",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvYMRSYT2Uyo5ExEF.m3u8?txSecret=876a46b350bc949d1e3434be855b7063&txTime=19F2B3EA25B|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MvYMRSYT2Uyo5ExEF.m3u8?txSecret=876a46b350bc949d1e3434be855b7063&txTime=19F2B3EA25B",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvYMRSYT2Uyo5ExEF.m3u8?txSecret=876a46b350bc949d1e3434be855b7063&txTime=19F2B3EA25B|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Argentina vs Cape Verde --- FR",
             "type": "live_event",
             "league": "FIFA World Cup",
@@ -104,24 +122,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/dTHXCZckkkq.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/dTHXCZckkkq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Argentina vs Cape Verde --- HD 1",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "23:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Argentina_vs_Cape_Verde_hd1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live2.jxa76.com/live/sd-6MvYMRSYT2Uyo5ExEF.m3u8?txSecret=876a46b350bc949d1e3434be855b7063&txTime=19F2B3EA25B",
-                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvYMRSYT2Uyo5ExEF.m3u8?txSecret=876a46b350bc949d1e3434be855b7063&txTime=19F2B3EA25B|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live2.jxa76.com/live/sd-6MvYMRSYT2Uyo5ExEF.m3u8?txSecret=876a46b350bc949d1e3434be855b7063&txTime=19F2B3EA25B",
-                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvYMRSYT2Uyo5ExEF.m3u8?txSecret=876a46b350bc949d1e3434be855b7063&txTime=19F2B3EA25B|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -244,20 +244,6 @@
                 {
                     "original_url": "http://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
                     "m3u_url": "http://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boxing : Scull vs Castillo",
-            "type": "live_event",
-            "league": "Boxing",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Boxing_Scull vs Castillo.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/fzzz.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/fzzz.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -420,7 +406,7 @@
             ]
         },
         {
-            "name": "Miami Heat vs San Antonio Spurs",
+            "name": "Miami Heat vs San Antonio Spurs --- SD",
             "type": "live_event",
             "league": "NBA Basketball",
             "time": "01:00",
@@ -430,6 +416,24 @@
                 {
                     "original_url": "http://193.47.62.42/hls/EKKK.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/EKKK.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Miami Heat vs San Antonio Spurs --- HD",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/Miami Heat vs San Antonio Spurs --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923311.m3u8?txSecret=35bebda442c8d35f7138d014dd4e7a03&txTime=6A499430",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923311.m3u8?txSecret=35bebda442c8d35f7138d014dd4e7a03&txTime=6A499430|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923311.m3u8?txSecret=35bebda442c8d35f7138d014dd4e7a03&txTime=6A499430",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923311.m3u8?txSecret=35bebda442c8d35f7138d014dd4e7a03&txTime=6A499430|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -444,6 +448,24 @@
                 {
                     "original_url": "http://193.47.62.42/hls/OTTTQQQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/OTTTQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "WWE Friday Night Smackdown --- CH 2",
+            "type": "live_event",
+            "league": "WWE Wrestling",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/WWE Friday Night Smackdown --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+                    "m3u_url": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+                    "m3u_url": "http://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -470,12 +492,12 @@
             "image_url": "https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://hls.live123.fans/live/3868622.m3u8",
-                    "m3u_url": "https://hls.live123.fans/live/3868622.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-2-3868622.m3u8?txSecret=22c1067bb3ece1844c306c9e59915256&txTime=6A498E90",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-2-3868622.m3u8?txSecret=22c1067bb3ece1844c306c9e59915256&txTime=6A498E90|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://hls.live123.fans/live/3868622.m3u8",
-                    "m3u_url": "http://hls.live123.fans/live/3868622.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-2-3868622.m3u8?txSecret=22c1067bb3ece1844c306c9e59915256&txTime=6A498E90",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-2-3868622.m3u8?txSecret=22c1067bb3ece1844c306c9e59915256&txTime=6A498E90|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -488,12 +510,12 @@
             "image_url": "https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://hls.live123.fans/live/3887928.m3u8",
-                    "m3u_url": "https://hls.live123.fans/live/3887928.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-2-3887928.m3u8?txSecret=f38db3473819056bc3186189a1a46909&txTime=6A498E90",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-2-3887928.m3u8?txSecret=f38db3473819056bc3186189a1a46909&txTime=6A498E90|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://hls.live123.fans/live/3887928.m3u8",
-                    "m3u_url": "http://hls.live123.fans/live/3887928.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-2-3887928.m3u8?txSecret=f38db3473819056bc3186189a1a46909&txTime=6A498E90",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-2-3887928.m3u8?txSecret=f38db3473819056bc3186189a1a46909&txTime=6A498E90|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -506,12 +528,12 @@
             "image_url": "https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://hls.live123.fans/live/3887937.m3u8",
-                    "m3u_url": "https://hls.live123.fans/live/3887937.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-2-3887937.m3u8?txSecret=064a2516800f5cee239a3f3652c15275&txTime=6A498E90",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-2-3887937.m3u8?txSecret=064a2516800f5cee239a3f3652c15275&txTime=6A498E90|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://hls.live123.fans/live/3887937.m3u8",
-                    "m3u_url": "http://hls.live123.fans/live/3887937.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-2-3887937.m3u8?txSecret=064a2516800f5cee239a3f3652c15275&txTime=6A498E90",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-2-3887937.m3u8?txSecret=064a2516800f5cee239a3f3652c15275&txTime=6A498E90|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -526,6 +548,24 @@
                 {
                     "original_url": "http://193.47.62.42/hls/OTTTQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/OTTTQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "New York Liberty W vs Minnesota Lynx W --- HD",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "00:30",
+            "page_link": "http://www.fawanews.sc/New York Liberty W vs Minnesota Lynx W --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3909163.m3u8?txSecret=22e459a85eabcf075384a5abc62c9da1&txTime=6A499598",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3909163.m3u8?txSecret=22e459a85eabcf075384a5abc62c9da1&txTime=6A499598|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3909163.m3u8?txSecret=22e459a85eabcf075384a5abc62c9da1&txTime=6A499598",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3909163.m3u8?txSecret=22e459a85eabcf075384a5abc62c9da1&txTime=6A499598|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -552,12 +592,12 @@
             "image_url": "https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://hls.live123.fans/live/3867369.m3u8",
-                    "m3u_url": "https://hls.live123.fans/live/3867369.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-2-3867369.m3u8?txSecret=0cc400fdd36ead3ff38638684b01cde2&txTime=6A498E18",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-2-3867369.m3u8?txSecret=0cc400fdd36ead3ff38638684b01cde2&txTime=6A498E18|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://hls.live123.fans/live/3867369.m3u8",
-                    "m3u_url": "http://hls.live123.fans/live/3867369.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-2-3867369.m3u8?txSecret=0cc400fdd36ead3ff38638684b01cde2&txTime=6A498E18",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-2-3867369.m3u8?txSecret=0cc400fdd36ead3ff38638684b01cde2&txTime=6A498E18|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -628,20 +668,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/UUUUQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/UUUUQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Chicago Cubs vs St Louis Cardinals",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "21:05",
-            "page_link": "http://www.fawanews.sc/Chicago Cubs vs St Louis Cardinals.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/ESSSZ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/ESSSZ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
