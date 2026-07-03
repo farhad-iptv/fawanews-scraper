@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-03T17:12:31.518602",
-    "total_with_streams": 60,
+    "fetched_at": "2026-07-03T18:44:59.198440",
+    "total_with_streams": 35,
     "events_with_streams": [
         {
             "name": "Australia vs Egypt --- ENG",
@@ -78,32 +78,6 @@
             ]
         },
         {
-            "name": "Australia vs Egypt --- SWAHILI",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Australia_vs_Egypt_swa.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.47/hls/dTHXCZckkk.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/dTHXCZckkk.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.59/hls/dTHXCZckkk.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/dTHXCZckkk.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.51/hls/dTHXCZckkk.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/dTHXCZckkk.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/dTHXCZckkk.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/dTHXCZckkk.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Australia vs Egypt --- FR",
             "type": "live_event",
             "league": "FIFA World Cup",
@@ -126,6 +100,50 @@
                 {
                     "original_url": "http://193.47.62.55/hls/dTHXCZckkkq.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/dTHXCZckkkq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Australia vs Egypt --- HD 1",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Australia_vs_Egypt_hd1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pulltx.bldoll.com/live/sd-6MvYMRSWnEwiwmGNYv.m3u8?txSecret=6b8b8ebdee3a42a9bba0321a9b08e8ba&txTime=6A4D09E9",
+                    "m3u_url": "https://pulltx.bldoll.com/live/sd-6MvYMRSWnEwiwmGNYv.m3u8?txSecret=6b8b8ebdee3a42a9bba0321a9b08e8ba&txTime=6A4D09E9|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pulltx.bldoll.com/live/sd-6MvYMRSWnEwiwmGNYv.m3u8?txSecret=6b8b8ebdee3a42a9bba0321a9b08e8ba&txTime=6A4D09E9",
+                    "m3u_url": "http://pulltx.bldoll.com/live/sd-6MvYMRSWnEwiwmGNYv.m3u8?txSecret=6b8b8ebdee3a42a9bba0321a9b08e8ba&txTime=6A4D09E9|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Australia vs Egypt --- AR",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Australia_vs_Egypt_ar.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/dTHXCZckkkqr.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/dTHXCZckkkqr.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/dTHXCZckkkqr.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/dTHXCZckkkqr.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/dTHXCZckkkqr.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/dTHXCZckkkqr.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/dTHXCZckkkqr.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/dTHXCZckkkqr.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -178,32 +196,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/dTHXCZckkkqqqq.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/dTHXCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Australia vs Egypt --- AR",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Australia_vs_Egypt_ar.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.47/hls/dTHXCZckkkqr.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/dTHXCZckkkqr.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.59/hls/dTHXCZckkkqr.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/dTHXCZckkkqr.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.51/hls/dTHXCZckkkqr.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/dTHXCZckkkqr.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/dTHXCZckkkqr.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/dTHXCZckkkqr.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -346,6 +338,20 @@
                 {
                     "original_url": "http://193.47.62.42/hls/RARARAQQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/RARARAQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Flamengo RJ vs River Plate",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Flamengo RJ vs River Plate.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/fzzzz.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/fzzzz.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -514,158 +520,6 @@
             ]
         },
         {
-            "name": "Raufoss vs Strommen",
-            "type": "live_event",
-            "league": "Norway OBOS-ligaen",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Raufoss vs Strommen.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/JTTTQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/JTTTQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Kongsvinger vs Sogndal",
-            "type": "live_event",
-            "league": "Norway OBOS-ligaen",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Kongsvinger vs Sogndal.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/JTTTQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/JTTTQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Estonia vs Slovenia",
-            "type": "live_event",
-            "league": "Basketball WC Qualifs",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Estonia vs Slovenia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.gkykp.com/live/sd-2-3871046.m3u8?txSecret=6ea97dd6e4a3c4dab560acc28c0c4f39&txTime=6A491A50",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-2-3871046.m3u8?txSecret=6ea97dd6e4a3c4dab560acc28c0c4f39&txTime=6A491A50|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.gkykp.com/live/sd-2-3871046.m3u8?txSecret=6ea97dd6e4a3c4dab560acc28c0c4f39&txTime=6A491A50",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-2-3871046.m3u8?txSecret=6ea97dd6e4a3c4dab560acc28c0c4f39&txTime=6A491A50|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Austria vs Poland",
-            "type": "live_event",
-            "league": "Basketball WC Qualifs",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Austria vs Poland.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.gkykp.com/live/sd-2-3871033.m3u8?txSecret=17549271512f0ef83af09680700720d0&txTime=6A491A50",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-2-3871033.m3u8?txSecret=17549271512f0ef83af09680700720d0&txTime=6A491A50|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.gkykp.com/live/sd-2-3871033.m3u8?txSecret=17549271512f0ef83af09680700720d0&txTime=6A491A50",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-2-3871033.m3u8?txSecret=17549271512f0ef83af09680700720d0&txTime=6A491A50|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Dziugas Telsiai vs Kauno Zalgiris",
-            "type": "live_event",
-            "league": "Lithuania Toplyga",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Dziugas Telsiai vs Kauno Zalgiris.html",
-            "image_url": "https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/JTTT.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/JTTT.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Riga FC vs Jelgava",
-            "type": "live_event",
-            "league": "Latvia Virsliga",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Riga FC vs Jelgava.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/KBBBQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/KBBBQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Nomme Utd vs Kalju",
-            "type": "live_event",
-            "league": "Estonia Meistriliiga",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Nomme Utd vs Kalju.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1977991086506225664/voApDdum_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/KBBBQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/KBBBQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "KTP vs Jippo",
-            "type": "live_event",
-            "league": "Finland Ykkosliiga",
-            "time": "16:30",
-            "page_link": "http://www.fawanews.sc/KTP vs Jippo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/KBBBQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/KBBBQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "JaPS vs SJK Akatemia",
-            "type": "live_event",
-            "league": "Finland Ykkosliiga",
-            "time": "16:30",
-            "page_link": "http://www.fawanews.sc/JaPS vs SJK Akatemia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/KBBBQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/KBBBQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Finland vs Hungary",
-            "type": "live_event",
-            "league": "Basketball WC Qualifs",
-            "time": "16:30",
-            "page_link": "http://www.fawanews.sc/Finland vs Hungary.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.gkykp.com/live/sd-2-3871025.m3u8?txSecret=82cb90a22c199dc839469c18a7391c3c&txTime=6A491A50",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-2-3871025.m3u8?txSecret=82cb90a22c199dc839469c18a7391c3c&txTime=6A491A50|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.gkykp.com/live/sd-2-3871025.m3u8?txSecret=82cb90a22c199dc839469c18a7391c3c&txTime=6A491A50",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-2-3871025.m3u8?txSecret=82cb90a22c199dc839469c18a7391c3c&txTime=6A491A50|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Golf US Senior Open",
             "type": "live_event",
             "league": "Golf",
@@ -694,20 +548,6 @@
             ]
         },
         {
-            "name": "Ladies European Tour Hulencourt",
-            "type": "live_event",
-            "league": "Golf",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Ladies European Tour Hulencourt.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572183651739123712/LtRJRSYv_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/HAHAHAEEQQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/HAHAHAEEQQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Golf PGA Tour John Deere Classic",
             "type": "live_event",
             "league": "Golf PGA",
@@ -718,48 +558,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/UUUU.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/UUUU.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Horse Racing --- CH 1",
-            "type": "live_event",
-            "league": "Horse Racing",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Horse Racing --- CH 2",
-            "type": "live_event",
-            "league": "Horse Racing",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Golf BMW International Open",
-            "type": "live_event",
-            "league": "Golf",
-            "time": "11:30",
-            "page_link": "http://www.fawanews.sc/Golf BMW International Open.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1934409407993139200/EnyJX2wL_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/ZPPPQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/ZPPPQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -792,198 +590,30 @@
             ]
         },
         {
-            "name": "Tennis Wimbledon --- Court 2",
+            "name": "Horse Racing --- CH 1",
             "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.42/hls/FQQQZZZZZZZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/FQQQZZZZZZZZZ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Tennis Wimbledon --- Court 3",
+            "name": "Horse Racing --- CH 2",
             "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.42/hls/FQQQZZZZZZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/FQQQZZZZZZZZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis Wimbledon --- Court 12",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 3.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/FQQQZZZZZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/FQQQZZZZZZZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis Wimbledon --- Court 18",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 4.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/FQQQZZZZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/FQQQZZZZZZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis Wimbledon --- Court 4",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 5.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/FQQQZZZX.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/FQQQZZZX.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis Wimbledon --- Court 5",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 6.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/FQQQZZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/FQQQZZZZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis Wimbledon --- Court 6",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 7.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/FQQQZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/FQQQZZZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis Wimbledon --- Court 8",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 8.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/FQQQZZ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/FQQQZZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis Wimbledon --- Court 14",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 9.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/FQQQZ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/FQQQZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis Wimbledon --- Court 15",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 10.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/FQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/FQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis Wimbledon --- Court 16",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 11.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/FQQQX.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/FQQQX.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis Wimbledon --- Court 17",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis Wimbledon --- CH 12.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/FQQQXX.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/FQQQXX.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Snooker Champions League --- Table 1",
-            "type": "live_event",
-            "league": "Snooker",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Snooker Champions League --- Table 1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/taaaQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/taaaQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Snooker Champions League --- Table 2",
-            "type": "live_event",
-            "league": "Snooker",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Snooker Champions League --- Table 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/taaa.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/taaa.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
