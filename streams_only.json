@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-04T23:28:48.112595",
-    "total_with_streams": 31,
+    "fetched_at": "2026-07-05T01:14:45.631069",
+    "total_with_streams": 33,
     "events_with_streams": [
         {
             "name": "Boxing : Mason vs Bell",
@@ -14,6 +14,62 @@
                 {
                     "original_url": "http://193.47.62.59/hls/HTTTTT.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/HTTTTT.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Port Adelaide Power vs North Melbourne",
+            "type": "live_event",
+            "league": "AFL Aussie Rules",
+            "time": "07:40",
+            "page_link": "http://www.fawanews.sc/Port Adelaide Power vs North Melbourne.html",
+            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/RPPPQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/RPPPQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Newcastle Knights vs Dolphins",
+            "type": "live_event",
+            "league": "NRL",
+            "time": "07:05",
+            "page_link": "http://www.fawanews.sc/Newcastle Knights vs Dolphins.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/RPPP.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/RPPP.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Essendon Bombers vs St Kilda Saints",
+            "type": "live_event",
+            "league": "AFL Aussie Rules",
+            "time": "06:15",
+            "page_link": "http://www.fawanews.sc/Essendon Bombers vs St Kilda Saints.html",
+            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/HCCCZ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/HCCCZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Parramatta Eels vs Manly Sea Eagles",
+            "type": "live_event",
+            "league": "NRL",
+            "time": "05:00",
+            "page_link": "http://www.fawanews.sc/Parramatta Eels vs Manly Sea Eagles.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/RPPP.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/RPPP.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -88,6 +144,20 @@
             ]
         },
         {
+            "name": "Los Angeles Knight Riders vs MI New York",
+            "type": "live_event",
+            "league": "Cricket MLC",
+            "time": "02:30",
+            "page_link": "http://www.fawanews.sc/Los Angeles Knight Riders vs MI New York.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1795269942063108096/J6NAZH8s_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/NAAAQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/NAAAQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Canada vs Spain",
             "type": "live_event",
             "league": "World Rugby Nations Cup",
@@ -144,20 +214,6 @@
             ]
         },
         {
-            "name": "Atl Morelia vs Cruz Azul",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "01:30",
-            "page_link": "http://www.fawanews.sc/Atl Morelia vs Cruz Azul.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/HCCC.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/HCCC.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "U Catolica vs Copiapo",
             "type": "live_event",
             "league": "Chile Copa",
@@ -180,12 +236,12 @@
             "image_url": "https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://hls.live123.fans/live/3869045.m3u8",
-                    "m3u_url": "https://hls.live123.fans/live/3869045.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-2-3869045.m3u8?txSecret=4490982ad81edc2592216d02ae41ad57&txTime=6A4AF8E8",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-2-3869045.m3u8?txSecret=4490982ad81edc2592216d02ae41ad57&txTime=6A4AF8E8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://hls.live123.fans/live/3869045.m3u8",
-                    "m3u_url": "http://hls.live123.fans/live/3869045.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-2-3869045.m3u8?txSecret=4490982ad81edc2592216d02ae41ad57&txTime=6A4AF8E8",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-2-3869045.m3u8?txSecret=4490982ad81edc2592216d02ae41ad57&txTime=6A4AF8E8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -382,34 +438,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/jvvv.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/jvvv.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Chile vs Romania",
-            "type": "live_event",
-            "league": "World Rugby Nations Cup",
-            "time": "23:00",
-            "page_link": "http://www.fawanews.sc/Chile vs Romania.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/YOOO.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/YOOO.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Deportes Iquique vs Coquimbo",
-            "type": "live_event",
-            "league": "Chile Copa",
-            "time": "23:00",
-            "page_link": "http://www.fawanews.sc/Deportes Iquique vs Coquimbo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/JKKKQQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/JKKKQQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
