@@ -1,10 +1,64 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-05T10:34:47.250851",
-    "total_with_streams": 21,
+    "fetched_at": "2026-07-05T12:09:10.586992",
+    "total_with_streams": 24,
     "events_with_streams": [
         {
-            "name": "Goteborg vs AIK",
+            "name": "Formula 1 GP Great Britain --- ENG SD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Great Britain_race.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/ZZZZZ.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/ZZZZZ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.53/hls/ZZZZZ.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/ZZZZZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Great Britain --- ENG HD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Great Britain_race_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/ZZZZZX.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/ZZZZZX.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.53/hls/ZZZZZX.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/ZZZZZX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Great Britain --- RU HD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Great Britain_race_ru.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ced6f357-74b6-4ec8-809e-528429c195a7/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ced6f357-74b6-4ec8-809e-528429c195a7/master.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ced6f357-74b6-4ec8-809e-528429c195a7/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ced6f357-74b6-4ec8-809e-528429c195a7/master.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Goteborg vs AIK --- SD",
             "type": "live_event",
             "league": "Sweden Allsvenskan",
             "time": "13:00",
@@ -18,7 +72,21 @@
             ]
         },
         {
-            "name": "Kalmar vs Orgryte",
+            "name": "Goteborg vs AIK --- HD",
+            "type": "live_event",
+            "league": "Sweden Allsvenskan",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Goteborg vs AIK --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.58/hls/YFFFQQQqqQ.m3u8",
+                    "m3u_url": "http://193.47.62.58/hls/YFFFQQQqqQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kalmar vs Orgryte --- SD",
             "type": "live_event",
             "league": "Sweden Allsvenskan",
             "time": "13:00",
@@ -28,6 +96,20 @@
                 {
                     "original_url": "http://193.47.62.45/hls/YFFFQQQqqQQ.m3u8",
                     "m3u_url": "http://193.47.62.45/hls/YFFFQQQqqQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kalmar vs Orgryte --- HD",
+            "type": "live_event",
+            "league": "Sweden Allsvenskan",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Kalmar vs Orgryte --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.58/hls/YFFFQQQqqQQ.m3u8",
+                    "m3u_url": "http://193.47.62.58/hls/YFFFQQQqqQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -242,20 +324,6 @@
             ]
         },
         {
-            "name": "FIA Formula 2 Great Britain",
-            "type": "live_event",
-            "league": "FIA Formula 2",
-            "time": "11:10",
-            "page_link": "http://www.fawanews.sc/FIA Formula 2 Great Britain.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2061372235508494338/LKV69QHd_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/rararara.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/rararara.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Motocross World Championship",
             "type": "live_event",
             "league": "Motocross",
@@ -266,24 +334,6 @@
                 {
                     "original_url": "http://193.47.62.59/hls/VAAA.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/VAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Rwanda vs Nigeria",
-            "type": "live_event",
-            "league": "Basketball WC Qualifs",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Rwanda vs Nigeria.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.gkykp.com/live/sd-2-3887743.m3u8?txSecret=4ed2f93a96da45fd80a391cec9fe30d4&txTime=6A4B71D8",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-2-3887743.m3u8?txSecret=4ed2f93a96da45fd80a391cec9fe30d4&txTime=6A4B71D8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.gkykp.com/live/sd-2-3887743.m3u8?txSecret=4ed2f93a96da45fd80a391cec9fe30d4&txTime=6A4B71D8",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-2-3887743.m3u8?txSecret=4ed2f93a96da45fd80a391cec9fe30d4&txTime=6A4B71D8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
