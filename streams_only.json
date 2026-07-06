@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-06T02:01:15.432791",
+    "fetched_at": "2026-07-06T06:50:21.955103",
     "total_with_streams": 19,
     "events_with_streams": [
         {
@@ -292,7 +292,21 @@
             ]
         },
         {
-            "name": "New Zealand vs Guam",
+            "name": "New Zealand vs Guam --- SD",
+            "type": "live_event",
+            "league": "Basketball WC Qualifs",
+            "time": "08:00",
+            "page_link": "http://www.fawanews.sc/New Zealand vs Guam --- SD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/DKKK.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/DKKK.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "New Zealand vs Guam --- HD",
             "type": "live_event",
             "league": "Basketball WC Qualifs",
             "time": "08:00",
@@ -310,7 +324,21 @@
             ]
         },
         {
-            "name": "China vs Chinese Taipei",
+            "name": "China vs Chinese Taipei --- SD",
+            "type": "live_event",
+            "league": "Basketball WC Qualifs",
+            "time": "07:00",
+            "page_link": "http://www.fawanews.sc/China vs Chinese Taipei --- SD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/DKKKQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/DKKKQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "China vs Chinese Taipei --- HD",
             "type": "live_event",
             "league": "Basketball WC Qualifs",
             "time": "07:00",
@@ -352,38 +380,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/ZAZAZAZ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/ZAZAZAZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Panama vs Argentina",
-            "type": "live_event",
-            "league": "Basketball WC Qualifs",
-            "time": "01:10",
-            "page_link": "http://www.fawanews.sc/Panama vs Argentina.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.gkykp.com/live/sd-2-3868798.m3u8?txSecret=3dca90374098a42f6fc4d9765abae0ee&txTime=6A4C35C8",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-2-3868798.m3u8?txSecret=3dca90374098a42f6fc4d9765abae0ee&txTime=6A4C35C8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.gkykp.com/live/sd-2-3868798.m3u8?txSecret=3dca90374098a42f6fc4d9765abae0ee&txTime=6A4C35C8",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-2-3868798.m3u8?txSecret=3dca90374098a42f6fc4d9765abae0ee&txTime=6A4C35C8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Limache vs San Marcos de Arica",
-            "type": "live_event",
-            "league": "Chile Copa",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Limache vs San Marcos de Arica.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/GGGGFQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/GGGGFQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
