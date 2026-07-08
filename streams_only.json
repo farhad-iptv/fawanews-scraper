@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-07T23:45:17.631029",
-    "total_with_streams": 23,
+    "fetched_at": "2026-07-08T01:26:55.167129",
+    "total_with_streams": 25,
     "events_with_streams": [
         {
             "name": "Los Angeles Dodgers vs Colorado Rockies",
@@ -70,6 +70,24 @@
                 {
                     "original_url": "http://193.47.62.42/hls/TKKKQQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/TKKKQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Utah Jazz vs Oklahoma City Thunder --- HD",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "02:00",
+            "page_link": "http://www.fawanews.sc/Utah Jazz vs Oklahoma City Thunder --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923393.m3u8?txSecret=36a409a4e6a71226e0152085c48f20e2&txTime=6A4EF038",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923393.m3u8?txSecret=36a409a4e6a71226e0152085c48f20e2&txTime=6A4EF038|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923393.m3u8?txSecret=36a409a4e6a71226e0152085c48f20e2&txTime=6A4EF038",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923393.m3u8?txSecret=36a409a4e6a71226e0152085c48f20e2&txTime=6A4EF038|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -242,6 +260,20 @@
                 {
                     "original_url": "http://193.47.62.42/hls/IGGGQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/IGGGQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "GV San Jose vs Tomayapo",
+            "type": "live_event",
+            "league": "Bolivia Division Profesional",
+            "time": "00:00",
+            "page_link": "http://www.fawanews.sc/GV San Jose vs Tomayapo.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/IGGG.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/IGGG.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
