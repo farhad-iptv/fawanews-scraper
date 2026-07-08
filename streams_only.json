@@ -1,8 +1,36 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-08T18:53:14.284991",
-    "total_with_streams": 31,
+    "fetched_at": "2026-07-08T20:16:18.748300",
+    "total_with_streams": 12,
     "events_with_streams": [
+        {
+            "name": "San Francisco Giants vs Toronto Blue Jays",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "20:45",
+            "page_link": "http://www.fawanews.sc/San Francisco Giants vs Toronto Blue Jays.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ZRRR.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ZRRR.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Flamengo RJ vs Lausanne",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "20:30",
+            "page_link": "http://www.fawanews.sc/Flamengo RJ vs Lausanne.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ZRRRq.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ZRRRq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "CS Saint-Laurent vs Forge",
             "type": "live_event",
@@ -105,279 +133,13 @@
             "name": "FC Trenkwalder Admira vs Fenerbahce",
             "type": "live_event",
             "league": "Friendly Match",
-            "time": "18:00",
+            "time": "18:30",
             "page_link": "http://www.fawanews.sc/FC Trenkwalder Admira vs Fenerbahce.html",
             "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
             "streams": [
                 {
                     "original_url": "http://193.47.62.42/hls/KVVVFQQqQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/KVVVFQQqQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Petrocub vs Egnatia",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Petrocub vs Egnatia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/ZEZEZEQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/ZEZEZEQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "ML Vitebsk vs Univ Craiova",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/ML Vitebsk vs Univ Craiova.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/ZEZEZEQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/ZEZEZEQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Flora vs Iberia 1999",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Flora vs Iberia 1999.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/ZEZEZE.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/ZEZEZE.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Sweden W vs Slovenia W",
-            "type": "live_event",
-            "league": "Volleyball European League",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Sweden W vs Slovenia W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/YUYUYUQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/YUYUYUQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Zira vs Torpedo Kutaisi",
-            "type": "live_event",
-            "league": "UEFA Conference League",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Zira vs Torpedo Kutaisi.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/YUYUYUQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/YUYUYUQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Zenit vs Neftchi Fargona",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Zenit vs Neftchi Fargona.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/KVVVFQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/KVVVFQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Spain U19 vs Croatia U19",
-            "type": "live_event",
-            "league": "Euro U19",
-            "time": "16:30",
-            "page_link": "http://www.fawanews.sc/Spain U19 vs Croatia U19.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2070179683623153665/J3LUoSoi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/YUYUYUQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/YUYUYUQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Slaven Belupo vs Csikszereda M Ciuc",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "16:30",
-            "page_link": "http://www.fawanews.sc/Slaven Belupo vs Csikszereda M Ciuc.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/KVVVFQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/KVVVFQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Finland vs Netherlands",
-            "type": "live_event",
-            "league": "Volleyball European League",
-            "time": "16:15",
-            "page_link": "http://www.fawanews.sc/Finland vs Netherlands.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/YUYUYUQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/YUYUYUQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Kairat Almaty vs Sutjeska",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Kairat Almaty vs Sutjeska.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/YUYUYUQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/YUYUYUQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Hartberg vs FC Brno",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Hartberg vs FC Brno.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/KVVVFQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/KVVVFQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Czech Republic W vs Germany W",
-            "type": "live_event",
-            "league": "Volleyball Nations League",
-            "time": "15:30",
-            "page_link": "http://www.fawanews.sc/Czech Republic W vs Germany W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/YUYUYU.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/YUYUYU.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Slovacko vs FK Zorya Luhansk",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Slovacko vs FK Zorya Luhansk.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/KVVVF.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/KVVVF.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Surrey W vs Warks W",
-            "type": "live_event",
-            "league": "Cricket Vitality Blast",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Surrey W vs Warks W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572134193521360896/daDaZqiT_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/KVVV.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/KVVV.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tanzania Prisons vs Mbeya City",
-            "type": "live_event",
-            "league": "Tanzania Ligi Kuu Bara",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Tanzania Prisons vs Mbeya City.html",
-            "image_url": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/XAXAXAQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/XAXAXAQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Denmark U19 vs Italy U19",
-            "type": "live_event",
-            "league": "Euro U19",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Denmark U19 vs Italy U19.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2070179683623153665/J3LUoSoi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/XAXAXA.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/XAXAXA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "China W vs Canada W",
-            "type": "live_event",
-            "league": "Volleyball Nations League",
-            "time": "13:20",
-            "page_link": "http://www.fawanews.sc/China W vs Canada W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/WAWAWAQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/WAWAWAQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis Wimbledon --- Center Court",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Tennis Wimbledon Center Court.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/WAWAWAQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/WAWAWAQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis Wimbledon --- Court 1",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Tennis Wimbledon Court 1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/WAWAWAQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/WAWAWAQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -406,34 +168,6 @@
                 {
                     "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
                     "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cycling Tour de France --- ENG",
-            "type": "live_event",
-            "league": "Cycling",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/Cycling Tour de France --- ENG.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/AUUUQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/AUUUQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cycling Tour de France --- BE NL",
-            "type": "live_event",
-            "league": "Cycling",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/Cycling Tour de France --- BE.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/AUUUQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/AUUUQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
