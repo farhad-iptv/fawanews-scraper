@@ -1,10 +1,136 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-09T10:17:55.791311",
-    "total_with_streams": 8,
+    "fetched_at": "2026-07-09T15:51:42.396855",
+    "total_with_streams": 19,
     "events_with_streams": [
         {
-            "name": "Tennis Wimbledon",
+            "name": "England vs India",
+            "type": "live_event",
+            "league": "Cricket T20 World Cup",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/England vs India.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FBBBQQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FBBBQQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Korona Kielce vs Omonia",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Korona Kielce vs Omonia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/dddd.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/dddd.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Qarabag vs Vestri",
+            "type": "live_event",
+            "league": "UEFA Europa League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Qarabag vs Vestri.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FBBBQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FBBBQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kalju vs Linfield",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Kalju vs Linfield.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FBBBQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FBBBQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Hegelmann vs Paide",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Hegelmann vs Paide.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FBBBQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FBBBQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FK Liepaja vs Decic",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/FK Liepaja vs Decic.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FBBBQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FBBBQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Dila Gori vs Virtus",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Dila Gori vs Virtus.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FBBBQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FBBBQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Alashkert vs Yelimay Semey",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Alashkert vs Yelimay Semey.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FBBBQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FBBBQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Atletic Escaldes vs Mornar Bar",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Atletic Escaldes vs Mornar Bar.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/FBBB.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/FBBB.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Wimbledon --- Center Court",
             "type": "live_event",
             "league": "Tennis Masters",
             "time": "13:30",
@@ -14,6 +140,34 @@
                 {
                     "original_url": "http://193.47.62.42/hls/TGGGQQq.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/TGGGQQq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis Wimbledon --- Court 1",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Tennis Wimbledon Finals --- Court 1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/TGGGQQqX.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/TGGGQQqX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf LPGA Amundi Evian Championship",
+            "type": "live_event",
+            "league": "Golf LPGA",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Golf LPGA Amundi Evian Championship.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1665698199661600769/nxoC7o2Q_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/TGGGQQqXQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/TGGGQQqXQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -74,30 +228,30 @@
             ]
         },
         {
-            "name": "Fremantle Dockers vs Sydney Swans",
+            "name": "Snooker Champions League --- Table 1",
             "type": "live_event",
-            "league": "AFL Aussie Rules",
+            "league": "Snooker",
             "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Fremantle Dockers vs Sydney Swans.html",
-            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Snooker Champions League --- Table 1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.42/hls/TGGGQQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/TGGGQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.42/hls/AUUUQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/AUUUQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Cronulla Sharks W vs Brisbane Broncos W",
+            "name": "Snooker Champions League --- Table 2",
             "type": "live_event",
-            "league": "NRL",
-            "time": "10:45",
-            "page_link": "http://www.fawanews.sc/Cronulla Sharks W vs Brisbane Broncos W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
+            "league": "Snooker",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Snooker Champions League --- Table 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.42/hls/TGGGQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/TGGGQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.42/hls/AUUUQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/AUUUQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
