@@ -1,10 +1,10 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-10T18:07:11.664091",
-    "total_with_streams": 25,
+    "fetched_at": "2026-07-10T19:57:21.309390",
+    "total_with_streams": 28,
     "events_with_streams": [
         {
-            "name": "Spain vs Belgium --- ENG BBC",
+            "name": "Spain vs Belgium --- ENG",
             "type": "live_event",
             "league": "FIFA World Cup",
             "time": "21:00",
@@ -34,37 +34,43 @@
             ]
         },
         {
-            "name": "Spain vs Belgium --- ENG FOX",
+            "name": "Spain vs Belgium --- HD Sat Feed",
             "type": "live_event",
             "league": "FIFA World Cup",
             "time": "21:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Spain_vs_Belgium_eng.html",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Spain_vs_Belgium_hd.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/VVQJMMMCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/VVQJMMMCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://live2.jxa76.com/live/sd-6MvYMRTH6YRgg3QgDy.m3u8?txSecret=a2e3649a62d7d89c2b96e163b1556196&txTime=19F4EAA327E",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvYMRTH6YRgg3QgDy.m3u8?txSecret=a2e3649a62d7d89c2b96e163b1556196&txTime=19F4EAA327E|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/VVQJMMMCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/VVQJMMMCZzsss.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.51/hls/VVQJMMMCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/VVQJMMMCZzsss.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/VVQJMMMCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/VVQJMMMCZzsss.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.42/hls/VVQJMMMCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/VVQJMMMCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://live2.jxa76.com/live/sd-6MvYMRTH6YRgg3QgDy.m3u8?txSecret=a2e3649a62d7d89c2b96e163b1556196&txTime=19F4EAA327E",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvYMRTH6YRgg3QgDy.m3u8?txSecret=a2e3649a62d7d89c2b96e163b1556196&txTime=19F4EAA327E|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Spain vs Belgium --- FR HD",
+            "name": "Spain vs Belgium --- FR HD 2",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Spain_vs_Belgium_fr_hd2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/hd-en-6MvYMRTH6YRgg3QgDy.m3u8?txSecret=2c5a1701016f49d286220fce4f4a382d&txTime=19F4EAA327E",
+                    "m3u_url": "https://live2.jxa76.com/live/hd-en-6MvYMRTH6YRgg3QgDy.m3u8?txSecret=2c5a1701016f49d286220fce4f4a382d&txTime=19F4EAA327E|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/hd-en-6MvYMRTH6YRgg3QgDy.m3u8?txSecret=2c5a1701016f49d286220fce4f4a382d&txTime=19F4EAA327E",
+                    "m3u_url": "http://live2.jxa76.com/live/hd-en-6MvYMRTH6YRgg3QgDy.m3u8?txSecret=2c5a1701016f49d286220fce4f4a382d&txTime=19F4EAA327E|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Spain vs Belgium --- FR HD 1",
             "type": "live_event",
             "league": "FIFA World Cup",
             "time": "21:00",
@@ -78,6 +84,24 @@
                 {
                     "original_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459809.m3u8?txSecret=18b932e4b81d7b421ab858d5070ceaf7&txTime=6A527D98",
                     "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459809.m3u8?txSecret=18b932e4b81d7b421ab858d5070ceaf7&txTime=6A527D98|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Spain vs Belgium --- HD CN",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Spain_vs_Belgium_hd_cn.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.narv4.com/mlive/M999-HD.m3u8",
+                    "m3u_url": "https://live.narv4.com/mlive/M999-HD.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.narv4.com/mlive/M999-HD.m3u8",
+                    "m3u_url": "http://live.narv4.com/mlive/M999-HD.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -108,6 +132,32 @@
             ]
         },
         {
+            "name": "Spain vs Belgium --- NL BE",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Spain_vs_Belgium_nl.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/VVQJMMMCZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/VVQJMMMCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/VVQJMMMCZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/VVQJMMMCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/VVQJMMMCZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/VVQJMMMCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/VVQJMMMCZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/VVQJMMMCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Spain vs Belgium --- SWAHILI",
             "type": "live_event",
             "league": "FIFA World Cup",
@@ -116,20 +166,20 @@
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/VFEREHTRH.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/VFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/VVFEREHTRH.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/VVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/VFEREHTRH.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/VFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/VVFEREHTRH.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/VVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/VFEREHTRH.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/VFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.51/hls/VVFEREHTRH.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/VVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/VFEREHTRH.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/VFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/VVFEREHTRH.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/VVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -156,32 +206,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/VVQJMMMCZckkkqq.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/VVQJMMMCZckkkqq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Spain vs Belgium --- NL BE",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "21:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Spain_vs_Belgium_nl.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.47/hls/VVQJMMMCZckkkqqqq.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/VVQJMMMCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.59/hls/VVQJMMMCZckkkqqqq.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/VVQJMMMCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.51/hls/VVQJMMMCZckkkqqqq.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/VVQJMMMCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/VVQJMMMCZckkkqqqq.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/VVQJMMMCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -246,12 +270,54 @@
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://pullsgp.yyzb456.top/live/stream-551166_lhd.m3u8",
-                    "m3u_url": "https://pullsgp.yyzb456.top/live/stream-551166_lhd.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://pullsgp.yyzb456.top/live/stream-259579_lhd.m3u8",
+                    "m3u_url": "https://pullsgp.yyzb456.top/live/stream-259579_lhd.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://pullsgp.yyzb456.top/live/stream-551166_lhd.m3u8",
-                    "m3u_url": "http://pullsgp.yyzb456.top/live/stream-551166_lhd.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://pullsgp.yyzb456.top/live/stream-259579_lhd.m3u8",
+                    "m3u_url": "http://pullsgp.yyzb456.top/live/stream-259579_lhd.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Indiana Pacers vs Cleveland Cavaliers",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "21:30",
+            "page_link": "http://www.fawanews.sc/Indiana Pacers vs Cleveland Cavaliers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YOOOQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YOOOQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Miami Heat vs Milwaukee Bucks",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/Miami Heat vs Milwaukee Bucks.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YOOO.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YOOO.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf PGA ISCO Championship",
+            "type": "live_event",
+            "league": "Golf PGA",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/Golf PGA ISCO Championship.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ddddv.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ddddv.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -284,7 +350,7 @@
             ]
         },
         {
-            "name": "Waterford vs St Patricks",
+            "name": "Waterford vs St Patricks --- CH 1",
             "type": "live_event",
             "league": "Ireland Premier Division",
             "time": "20:00",
@@ -298,7 +364,25 @@
             ]
         },
         {
-            "name": "Dundalk vs Drogheda",
+            "name": "Waterford vs St Patricks --- CH 2",
+            "type": "live_event",
+            "league": "Ireland Premier Division",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Waterford vs St Patricks --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4469073.m3u8?txSecret=c42535da00b50f563af5e1923bf55fb3&txTime=6A528EF0",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4469073.m3u8?txSecret=c42535da00b50f563af5e1923bf55fb3&txTime=6A528EF0|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4469073.m3u8?txSecret=c42535da00b50f563af5e1923bf55fb3&txTime=6A528EF0",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4469073.m3u8?txSecret=c42535da00b50f563af5e1923bf55fb3&txTime=6A528EF0|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Dundalk vs Drogheda --- CH 1",
             "type": "live_event",
             "league": "Ireland Premier Division",
             "time": "19:45",
@@ -312,16 +396,20 @@
             ]
         },
         {
-            "name": "Livingston vs Hearts",
+            "name": "Dundalk vs Drogheda --- CH 2",
             "type": "live_event",
-            "league": "Friendly Match",
+            "league": "Ireland Premier Division",
             "time": "19:45",
-            "page_link": "http://www.fawanews.sc/Livingston vs Hearts.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Dundalk vs Drogheda --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/TOOOQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/TOOOQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4469071.m3u8?txSecret=a27bd0db5438969722fa72ecb0bc4dc4&txTime=6A528E78",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4469071.m3u8?txSecret=a27bd0db5438969722fa72ecb0bc4dc4&txTime=6A528E78|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4469071.m3u8?txSecret=a27bd0db5438969722fa72ecb0bc4dc4&txTime=6A528E78",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4469071.m3u8?txSecret=a27bd0db5438969722fa72ecb0bc4dc4&txTime=6A528E78|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -396,34 +484,6 @@
             ]
         },
         {
-            "name": "Horse Racing --- CH 2",
-            "type": "live_event",
-            "league": "Horse Racing",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "England W vs India W",
-            "type": "live_event",
-            "league": "Cricket",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/England W vs India W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/MMMMQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/MMMMQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Snooker Champions League --- Table 1",
             "type": "live_event",
             "league": "Snooker",
@@ -448,20 +508,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/AUUUQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/AUUUQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Golf Genesis Scottish Open",
-            "type": "live_event",
-            "league": "Golf",
-            "time": "08:30",
-            "page_link": "http://www.fawanews.sc/Golf Genesis Scottish Open.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1520076091972636672/dngA6hyw_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/TGGG.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/TGGG.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
