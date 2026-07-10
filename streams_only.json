@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-09T23:42:58.756101",
-    "total_with_streams": 21,
+    "fetched_at": "2026-07-10T01:47:20.584511",
+    "total_with_streams": 23,
     "events_with_streams": [
         {
             "name": "Los Angeles Clippers vs Sacramento Kings",
@@ -88,6 +88,24 @@
             ]
         },
         {
+            "name": "Washington Wizards vs Utah Jazz --- HD",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "02:00",
+            "page_link": "http://www.fawanews.sc/Washington Wizards vs Utah Jazz --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923421.m3u8?txSecret=efccfa9baf490e62f89189612ac39510&txTime=6A519C98",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923421.m3u8?txSecret=efccfa9baf490e62f89189612ac39510&txTime=6A519C98|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923421.m3u8?txSecret=efccfa9baf490e62f89189612ac39510&txTime=6A519C98",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923421.m3u8?txSecret=efccfa9baf490e62f89189612ac39510&txTime=6A519C98|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Texas Rangers vs Los Angeles Angels",
             "type": "live_event",
             "league": "MLB Baseball",
@@ -98,6 +116,20 @@
                 {
                     "original_url": "http://193.47.62.41/hls/LLLL.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/LLLL.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "TNA Wrestling",
+            "type": "live_event",
+            "league": "TNA Wrestling",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/TNA Wrestling.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/ummm.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/ummm.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
