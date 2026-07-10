@@ -1,8 +1,22 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-10T11:48:50.096154",
-    "total_with_streams": 19,
+    "fetched_at": "2026-07-10T13:54:24.057296",
+    "total_with_streams": 17,
     "events_with_streams": [
+        {
+            "name": "Legia Warszawa vs Trencin",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Legia Warszawa vs Trencin.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/rrrr.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/rrrr.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Tennis Masters Wimbledon",
             "type": "live_event",
@@ -14,20 +28,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/grrrQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/grrrQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boxing Tasman Fighters",
-            "type": "live_event",
-            "league": "Boxing",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Boxing Tasman Fighters.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/ooooD.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/ooooD.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -112,34 +112,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/MMMMQQQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/MMMMQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Radomiak Radom vs Dynamo Kyiv",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "11:30",
-            "page_link": "http://www.fawanews.sc/Radomiak Radom vs Dynamo Kyiv.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/grrr.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/grrr.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Poland W vs Brazil W",
-            "type": "live_event",
-            "league": "Volleyball Nations League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Poland W vs Brazil W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/grrrQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/grrrQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
