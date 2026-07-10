@@ -1,8 +1,78 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-10T08:58:32.814891",
-    "total_with_streams": 9,
+    "fetched_at": "2026-07-10T11:48:50.096154",
+    "total_with_streams": 19,
     "events_with_streams": [
+        {
+            "name": "Tennis Masters Wimbledon",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "13:30",
+            "page_link": "http://www.fawanews.sc/Tennis Masters Wimbledon.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/grrrQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/grrrQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Boxing Tasman Fighters",
+            "type": "live_event",
+            "league": "Boxing",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Boxing Tasman Fighters.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/ooooD.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/ooooD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 1",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 2",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Shandong Taishan vs Yunnan Yukun",
+            "type": "live_event",
+            "league": "China Super League",
+            "time": "12:35",
+            "page_link": "http://www.fawanews.sc/Shandong Taishan vs Yunnan Yukun.html",
+            "image_url": "https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/grrrQd.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/grrrQd.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Cycling Tour de France --- ENG",
             "type": "live_event",
@@ -46,6 +116,34 @@
             ]
         },
         {
+            "name": "Radomiak Radom vs Dynamo Kyiv",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Radomiak Radom vs Dynamo Kyiv.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/grrr.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/grrr.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Poland W vs Brazil W",
+            "type": "live_event",
+            "league": "Volleyball Nations League",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Poland W vs Brazil W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/grrrQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/grrrQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "England W vs India W",
             "type": "live_event",
             "league": "Cricket",
@@ -56,6 +154,20 @@
                 {
                     "original_url": "http://193.47.62.41/hls/MMMMQQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/MMMMQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf LPGA Amundi Evian Championship",
+            "type": "live_event",
+            "league": "Golf LPGA",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Golf LPGA Amundi Evian Championship.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1665698199661600769/nxoC7o2Q_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/TGGGQQqXQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/TGGGQQqXQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -112,6 +224,34 @@
                 {
                     "original_url": "http://193.47.62.41/hls/MMMM.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/MMMM.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Slaven Belupo vs Debrecen",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "10:30",
+            "page_link": "http://www.fawanews.sc/Slaven Belupo vs Debrecen.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ooooDD.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ooooDD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "MotoGP Grand Prix of Germany",
+            "type": "live_event",
+            "league": "MotoGP",
+            "time": "09:00",
+            "page_link": "http://www.fawanews.sc/MotoGP Grand Prix of Germany.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/MMMMQQQq.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/MMMMQQQq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
