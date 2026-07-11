@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-11T06:15:57.224125",
-    "total_with_streams": 51,
+    "fetched_at": "2026-07-11T08:19:08.677633",
+    "total_with_streams": 52,
     "events_with_streams": [
         {
             "name": "Australia vs France",
@@ -18,16 +18,44 @@
             ]
         },
         {
-            "name": "New Zealand vs Italy",
+            "name": "Canterbury Bulldogs vs Canberra Raiders",
             "type": "live_event",
-            "league": "Rugby Nations Championship",
-            "time": "06:10",
-            "page_link": "http://www.fawanews.sc/New Zealand vs Italy.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
+            "league": "NRL",
+            "time": "08:30",
+            "page_link": "http://www.fawanews.sc/Canterbury Bulldogs vs Canberra Raiders.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/bbbbqq.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/bbbbqq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/bbbbq.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/bbbbq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf Genesis Scottish Open",
+            "type": "live_event",
+            "league": "Golf",
+            "time": "08:30",
+            "page_link": "http://www.fawanews.sc/Golf Genesis Scottish Open.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1520076091972636672/dngA6hyw_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/TGGG.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/TGGG.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "MotoGP Grand Prix of Germany",
+            "type": "live_event",
+            "league": "MotoGP",
+            "time": "08:00",
+            "page_link": "http://www.fawanews.sc/MotoGP Grand Prix of Germany.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/MMMMQQQq.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/MMMMQQQq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -42,20 +70,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/eeee.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/eeee.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Dolphins vs Cronulla Sharks",
-            "type": "live_event",
-            "league": "NRL",
-            "time": "06:00",
-            "page_link": "http://www.fawanews.sc/Dolphins vs Cronulla Sharks.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/bbbbq.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/bbbbq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
