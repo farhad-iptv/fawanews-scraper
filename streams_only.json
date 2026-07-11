@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-11T21:39:21.488500",
-    "total_with_streams": 40,
+    "fetched_at": "2026-07-11T22:36:53.152561",
+    "total_with_streams": 42,
     "events_with_streams": [
         {
             "name": "Norway vs England --- ENG",
@@ -48,6 +48,24 @@
                 {
                     "original_url": "http://live2.jxa76.com/live/sd-6MvYMRTGwBXzhYMKLX.m3u8?txSecret=14ed06f1615376110e45619340382cbe&txTime=19F543A9DE7",
                     "m3u_url": "http://live2.jxa76.com/live/sd-6MvYMRTGwBXzhYMKLX.m3u8?txSecret=14ed06f1615376110e45619340382cbe&txTime=19F543A9DE7|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Norway vs England --- ENG HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Norway_vs_England_eng_hd4.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://1a-1791.com/live/e6pv21nm/slot-107/soi7-l8dn_1080p/chunklist_DVR.m3u8",
+                    "m3u_url": "https://1a-1791.com/live/e6pv21nm/slot-107/soi7-l8dn_1080p/chunklist_DVR.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://1a-1791.com/live/e6pv21nm/slot-107/soi7-l8dn_1080p/chunklist_DVR.m3u8",
+                    "m3u_url": "http://1a-1791.com/live/e6pv21nm/slot-107/soi7-l8dn_1080p/chunklist_DVR.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -252,6 +270,32 @@
                 {
                     "original_url": "http://193.47.62.42/hls/yyyyCZckkkqqq.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/yyyyCZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Norway vs England --- AR",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Norway_vs_England_ar.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/VVVFEREHTRHF.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/VVVFEREHTRHF.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/VVVFEREHTRHF.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/VVVFEREHTRHF.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/VVVFEREHTRHF.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/VVVFEREHTRHF.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/VVVFEREHTRHF.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/VVVFEREHTRHF.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
