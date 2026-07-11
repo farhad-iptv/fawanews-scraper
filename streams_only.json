@@ -1,8 +1,64 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-11T04:01:16.440560",
-    "total_with_streams": 47,
+    "fetched_at": "2026-07-11T06:15:57.224125",
+    "total_with_streams": 51,
     "events_with_streams": [
+        {
+            "name": "Australia vs France",
+            "type": "live_event",
+            "league": "Rugby Nations Championship",
+            "time": "08:40",
+            "page_link": "http://www.fawanews.sc/Australia vs France.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/bbbbqq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/bbbbqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "New Zealand vs Italy",
+            "type": "live_event",
+            "league": "Rugby Nations Championship",
+            "time": "06:10",
+            "page_link": "http://www.fawanews.sc/New Zealand vs Italy.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/bbbbqq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/bbbbqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "GWS Giants vs Geelong Cats",
+            "type": "live_event",
+            "league": "AFL Aussie Rules",
+            "time": "07:15",
+            "page_link": "http://www.fawanews.sc/GWS Giants vs Geelong Cats.html",
+            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/eeee.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/eeee.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Dolphins vs Cronulla Sharks",
+            "type": "live_event",
+            "league": "NRL",
+            "time": "06:00",
+            "page_link": "http://www.fawanews.sc/Dolphins vs Cronulla Sharks.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/bbbbq.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/bbbbq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "St Kilda Saints vs Port Adelaide Power",
             "type": "live_event",
