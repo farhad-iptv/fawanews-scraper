@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-11T19:39:39.905842",
-    "total_with_streams": 54,
+    "fetched_at": "2026-07-11T20:38:31.962217",
+    "total_with_streams": 46,
     "events_with_streams": [
         {
             "name": "Norway vs England --- ENG",
@@ -34,50 +34,6 @@
             ]
         },
         {
-            "name": "Norway vs England --- FR HD",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "22:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Norway_vs_England_fr_hd.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Norway vs England --- SWAHILI",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "22:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Norway_vs_England_swa.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.47/hls/VVVFEREHTRH.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/VVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.59/hls/VVVFEREHTRH.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/VVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.51/hls/VVVFEREHTRH.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/VVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/VVVFEREHTRH.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/VVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Norway vs England --- FR",
             "type": "live_event",
             "league": "FIFA World Cup",
@@ -100,6 +56,24 @@
                 {
                     "original_url": "http://193.47.62.55/hls/yyyyCZckkkq.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/yyyyCZckkkq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Norway vs England --- FR HD 2",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Norway_vs_England_fr_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -138,29 +112,55 @@
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/yyyyCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/yyyyCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/yyyyCZckkkqq.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/yyyyCZckkkqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/yyyyCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/yyyyCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/yyyyCZckkkqq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/yyyyCZckkkqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/yyyyCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/yyyyCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.51/hls/yyyyCZckkkqq.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/yyyyCZckkkqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/yyyyCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/yyyyCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/yyyyCZckkkqq.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/yyyyCZckkkqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.42/hls/yyyyCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/yyyyCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.42/hls/yyyyCZckkkqq.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/yyyyCZckkkqq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Norway vs England --- NL",
+            "name": "Norway vs England --- SWAHILI",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Norway_vs_England_swa.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/VVVFEREHTRH.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/VVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/VVVFEREHTRH.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/VVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/VVVFEREHTRH.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/VVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/VVVFEREHTRH.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/VVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Norway vs England --- NL BE",
             "type": "live_event",
             "league": "FIFA World Cup",
             "time": "22:00",
@@ -168,24 +168,24 @@
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/yyyyCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/yyyyCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/yyyyCZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/yyyyCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/yyyyCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/yyyyCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/yyyyCZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/yyyyCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/yyyyCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/yyyyCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.51/hls/yyyyCZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/yyyyCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/yyyyCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/yyyyCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/yyyyCZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/yyyyCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.42/hls/yyyyCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/yyyyCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.42/hls/yyyyCZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/yyyyCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -198,24 +198,24 @@
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/yyyyCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/yyyyCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/yyyyCZckkkqqq.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/yyyyCZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/yyyyCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/yyyyCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/yyyyCZckkkqqq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/yyyyCZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/yyyyCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/yyyyCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.51/hls/yyyyCZckkkqqq.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/yyyyCZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/yyyyCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/yyyyCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/yyyyCZckkkqqq.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/yyyyCZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.42/hls/yyyyCZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/yyyyCZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.42/hls/yyyyCZckkkqqq.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/yyyyCZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -228,12 +228,12 @@
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://pullsgp.yyzb456.top/live/stream-259579_lhd.m3u8",
-                    "m3u_url": "https://pullsgp.yyzb456.top/live/stream-259579_lhd.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8",
+                    "m3u_url": "https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://pullsgp.yyzb456.top/live/stream-259579_lhd.m3u8",
-                    "m3u_url": "http://pullsgp.yyzb456.top/live/stream-259579_lhd.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8",
+                    "m3u_url": "http://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -241,7 +241,7 @@
             "name": "UFC 329 : McGregor vs Holloway",
             "type": "live_event",
             "league": "UFC Fight Night",
-            "time": "22:00",
+            "time": "00:00",
             "page_link": "http://www.fawanews.sc/UFC 329_McGregor vs Holloway.html",
             "image_url": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",
             "streams": [
@@ -330,8 +330,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/GAGAGAQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/GAGAGAQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/JVVV.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/JVVV.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -744,108 +744,6 @@
             ]
         },
         {
-            "name": "Spain U19 vs Germany U19",
-            "type": "live_event",
-            "league": "Euro U19",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Spain U19 vs Germany U19.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2070179683623153665/J3LUoSoi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/tatataq.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/tatataq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Panathinaikos vs Grasshoppers",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Panathinaikos vs Grasshoppers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/GAGAGAQQQqqQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/GAGAGAQQQqqQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Panathinaikos vs Grasshoppers --- HD",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Panathinaikos vs Grasshoppers --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4576209.m3u8?txSecret=2d3b6eed3d86e2212002f5ea9ddcf26e&txTime=6A53D5A9",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4576209.m3u8?txSecret=2d3b6eed3d86e2212002f5ea9ddcf26e&txTime=6A53D5A9|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4576209.m3u8?txSecret=2d3b6eed3d86e2212002f5ea9ddcf26e&txTime=6A53D5A9",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4576209.m3u8?txSecret=2d3b6eed3d86e2212002f5ea9ddcf26e&txTime=6A53D5A9|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Serbia W vs Germany W",
-            "type": "live_event",
-            "league": "Volleyball Nations League",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Serbia W vs Germany W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/tatata.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/tatata.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Danubio vs Nacional",
-            "type": "live_event",
-            "league": "Uruguay Liga AUF",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Danubio vs Nacional.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/tatataqQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/tatataqQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "FC Gomel vs Neman",
-            "type": "live_event",
-            "league": "Belarus Vysshaya Liga",
-            "time": "18:45",
-            "page_link": "http://www.fawanews.sc/FC Gomel vs Neman.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1469076834/125px-Flag_of_Belarus_400x400.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/fafafaQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/fafafaQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Fenerbahce vs Pogon Szczecin",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/Fenerbahce vs Pogon Szczecin.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/GAGAGAQQQqQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/GAGAGAQQQqQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Netherlands vs Finland",
             "type": "live_event",
             "league": "Volleyball European League",
@@ -870,20 +768,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/MMMMQQQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/MMMMQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Real American Freestyle Tbilisi Georgia",
-            "type": "live_event",
-            "league": "RAF Wrestling",
-            "time": "17:30",
-            "page_link": "http://www.fawanews.sc/Real American Freestyle Tbilisi Georgia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1961150067060215811/PVB20pQZ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/oooo.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/oooo.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
