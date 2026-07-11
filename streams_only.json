@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-11T20:38:31.962217",
-    "total_with_streams": 46,
+    "fetched_at": "2026-07-11T21:39:21.488500",
+    "total_with_streams": 40,
     "events_with_streams": [
         {
             "name": "Norway vs England --- ENG",
@@ -34,6 +34,60 @@
             ]
         },
         {
+            "name": "Norway vs England --- HD Sat Feed",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Norway_vs_England_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MvYMRTGwBXzhYMKLX.m3u8?txSecret=14ed06f1615376110e45619340382cbe&txTime=19F543A9DE7",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvYMRTGwBXzhYMKLX.m3u8?txSecret=14ed06f1615376110e45619340382cbe&txTime=19F543A9DE7|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MvYMRTGwBXzhYMKLX.m3u8?txSecret=14ed06f1615376110e45619340382cbe&txTime=19F543A9DE7",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvYMRTGwBXzhYMKLX.m3u8?txSecret=14ed06f1615376110e45619340382cbe&txTime=19F543A9DE7|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Norway vs England --- FR HD 1",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Norway_vs_England_fr_hd1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/hd-en-6MvYMRTGwBXzhYMKLX.m3u8?txSecret=34852facc2b9eb28f4a1d6fdf53c23e5&txTime=19F543A9DE7",
+                    "m3u_url": "https://live2.jxa76.com/live/hd-en-6MvYMRTGwBXzhYMKLX.m3u8?txSecret=34852facc2b9eb28f4a1d6fdf53c23e5&txTime=19F543A9DE7|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/hd-en-6MvYMRTGwBXzhYMKLX.m3u8?txSecret=34852facc2b9eb28f4a1d6fdf53c23e5&txTime=19F543A9DE7",
+                    "m3u_url": "http://live2.jxa76.com/live/hd-en-6MvYMRTGwBXzhYMKLX.m3u8?txSecret=34852facc2b9eb28f4a1d6fdf53c23e5&txTime=19F543A9DE7|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Norway vs England --- FR HD 2",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Norway_vs_England_fr_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Norway vs England --- FR",
             "type": "live_event",
             "league": "FIFA World Cup",
@@ -56,24 +110,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/yyyyCZckkkq.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/yyyyCZckkkq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Norway vs England --- FR HD 2",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "22:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Norway_vs_England_fr_hd.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=47c1e896859a1e2bdad6a5e1c5531be2&txTime=6A53E2C8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -252,16 +288,20 @@
             ]
         },
         {
-            "name": "Boxing : Gassiev vs Kadiru",
+            "name": "UFC 329 : McGregor vs Holloway --- HD",
             "type": "live_event",
-            "league": "Boxing",
-            "time": "19:30",
-            "page_link": "http://www.fawanews.sc/Boxing_Gassiev vs Kadiru.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "league": "UFC Fight Night",
+            "time": "00:00",
+            "page_link": "http://www.fawanews.sc/UFC 329_McGregor vs Holloway --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/DPPPP.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/DPPPP.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://trophystream.com/cors-proxy/https/ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8",
+                    "m3u_url": "https://trophystream.com/cors-proxy/https/ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://trophystream.com/cors-proxy/https/ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8",
+                    "m3u_url": "http://trophystream.com/cors-proxy/https/ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -308,6 +348,24 @@
             ]
         },
         {
+            "name": "Las Vegas Aces W vs Phoenix Mercury W --- HD",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "23:00",
+            "page_link": "http://www.fawanews.sc/Las Vegas Aces W vs Phoenix Mercury W --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-zh-2-3909067.m3u8?txSecret=eb4430b04e81659fd3e924e5cbab4c7d&txTime=6A53FAB0",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-zh-2-3909067.m3u8?txSecret=eb4430b04e81659fd3e924e5cbab4c7d&txTime=6A53FAB0|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-zh-2-3909067.m3u8?txSecret=eb4430b04e81659fd3e924e5cbab4c7d&txTime=6A53FAB0",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-zh-2-3909067.m3u8?txSecret=eb4430b04e81659fd3e924e5cbab4c7d&txTime=6A53FAB0|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "San Antonio Spurs vs New York Knicks",
             "type": "live_event",
             "league": "NBA Basketball",
@@ -318,6 +376,56 @@
                 {
                     "original_url": "http://193.47.62.41/hls/GAGAGAQQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/GAGAGAQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "San Antonio Spurs vs New York Knicks --- HD",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "23:00",
+            "page_link": "http://www.fawanews.sc/San Antonio Spurs vs New York Knicks --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923446.m3u8?txSecret=976200a97688467c90f77b3edcb126b9&txTime=6A53FAB0",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923446.m3u8?txSecret=976200a97688467c90f77b3edcb126b9&txTime=6A53FAB0|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923446.m3u8?txSecret=976200a97688467c90f77b3edcb126b9&txTime=6A53FAB0",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923446.m3u8?txSecret=976200a97688467c90f77b3edcb126b9&txTime=6A53FAB0|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Philadelphia 76ers vs Indiana Pacers",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "22:30",
+            "page_link": "http://www.fawanews.sc/Philadelphia 76ers vs Indiana Pacers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GAGAGA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GAGAGA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Philadelphia 76ers vs Indiana Pacers --- HD",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "22:30",
+            "page_link": "http://www.fawanews.sc/Philadelphia 76ers vs Indiana Pacers --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923442.m3u8?txSecret=1b247225e7802be7bb9876fecafdce2d&txTime=6A53FA38",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923442.m3u8?txSecret=1b247225e7802be7bb9876fecafdce2d&txTime=6A53FA38|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923442.m3u8?txSecret=1b247225e7802be7bb9876fecafdce2d&txTime=6A53FA38",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923442.m3u8?txSecret=1b247225e7802be7bb9876fecafdce2d&txTime=6A53FA38|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -336,16 +444,16 @@
             ]
         },
         {
-            "name": "Philadelphia 76ers vs Indiana Pacers",
+            "name": "Golf Genesis Scottish Open",
             "type": "live_event",
-            "league": "NBA Basketball",
-            "time": "22:30",
-            "page_link": "http://www.fawanews.sc/Philadelphia 76ers vs Indiana Pacers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "league": "Golf",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/Golf Genesis Scottish Open.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1520076091972636672/dngA6hyw_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/GAGAGA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/GAGAGA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.42/hls/TGGG.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/TGGG.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -558,104 +666,6 @@
             ]
         },
         {
-            "name": "Argentina vs Wales",
-            "type": "live_event",
-            "league": "Rugby Nations Championship",
-            "time": "20:10",
-            "page_link": "http://www.fawanews.sc/Argentina vs Wales.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/bbbbqq.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/bbbbqq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Mushuc Runa vs Ind del Valle",
-            "type": "live_event",
-            "league": "Ecuador Liga Pro",
-            "time": "20:10",
-            "page_link": "http://www.fawanews.sc/Mushuc Runa vs Ind del Valle.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/JVVVQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/JVVVQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Samoa vs Georgia",
-            "type": "live_event",
-            "league": "World Rugby Nations Cup",
-            "time": "20:00",
-            "page_link": "http://www.fawanews.sc/Samoa vs Georgia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/rooooo.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/rooooo.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Catalans Dragons vs Leeds",
-            "type": "live_event",
-            "league": "English Rugby Super League",
-            "time": "20:00",
-            "page_link": "http://www.fawanews.sc/Catalans Dragons vs Leeds.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/xaxaxa.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/xaxaxa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Sevilla vs Torremolinos",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "20:00",
-            "page_link": "http://www.fawanews.sc/Sevilla vs Torremolinos.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/mjjjqqq.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/mjjjqqq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Magallanes vs Audax Italiano",
-            "type": "live_event",
-            "league": "Chile Copa",
-            "time": "20:00",
-            "page_link": "http://www.fawanews.sc/Magallanes vs Audax Italiano.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/JVVV.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/JVVV.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Real Oruro vs GV San Jose",
-            "type": "live_event",
-            "league": "Bolivia Division Profesional",
-            "time": "20:00",
-            "page_link": "http://www.fawanews.sc/Real Oruro vs GV San Jose.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/tatataqQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/tatataqQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "West Indies vs New Zealand",
             "type": "live_event",
             "league": "Cricket",
@@ -670,52 +680,6 @@
             ]
         },
         {
-            "name": "Benfica vs Flamengo",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "19:30",
-            "page_link": "http://www.fawanews.sc/Benfica vs Flamengo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/GAGAGAQQQqqQqq.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/GAGAGAQQQqqQqq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Benfica vs Flamengo --- HD",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "19:30",
-            "page_link": "http://www.fawanews.sc/Benfica vs Flamengo --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4576219.m3u8?txSecret=1309c3e58e69f103ecfea052a3868c05&txTime=6A53DAD0",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4576219.m3u8?txSecret=1309c3e58e69f103ecfea052a3868c05&txTime=6A53DAD0|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4576219.m3u8?txSecret=1309c3e58e69f103ecfea052a3868c05&txTime=6A53DAD0",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4576219.m3u8?txSecret=1309c3e58e69f103ecfea052a3868c05&txTime=6A53DAD0|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Slovenia W vs Sweden W",
-            "type": "live_event",
-            "league": "Volleyball European League",
-            "time": "19:30",
-            "page_link": "http://www.fawanews.sc/Slovenia W vs Sweden W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/tatataqQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/tatataqQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Minnesota Twins vs Los Angeles Angels",
             "type": "live_event",
             "league": "MLB Baseball",
@@ -726,34 +690,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/tatataqQQQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/tatataqQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Chicago White Sox vs Athletics",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "19:10",
-            "page_link": "http://www.fawanews.sc/Chicago White Sox vs Athletics.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/tatataqQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/tatataqQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Netherlands vs Finland",
-            "type": "live_event",
-            "league": "Volleyball European League",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/Netherlands vs Finland.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/fafafaQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/fafafaQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
