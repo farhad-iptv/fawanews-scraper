@@ -1,8 +1,176 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-12T09:23:43.100914",
-    "total_with_streams": 7,
+    "fetched_at": "2026-07-12T10:50:29.066226",
+    "total_with_streams": 19,
     "events_with_streams": [
+        {
+            "name": "Cycling Tour de France --- ENG",
+            "type": "live_event",
+            "league": "Cycling",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Cycling Tour de France --- ENG.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/AUUUQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/AUUUQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cycling Tour de France --- BE NL",
+            "type": "live_event",
+            "league": "Cycling",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Cycling Tour de France --- BE.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/AUUUQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/AUUUQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Darts European Tour 10",
+            "type": "live_event",
+            "league": "Darts",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Darts European Tour 10.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/MMMMQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/MMMMQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "UCI Mountain Bike World Series",
+            "type": "live_event",
+            "league": "Mountain Bike",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/UCI Mountain Bike World Series.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1759893549946994688/fvIisRQd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YVVV.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YVVV.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "France W vs Czech Republic W",
+            "type": "live_event",
+            "league": "Volleyball Nations League",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/France W vs Czech Republic W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YVVVQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YVVVQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Seoul vs Gangwon",
+            "type": "live_event",
+            "league": "South Korea K League",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Seoul vs Gangwon.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YVVVQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YVVVQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Jeju SK vs Daejeon",
+            "type": "live_event",
+            "league": "South Korea K League",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Jeju SK vs Daejeon.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YVVVQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YVVVQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Incheon vs Anyang",
+            "type": "live_event",
+            "league": "South Korea K League",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Incheon vs Anyang.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YVVVQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YVVVQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Busan vs Gimpo FC",
+            "type": "live_event",
+            "league": "South Korea K2 League",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Busan vs Gimpo FC.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/RRRRQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/RRRRQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Asan vs Gyeongnam",
+            "type": "live_event",
+            "league": "South Korea K2 League",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Asan vs Gyeongnam.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/RRRR.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/RRRR.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Japan W vs Poland W",
+            "type": "live_event",
+            "league": "Volleyball Nations League",
+            "time": "11:20",
+            "page_link": "http://www.fawanews.sc/Japan W vs Poland W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YVVVQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YVVVQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "World Superbikes Leicestershire",
+            "type": "live_event",
+            "league": "World Superbikes",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/World Superbikes Leicestershire.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1486618439510806530/0sditKjT_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YVVVQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YVVVQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "England W vs India W",
             "type": "live_event",
