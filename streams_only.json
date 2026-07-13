@@ -1,36 +1,8 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-13T19:56:27.263410",
-    "total_with_streams": 17,
+    "fetched_at": "2026-07-13T20:49:41.885755",
+    "total_with_streams": 13,
     "events_with_streams": [
-        {
-            "name": "Djurgarden vs Halmstad --- SD",
-            "type": "live_event",
-            "league": "Sweden Allsvenskan",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Djurgarden vs Halmstad.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/AIII.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/AIII.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Djurgarden vs Halmstad --- HD",
-            "type": "live_event",
-            "league": "Sweden Allsvenskan",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Djurgarden vs Halmstad --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.54/hls/AIII.m3u8",
-                    "m3u_url": "http://193.47.62.54/hls/AIII.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
         {
             "name": "Cerro Largo vs Defensor Sp",
             "type": "live_event",
@@ -222,34 +194,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/AUUUQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/AUUUQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Bastad",
-            "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "12:30",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Bastad.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/YDDDQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/YDDDQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Gstaad",
-            "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "09:30",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Gstaad.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/YDDD.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/YDDD.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
