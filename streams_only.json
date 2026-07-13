@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-13T18:26:17.945182",
-    "total_with_streams": 23,
+    "fetched_at": "2026-07-13T19:56:27.263410",
+    "total_with_streams": 17,
     "events_with_streams": [
         {
             "name": "Djurgarden vs Halmstad --- SD",
@@ -74,6 +74,24 @@
             ]
         },
         {
+            "name": "Boston Celtics vs Atlanta Hawks --- HD",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "23:00",
+            "page_link": "http://www.fawanews.sc/Boston Celtics vs Atlanta Hawks --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923451.m3u8?txSecret=56c96a444a277eb070a5f2d542c0ec0b&txTime=6A568CD0",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923451.m3u8?txSecret=56c96a444a277eb070a5f2d542c0ec0b&txTime=6A568CD0|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923451.m3u8?txSecret=56c96a444a277eb070a5f2d542c0ec0b&txTime=6A568CD0",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923451.m3u8?txSecret=56c96a444a277eb070a5f2d542c0ec0b&txTime=6A568CD0|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Indiana Pacers vs Toronto Raptors",
             "type": "live_event",
             "league": "NBA Basketball",
@@ -84,6 +102,24 @@
                 {
                     "original_url": "http://193.47.62.44/hls/IFFFQ.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/IFFFQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Indiana Pacers vs Toronto Raptors --- HD",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "21:30",
+            "page_link": "http://www.fawanews.sc/Indiana Pacers vs Toronto Raptors --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923452.m3u8?txSecret=3ced5d5ee308db0a5ac907d5254fe87a&txTime=6A568CD0",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923452.m3u8?txSecret=3ced5d5ee308db0a5ac907d5254fe87a&txTime=6A568CD0|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923452.m3u8?txSecret=3ced5d5ee308db0a5ac907d5254fe87a&txTime=6A568CD0",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923452.m3u8?txSecret=3ced5d5ee308db0a5ac907d5254fe87a&txTime=6A568CD0|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -102,6 +138,24 @@
             ]
         },
         {
+            "name": "New York Knicks vs Detroit Pistons --- HD",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/New York Knicks vs Detroit Pistons --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923454.m3u8?txSecret=0eaef58490f5b4ef7e73809bfd8e915c&txTime=6A568BE0",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923454.m3u8?txSecret=0eaef58490f5b4ef7e73809bfd8e915c&txTime=6A568BE0|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923454.m3u8?txSecret=0eaef58490f5b4ef7e73809bfd8e915c&txTime=6A568BE0",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923454.m3u8?txSecret=0eaef58490f5b4ef7e73809bfd8e915c&txTime=6A568BE0|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Breidablik vs Keflavik",
             "type": "live_event",
             "league": "Iceland League",
@@ -116,114 +170,16 @@
             ]
         },
         {
-            "name": "South Africa U20 vs England U20",
+            "name": "West Indies vs New Zealand",
             "type": "live_event",
-            "league": "Rugby World Championship",
-            "time": "17:30",
-            "page_link": "http://www.fawanews.sc/South Africa U20 vs England U20.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
+            "league": "Cricket",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/West Indies vs New Zealand.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/GAGAGA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/GAGAGA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Ireland U20 v Fiji U20",
-            "type": "live_event",
-            "league": "Rugby World Championship",
-            "time": "17:30",
-            "page_link": "http://www.fawanews.sc/Ireland U20 v Fiji U20.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/GAGAGAQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/GAGAGAQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Widzew Lodz vs Marchfeld",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Widzew Lodz vs Marchfeld.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/EYYYQQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/EYYYQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Sigma Olomouc vs Shabab Al-Ahli Dubai",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Sigma Olomouc vs Shabab Al-Ahli Dubai.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/EYYYQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/EYYYQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Wolfsberger AC vs Hradec Kralove",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Wolfsberger AC vs Hradec Kralove.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/EYYY.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/EYYY.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Zenit vs Dynamo Makhachkala",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Zenit vs Dynamo Makhachkala.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/jcccQddd.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/jcccQddd.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Georgia U20 vs Italy U20",
-            "type": "live_event",
-            "league": "Rugby World Championship",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Georgia U20 vs Italy U20.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/GAGAGAQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/GAGAGAQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "France U20 vs New Zealand U20",
-            "type": "live_event",
-            "league": "Rugby World Championship",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/France U20 vs New Zealand U20.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/GAGAGA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/GAGAGA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.44/hls/MMMMQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/MMMMQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -256,7 +212,7 @@
             ]
         },
         {
-            "name": "Snooker Champions League --- Table 1",
+            "name": "Snooker Champions League",
             "type": "live_event",
             "league": "Snooker",
             "time": "11:00",
@@ -266,34 +222,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/AUUUQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/AUUUQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Snooker Champions League --- Table 2",
-            "type": "live_event",
-            "league": "Snooker",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Snooker Champions League --- Table 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/AUUUQ.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/AUUUQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "England W vs India W",
-            "type": "live_event",
-            "league": "Cricket",
-            "time": "10:30",
-            "page_link": "http://www.fawanews.sc/England W vs India W_3.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/MMMMQQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/MMMMQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
