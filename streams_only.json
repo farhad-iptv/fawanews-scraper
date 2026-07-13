@@ -1,8 +1,92 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-13T11:35:05.211595",
-    "total_with_streams": 5,
+    "fetched_at": "2026-07-13T14:00:23.128397",
+    "total_with_streams": 13,
     "events_with_streams": [
+        {
+            "name": "Djurgarden vs Halmstad --- SD",
+            "type": "live_event",
+            "league": "Sweden Allsvenskan",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Djurgarden vs Halmstad.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/AIII.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/AIII.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Djurgarden vs Halmstad --- HD",
+            "type": "live_event",
+            "league": "Sweden Allsvenskan",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Djurgarden vs Halmstad --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.54/hls/AIII.m3u8",
+                    "m3u_url": "http://193.47.62.54/hls/AIII.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "South Africa U20 vs England U20",
+            "type": "live_event",
+            "league": "Rugby World Championship",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/South Africa U20 vs England U20.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/GAGAGA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/GAGAGA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ireland U20 v Fiji U20",
+            "type": "live_event",
+            "league": "Rugby World Championship",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Ireland U20 v Fiji U20.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/GAGAGAQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/GAGAGAQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Georgia U20 vs Italy U20",
+            "type": "live_event",
+            "league": "Rugby World Championship",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Georgia U20 vs Italy U20.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/GAGAGAQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/GAGAGAQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "France U20 vs New Zealand U20",
+            "type": "live_event",
+            "league": "Rugby World Championship",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/France U20 vs New Zealand U20.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/GAGAGA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/GAGAGA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Horse Racing --- CH 1",
             "type": "live_event",
@@ -28,6 +112,34 @@
                 {
                     "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
                     "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Snooker Champions League --- Table 1",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Snooker Champions League --- Table 1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/AUUUQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/AUUUQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Snooker Champions League --- Table 2",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Snooker Champions League --- Table 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/AUUUQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/AUUUQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
