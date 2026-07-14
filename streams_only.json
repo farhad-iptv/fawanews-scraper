@@ -1,8 +1,22 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-14T12:04:56.111781",
-    "total_with_streams": 13,
+    "fetched_at": "2026-07-14T14:21:24.565189",
+    "total_with_streams": 10,
     "events_with_streams": [
+        {
+            "name": "Zhejiang Professional vs Qingdao Hainiu",
+            "type": "live_event",
+            "league": "China Super League",
+            "time": "12:35",
+            "page_link": "http://www.fawanews.sc/Zhejiang Professional vs Qingdao Hainiu.html",
+            "image_url": "https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/afafafQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/afafafQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Cycling Tour de France --- ENG",
             "type": "live_event",
@@ -70,66 +84,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/AUUUQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/AUUUQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Andorra CF vs Millwall",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Andorra CF vs Millwall.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/afafaf.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/afafaf.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Andorra CF vs Millwall --- HD",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Andorra CF vs Millwall --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4579548.m3u8?txSecret=3ff9f80cce203165e89825cfdb86bf6c&txTime=6A574D00",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4579548.m3u8?txSecret=3ff9f80cce203165e89825cfdb86bf6c&txTime=6A574D00|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4579548.m3u8?txSecret=3ff9f80cce203165e89825cfdb86bf6c&txTime=6A574D00",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4579548.m3u8?txSecret=3ff9f80cce203165e89825cfdb86bf6c&txTime=6A574D00|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Wisla Plock vs Bohemians",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Wisla Plock vs Bohemians.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/afafafQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/afafafQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Polissya Zhytomyr vs Shimizu S-Pulse",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Polissya Zhytomyr vs Shimizu S-Pulse.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/afafafQQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/afafafQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
