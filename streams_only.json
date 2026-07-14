@@ -1,8 +1,80 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-14T18:35:35.123514",
+    "fetched_at": "2026-07-14T20:04:50.948722",
     "total_with_streams": 25,
     "events_with_streams": [
+        {
+            "name": "France vs Spain --- FR HD 1",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_France_vs_Spain_fr_hd1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/hd-en-6MvYMRTGwFvxSW19eK.m3u8?txSecret=3c8e85f1d41746caf77e629441434fc0&txTime=19F6340AC13",
+                    "m3u_url": "https://live2.jxa76.com/live/hd-en-6MvYMRTGwFvxSW19eK.m3u8?txSecret=3c8e85f1d41746caf77e629441434fc0&txTime=19F6340AC13|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/hd-en-6MvYMRTGwFvxSW19eK.m3u8?txSecret=3c8e85f1d41746caf77e629441434fc0&txTime=19F6340AC13",
+                    "m3u_url": "http://live2.jxa76.com/live/hd-en-6MvYMRTGwFvxSW19eK.m3u8?txSecret=3c8e85f1d41746caf77e629441434fc0&txTime=19F6340AC13|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "France vs Spain --- FR HD 2",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_France_vs_Spain_fr_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459812.m3u8?txSecret=19e71f9ac495351782b884c41fe1b0c8&txTime=6A57C578",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459812.m3u8?txSecret=19e71f9ac495351782b884c41fe1b0c8&txTime=6A57C578|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459812.m3u8?txSecret=19e71f9ac495351782b884c41fe1b0c8&txTime=6A57C578",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459812.m3u8?txSecret=19e71f9ac495351782b884c41fe1b0c8&txTime=6A57C578|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "France vs Spain --- SAT Feed HD",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_France_vs_Spain_sat_feed_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MvYMRTGwFvxSW19eK.m3u8?txSecret=7cea196abada37aa14ad2d51b1fcd111&txTime=19F6340AC13",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvYMRTGwFvxSW19eK.m3u8?txSecret=7cea196abada37aa14ad2d51b1fcd111&txTime=19F6340AC13|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MvYMRTGwFvxSW19eK.m3u8?txSecret=7cea196abada37aa14ad2d51b1fcd111&txTime=19F6340AC13",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvYMRTGwFvxSW19eK.m3u8?txSecret=7cea196abada37aa14ad2d51b1fcd111&txTime=19F6340AC13|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "France vs Spain --- HD 2",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_France_vs_Spain_hd2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://hls.live123.fans/live/4459812.m3u8",
+                    "m3u_url": "https://hls.live123.fans/live/4459812.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://hls.live123.fans/live/4459812.m3u8",
+                    "m3u_url": "http://hls.live123.fans/live/4459812.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "France vs Spain --- ENG",
             "type": "live_event",
@@ -34,24 +106,6 @@
             ]
         },
         {
-            "name": "France vs Spain --- FR HD 2",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "20:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_France_vs_Spain_fr_hd.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459812.m3u8?txSecret=19e71f9ac495351782b884c41fe1b0c8&txTime=6A57C578",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459812.m3u8?txSecret=19e71f9ac495351782b884c41fe1b0c8&txTime=6A57C578|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459812.m3u8?txSecret=19e71f9ac495351782b884c41fe1b0c8&txTime=6A57C578",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-1-4459812.m3u8?txSecret=19e71f9ac495351782b884c41fe1b0c8&txTime=6A57C578|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "France vs Spain --- FR",
             "type": "live_event",
             "league": "FIFA World Cup",
@@ -74,32 +128,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/ECZckkkq.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/ECZckkkq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "France vs Spain --- SWAHILI",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "20:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_France_vs_Spain_swa.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.47/hls/EVVVFEREHTRH.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/EVVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.59/hls/EVVVFEREHTRH.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/EVVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.51/hls/EVVVFEREHTRH.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/EVVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/EVVVFEREHTRH.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/EVVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -182,6 +210,32 @@
             ]
         },
         {
+            "name": "France vs Spain --- SWAHILI",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_France_vs_Spain_swa.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/EVVVFEREHTRH.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/EVVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/EVVVFEREHTRH.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/EVVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/EVVVFEREHTRH.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/EVVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/EVVVFEREHTRH.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/EVVVFEREHTRH.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "France vs Spain --- AR",
             "type": "live_event",
             "league": "FIFA World Cup",
@@ -226,6 +280,38 @@
             ]
         },
         {
+            "name": "Houston Rockets vs Philadelphia 76ers",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/Houston Rockets vs Philadelphia 76ers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/FFFF.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/FFFF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Houston Rockets vs Philadelphia 76ers --- HD",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/Houston Rockets vs Philadelphia 76ers --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923437.m3u8?txSecret=b5c0306b1b7f1c3d4ed151943f7ae81b&txTime=6A57E4E0",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923437.m3u8?txSecret=b5c0306b1b7f1c3d4ed151943f7ae81b&txTime=6A57E4E0|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923437.m3u8?txSecret=b5c0306b1b7f1c3d4ed151943f7ae81b&txTime=6A57E4E0",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923437.m3u8?txSecret=b5c0306b1b7f1c3d4ed151943f7ae81b&txTime=6A57E4E0|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Shamrock Rovers vs Floriana",
             "type": "live_event",
             "league": "UEFA Champions League",
@@ -236,6 +322,24 @@
                 {
                     "original_url": "http://193.47.62.41/hls/FGGGQQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/FGGGQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Shamrock Rovers vs Floriana --- HD",
+            "type": "live_event",
+            "league": "UEFA Champions League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Shamrock Rovers vs Floriana --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4556505.m3u8?txSecret=aa12bbdec2acc4dc60d6fb6bfb977378&txTime=6A57CDE8",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4556505.m3u8?txSecret=aa12bbdec2acc4dc60d6fb6bfb977378&txTime=6A57CDE8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4556505.m3u8?txSecret=aa12bbdec2acc4dc60d6fb6bfb977378&txTime=6A57CDE8",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4556505.m3u8?txSecret=aa12bbdec2acc4dc60d6fb6bfb977378&txTime=6A57CDE8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -254,6 +358,24 @@
             ]
         },
         {
+            "name": "Larne vs Tre Fiori --- HD",
+            "type": "live_event",
+            "league": "UEFA Champions League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Larne vs Tre Fiori --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4556521.m3u8?txSecret=b98bbd817b37b8715d1cf7b065cabec6&txTime=6A57CDE8",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4556521.m3u8?txSecret=b98bbd817b37b8715d1cf7b065cabec6&txTime=6A57CDE8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4556521.m3u8?txSecret=b98bbd817b37b8715d1cf7b065cabec6&txTime=6A57CDE8",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4556521.m3u8?txSecret=b98bbd817b37b8715d1cf7b065cabec6&txTime=6A57CDE8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "La Fiorita vs UNA Strassen",
             "type": "live_event",
             "league": "UEFA Conference League",
@@ -264,6 +386,52 @@
                 {
                     "original_url": "http://193.47.62.41/hls/FGGG.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/FGGG.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "La Fiorita vs UNA Strassen --- HD",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/La Fiorita vs UNA Strassen --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4556577.m3u8?txSecret=68906740c4b0d4b8d0c623f0652f7dee&txTime=6A57CD70",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4556577.m3u8?txSecret=68906740c4b0d4b8d0c623f0652f7dee&txTime=6A57CD70|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4556577.m3u8?txSecret=68906740c4b0d4b8d0c623f0652f7dee&txTime=6A57CD70",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4556577.m3u8?txSecret=68906740c4b0d4b8d0c623f0652f7dee&txTime=6A57CD70|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Montrose vs Dundee Utd",
+            "type": "live_event",
+            "league": "Scottish Cup",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Montrose vs Dundee Utd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1844269988401598485/BhkjwgKk_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/dddddd.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/dddddd.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Brora Rangers vs Aberdeen",
+            "type": "live_event",
+            "league": "Scottish Cup",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Brora Rangers vs Aberdeen.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1844269988401598485/BhkjwgKk_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ddddd.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ddddd.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -310,162 +478,6 @@
                 {
                     "original_url": "http://193.47.62.44/hls/yyyyqqQ.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/yyyyqqQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "LASK vs Fenerbahce",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/LASK vs Fenerbahce.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/yyyyqq.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/yyyyqq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "TNS vs Sabah Baku",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/TNS vs Sabah Baku.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/fsssQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/fsssQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "TNS vs Sabah Baku --- HD",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/TNS vs Sabah Baku --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4556519.m3u8?txSecret=54c39d4702b5a7fb5d4c06eb8a59dd69&txTime=6A57C140",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4556519.m3u8?txSecret=54c39d4702b5a7fb5d4c06eb8a59dd69&txTime=6A57C140|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4556519.m3u8?txSecret=54c39d4702b5a7fb5d4c06eb8a59dd69&txTime=6A57C140",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4556519.m3u8?txSecret=54c39d4702b5a7fb5d4c06eb8a59dd69&txTime=6A57C140|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Levski Sofia vs Borac Banja Luka",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/Levski Sofia vs Borac Banja Luka.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/fsss.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/fsss.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Levski Sofia vs Borac Banja Luka --- HD",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/Levski Sofia vs Borac Banja Luka --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4556501.m3u8?txSecret=eb7868e3923e512607694c8a53e4e663&txTime=6A57C140",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4556501.m3u8?txSecret=eb7868e3923e512607694c8a53e4e663&txTime=6A57C140|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4556501.m3u8?txSecret=eb7868e3923e512607694c8a53e4e663&txTime=6A57C140",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4556501.m3u8?txSecret=eb7868e3923e512607694c8a53e4e663&txTime=6A57C140|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Riga FC vs Ararat-Armenia",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Riga FC vs Ararat-Armenia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/yyyyq.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/yyyyq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Riga FC vs Ararat-Armenia --- HD",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Riga FC vs Ararat-Armenia --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4556499.m3u8?txSecret=d2369fcb2ee7a558f6e79b5a2d302807&txTime=6A57BAB0",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4556499.m3u8?txSecret=d2369fcb2ee7a558f6e79b5a2d302807&txTime=6A57BAB0|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4556499.m3u8?txSecret=d2369fcb2ee7a558f6e79b5a2d302807&txTime=6A57BAB0",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4556499.m3u8?txSecret=d2369fcb2ee7a558f6e79b5a2d302807&txTime=6A57BAB0|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Gyor vs Vikingur Reykjavik",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Gyor vs Vikingur Reykjavik.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/yyyy.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/yyyy.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Gyor vs Vikingur Reykjavik --- HD",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Gyor vs Vikingur Reykjavik --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4556525.m3u8?txSecret=0bf0a6087c9273812260f196d5e38aa8&txTime=6A57BB29",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4556525.m3u8?txSecret=0bf0a6087c9273812260f196d5e38aa8&txTime=6A57BB29|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4556525.m3u8?txSecret=0bf0a6087c9273812260f196d5e38aa8&txTime=6A57BB29",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4556525.m3u8?txSecret=0bf0a6087c9273812260f196d5e38aa8&txTime=6A57BB29|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "NEC Nijmegen vs V-Varen Nagasaki",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/NEC Nijmegen vs V-Varen Nagasaki.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/rrrr.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/rrrr.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
