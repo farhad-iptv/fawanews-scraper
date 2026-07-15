@@ -1,43 +1,109 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-15T18:36:11.769843",
-    "total_with_streams": 29,
+    "fetched_at": "2026-07-15T20:01:45.966881",
+    "total_with_streams": 34,
     "events_with_streams": [
         {
-            "name": "England vs Argentina --- ENG",
+            "name": "England vs Argentina --- ENG BBC",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "21:00",
+            "time": "20:00",
             "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Argentina_eng.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/FECZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/FECZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/XFECZzsss.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/XFECZzsss.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/FECZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FECZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/XFECZzsss.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/XFECZzsss.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/FECZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/FECZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.51/hls/XFECZzsss.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/XFECZzsss.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/FECZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/FECZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/XFECZzsss.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/XFECZzsss.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.42/hls/FECZzsss.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/FECZzsss.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.42/hls/XFECZzsss.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/XFECZzsss.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "England vs Argentina --- FR HD",
+            "name": "England vs Argentina --- ENG FOX",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "21:00",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Argentina_eng_fox.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/XFECZzsssG.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/XFECZzsssG.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/XFECZzsssG.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/XFECZzsssG.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/XFECZzsssG.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/XFECZzsssG.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/XFECZzsssG.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/XFECZzsssG.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.42/hls/XFECZzsssG.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/XFECZzsssG.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs Argentina --- HD Sat Feed",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Argentina_sat_feed_hd_1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MvYMRTGwDjUa2BEVR.m3u8?txSecret=98777f98981454e75f055fafd880bcb0&txTime=19F68689452",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvYMRTGwDjUa2BEVR.m3u8?txSecret=98777f98981454e75f055fafd880bcb0&txTime=19F68689452|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MvYMRTGwDjUa2BEVR.m3u8?txSecret=98777f98981454e75f055fafd880bcb0&txTime=19F68689452",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvYMRTGwDjUa2BEVR.m3u8?txSecret=98777f98981454e75f055fafd880bcb0&txTime=19F68689452|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs Argentina --- FR HD 1",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Argentina_fr_hd1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/hd-en-6MvYMRTGwDjUa2BEVR.m3u8?txSecret=f58af0e00daa165da2a9d1fa6ee31c73&txTime=19F68689452",
+                    "m3u_url": "https://live2.jxa76.com/live/hd-en-6MvYMRTGwDjUa2BEVR.m3u8?txSecret=f58af0e00daa165da2a9d1fa6ee31c73&txTime=19F68689452|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/hd-en-6MvYMRTGwDjUa2BEVR.m3u8?txSecret=f58af0e00daa165da2a9d1fa6ee31c73&txTime=19F68689452",
+                    "m3u_url": "http://live2.jxa76.com/live/hd-en-6MvYMRTGwDjUa2BEVR.m3u8?txSecret=f58af0e00daa165da2a9d1fa6ee31c73&txTime=19F68689452|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs Argentina --- FR HD 2",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
             "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Argentina_fr_hd.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
@@ -52,28 +118,46 @@
             ]
         },
         {
+            "name": "England vs Argentina --- FR HD 3",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Argentina_fr_hd3.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://play3.315nb.com/live/112964133425_1363836344_1080p.m3u8?txSecret=94d3ce3b92c8608f4bd8a03c39a5c47d&txTime=6A57E6BE&t=1784141998301",
+                    "m3u_url": "https://play3.315nb.com/live/112964133425_1363836344_1080p.m3u8?txSecret=94d3ce3b92c8608f4bd8a03c39a5c47d&txTime=6A57E6BE&t=1784141998301|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://play3.315nb.com/live/112964133425_1363836344_1080p.m3u8?txSecret=94d3ce3b92c8608f4bd8a03c39a5c47d&txTime=6A57E6BE&t=1784141998301",
+                    "m3u_url": "http://play3.315nb.com/live/112964133425_1363836344_1080p.m3u8?txSecret=94d3ce3b92c8608f4bd8a03c39a5c47d&txTime=6A57E6BE&t=1784141998301|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "England vs Argentina --- FR",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "21:00",
+            "time": "20:00",
             "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Argentina_fr.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/FECZckkkq.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/FECZckkkq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/XFECZckkkq.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/XFECZckkkq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/FECZckkkq.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FECZckkkq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/XFECZckkkq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/XFECZckkkq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/FECZckkkq.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/FECZckkkq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.51/hls/XFECZckkkq.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/XFECZckkkq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/FECZckkkq.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/FECZckkkq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/XFECZckkkq.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/XFECZckkkq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -81,25 +165,25 @@
             "name": "England vs Argentina --- SWE",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "21:00",
+            "time": "20:00",
             "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Argentina_swe.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/FECZckkkqq.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/FECZckkkqq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/XFECZckkkqq.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/XFECZckkkqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/FECZckkkqq.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FECZckkkqq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/XFECZckkkqq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/XFECZckkkqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/FECZckkkqq.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/FECZckkkqq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.51/hls/XFECZckkkqq.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/XFECZckkkqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/FECZckkkqq.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/FECZckkkqq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/XFECZckkkqq.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/XFECZckkkqq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -107,29 +191,29 @@
             "name": "England vs Argentina --- SWAHILI",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "21:00",
+            "time": "20:00",
             "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Argentina_swa.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/FHHHH.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/FHHHH.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/XFHHHH.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/XFHHHH.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/FHHHH.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FHHHH.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/XFHHHH.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/XFHHHH.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/FHHHH.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/FHHHH.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.51/hls/XFHHHH.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/XFHHHH.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/FHHHH.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/FHHHH.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/XFHHHH.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/XFHHHH.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.41/hls/FHHHH.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/FHHHH.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/XFHHHH.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/XFHHHH.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -137,25 +221,25 @@
             "name": "England vs Argentina --- BE NL",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "21:00",
+            "time": "20:00",
             "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Argentina_nl.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/FECZckkkqqqq.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/FECZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/XFECZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/XFECZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/FECZckkkqqqq.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FECZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/XFECZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/XFECZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/FECZckkkqqqq.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/FECZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.51/hls/XFECZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/XFECZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/FECZckkkqqqq.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/FECZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/XFECZckkkqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/XFECZckkkqqqq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -163,25 +247,25 @@
             "name": "England vs Argentina --- ES",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "21:00",
+            "time": "20:00",
             "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Argentina_es.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/FECZckkkqqq.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/FECZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/XFECZckkkqqq.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/XFECZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/FECZckkkqqq.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FECZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/XFECZckkkqqq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/XFECZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/FECZckkkqqq.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/FECZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.51/hls/XFECZckkkqqq.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/XFECZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/FECZckkkqqq.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/FECZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/XFECZckkkqqq.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/XFECZckkkqqq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -189,25 +273,25 @@
             "name": "England vs Argentina --- AR",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "21:00",
+            "time": "20:00",
             "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Argentina_ar.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/YYYYY.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/YYYYY.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/XYYYYY.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/XYYYYY.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/YYYYY.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/YYYYY.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/XYYYYY.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/XYYYYY.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/YYYYY.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/YYYYY.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.51/hls/XYYYYY.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/XYYYYY.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/YYYYY.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/YYYYY.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/XYYYYY.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/XYYYYY.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -215,7 +299,7 @@
             "name": "England vs Argentina --- CN HD",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "21:00",
+            "time": "20:00",
             "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_England_vs_Argentina_cn_hd.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
@@ -230,48 +314,66 @@
             ]
         },
         {
-            "name": "Cordoba vs Orlando Pirates",
+            "name": "Philadelphia 76ers vs Orlando Magic",
             "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Cordoba vs Orlando Pirates.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "league": "NBA Basketball",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/Philadelphia 76ers vs Orlando Magic.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/OFFFQq.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/OFFFQq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.44/hls/VAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/VAAAQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Cordoba vs Orlando Pirates --- HD",
+            "name": "Philadelphia 76ers vs Orlando Magic --- HD",
             "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Cordoba vs Orlando Pirates --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "league": "NBA Basketball",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/Philadelphia 76ers vs Orlando Magic --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4580251.m3u8?txSecret=3b640feae69c200418d5b6710f5fd404&txTime=6A5908E8",
-                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4580251.m3u8?txSecret=3b640feae69c200418d5b6710f5fd404&txTime=6A5908E8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923420.m3u8?txSecret=9543699ad23579580e04ac6b05759d24&txTime=6A592EE0",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923420.m3u8?txSecret=9543699ad23579580e04ac6b05759d24&txTime=6A592EE0|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4580251.m3u8?txSecret=3b640feae69c200418d5b6710f5fd404&txTime=6A5908E8",
-                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4580251.m3u8?txSecret=3b640feae69c200418d5b6710f5fd404&txTime=6A5908E8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923420.m3u8?txSecret=9543699ad23579580e04ac6b05759d24&txTime=6A592EE0",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923420.m3u8?txSecret=9543699ad23579580e04ac6b05759d24&txTime=6A592EE0|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Solihull Moors vs Birmingham",
+            "name": "Minnesota Timberwolves vs Indiana Pacers",
             "type": "live_event",
-            "league": "Friendly Match",
-            "time": "17:30",
-            "page_link": "http://www.fawanews.sc/Solihull Moors vs Birmingham.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "league": "NBA Basketball",
+            "time": "20:30",
+            "page_link": "http://www.fawanews.sc/Minnesota Timberwolves vs Indiana Pacers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/VVVV.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/VVVV.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.44/hls/VAAA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/VAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Minnesota Timberwolves vs Indiana Pacers --- HD",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "20:30",
+            "page_link": "http://www.fawanews.sc/Minnesota Timberwolves vs Indiana Pacers --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923422.m3u8?txSecret=fd9cdf8900cca670d174efd80f59fa6b&txTime=6A592EE0",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3923422.m3u8?txSecret=fd9cdf8900cca670d174efd80f59fa6b&txTime=6A592EE0|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923422.m3u8?txSecret=fd9cdf8900cca670d174efd80f59fa6b&txTime=6A592EE0",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3923422.m3u8?txSecret=fd9cdf8900cca670d174efd80f59fa6b&txTime=6A592EE0|Referer=http://www.fawanews.sc"
                 }
             ]
         },
