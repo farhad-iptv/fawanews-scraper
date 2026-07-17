@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-17T11:01:43.624847",
-    "total_with_streams": 26,
+    "fetched_at": "2026-07-17T12:40:18.079816",
+    "total_with_streams": 29,
     "events_with_streams": [
         {
             "name": "Golf The Open",
@@ -102,6 +102,48 @@
                 {
                     "original_url": "http://193.47.62.41/hls/skkkqqqQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/skkkqqqQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Nordsjaelland vs Jagiellonia",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Nordsjaelland vs Jagiellonia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/JJJJDQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/JJJJDQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Midtjylland vs Odense",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Midtjylland vs Odense.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/JJJJDQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/JJJJDQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "De Graafschap vs Telstar",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/De Graafschap vs Telstar.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/JJJJD.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/JJJJD.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
