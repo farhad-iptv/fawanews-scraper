@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-16T23:47:51.212025",
-    "total_with_streams": 26,
+    "fetched_at": "2026-07-17T01:28:22.423387",
+    "total_with_streams": 27,
     "events_with_streams": [
         {
             "name": "Philadelphia Phillies vs New York Mets",
@@ -112,6 +112,24 @@
                 {
                     "original_url": "http://193.47.62.41/hls/GRGRGRQQQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/GRGRGRQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "St Louis City vs Sporting Kansas City --- HD",
+            "type": "live_event",
+            "league": "MLS League",
+            "time": "01:30",
+            "page_link": "http://www.fawanews.sc/St Louis City vs Sporting Kansas City --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4460324.m3u8?txSecret=b670d4bdfb2a9196a9b37fc3be45142f&txTime=6A5ABF30",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4460324.m3u8?txSecret=b670d4bdfb2a9196a9b37fc3be45142f&txTime=6A5ABF30|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4460324.m3u8?txSecret=b670d4bdfb2a9196a9b37fc3be45142f&txTime=6A5ABF30",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4460324.m3u8?txSecret=b670d4bdfb2a9196a9b37fc3be45142f&txTime=6A5ABF30|Referer=http://www.fawanews.sc"
                 }
             ]
         },
