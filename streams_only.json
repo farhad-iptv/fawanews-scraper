@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-19T16:27:23.672249",
-    "total_with_streams": 47,
+    "fetched_at": "2026-07-19T17:31:00.578027",
+    "total_with_streams": 43,
     "events_with_streams": [
         {
             "name": "Spain vs Argentina --- ENG",
@@ -28,8 +28,8 @@
                     "m3u_url": "http://193.47.62.55/hls/hhhh.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.43/hls/hhhh.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/hhhh.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.43/hls/xhhhh.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/xhhhh.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -112,7 +112,7 @@
             ]
         },
         {
-            "name": "Spain vs Argentina --- NL",
+            "name": "Spain vs Argentina --- NL BE",
             "type": "live_event",
             "league": "FIFA World Cup",
             "time": "20:00",
@@ -150,24 +150,24 @@
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/hhhhsQQ.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/hhhhsQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/hhhhsQQq.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/hhhhsQQq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/hhhhsQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/hhhhsQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/hhhhsQQq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/hhhhsQQq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/hhhhsQQ.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/hhhhsQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.51/hls/hhhhsQQq.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/hhhhsQQq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/hhhhsQQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/hhhhsQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/hhhhsQQq.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/hhhhsQQq.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.43/hls/hhhhsQQ.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/hhhhsQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.43/hls/hhhhsQQq.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/hhhhsQQq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -194,12 +194,12 @@
             "type": "live_event",
             "league": "Cricket",
             "time": "--:--",
-            "page_link": "http://www.fawanews.sc/England vs India.html",
+            "page_link": "http://www.fawanews.sc/England vs India2.html",
             "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/XAXAXA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/XAXAXA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/xXAXAXA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/xXAXAXA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -218,86 +218,58 @@
             ]
         },
         {
-            "name": "Hammarby vs Degerfors",
+            "name": "Cleveland Guardians vs Pittsburgh Pirates",
             "type": "live_event",
-            "league": "Sweden Allsvenskan",
-            "time": "15:30",
-            "page_link": "http://www.fawanews.sc/Hammarby vs Degerfors.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "league": "MLB Baseball",
+            "time": "18:40",
+            "page_link": "http://www.fawanews.sc/Cleveland Guardians vs Pittsburgh Pirates.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.57/hls/QQAVVVV.m3u8",
-                    "m3u_url": "http://193.47.62.57/hls/QQAVVVV.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/IMMMAQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/IMMMAQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Hammarby vs Degerfors --- HD",
+            "name": "Philadelphia Phillies vs New York Mets",
             "type": "live_event",
-            "league": "Sweden Allsvenskan",
-            "time": "15:30",
-            "page_link": "http://www.fawanews.sc/Hammarby vs Degerfors --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "league": "MLB Baseball",
+            "time": "18:35",
+            "page_link": "http://www.fawanews.sc/Philadelphia Phillies vs New York Mets.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.57/hls/QQAVVVVX.m3u8",
-                    "m3u_url": "http://193.47.62.57/hls/QQAVVVVX.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/IMMMAQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/IMMMAQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Halmstad vs Hacken",
+            "name": "Boston Red Sox vs Tampa Bay Rays",
             "type": "live_event",
-            "league": "Sweden Allsvenskan",
-            "time": "15:30",
-            "page_link": "http://www.fawanews.sc/Halmstad vs Hacken.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "league": "MLB Baseball",
+            "time": "18:35",
+            "page_link": "http://www.fawanews.sc/Boston Red Sox vs Tampa Bay Rays.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.46/hls/QAVVVV.m3u8",
-                    "m3u_url": "http://193.47.62.46/hls/QAVVVV.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/IMMMAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/IMMMAQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Halmstad vs Hacken --- HD",
+            "name": "Atlanta Braves vs Texas Rangers",
             "type": "live_event",
-            "league": "Sweden Allsvenskan",
-            "time": "15:30",
-            "page_link": "http://www.fawanews.sc/Halmstad vs Hacken --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "league": "MLB Baseball",
+            "time": "18:35",
+            "page_link": "http://www.fawanews.sc/Atlanta Braves vs Texas Rangers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.46/hls/QAVVVVX.m3u8",
-                    "m3u_url": "http://193.47.62.46/hls/QAVVVVX.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Elfsborg vs Sirius",
-            "type": "live_event",
-            "league": "Sweden Allsvenskan",
-            "time": "15:30",
-            "page_link": "http://www.fawanews.sc/Elfsborg vs Sirius.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.46/hls/AVVVV.m3u8",
-                    "m3u_url": "http://193.47.62.46/hls/AVVVV.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Elfsborg vs Sirius --- HD",
-            "type": "live_event",
-            "league": "Sweden Allsvenskan",
-            "time": "15:30",
-            "page_link": "http://www.fawanews.sc/Elfsborg vs Sirius --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.46/hls/AVVVVX.m3u8",
-                    "m3u_url": "http://193.47.62.46/hls/AVVVVX.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/IMMMAQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/IMMMAQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -372,6 +344,24 @@
             ]
         },
         {
+            "name": "Dallas Wings W vs Los Angeles Sparks W --- HD",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Dallas Wings W vs Los Angeles Sparks W --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3909107.m3u8?txSecret=eef26399cc7c658c29f6c3c965093cc6&txTime=6A5E5050",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3909107.m3u8?txSecret=eef26399cc7c658c29f6c3c965093cc6&txTime=6A5E5050|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3909107.m3u8?txSecret=eef26399cc7c658c29f6c3c965093cc6&txTime=6A5E5050",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3909107.m3u8?txSecret=eef26399cc7c658c29f6c3c965093cc6&txTime=6A5E5050|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "China vs Brazil",
             "type": "live_event",
             "league": "Volleyball Nations League",
@@ -410,6 +400,20 @@
                 {
                     "original_url": "http://193.47.62.41/hls/FOOOQQQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/FOOOQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sweden U20 vs Hungary U20",
+            "type": "live_event",
+            "league": "Handball European Championship",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Sweden U20 vs Hungary U20.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2028493750138286081/s1tpzLrO_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/eeee.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/eeee.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -596,66 +600,10 @@
             ]
         },
         {
-            "name": "Limerick vs Galway",
-            "type": "live_event",
-            "league": "All-Ireland Senior Hurling",
-            "time": "15:30",
-            "page_link": "http://www.fawanews.sc/Limerick vs Galway.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2009223629834240000/Y6IOJx-8_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/bbbb.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/bbbb.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Ukraine vs Germany",
-            "type": "live_event",
-            "league": "Volleyball Nations League",
-            "time": "15:30",
-            "page_link": "http://www.fawanews.sc/Ukraine vs Germany.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/FVVVVQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/FVVVVQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis WTA Iasi",
-            "type": "live_event",
-            "league": "Tennis WTA",
-            "time": "15:30",
-            "page_link": "http://www.fawanews.sc/Tennis WTA Iasi.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/DADADAQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/DADADAQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Castleford vs Leeds",
-            "type": "live_event",
-            "league": "English Rugby Super League",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Castleford vs Leeds.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/FVVVV.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/FVVVV.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Darts World Matchplay",
             "type": "live_event",
             "league": "Darts",
-            "time": "13:10",
+            "time": "19:35",
             "page_link": "http://www.fawanews.sc/Darts World Matchplay.html",
             "image_url": "https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",
             "streams": [
