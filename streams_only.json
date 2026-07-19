@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-19T10:50:17.237335",
-    "total_with_streams": 21,
+    "fetched_at": "2026-07-19T11:48:35.208367",
+    "total_with_streams": 22,
     "events_with_streams": [
         {
             "name": "Formula 1 GP Belgium --- ENG SD",
@@ -102,6 +102,20 @@
                 {
                     "original_url": "http://193.47.62.43/hls/HAAAKQQQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.43/hls/HAAAKQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "British Superbikes in West Kingsdown",
+            "type": "live_event",
+            "league": "British Superbikes",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/British Superbikes in West Kingsdown.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1486618439510806530/0sditKjT_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.57/hls/roooj.m3u8",
+                    "m3u_url": "http://193.47.62.57/hls/roooj.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
