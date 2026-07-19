@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-19T18:28:36.907050",
-    "total_with_streams": 35,
+    "fetched_at": "2026-07-19T19:40:15.327268",
+    "total_with_streams": 44,
     "events_with_streams": [
         {
             "name": "Spain vs Argentina --- ENG",
@@ -12,24 +12,24 @@
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/hhhh.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/hhhh.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/Ahhhh.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/Ahhhh.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/hhhh.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/hhhh.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/Ahhhh.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/Ahhhh.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/hhhh.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/hhhh.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.51/hls/Ahhhh.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/Ahhhh.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/hhhh.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/hhhh.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/Ahhhh.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/Ahhhh.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.43/hls/xhhhh.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/xhhhh.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.43/hls/XAhhhh.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/XAhhhh.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -52,32 +52,74 @@
             ]
         },
         {
-            "name": "Spain vs Argentina --- FR",
+            "name": "Spain vs Argentina --- HD Sat Feed 1",
             "type": "live_event",
             "league": "FIFA World Cup",
-            "time": "20:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Spain_vs_Argentina_fr.html",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Spain_vs_Argentina_hd_sat_feed.html",
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/hhhhs.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/hhhhs.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://live2.jxa76.com/live/sd-6MvYMRTGwJ8SJyq4oD.m3u8?txSecret=f36de7ee17751d889feda5d9641d7f3a&txTime=19F7D0001F5",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvYMRTGwJ8SJyq4oD.m3u8?txSecret=f36de7ee17751d889feda5d9641d7f3a&txTime=19F7D0001F5|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/hhhhs.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/hhhhs.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://live2.jxa76.com/live/sd-6MvYMRTGwJ8SJyq4oD.m3u8?txSecret=f36de7ee17751d889feda5d9641d7f3a&txTime=19F7D0001F5",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvYMRTGwJ8SJyq4oD.m3u8?txSecret=f36de7ee17751d889feda5d9641d7f3a&txTime=19F7D0001F5|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Spain vs Argentina --- HD Sat Feed 2",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Spain_vs_Argentina_hd_sat_feed2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pulltx.bldoll.com/live/sd-6MvYMRTGwJ8SJyq4sg.m3u8?txSecret=57ac27d73b008eb49bb50da63ebacb0c&txTime=6A6226D5",
+                    "m3u_url": "https://pulltx.bldoll.com/live/sd-6MvYMRTGwJ8SJyq4sg.m3u8?txSecret=57ac27d73b008eb49bb50da63ebacb0c&txTime=6A6226D5|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/hhhhs.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/hhhhs.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://pulltx.bldoll.com/live/sd-6MvYMRTGwJ8SJyq4sg.m3u8?txSecret=57ac27d73b008eb49bb50da63ebacb0c&txTime=6A6226D5",
+                    "m3u_url": "http://pulltx.bldoll.com/live/sd-6MvYMRTGwJ8SJyq4sg.m3u8?txSecret=57ac27d73b008eb49bb50da63ebacb0c&txTime=6A6226D5|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Spain vs Argentina --- FR HD 3",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Spain_vs_Argentina_fr_hd3.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://play2.315nb.com/live/1130397301_566367342_1080p.m3u8?txSecret=3899cf89f5eb1d67037d136bbdcefd9a&txTime=6A5D2C82&t=1784487538451",
+                    "m3u_url": "https://play2.315nb.com/live/1130397301_566367342_1080p.m3u8?txSecret=3899cf89f5eb1d67037d136bbdcefd9a&txTime=6A5D2C82&t=1784487538451|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/hhhhs.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/hhhhs.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://play2.315nb.com/live/1130397301_566367342_1080p.m3u8?txSecret=3899cf89f5eb1d67037d136bbdcefd9a&txTime=6A5D2C82&t=1784487538451",
+                    "m3u_url": "http://play2.315nb.com/live/1130397301_566367342_1080p.m3u8?txSecret=3899cf89f5eb1d67037d136bbdcefd9a&txTime=6A5D2C82&t=1784487538451|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Spain vs Argentina --- FR HD 2",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Spain_vs_Argentina_fr_hd2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/hd-en-6MvYMRTGwJ8SJyq4oD.m3u8?txSecret=71996a3c40705c1bab25c2f91f154481&txTime=19F7D0001F5",
+                    "m3u_url": "https://live2.jxa76.com/live/hd-en-6MvYMRTGwJ8SJyq4oD.m3u8?txSecret=71996a3c40705c1bab25c2f91f154481&txTime=19F7D0001F5|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.43/hls/hhhhs.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/hhhhs.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://live2.jxa76.com/live/hd-en-6MvYMRTGwJ8SJyq4oD.m3u8?txSecret=71996a3c40705c1bab25c2f91f154481&txTime=19F7D0001F5",
+                    "m3u_url": "http://live2.jxa76.com/live/hd-en-6MvYMRTGwJ8SJyq4oD.m3u8?txSecret=71996a3c40705c1bab25c2f91f154481&txTime=19F7D0001F5|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -100,6 +142,36 @@
             ]
         },
         {
+            "name": "Spain vs Argentina --- ES",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Spain_vs_Argentina_es.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/AhhhhsQQq.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/AhhhhsQQq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/AhhhhsQQq.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/AhhhhsQQq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/AhhhhsQQq.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/AhhhhsQQq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/AhhhhsQQq.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AhhhhsQQq.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.43/hls/AhhhhsQQq.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/AhhhhsQQq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Spain vs Argentina --- SWE",
             "type": "live_event",
             "league": "FIFA World Cup",
@@ -108,24 +180,84 @@
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/hhhhsQ.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/hhhhsQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/AhhhhsQ.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/AhhhhsQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/hhhhsQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/hhhhsQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/AhhhhsQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/AhhhhsQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/hhhhsQ.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/hhhhsQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.51/hls/AhhhhsQ.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/AhhhhsQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/hhhhsQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/hhhhsQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/AhhhhsQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AhhhhsQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.43/hls/hhhhsQ.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/hhhhsQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.43/hls/AhhhhsQ.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/AhhhhsQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Spain vs Argentina --- SWAHILI",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Spain_vs_Argentina_swa.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/GGGGGG.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/GGGGGG.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/GGGGGG.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/GGGGGG.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/GGGGGG.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/GGGGGG.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/GGGGGG.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/GGGGGG.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.43/hls/GGGGGG.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/GGGGGG.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Spain vs Argentina --- FR",
+            "type": "live_event",
+            "league": "FIFA World Cup",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Spain_vs_Argentina_fr.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/Ahhhhs.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/Ahhhhs.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/Ahhhhs.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/Ahhhhs.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.51/hls/Ahhhhs.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/Ahhhhs.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/Ahhhhs.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/Ahhhhs.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.43/hls/Ahhhhs.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/Ahhhhs.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -138,54 +270,24 @@
             "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.47/hls/hhhhsQQ.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/hhhhsQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.47/hls/AhhhhsQQ.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/AhhhhsQQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/hhhhsQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/hhhhsQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/AhhhhsQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/AhhhhsQQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.51/hls/hhhhsQQ.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/hhhhsQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.51/hls/AhhhhsQQ.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/AhhhhsQQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.55/hls/hhhhsQQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/hhhhsQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/AhhhhsQQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AhhhhsQQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.43/hls/hhhhsQQ.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/hhhhsQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Spain vs Argentina --- ES",
-            "type": "live_event",
-            "league": "FIFA World Cup",
-            "time": "20:00",
-            "page_link": "http://www.fawanews.sc/FIFA_world_cup_2026_Spain_vs_Argentina_es.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.47/hls/hhhhsQQq.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/hhhhsQQq.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.59/hls/hhhhsQQq.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/hhhhsQQq.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.51/hls/hhhhsQQq.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/hhhhsQQq.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/hhhhsQQq.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/hhhhsQQq.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.43/hls/hhhhsQQq.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/hhhhsQQq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.43/hls/AhhhhsQQ.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/AhhhhsQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -208,30 +310,128 @@
             ]
         },
         {
-            "name": "England vs India",
+            "name": "Toronto Raptors vs Denver Nuggets",
             "type": "live_event",
-            "league": "Cricket",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/England vs India2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "league": "NBA Basketball",
+            "time": "23:30",
+            "page_link": "http://www.fawanews.sc/Toronto Raptors vs Denver Nuggets.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/xXAXAXA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/xXAXAXA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/KNNNQQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/KNNNQQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Golf The Open",
+            "name": "Guayaquil City vs Manta",
             "type": "live_event",
-            "league": "Golf PGA",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Golf The Open_2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1796101365007044610/uNsrOE0V_400x400.jpg",
+            "league": "Ecuador Liga Pro",
+            "time": "22:45",
+            "page_link": "http://www.fawanews.sc/Guayaquil City vs Manta.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/YIII.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/YIII.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/KNNNQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/KNNNQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Bulgaria vs France",
+            "type": "live_event",
+            "league": "Volleyball Nations League",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/Bulgaria vs France.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/KNNNQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/KNNNQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Oklahoma City Thunder vs Brooklyn Nets",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "21:30",
+            "page_link": "http://www.fawanews.sc/Oklahoma City Thunder vs Brooklyn Nets.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/KNNNQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/KNNNQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Seattle Mariners vs San Francisco Giants",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "21:10",
+            "page_link": "http://www.fawanews.sc/Seattle Mariners vs San Francisco Giants.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/KNNNQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/KNNNQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Arizona Diamondbacks vs St Louis Cardinals",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "21:10",
+            "page_link": "http://www.fawanews.sc/Arizona Diamondbacks vs St Louis Cardinals.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/KNNNQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/KNNNQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Los Angeles Angels vs Detroit Tigers",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "21:07",
+            "page_link": "http://www.fawanews.sc/Los Angeles Angels vs Detroit Tigers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/KNNNQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/KNNNQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Athletics vs Washington Nationals",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "21:05",
+            "page_link": "http://www.fawanews.sc/Athletics vs Washington Nationals.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/KNNN.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/KNNN.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Atlanta Dream W vs Chicago Sky W",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/Atlanta Dream W vs Chicago Sky W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/KFFFQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/KFFFQQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -272,8 +472,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.43/hls/HAAAKQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/HAAAKQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.44/hls/HAAAKQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/HAAAKQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -516,48 +716,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/FOOOQQQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/FOOOQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Sweden U20 vs Hungary U20",
-            "type": "live_event",
-            "league": "Handball European Championship",
-            "time": "17:30",
-            "page_link": "http://www.fawanews.sc/Sweden U20 vs Hungary U20.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2028493750138286081/s1tpzLrO_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/eeee.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/eeee.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Petrolul vs Dinamo Bucuresti",
-            "type": "live_event",
-            "league": "Romania Superliga",
-            "time": "17:30",
-            "page_link": "http://www.fawanews.sc/Petrolul vs Dinamo Bucuresti.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/FOOOQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/FOOOQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Botev Vratsa vs Cherno More",
-            "type": "live_event",
-            "league": "Bulgaria efbet League",
-            "time": "17:30",
-            "page_link": "http://www.fawanews.sc/Botev Vratsa vs Cherno More.html",
-            "image_url": "https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/FOOOQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/FOOOQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
