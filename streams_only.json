@@ -1,8 +1,166 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-19T09:24:35.963448",
-    "total_with_streams": 15,
+    "fetched_at": "2026-07-19T10:50:17.237335",
+    "total_with_streams": 21,
     "events_with_streams": [
+        {
+            "name": "Formula 1 GP Belgium --- ENG SD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Belgium --- ENG SD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/RTRTRT.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/RTRTRT.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Belgium --- ENG HD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Belgium --- ENG HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/RTRTRT.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/RTRTRT.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Belgium --- RU HD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Belgium --- RU HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34aa2c48-06de-4288-9af3-91f2622da979/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34aa2c48-06de-4288-9af3-91f2622da979/master.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34aa2c48-06de-4288-9af3-91f2622da979/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34aa2c48-06de-4288-9af3-91f2622da979/master.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Belgium --- SWE",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Belgium --- SWE.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.53/hls/RTRTRT.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/RTRTRT.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs India",
+            "type": "live_event",
+            "league": "Cricket",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/England vs India.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/XAXAXA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/XAXAXA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf The Open",
+            "type": "live_event",
+            "league": "Golf PGA",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Golf The Open_2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1796101365007044610/uNsrOE0V_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.57/hls/YIII.m3u8",
+                    "m3u_url": "http://193.47.62.57/hls/YIII.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Darts World Matchplay",
+            "type": "live_event",
+            "league": "Darts",
+            "time": "13:10",
+            "page_link": "http://www.fawanews.sc/Darts World Matchplay.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.43/hls/HAAAKQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/HAAAKQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis ATP Bastad",
+            "type": "live_event",
+            "league": "Tennis ATP",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Tennis ATP Bastad.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/YDDDQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/YDDDQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Altai vs Aktobe",
+            "type": "live_event",
+            "league": "Kazakhstan Premier League",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Altai vs Aktobe.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1610490753976832006/lga9ESei_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/kokoko.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/kokoko.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 1",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 2",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Norrkoping vs Sandviken",
             "type": "live_event",
@@ -116,20 +274,6 @@
             ]
         },
         {
-            "name": "England vs India",
-            "type": "live_event",
-            "league": "Cricket",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/England vs India.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/XAXAXA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/XAXAXA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Tennis ATP Gstaad",
             "type": "live_event",
             "league": "Tennis ATP",
@@ -144,66 +288,10 @@
             ]
         },
         {
-            "name": "Newcastle Knights W vs St George Illawarra Dragons W",
-            "type": "live_event",
-            "league": "NRL",
-            "time": "09:15",
-            "page_link": "http://www.fawanews.sc/Newcastle Knights W vs St George Illawarra Dragons W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/ffddd.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/ffddd.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "FIA Formula 2 Belgium",
-            "type": "live_event",
-            "league": "FIA Formula 2",
-            "time": "09:00",
-            "page_link": "http://www.fawanews.sc/FIA Formula 2 Belgium.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2061372235508494338/LKV69QHd_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/skkk.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/skkk.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Golf The Open",
-            "type": "live_event",
-            "league": "Golf PGA",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Golf The Open_2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1796101365007044610/uNsrOE0V_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.57/hls/YIII.m3u8",
-                    "m3u_url": "http://193.47.62.57/hls/YIII.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Essendon Bombers vs GWS Giants",
-            "type": "live_event",
-            "league": "AFL Aussie Rules",
-            "time": "07:40",
-            "page_link": "http://www.fawanews.sc/Essendon Bombers vs GWS Giants.html",
-            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/LLLL.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/LLLL.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "World Rally Championship Estonia",
             "type": "live_event",
             "league": "World Rally",
-            "time": "18:00",
+            "time": "08:00",
             "page_link": "http://www.fawanews.sc/World Rally Championship Estonia.html",
             "image_url": "https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
             "streams": [
