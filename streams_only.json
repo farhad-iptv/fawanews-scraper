@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-20T22:45:23.211719",
-    "total_with_streams": 22,
+    "fetched_at": "2026-07-20T23:46:13.858544",
+    "total_with_streams": 23,
     "events_with_streams": [
         {
             "name": "Los Angeles Angels vs St Louis Cardinals",
@@ -158,6 +158,24 @@
             ]
         },
         {
+            "name": "Toronto Tempo W vs Las Vegas Aces W --- HD",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/Toronto Tempo W vs Las Vegas Aces W --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3908946.m3u8?txSecret=19a75f63240f3865f99d90497790ed76&txTime=6A600170",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3908946.m3u8?txSecret=19a75f63240f3865f99d90497790ed76&txTime=6A600170|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3908946.m3u8?txSecret=19a75f63240f3865f99d90497790ed76&txTime=6A600170",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3908946.m3u8?txSecret=19a75f63240f3865f99d90497790ed76&txTime=6A600170|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Dallas Wings W vs New York Liberty W",
             "type": "live_event",
             "league": "WNBA Basketball",
@@ -168,6 +186,24 @@
                 {
                     "original_url": "http://193.47.62.190/hls/CNNNQ.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/CNNNQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Dallas Wings W vs New York Liberty W --- HD",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/Dallas Wings W vs New York Liberty W --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3908991.m3u8?txSecret=5655ba863a54c35b47445fd82696bff2&txTime=6A6001E8",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/hd-en-2-3908991.m3u8?txSecret=5655ba863a54c35b47445fd82696bff2&txTime=6A6001E8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3908991.m3u8?txSecret=5655ba863a54c35b47445fd82696bff2&txTime=6A6001E8",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/hd-en-2-3908991.m3u8?txSecret=5655ba863a54c35b47445fd82696bff2&txTime=6A6001E8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -294,20 +330,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/RRRRRRR.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/RRRRRRR.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Darts World Matchplay",
-            "type": "live_event",
-            "league": "Darts",
-            "time": "20:00",
-            "page_link": "http://www.fawanews.sc/Darts World Matchplay.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.194/hls/HAAAKQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/HAAAKQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
