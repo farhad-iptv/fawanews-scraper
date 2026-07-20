@@ -1,13 +1,13 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-20T13:22:46.431402",
-    "total_with_streams": 20,
+    "fetched_at": "2026-07-20T15:25:40.368368",
+    "total_with_streams": 18,
     "events_with_streams": [
         {
             "name": "Kalmar vs Malmo FF",
             "type": "live_event",
             "league": "Sweden Allsvenskan",
-            "time": "15:30",
+            "time": "18:00",
             "page_link": "http://www.fawanews.sc/Kalmar vs Malmo FF.html",
             "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
             "streams": [
@@ -21,7 +21,7 @@
             "name": "Kalmar vs Malmo FF --- HD",
             "type": "live_event",
             "league": "Sweden Allsvenskan",
-            "time": "15:30",
+            "time": "18:00",
             "page_link": "http://www.fawanews.sc/Kalmar vs Malmo FF --- HD.html",
             "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
             "streams": [
@@ -144,6 +144,20 @@
             ]
         },
         {
+            "name": "Slavia Sofia vs CSKA Sofia",
+            "type": "live_event",
+            "league": "Bulgaria efbet League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Slavia Sofia vs CSKA Sofia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/TTTT.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/TTTT.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "TPS vs Ilves",
             "type": "live_event",
             "league": "Finland Veikkausliiga",
@@ -172,20 +186,6 @@
             ]
         },
         {
-            "name": "Slavia Sofia vs CSKA Sofia",
-            "type": "live_event",
-            "league": "Bulgaria efbet League",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Slavia Sofia vs CSKA Sofia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/TTTT.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/TTTT.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Horse Racing --- CH 1",
             "type": "live_event",
             "league": "Horse Racing",
@@ -210,20 +210,6 @@
                 {
                     "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
                     "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis WTA Hamburg",
-            "type": "live_event",
-            "league": "Tennis WTA",
-            "time": "12:30",
-            "page_link": "http://www.fawanews.sc/Tennis WTA Hamburg.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/XAAAAQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/XAAAAQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -266,20 +252,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/XAAAAQQX.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/XAAAAQQX.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis WTA Iasi",
-            "type": "live_event",
-            "league": "Tennis WTA",
-            "time": "09:30",
-            "page_link": "http://www.fawanews.sc/Tennis WTA Iasi.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/DADADAQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/DADADAQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
