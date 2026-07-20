@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-20T15:25:40.368368",
-    "total_with_streams": 18,
+    "fetched_at": "2026-07-20T16:51:20.682826",
+    "total_with_streams": 24,
     "events_with_streams": [
         {
             "name": "Kalmar vs Malmo FF",
@@ -60,6 +60,104 @@
             ]
         },
         {
+            "name": "Keflavik vs Akranes",
+            "type": "live_event",
+            "league": "Iceland League",
+            "time": "20:15",
+            "page_link": "http://www.fawanews.sc/Keflavik vs Akranes.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/UUUUZQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/UUUUZQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Hafnarfjordur vs Breidablik",
+            "type": "live_event",
+            "league": "Iceland League",
+            "time": "20:15",
+            "page_link": "http://www.fawanews.sc/Hafnarfjordur vs Breidablik.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/UUUUZQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/UUUUZQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sporting Lisbon vs Strasbourg",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "20:15",
+            "page_link": "http://www.fawanews.sc/Sporting Lisbon vs Strasbourg.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/UUUUZQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/UUUUZQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Mushuc Runa vs Orense",
+            "type": "live_event",
+            "league": "Ecuador Liga Pro",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Mushuc Runa vs Orense.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/UUUUZQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/UUUUZQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "SA Bulo Bulo vs Academia del Balompie",
+            "type": "live_event",
+            "league": "Bolivia Division Profesional",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/SA Bulo Bulo vs Academia del Balompie.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/UUUUZ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/UUUUZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FC Rapid Bucuresti vs Sepsi Sf Gheorghe",
+            "type": "live_event",
+            "league": "Romania Superliga",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/FC Rapid Bucuresti vs Sepsi Sf Gheorghe.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/TTTTQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/TTTTQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Botev Plovdiv vs Lokomotiv Sofia",
+            "type": "live_event",
+            "league": "Bulgaria efbet League",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Botev Plovdiv vs Lokomotiv Sofia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/TTTT.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/TTTT.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Norrby vs Sundsvall",
             "type": "live_event",
             "league": "Sweden Superettan",
@@ -74,30 +172,16 @@
             ]
         },
         {
-            "name": "SA Bulo Bulo vs Academia del Balompie",
+            "name": "Slavia Sofia vs CSKA Sofia",
             "type": "live_event",
-            "league": "Bolivia Division Profesional",
+            "league": "Bulgaria efbet League",
             "time": "17:15",
-            "page_link": "http://www.fawanews.sc/SA Bulo Bulo vs Academia del Balompie.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Slavia Sofia vs CSKA Sofia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/UUUUZ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/UUUUZ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Super Nova vs Grobina",
-            "type": "live_event",
-            "league": "Latvia Virsliga",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Super Nova vs Grobina.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/UUUU.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/UUUU.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/TTTT.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/TTTT.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -112,6 +196,20 @@
                 {
                     "original_url": "http://193.47.62.41/hls/TTTTQQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/TTTTQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Super Nova vs Grobina",
+            "type": "live_event",
+            "league": "Latvia Virsliga",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Super Nova vs Grobina.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/UUUU.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/UUUU.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -140,20 +238,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/TTTTQQQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/TTTTQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Slavia Sofia vs CSKA Sofia",
-            "type": "live_event",
-            "league": "Bulgaria efbet League",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Slavia Sofia vs CSKA Sofia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/TTTT.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/TTTT.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
