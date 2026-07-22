@@ -1,8 +1,92 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-22T12:53:51.124067",
-    "total_with_streams": 11,
+    "fetched_at": "2026-07-22T14:54:35.873294",
+    "total_with_streams": 19,
     "events_with_streams": [
+        {
+            "name": "Tottenham vs Milton Keynes Dons",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Tottenham vs Milton Keynes Dons.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/EEEEQ.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/EEEEQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sassuolo vs Padova",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Sassuolo vs Padova.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/EEEE.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/EEEE.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Mashal Muborak vs Nasaf Qarshi",
+            "type": "live_event",
+            "league": "Uzbekistan Super League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Mashal Muborak vs Nasaf Qarshi.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/EEEEQqq.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/EEEEQqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Lokomotiv Tashkent vs Andijan",
+            "type": "live_event",
+            "league": "Uzbekistan Super League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Lokomotiv Tashkent vs Andijan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/EEEEQq.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/EEEEQq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kokand 1912 vs OKMK",
+            "type": "live_event",
+            "league": "Uzbekistan Super League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Kokand 1912 vs OKMK.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/EEEEQqqq.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/EEEEQqqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Southern Brave W vs Welsh Fire W",
+            "type": "live_event",
+            "league": "Cricket T100",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Southern Brave W vs Welsh Fire W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/NHHHQQq.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/NHHHQQq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Metalist 1925 Kharkiv vs Schalke",
             "type": "live_event",
@@ -12,8 +96,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/ADFFFQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/ADFFFQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/ADFFFQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ADFFFQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -84,6 +168,34 @@
                 {
                     "original_url": "http://193.47.62.41/hls/FUUUq.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/FUUUq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cycling Tour de France --- ENG",
+            "type": "live_event",
+            "league": "Cycling",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Cycling Tour de France --- ENG.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/AUUUQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/AUUUQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cycling Tour de France --- BE NL",
+            "type": "live_event",
+            "league": "Cycling",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Cycling Tour de France --- BE.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/AUUUQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/AUUUQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
