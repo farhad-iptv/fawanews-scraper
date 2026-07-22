@@ -1,19 +1,125 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-22T14:54:35.873294",
-    "total_with_streams": 19,
+    "fetched_at": "2026-07-22T16:13:46.105920",
+    "total_with_streams": 26,
     "events_with_streams": [
         {
-            "name": "Tottenham vs Milton Keynes Dons",
+            "name": "Neftci Baku vs Dinamo Minsk",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Neftci Baku vs Dinamo Minsk.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/EEEEQqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/EEEEQqqqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Neftci Baku vs Dinamo Minsk --- HD",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Neftci Baku vs Dinamo Minsk --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4590866.m3u8?txSecret=21d30dfb3a164e6a72f49b3918b163c5&txTime=6A623990",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4590866.m3u8?txSecret=21d30dfb3a164e6a72f49b3918b163c5&txTime=6A623990|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4590866.m3u8?txSecret=21d30dfb3a164e6a72f49b3918b163c5&txTime=6A623990",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4590866.m3u8?txSecret=21d30dfb3a164e6a72f49b3918b163c5&txTime=6A623990|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tottenham vs Milton Keynes Dons --- CH 1",
             "type": "live_event",
             "league": "Friendly Match",
-            "time": "16:00",
+            "time": "17:00",
             "page_link": "http://www.fawanews.sc/Tottenham vs Milton Keynes Dons.html",
             "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
             "streams": [
                 {
                     "original_url": "http://193.47.62.49/hls/EEEEQ.m3u8",
                     "m3u_url": "http://193.47.62.49/hls/EEEEQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tottenham vs Milton Keynes Dons --- CH 2",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Tottenham vs Milton Keynes Dons --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://hls.live123.fans/live/4591078.m3u8",
+                    "m3u_url": "https://hls.live123.fans/live/4591078.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://hls.live123.fans/live/4591078.m3u8",
+                    "m3u_url": "http://hls.live123.fans/live/4591078.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "RAAL La Louviere vs Kifisia",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/RAAL La Louviere vs Kifisia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/RRRRQQ.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/RRRRQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Werder Bremen vs Fagiano Okayama",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/Werder Bremen vs Fagiano Okayama.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/RRRRQQq.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/RRRRQQq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Torino vs Alcione Milano",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/Torino vs Alcione Milano.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/RRRRQ.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/RRRRQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Nantes vs La Roche",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/Nantes vs La Roche.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/RRRR.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/RRRR.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
