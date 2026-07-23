@@ -1,8 +1,78 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-23T10:10:16.730446",
-    "total_with_streams": 10,
+    "fetched_at": "2026-07-23T12:08:34.157444",
+    "total_with_streams": 13,
     "events_with_streams": [
+        {
+            "name": "Golf The Open",
+            "type": "live_event",
+            "league": "Golf PGA",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Golf PGA 3M Open.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2033310638898851840/9nuk0Dmt_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/FFFF.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/FFFF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 1",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 2",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "USA W vs China W",
+            "type": "live_event",
+            "league": "Volleyball Nations League",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/USA W vs China W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GAAAAQQq.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GAAAAQQq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Zimbabwe vs India",
+            "type": "live_event",
+            "league": "Cricket",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Zimbabwe vs India.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/FEEE.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/FEEE.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Tennis ATP Estoril",
             "type": "live_event",
@@ -42,20 +112,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/AUUUQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/AUUUQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Parramatta Eels vs Penrith Panthers",
-            "type": "live_event",
-            "league": "NRL",
-            "time": "10:50",
-            "page_link": "http://www.fawanews.sc/Parramatta Eels vs Penrith Panthers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/GAAAAQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/GAAAAQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -126,20 +182,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/GAAAA.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/GAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Turkey W vs Canada W",
-            "type": "live_event",
-            "league": "Volleyball Nations League",
-            "time": "09:00",
-            "page_link": "http://www.fawanews.sc/Turkey W vs Canada W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/GAAAAQQq.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/GAAAAQQq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
