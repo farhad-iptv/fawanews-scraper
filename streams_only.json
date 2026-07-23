@@ -1,8 +1,124 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-23T12:08:34.157444",
-    "total_with_streams": 13,
+    "fetched_at": "2026-07-23T14:39:01.371889",
+    "total_with_streams": 20,
     "events_with_streams": [
+        {
+            "name": "Malisheva vs Hibernian",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "15:30",
+            "page_link": "http://www.fawanews.sc/Malisheva vs Hibernian.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.43/hls/vaaaaQ.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/vaaaaQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Malisheva vs Hibernian --- HD",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "15:30",
+            "page_link": "http://www.fawanews.sc/Malisheva vs Hibernian --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://pul-tenm.gkykp.com/live/sd-1-4590886.m3u8?txSecret=a7929e3151507d3530aa3c75f8ecbb89&txTime=6A636AB8",
+                    "m3u_url": "https://pul-tenm.gkykp.com/live/sd-1-4590886.m3u8?txSecret=a7929e3151507d3530aa3c75f8ecbb89&txTime=6A636AB8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://pul-tenm.gkykp.com/live/sd-1-4590886.m3u8?txSecret=a7929e3151507d3530aa3c75f8ecbb89&txTime=6A636AB8",
+                    "m3u_url": "http://pul-tenm.gkykp.com/live/sd-1-4590886.m3u8?txSecret=a7929e3151507d3530aa3c75f8ecbb89&txTime=6A636AB8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FK Panevezys vs Tobol",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/FK Panevezys vs Tobol.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.43/hls/JIIIQ.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/JIIIQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FK Liepaja vs Austria Vienna",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/FK Liepaja vs Austria Vienna.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.43/hls/JIII.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/JIII.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Alashkert vs CFR Cluj",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Alashkert vs CFR Cluj.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.43/hls/vaaaaQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/vaaaaQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Termez Surkhon vs Dinamo Samarkand",
+            "type": "live_event",
+            "league": "Uzbekistan Super League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Termez Surkhon vs Dinamo Samarkand.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.43/hls/vaaaaQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/vaaaaQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Navbahor Namangan vs Qizilqum",
+            "type": "live_event",
+            "league": "Uzbekistan Super League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Navbahor Namangan vs Qizilqum.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.43/hls/vaaaaQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/vaaaaQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "London Spirit W vs Manchester Super Giants W",
+            "type": "live_event",
+            "league": "Cricket The Hundred",
+            "time": "14:45",
+            "page_link": "http://www.fawanews.sc/London Spirit W vs Manchester Super Giants W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.43/hls/vaaaa.m3u8",
+                    "m3u_url": "http://193.47.62.43/hls/vaaaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Golf The Open",
             "type": "live_event",
@@ -112,20 +228,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/AUUUQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/AUUUQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Adelaide Crows vs Collingwood Magpies",
-            "type": "live_event",
-            "league": "AFL Aussie Rules",
-            "time": "10:30",
-            "page_link": "http://www.fawanews.sc/Adelaide Crows vs Collingwood Magpies.html",
-            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/GAAAAQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/GAAAAQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
