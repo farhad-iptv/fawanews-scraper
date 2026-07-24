@@ -1,8 +1,36 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-24T22:52:51.181598",
-    "total_with_streams": 49,
+    "fetched_at": "2026-07-24T23:55:02.121933",
+    "total_with_streams": 52,
     "events_with_streams": [
+        {
+            "name": "CES Boxing",
+            "type": "live_event",
+            "league": "Boxing",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/CES Boxing.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/iiiii.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/iiiii.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tanzania Boxing : Choki vs Tony Rashid",
+            "type": "live_event",
+            "league": "Boxing",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Tanzania Boxing_Choki vs Tony Rashid.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/FOOOOO.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/FOOOOO.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Club Tijuana vs Club Leon",
             "type": "live_event",
@@ -12,8 +40,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/KVVVQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/KVVVQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/YYYYY.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YYYYY.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -200,6 +228,24 @@
             ]
         },
         {
+            "name": "WWE Friday Night SmackDown --- CH 2",
+            "type": "live_event",
+            "league": "WWE Wrestling",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/WWE Friday Night SmackDown --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+                    "m3u_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+                    "m3u_url": "http://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Orlando Pride W vs Chicago W",
             "type": "live_event",
             "league": "USA NWSL Women",
@@ -336,6 +382,20 @@
                 {
                     "original_url": "http://193.47.62.41/hls/RARARA.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/RARARA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Mexico U20 vs Antigua and Barbuda U20",
+            "type": "live_event",
+            "league": "CONCACAF Champions Cup",
+            "time": "00:00",
+            "page_link": "http://www.fawanews.sc/Mexico U20 vs Antigua and Barbuda U20.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.((/hls/iiiii.m3u8",
+                    "m3u_url": "http://193.47.62.((/hls/iiiii.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -662,20 +722,6 @@
                 {
                     "original_url": "http://193.47.62.43/hls/ILLLA.m3u8",
                     "m3u_url": "http://193.47.62.43/hls/ILLLA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tanzania Boxing : Choki vs Tony Rashid",
-            "type": "live_event",
-            "league": "Boxing",
-            "time": "17:30",
-            "page_link": "http://www.fawanews.sc/Tanzania Boxing_Choki vs Tony Rashid.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/FOOOOO.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/FOOOOO.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
