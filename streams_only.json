@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-26T07:30:36.264151",
-    "total_with_streams": 49,
+    "fetched_at": "2026-07-26T09:34:14.801190",
+    "total_with_streams": 50,
     "events_with_streams": [
         {
             "name": "Formula 1 GP Hungay --- ENG SD",
@@ -586,6 +586,20 @@
             ]
         },
         {
+            "name": "Levante vs Al Quadisiya",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "09:30",
+            "page_link": "http://www.fawanews.sc/Levante vs Al Quadisiya.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/LFFF.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/LFFF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Wests Tigers W vs Sydney Roosters W",
             "type": "live_event",
             "league": "NRL",
@@ -594,8 +608,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.190/hls/LFFF.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/LFFF.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.190/hls/ZARARAQ.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/ZARARAQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
