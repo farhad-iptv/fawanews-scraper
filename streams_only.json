@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-30T13:02:32.890205",
-    "total_with_streams": 34,
+    "fetched_at": "2026-07-30T15:29:33.264171",
+    "total_with_streams": 32,
     "events_with_streams": [
         {
             "name": "Tobol vs FK Panevezys",
@@ -28,6 +28,20 @@
                 {
                     "original_url": "http://193.47.62.190/hls/BBBBAA.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/BBBBAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Augsburg vs Bournemouth",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Augsburg vs Bournemouth.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/BBBBA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/BBBBA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -186,6 +200,20 @@
             ]
         },
         {
+            "name": "Monza vs Aris",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Monza vs Aris.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.193/hls/DYYYAAAa.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/DYYYAAAa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Marseille vs Nimes",
             "type": "live_event",
             "league": "Friendly Match",
@@ -228,6 +256,20 @@
             ]
         },
         {
+            "name": "Parma vs Arezzo",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Parma vs Arezzo.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/DYYYAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/DYYYAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Tennis ATP Washington",
             "type": "live_event",
             "league": "Tennis ATP",
@@ -238,20 +280,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/HYYYQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/HYYYQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Augsburg vs Bournemouth",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Augsburg vs Bournemouth.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/BBBBA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/BBBBA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -326,20 +354,6 @@
             ]
         },
         {
-            "name": "Poland vs Ukraine",
-            "type": "live_event",
-            "league": "Volleyball Nations League",
-            "time": "12:30",
-            "page_link": "http://www.fawanews.sc/Poland vs Ukraine.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/ppppAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/ppppAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Golf PGA Rocket Classic",
             "type": "live_event",
             "league": "Golf PGA",
@@ -354,62 +368,6 @@
             ]
         },
         {
-            "name": "NQ Cowboys vs Sydney Roosters",
-            "type": "live_event",
-            "league": "NRL",
-            "time": "10:50",
-            "page_link": "http://www.fawanews.sc/NQ Cowboys vs Sydney Roosters.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/ppppAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/ppppAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Collingwood Magpies vs Geelong Cats",
-            "type": "live_event",
-            "league": "AFL Aussie Rules",
-            "time": "10:30",
-            "page_link": "http://www.fawanews.sc/Collingwood Magpies vs Geelong Cats.html",
-            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/ppppAAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/ppppAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Sydney Olympic vs Brisbane Roar",
-            "type": "live_event",
-            "league": "Australia Cup",
-            "time": "10:30",
-            "page_link": "http://www.fawanews.sc/Sydney Olympic vs Brisbane Roar.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1860822159175888896/lE95c4g-_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/ppppAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/ppppAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "South Melbourne vs Adelaide United",
-            "type": "live_event",
-            "league": "Australia Cup",
-            "time": "10:30",
-            "page_link": "http://www.fawanews.sc/South Melbourne vs Adelaide United.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1860822159175888896/lE95c4g-_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/ppppA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/ppppA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Golf AIG Women Open",
             "type": "live_event",
             "league": "Golf",
@@ -420,6 +378,20 @@
                 {
                     "original_url": "http://193.47.62.190/hls/pppp.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/pppp.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Glasgow Commonwealth Games --- CH 1",
+            "type": "live_event",
+            "league": "Commonwealth Games",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Glasgow Commonwealth Games.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2014677760422146048/vcPtMi-l_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ZLLL.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ZLLL.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
