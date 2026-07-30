@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-30T09:10:17.732618",
-    "total_with_streams": 16,
+    "fetched_at": "2026-07-30T11:27:04.081420",
+    "total_with_streams": 15,
     "events_with_streams": [
         {
             "name": "Horse Racing --- CH 1",
@@ -32,6 +32,34 @@
             ]
         },
         {
+            "name": "Snooker Shanghai Masters --- Table 1",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Snooker Shanghai Masters --- Table 1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/tpppq.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/tpppq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Snooker Shanghai Masters --- Table 2",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Snooker Shanghai Masters --- Table 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/tppp.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/tppp.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Poland vs Ukraine",
             "type": "live_event",
             "league": "Volleyball Nations League",
@@ -42,6 +70,20 @@
                 {
                     "original_url": "http://193.47.62.190/hls/ppppAAAAA.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/ppppAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf PGA Rocket Classic",
+            "type": "live_event",
+            "league": "Golf PGA",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Golf PGA Rocket Classic.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/AAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/AAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -116,34 +158,6 @@
             ]
         },
         {
-            "name": "Mallorca vs Al Ittihad",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "09:00",
-            "page_link": "http://www.fawanews.sc/Mallorca vs Al Ittihad.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/KEEEAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/KEEEAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Waikato vs Bay of Plenty",
-            "type": "live_event",
-            "league": "Rugby NZ NPC",
-            "time": "08:10",
-            "page_link": "http://www.fawanews.sc/Waikato vs Bay of Plenty.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1548930594477727745/JYIWlC_z_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/zzzz.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/zzzz.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Glasgow Commonwealth Games --- CH 2",
             "type": "live_event",
             "league": "Commonwealth Games",
@@ -196,34 +210,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/tpppqQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/tpppqQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Snooker Shanghai Masters --- Table 1",
-            "type": "live_event",
-            "league": "Snooker",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Snooker Shanghai Masters --- Table 1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/tpppq.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/tpppq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Snooker Shanghai Masters --- Table 2",
-            "type": "live_event",
-            "league": "Snooker",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Snooker Shanghai Masters --- Table 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/tppp.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/tppp.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
