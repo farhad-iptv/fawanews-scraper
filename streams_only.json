@@ -1,8 +1,78 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-31T15:34:59.356443",
-    "total_with_streams": 42,
+    "fetched_at": "2026-07-31T17:18:01.052694",
+    "total_with_streams": 52,
     "events_with_streams": [
+        {
+            "name": "LASK vs Grazer AK",
+            "type": "live_event",
+            "league": "Austria Bundesliga",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/LASK vs Grazer AK.html",
+            "image_url": "https://pbs.twimg.com/media/FUumFx6XwAANi53.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/EIIIAAA.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/EIIIAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Yverdon vs Etoile-Carouge",
+            "type": "live_event",
+            "league": "Switzerland Challenge League",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Yverdon vs Etoile-Carouge.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/de/thumb/1/11/ChallengeLeague-logo.svg/250px-ChallengeLeague-logo.svg.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/EIIIAA.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/EIIIAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Wil vs Xamax",
+            "type": "live_event",
+            "league": "Switzerland Challenge League",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Wil vs Xamax.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/de/thumb/1/11/ChallengeLeague-logo.svg/250px-ChallengeLeague-logo.svg.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/EIIIA.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/EIIIA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Stade Nyonnais vs Rapperswil-Jona",
+            "type": "live_event",
+            "league": "Switzerland Challenge League",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Stade Nyonnais vs Rapperswil-Jona.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/de/thumb/1/11/ChallengeLeague-logo.svg/250px-ChallengeLeague-logo.svg.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/EIII.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/EIII.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Manchester Super Giants vs Trent Rockets",
+            "type": "live_event",
+            "league": "Cricket The Hundred",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Manchester Super Giants vs Trent Rockets.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/KKKKA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/KKKKA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Singida Black Stars vs Simba",
             "type": "live_event",
@@ -92,6 +162,24 @@
             ]
         },
         {
+            "name": "Valerenga vs HamKam --- HD",
+            "type": "live_event",
+            "league": "Norway Eliteserien",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Valerenga vs HamKam --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MvZ6ERi6gftJL1C1h.m3u8?txSecret=138f7f02528ceab4c3ccf454de80fbf3&txTime=19FBA6C94AA",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvZ6ERi6gftJL1C1h.m3u8?txSecret=138f7f02528ceab4c3ccf454de80fbf3&txTime=19FBA6C94AA|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MvZ6ERi6gftJL1C1h.m3u8?txSecret=138f7f02528ceab4c3ccf454de80fbf3&txTime=19FBA6C94AA",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvZ6ERi6gftJL1C1h.m3u8?txSecret=138f7f02528ceab4c3ccf454de80fbf3&txTime=19FBA6C94AA|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Sparta Prague vs Zlin",
             "type": "live_event",
             "league": "Czech Chance Liga",
@@ -116,6 +204,80 @@
                 {
                     "original_url": "http://193.47.62.191/hls/PCCCAAA.m3u8",
                     "m3u_url": "http://193.47.62.191/hls/PCCCAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Fortuna Sittard vs APOEL",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Fortuna Sittard vs APOEL.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/lssQsqQ.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/lssQsqQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Fortuna Sittard vs APOEL --- HD",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Fortuna Sittard vs APOEL --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MxiZk8e8UwfLAt4JP.m3u8?txSecret=3d9b55ff27e65f0b7c7539927299142e&txTime=19FBA67E64D",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MxiZk8e8UwfLAt4JP.m3u8?txSecret=3d9b55ff27e65f0b7c7539927299142e&txTime=19FBA67E64D|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MxiZk8e8UwfLAt4JP.m3u8?txSecret=3d9b55ff27e65f0b7c7539927299142e&txTime=19FBA67E64D",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MxiZk8e8UwfLAt4JP.m3u8?txSecret=3d9b55ff27e65f0b7c7539927299142e&txTime=19FBA67E64D|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "ADO Den Haag vs Asteras Tripolis",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/ADO Den Haag vs Asteras Tripolis.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/lssQsq.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/lssQsq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "NEC Nijmegen vs Sevilla",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/NEC Nijmegen vs Sevilla.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/OCCCQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/OCCCQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Toulouse vs Real Sociedad",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Toulouse vs Real Sociedad.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/OCCCQQ.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/OCCCQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -162,34 +324,6 @@
             ]
         },
         {
-            "name": "NEC Nijmegen vs Sevilla",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/NEC Nijmegen vs Sevilla.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.191/hls/OCCCQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/OCCCQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Toulouse vs Real Sociedad",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Toulouse vs Real Sociedad.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.191/hls/OCCCQQ.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/OCCCQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Hammarby W vs Vaxjo DFF W",
             "type": "live_event",
             "league": "Sweden Women Allsvenskan",
@@ -200,34 +334,6 @@
                 {
                     "original_url": "http://193.47.62.191/hls/OCCCQ.m3u8",
                     "m3u_url": "http://193.47.62.191/hls/OCCCQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Malmo FF W vs Pitea W",
-            "type": "live_event",
-            "league": "Sweden Women Allsvenskan",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Malmo FF W vs Pitea W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.191/hls/OCCC.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/OCCC.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis WTA Washington",
-            "type": "live_event",
-            "league": "Tennis WTA",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Tennis WTA Washington.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/HYYYQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/HYYYQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -246,6 +352,24 @@
             ]
         },
         {
+            "name": "Juventus vs Nice --- HD",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Juventus vs Nice --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MxiZk8exx7FVnXBV5.m3u8?txSecret=a3f093e75173730db6ec528640000e36&txTime=19FBA49E6EF",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MxiZk8exx7FVnXBV5.m3u8?txSecret=a3f093e75173730db6ec528640000e36&txTime=19FBA49E6EF|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MxiZk8exx7FVnXBV5.m3u8?txSecret=a3f093e75173730db6ec528640000e36&txTime=19FBA49E6EF",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MxiZk8exx7FVnXBV5.m3u8?txSecret=a3f093e75173730db6ec528640000e36&txTime=19FBA49E6EF|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Famalicao vs Como",
             "type": "live_event",
             "league": "Friendly Match",
@@ -256,6 +380,34 @@
                 {
                     "original_url": "http://193.47.62.190/hls/GRRRQQQ.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/GRRRQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Rizespor vs Abha",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Rizespor vs Abha.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/lssQs.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/lssQs.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Nantes vs Al Wakra",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Nantes vs Al Wakra.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/lsss.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/lsss.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -284,6 +436,34 @@
                 {
                     "original_url": "http://193.47.62.190/hls/GRRRQ.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/GRRRQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Malmo FF W vs Pitea W",
+            "type": "live_event",
+            "league": "Sweden Women Allsvenskan",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Malmo FF W vs Pitea W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/OCCC.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/OCCC.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis WTA Washington",
+            "type": "live_event",
+            "league": "Tennis WTA",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Tennis WTA Washington.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/HYYYQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/HYYYQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -438,34 +618,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/KKKKA.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/KKKKA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Mainz vs Shabab Al-Ahli Dubai",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Mainz vs Shabab Al-Ahli Dubai.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/KKKKAAAa.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/KKKKAAAa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cycling Tour of Denmark",
-            "type": "live_event",
-            "league": "Cycling",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Cycling Tour of Denmark.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.191/hls/KKKK.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/KKKK.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
