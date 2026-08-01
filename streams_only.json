@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-01T16:46:56.255310",
-    "total_with_streams": 62,
+    "fetched_at": "2026-08-01T17:51:57.578900",
+    "total_with_streams": 72,
     "events_with_streams": [
         {
             "name": "UFC Fight Night : Uros Medic vs Daniel Rodriguez",
@@ -36,6 +36,154 @@
             ]
         },
         {
+            "name": "Kruger United vs Kaizer Chiefs",
+            "type": "live_event",
+            "league": "South Africa Betway Premiership",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Kruger United vs Kaizer Chiefs.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/HHHHH.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/HHHHH.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.193/hls/HHHHH.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/HHHHH.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Girona vs Arsenal",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Girona vs Arsenal.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/HHHH.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/HHHH.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.193/hls/HHHH.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/HHHH.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Botev Plovdiv vs Cherno More",
+            "type": "live_event",
+            "league": "Bulgaria efbet League",
+            "time": "19:15",
+            "page_link": "http://www.fawanews.sc/Botev Plovdiv vs Cherno More.html",
+            "image_url": "https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/JUUUAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/JUUUAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Celje vs Maribor",
+            "type": "live_event",
+            "league": "Slovenia Prva Liga",
+            "time": "19:15",
+            "page_link": "http://www.fawanews.sc/Celje vs Maribor.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1414517889508462600/kxU3TDsE_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/JUUUAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/JUUUAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Novi Pazar vs OFK Beograd",
+            "type": "live_event",
+            "league": "Serbia Super Liga",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Novi Pazar vs OFK Beograd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1681639346862948353/OPubFagD_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/JUUUAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/JUUUAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Maldonado vs Juventud",
+            "type": "live_event",
+            "league": "Uruguay Liga AUF",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Maldonado vs Juventud.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/JUUUAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/JUUUAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Plzen vs Brno",
+            "type": "live_event",
+            "league": "Czech Chance Liga",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Plzen vs Brno.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2004812101609459712/wwGcHUru_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/JUUUAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/JUUUAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FC Cajamarca vs Sport Huancayo",
+            "type": "live_event",
+            "league": "Peru Liga 1 Apertura",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/FC Cajamarca vs Sport Huancayo.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/JUUUA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/JUUUA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis WTA Washington",
+            "type": "live_event",
+            "league": "Tennis WTA",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Tennis WTA Washington.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/HYYYQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/HYYYQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Brest vs Guingamp",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Brest vs Guingamp.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/JUUU.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/JUUU.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Baltika vs Dynamo Moscow",
             "type": "live_event",
             "league": "Russia Premier League",
@@ -60,20 +208,6 @@
                 {
                     "original_url": "http://193.47.62.191/hls/UCCCQQQ.m3u8",
                     "m3u_url": "http://193.47.62.191/hls/UCCCQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Honved vs MTK Budapest",
-            "type": "live_event",
-            "league": "Hungary NB 1 Liga",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/Honved vs MTK Budapest.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619022597298995203/iCFS2Ka1_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.191/hls/UCCCQQ.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/UCCCQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -130,6 +264,20 @@
                 {
                     "original_url": "http://193.47.62.190/hls/uppp.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/uppp.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf PGA Rocket Classic",
+            "type": "live_event",
+            "league": "Golf PGA",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Golf PGA Rocket Classic.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/AAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/AAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
