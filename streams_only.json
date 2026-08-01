@@ -1,29 +1,15 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-07-31T23:53:06.411032",
-    "total_with_streams": 40,
+    "fetched_at": "2026-08-01T01:46:05.758619",
+    "total_with_streams": 41,
     "events_with_streams": [
         {
-            "name": "MMA PFL New York",
+            "name": "MMA LFA : Herbeth Sousa vs Paulo Portillo",
             "type": "live_event",
-            "league": "MMA PFL",
+            "league": "MMA LFA",
             "time": "--:--",
-            "page_link": "http://www.fawanews.sc/MMA PFL New York.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.191/hls/aaaaa.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/aaaaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boxing : Herbeth Sousa vs Paulo Portillo",
-            "type": "live_event",
-            "league": "Boxing",
-            "time": "01:00",
             "page_link": "http://www.fawanews.sc/Boxing_Herbeth Sousa vs Paulo Portillo.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "image_url": "https://pbs.twimg.com/profile_images/1587458834984890369/SO7m3mRI_400x400.jpg",
             "streams": [
                 {
                     "original_url": "http://193.47.62.190/hls/aaaa.m3u8",
@@ -186,6 +172,20 @@
             ]
         },
         {
+            "name": "Cronulla Sharks W vs Wests Tigers W",
+            "type": "live_event",
+            "league": "NRL",
+            "time": "02:35",
+            "page_link": "http://www.fawanews.sc/Cronulla Sharks W vs Wests Tigers W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YIII.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YIII.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Puebla vs Guadalajara Chivas",
             "type": "live_event",
             "league": "Mexico Liga MX",
@@ -196,6 +196,24 @@
                 {
                     "original_url": "http://193.47.62.190/hls/PAAAAQQ.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/PAAAAQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Puebla vs Guadalajara Chivas --- HD",
+            "type": "live_event",
+            "league": "Mexico Liga MX",
+            "time": "02:00",
+            "page_link": "http://www.fawanews.sc/Puebla vs Guadalajara Chivas --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MwdpntpQ7VfeRw4nP.m3u8?txSecret=a6368c27f963d799a8d52db460f75b61&txTime=19FBC210EA6",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MwdpntpQ7VfeRw4nP.m3u8?txSecret=a6368c27f963d799a8d52db460f75b61&txTime=19FBC210EA6|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MwdpntpQ7VfeRw4nP.m3u8?txSecret=a6368c27f963d799a8d52db460f75b61&txTime=19FBC210EA6",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MwdpntpQ7VfeRw4nP.m3u8?txSecret=a6368c27f963d799a8d52db460f75b61&txTime=19FBC210EA6|Referer=http://www.fawanews.sc"
                 }
             ]
         },
