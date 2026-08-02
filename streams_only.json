@@ -1,33 +1,61 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-02T07:27:15.433628",
-    "total_with_streams": 29,
+    "fetched_at": "2026-08-02T09:29:35.926135",
+    "total_with_streams": 10,
     "events_with_streams": [
         {
-            "name": "Boxing : Lamont Roach Jr vs William Zepeda",
+            "name": "Glasgow Commonwealth Games --- CH 1",
             "type": "live_event",
-            "league": "Boxing",
+            "league": "Commonwealth Games",
             "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Boxing_Lamont Roach Jr vs William Zepeda.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "page_link": "http://www.fawanews.sc/Glasgow Commonwealth Games.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2014677760422146048/vcPtMi-l_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.194/hls/hythytj.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/hythytj.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/ZLLL.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ZLLL.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Boxing : Lamont Roach Jr vs William Zepeda --- HD",
+            "name": "Glasgow Commonwealth Games --- CH 2",
             "type": "live_event",
-            "league": "Boxing",
+            "league": "Commonwealth Games",
             "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Boxing_Lamont Roach Jr vs William Zepeda --- HD.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "page_link": "http://www.fawanews.sc/Glasgow Commonwealth Games --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2014677760422146048/vcPtMi-l_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.192/hls/KVVVAAAAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.192/hls/KVVVAAAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/tpppqQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/tpppqQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Glasgow Commonwealth Games --- CH 3",
+            "type": "live_event",
+            "league": "Commonwealth Games",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Glasgow Commonwealth Games --- CH 3.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2014677760422146048/vcPtMi-l_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/tpppqQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/tpppqQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Glasgow Commonwealth Games --- CH 4",
+            "type": "live_event",
+            "league": "Commonwealth Games",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Glasgow Commonwealth Games --- CH 4.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2014677760422146048/vcPtMi-l_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/tpppqQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/tpppqQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -74,6 +102,24 @@
             ]
         },
         {
+            "name": "World Rally Championship Finland",
+            "type": "live_event",
+            "league": "World Rally",
+            "time": "07:00",
+            "page_link": "http://www.fawanews.sc/World Rally Championship Finland.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8",
+                    "m3u_url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8",
+                    "m3u_url": "http://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Parramatta Eels W vs Newcastle Knights W",
             "type": "live_event",
             "league": "NRL",
@@ -98,334 +144,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/CACACAAAAAA.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/CACACAAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Wellington vs Hawkes Bay",
-            "type": "live_event",
-            "league": "Rugby Bunnings NPC",
-            "time": "06:05",
-            "page_link": "http://www.fawanews.sc/Wellington vs Hawkes Bay.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/NPC-Logo_50_Years.png/250px-NPC-Logo_50_Years.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/CACACAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/CACACAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "World Rally Championship Finland",
-            "type": "live_event",
-            "league": "World Rally",
-            "time": "06:00",
-            "page_link": "http://www.fawanews.sc/World Rally Championship Finland.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8",
-                    "m3u_url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8",
-                    "m3u_url": "http://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cronulla Sharks vs South Sydney Rabbitohs",
-            "type": "live_event",
-            "league": "NRL",
-            "time": "05:00",
-            "page_link": "http://www.fawanews.sc/Cronulla Sharks vs South Sydney Rabbitohs.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/CACACAAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/CACACAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Richmond Tigers vs West Coast Eagles",
-            "type": "live_event",
-            "league": "AFL Aussie Rules",
-            "time": "04:10",
-            "page_link": "http://www.fawanews.sc/Richmond Tigers vs West Coast Eagles.html",
-            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/CACACAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/CACACAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "New Zealand Warriors W vs Gold Coast Titans W",
-            "type": "live_event",
-            "league": "NRL",
-            "time": "04:25",
-            "page_link": "http://www.fawanews.sc/New Zealand Warriors W vs Gold Coast Titans W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/CACACA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/CACACA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cruz Azul vs Atlante",
-            "type": "live_event",
-            "league": "Mexico Liga MX",
-            "time": "04:05",
-            "page_link": "http://www.fawanews.sc/Cruz Azul vs Atlante.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.193/hls/ZZGGGFA.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/ZZGGGFA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Portland Timbers vs Seattle Sounders",
-            "type": "live_event",
-            "league": "MLS League",
-            "time": "03:45",
-            "page_link": "http://www.fawanews.sc/Portland Timbers vs Seattle Sounders.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.193/hls/ZZGGGF.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/ZZGGGF.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Portland Timbers vs Seattle Sounders --- HD",
-            "type": "live_event",
-            "league": "MLS League",
-            "time": "03:45",
-            "page_link": "http://www.fawanews.sc/Portland Timbers vs Seattle Sounders --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live2.jxa76.com/live/sd-6MvZ6BA1CqxsnKhodd.m3u8?txSecret=2ded85f0125ab3d9071528f779fdd868&txTime=19FC19CC3D5",
-                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvZ6BA1CqxsnKhodd.m3u8?txSecret=2ded85f0125ab3d9071528f779fdd868&txTime=19FC19CC3D5|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live2.jxa76.com/live/sd-6MvZ6BA1CqxsnKhodd.m3u8?txSecret=2ded85f0125ab3d9071528f779fdd868&txTime=19FC19CC3D5",
-                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvZ6BA1CqxsnKhodd.m3u8?txSecret=2ded85f0125ab3d9071528f779fdd868&txTime=19FC19CC3D5|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Los Angeles Galaxy vs FC Dallas",
-            "type": "live_event",
-            "league": "MLS League",
-            "time": "03:30",
-            "page_link": "http://www.fawanews.sc/Los Angeles Galaxy vs FC Dallas.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.193/hls/ZZGGG.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/ZZGGG.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Los Angeles Galaxy vs FC Dallas --- HD",
-            "type": "live_event",
-            "league": "MLS League",
-            "time": "03:30",
-            "page_link": "http://www.fawanews.sc/Los Angeles Galaxy vs FC Dallas --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live2.jxa76.com/live/sd-6MvZ6BA1CtAMeoXinX.m3u8?txSecret=9072053977215f7c73f2ceefd1afa3af&txTime=19FC1996B63",
-                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvZ6BA1CtAMeoXinX.m3u8?txSecret=9072053977215f7c73f2ceefd1afa3af&txTime=19FC1996B63|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live2.jxa76.com/live/sd-6MvZ6BA1CtAMeoXinX.m3u8?txSecret=9072053977215f7c73f2ceefd1afa3af&txTime=19FC1996B63",
-                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvZ6BA1CtAMeoXinX.m3u8?txSecret=9072053977215f7c73f2ceefd1afa3af&txTime=19FC1996B63|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Northland vs Manawatu",
-            "type": "live_event",
-            "league": "Rugby Bunnings NPC",
-            "time": "03:05",
-            "page_link": "http://www.fawanews.sc/Northland vs Manawatu.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/NPC-Logo_50_Years.png/250px-NPC-Logo_50_Years.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/CACACAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/CACACAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Athletics vs Detroit Tigers",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "02:40",
-            "page_link": "http://www.fawanews.sc/Athletics vs Detroit Tigers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.193/hls/ZVVVAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/ZVVVAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Los Angeles Angels vs Milwaukee Brewers",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "02:38",
-            "page_link": "http://www.fawanews.sc/Los Angeles Angels vs Milwaukee Brewers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.193/hls/ZVVVAAA.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/ZVVVAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Canterbury-Bankstown Bulldogs W vs Brisbane Broncos W",
-            "type": "live_event",
-            "league": "NRL",
-            "time": "02:35",
-            "page_link": "http://www.fawanews.sc/Canterbury-Bankstown Bulldogs W vs Brisbane Broncos W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/CACACA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/CACACA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Colorado Rapids vs Austin FC",
-            "type": "live_event",
-            "league": "MLS League",
-            "time": "02:30",
-            "page_link": "http://www.fawanews.sc/Colorado Rapids vs Austin FC.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.193/hls/ZVVVAA.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/ZVVVAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Colorado Rapids vs Austin FC --- HD",
-            "type": "live_event",
-            "league": "MLS League",
-            "time": "02:30",
-            "page_link": "http://www.fawanews.sc/Colorado Rapids vs Austin FC --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live2.jxa76.com/live/sd-6MvZ6BA1ComPuqstUj.m3u8?txSecret=3176349c14acb58fc38342b390d9b961&txTime=19FC16A2D37",
-                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvZ6BA1ComPuqstUj.m3u8?txSecret=3176349c14acb58fc38342b390d9b961&txTime=19FC16A2D37|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live2.jxa76.com/live/sd-6MvZ6BA1ComPuqstUj.m3u8?txSecret=3176349c14acb58fc38342b390d9b961&txTime=19FC16A2D37",
-                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvZ6BA1ComPuqstUj.m3u8?txSecret=3176349c14acb58fc38342b390d9b961&txTime=19FC16A2D37|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Alianza Lima vs Alianza Atl",
-            "type": "live_event",
-            "league": "Peru Liga 1 Apertura",
-            "time": "02:30",
-            "page_link": "http://www.fawanews.sc/Alianza Lima vs Alianza Atl.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/JUUUA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/JUUUA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Junior vs Millonarios",
-            "type": "live_event",
-            "league": "Colombia Primera A",
-            "time": "02:15",
-            "page_link": "http://www.fawanews.sc/Junior vs Millonarios.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/ioooaaAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/ioooaaAAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Los Angeles Dodgers vs Boston Red Sox",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "02:10",
-            "page_link": "http://www.fawanews.sc/Los Angeles Dodgers vs Boston Red Sox.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.193/hls/ZVVVA.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/ZVVVA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Washington",
-            "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "02:10",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Washington.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/HYYYQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/HYYYQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "FC Cincinnati vs San Jose Earthquakes",
-            "type": "live_event",
-            "league": "MLS League",
-            "time": "00:30",
-            "page_link": "http://www.fawanews.sc/FC Cincinnati vs San Jose Earthquakes.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.193/hls/TTTTAA.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/TTTTAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "FC Cincinnati vs San Jose Earthquakes --- HD",
-            "type": "live_event",
-            "league": "MLS League",
-            "time": "00:30",
-            "page_link": "http://www.fawanews.sc/FC Cincinnati vs San Jose Earthquakes --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live2.jxa76.com/live/sd-6MvZ6B9zsScrAgib6b.m3u8?txSecret=53cec29f7dd8053ea3813614dd54e85b&txTime=19FC1887C67",
-                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvZ6B9zsScrAgib6b.m3u8?txSecret=53cec29f7dd8053ea3813614dd54e85b&txTime=19FC1887C67|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live2.jxa76.com/live/sd-6MvZ6B9zsScrAgib6b.m3u8?txSecret=53cec29f7dd8053ea3813614dd54e85b&txTime=19FC1887C67",
-                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvZ6B9zsScrAgib6b.m3u8?txSecret=53cec29f7dd8053ea3813614dd54e85b&txTime=19FC1887C67|Referer=http://www.fawanews.sc"
                 }
             ]
         }
