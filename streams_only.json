@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-05T00:55:45.232951",
-    "total_with_streams": 48,
+    "fetched_at": "2026-08-05T03:53:16.731977",
+    "total_with_streams": 49,
     "events_with_streams": [
         {
             "name": "Vancouver Whitecaps vs Atlante",
@@ -70,6 +70,24 @@
                 {
                     "original_url": "http://193.47.62.190/hls/AVVVAAAA.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/AVVVAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golden State Valkyries W vs Toronto Tempo W --- HD",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/Golden State Valkyries W vs Toronto Tempo W --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6wXrJJBeg7KtVHnV1D_540p.m3u8?txSecret=d65e307579777961792d49e3d5ab59b8&txTime=19FD0F3603F",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6wXrJJBeg7KtVHnV1D_540p.m3u8?txSecret=d65e307579777961792d49e3d5ab59b8&txTime=19FD0F3603F|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6wXrJJBeg7KtVHnV1D_540p.m3u8?txSecret=d65e307579777961792d49e3d5ab59b8&txTime=19FD0F3603F",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6wXrJJBeg7KtVHnV1D_540p.m3u8?txSecret=d65e307579777961792d49e3d5ab59b8&txTime=19FD0F3603F|Referer=http://www.fawanews.sc"
                 }
             ]
         },
