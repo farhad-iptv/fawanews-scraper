@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-05T09:16:09.662782",
-    "total_with_streams": 20,
+    "fetched_at": "2026-08-05T11:35:03.360807",
+    "total_with_streams": 22,
     "events_with_streams": [
         {
             "name": "Chelsea vs Juventus",
@@ -21,13 +21,31 @@
             "name": "K-League Stars vs Manchester City",
             "type": "live_event",
             "league": "Friendly Match",
-            "time": "12:30",
+            "time": "12:00",
             "page_link": "http://www.fawanews.sc/K-League Stars vs Manchester City.html",
             "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
             "streams": [
                 {
                     "original_url": "http://193.47.62.192/hls/RRRRAAA.m3u8",
                     "m3u_url": "http://193.47.62.192/hls/RRRRAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "K-League Stars vs Manchester City --- HD",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/K-League Stars vs Manchester City --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6Mwea3wEYAxUeqdgN7_540p.m3u8?txSecret=5339cb71479b7b69f4496549e8a3b64e&txTime=19FD2DE8379",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6Mwea3wEYAxUeqdgN7_540p.m3u8?txSecret=5339cb71479b7b69f4496549e8a3b64e&txTime=19FD2DE8379|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6Mwea3wEYAxUeqdgN7_540p.m3u8?txSecret=5339cb71479b7b69f4496549e8a3b64e&txTime=19FD2DE8379",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6Mwea3wEYAxUeqdgN7_540p.m3u8?txSecret=5339cb71479b7b69f4496549e8a3b64e&txTime=19FD2DE8379|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -42,6 +60,24 @@
                 {
                     "original_url": "http://193.47.62.191/hls/RRRRAA.m3u8",
                     "m3u_url": "http://193.47.62.191/hls/RRRRAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "AC Milan vs Inter Milan --- HD",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/AC Milan vs Inter Milan --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6Mwe5HavzPZ3nxe1Zm_540p.m3u8?txSecret=0dc36ca8888e0b75c8f70a6e9b2b4373&txTime=19FD2DD99CF",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6Mwe5HavzPZ3nxe1Zm_540p.m3u8?txSecret=0dc36ca8888e0b75c8f70a6e9b2b4373&txTime=19FD2DD99CF|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6Mwe5HavzPZ3nxe1Zm_540p.m3u8?txSecret=0dc36ca8888e0b75c8f70a6e9b2b4373&txTime=19FD2DD99CF",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6Mwe5HavzPZ3nxe1Zm_540p.m3u8?txSecret=0dc36ca8888e0b75c8f70a6e9b2b4373&txTime=19FD2DD99CF|Referer=http://www.fawanews.sc"
                 }
             ]
         },
