@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-05T11:35:03.360807",
-    "total_with_streams": 22,
+    "fetched_at": "2026-08-05T13:39:31.520186",
+    "total_with_streams": 23,
     "events_with_streams": [
         {
             "name": "Chelsea vs Juventus",
@@ -14,6 +14,24 @@
                 {
                     "original_url": "http://193.47.62.193/hls/RRRRAAAA.m3u8",
                     "m3u_url": "http://193.47.62.193/hls/RRRRAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Chelsea vs Juventus --- HD",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Chelsea vs Juventus --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6Mwe5Hawq3i3JyQiWw_540p.m3u8?txSecret=7f86045e3c4f4576068f79bc684340da&txTime=19FD2FD70B1",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6Mwe5Hawq3i3JyQiWw_540p.m3u8?txSecret=7f86045e3c4f4576068f79bc684340da&txTime=19FD2FD70B1|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6Mwe5Hawq3i3JyQiWw_540p.m3u8?txSecret=7f86045e3c4f4576068f79bc684340da&txTime=19FD2FD70B1",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6Mwe5Hawq3i3JyQiWw_540p.m3u8?txSecret=7f86045e3c4f4576068f79bc684340da&txTime=19FD2FD70B1|Referer=http://www.fawanews.sc"
                 }
             ]
         },
