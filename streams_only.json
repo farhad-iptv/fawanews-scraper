@@ -1,8 +1,64 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-05T15:53:40.410632",
-    "total_with_streams": 39,
+    "fetched_at": "2026-08-05T17:19:11.563353",
+    "total_with_streams": 52,
     "events_with_streams": [
+        {
+            "name": "Arsenal vs Real Betis",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Arsenal vs Real Betis.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/AAAAAADDD.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/AAAAAADDD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Panathinaikos vs CSKA 1948 Sofia",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Panathinaikos vs CSKA 1948 Sofia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.193/hls/AAAAAADD.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/AAAAAADD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ferencvaros vs Gornik Zabrze",
+            "type": "live_event",
+            "league": "UEFA Europa League",
+            "time": "19:15",
+            "page_link": "http://www.fawanews.sc/Ferencvaros vs Gornik Zabrze.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/AAAAAAD.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/AAAAAAD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Fenerbahce vs Sturm Graz",
+            "type": "live_event",
+            "league": "UEFA Champions League",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Fenerbahce vs Sturm Graz.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/AAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/AAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Aarhus vs Sabah Baku",
             "type": "live_event",
@@ -28,6 +84,136 @@
                 {
                     "original_url": "http://193.47.62.191/hls/zmmm.m3u8",
                     "m3u_url": "http://193.47.62.191/hls/zmmm.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Brann vs Apollon --- HD",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Brann vs Apollon --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MxiZdaTB1Y7uKC7Tq_540p.m3u8?txSecret=e01af490fba4b08997081e27e6cc9f86&txTime=19FD42DA640",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MxiZdaTB1Y7uKC7Tq_540p.m3u8?txSecret=e01af490fba4b08997081e27e6cc9f86&txTime=19FD42DA640|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MxiZdaTB1Y7uKC7Tq_540p.m3u8?txSecret=e01af490fba4b08997081e27e6cc9f86&txTime=19FD42DA640",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MxiZdaTB1Y7uKC7Tq_540p.m3u8?txSecret=e01af490fba4b08997081e27e6cc9f86&txTime=19FD42DA640|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "San Francisco Giants vs Texas Rangers",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "19:35",
+            "page_link": "http://www.fawanews.sc/San Francisco Giants vs Texas Rangers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/AAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/AAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Slavia Prague W vs Rangers W",
+            "type": "live_event",
+            "league": "UEFA Women Champions League",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Slavia Prague W vs Rangers W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/AAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/AAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Los Angeles Dodgers vs Chicago Cubs",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "19:20",
+            "page_link": "http://www.fawanews.sc/Los Angeles Dodgers vs Chicago Cubs.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/HRRRAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/HRRRAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Toronto Blue Jays vs Houston Astros",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "19:15",
+            "page_link": "http://www.fawanews.sc/Toronto Blue Jays vs Houston Astros.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/HRRRAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/HRRRAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Keflavik vs KA Akureyri",
+            "type": "live_event",
+            "league": "Iceland League",
+            "time": "19:15",
+            "page_link": "http://www.fawanews.sc/Keflavik vs KA Akureyri.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/HRRRAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/HRRRAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sassuolo vs Celta Vigo",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Sassuolo vs Celta Vigo.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/HRRRAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/HRRRAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Rodina Moscow vs Rubin Kazan",
+            "type": "live_event",
+            "league": "Russia Cup",
+            "time": "18:45",
+            "page_link": "http://www.fawanews.sc/Rodina Moscow vs Rubin Kazan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/HRRRA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/HRRRA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Krasnodar vs Akhmat Grozny",
+            "type": "live_event",
+            "league": "Russia Cup",
+            "time": "18:45",
+            "page_link": "http://www.fawanews.sc/Krasnodar vs Akhmat Grozny.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/HRRR.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/HRRR.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
