@@ -1,8 +1,190 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-06T12:23:46.819365",
-    "total_with_streams": 5,
+    "fetched_at": "2026-08-06T14:43:01.520389",
+    "total_with_streams": 18,
     "events_with_streams": [
+        {
+            "name": "Jagiellonia vs Rangers",
+            "type": "live_event",
+            "league": "UEFA Europa League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Jagiellonia vs Rangers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/AUUUA.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/AUUUA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Maccabi Tel Aviv vs CSKA Sofia",
+            "type": "live_event",
+            "league": "UEFA Europa League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Maccabi Tel Aviv vs CSKA Sofia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/AUUU.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/AUUU.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "KuPS vs Univ Craiova",
+            "type": "live_event",
+            "league": "UEFA Europa League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/KuPS vs Univ Craiova.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/ACCCCAA.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/ACCCCAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "CFR Cluj vs Tromso",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/CFR Cluj vs Tromso.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/FRRRAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/FRRRAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Paide vs SK Rapid",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Paide vs SK Rapid.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/FRRRAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/FRRRAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Noah vs Sion",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Noah vs Sion.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/FRRRAAA.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/FRRRAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Jablonec vs RFS",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Jablonec vs RFS.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/FRRRAA.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/FRRRAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "HJK vs Motherwell",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/HJK vs Motherwell.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/FRRRA.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/FRRRA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Inter Turku vs Vaduz",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Inter Turku vs Vaduz.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/FRRR.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/FRRR.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "London Spirit W vs MI London W",
+            "type": "live_event",
+            "league": "Cricket The Hundred",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/London Spirit W vs MI London W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/BBBB.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/BBBB.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cycling Tour de France Femme",
+            "type": "live_event",
+            "league": "Cycling",
+            "time": "14:45",
+            "page_link": "http://www.fawanews.sc/Cycling Tour de France Femme.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/NNNNAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/NNNNAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf LPGA PIF London Championship",
+            "type": "live_event",
+            "league": "Golf LPGA",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Golf LPGA PIF London Championship.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1665698199661600769/nxoC7o2Q_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/OORRRA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/OORRRA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf PGA Wyndham Championship",
+            "type": "live_event",
+            "league": "Golf PGA",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Golf PGA Wyndham Championship.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2033310638898851840/9nuk0Dmt_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/OORRR.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/OORRR.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Horse Racing --- CH 1",
             "type": "live_event",
