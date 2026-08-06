@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-05T23:46:54.785414",
-    "total_with_streams": 58,
+    "fetched_at": "2026-08-06T01:23:32.601768",
+    "total_with_streams": 50,
     "events_with_streams": [
         {
             "name": "Inter Miami vs Atl San Luis",
@@ -172,6 +172,24 @@
                 {
                     "original_url": "http://193.47.62.190/hls/HIIIFF.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/HIIIFF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Chicago Sky W vs Los Angeles Sparks W --- HD",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "02:00",
+            "page_link": "http://www.fawanews.sc/Chicago Sky W vs Los Angeles Sparks W --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6wXrJEpkNmHiqdy38f_540p.m3u8?txSecret=b2996e849a1194cfa5ac0ada1c5a6e31&txTime=19FD5EAFDE5",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6wXrJEpkNmHiqdy38f_540p.m3u8?txSecret=b2996e849a1194cfa5ac0ada1c5a6e31&txTime=19FD5EAFDE5|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6wXrJEpkNmHiqdy38f_540p.m3u8?txSecret=b2996e849a1194cfa5ac0ada1c5a6e31&txTime=19FD5EAFDE5",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6wXrJEpkNmHiqdy38f_540p.m3u8?txSecret=b2996e849a1194cfa5ac0ada1c5a6e31&txTime=19FD5EAFDE5|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -492,84 +510,6 @@
             ]
         },
         {
-            "name": "New York Liberty W vs Seattle Storm W",
-            "type": "live_event",
-            "league": "WNBA Basketball",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/New York Liberty W vs Seattle Storm W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/OOOOFA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/OOOOFA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "New York Liberty W vs Seattle Storm W --- HD",
-            "type": "live_event",
-            "league": "WNBA Basketball",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/New York Liberty W vs Seattle Storm W --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live2.jxa76.com/live/sd-6wXrJEqVhCWvZKawf9_540p.m3u8?txSecret=fc6824caf1458df5836637a63ec500c5&txTime=19FD58ABBAD",
-                    "m3u_url": "https://live2.jxa76.com/live/sd-6wXrJEqVhCWvZKawf9_540p.m3u8?txSecret=fc6824caf1458df5836637a63ec500c5&txTime=19FD58ABBAD|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live2.jxa76.com/live/sd-6wXrJEqVhCWvZKawf9_540p.m3u8?txSecret=fc6824caf1458df5836637a63ec500c5&txTime=19FD58ABBAD",
-                    "m3u_url": "http://live2.jxa76.com/live/sd-6wXrJEqVhCWvZKawf9_540p.m3u8?txSecret=fc6824caf1458df5836637a63ec500c5&txTime=19FD58ABBAD|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Atlanta Dream W vs Phoenix Mercury W",
-            "type": "live_event",
-            "league": "WNBA Basketball",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/Atlanta Dream W vs Phoenix Mercury W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/OOOOF.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/OOOOF.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Atlanta Dream W vs Phoenix Mercury W --- HD",
-            "type": "live_event",
-            "league": "WNBA Basketball",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/Atlanta Dream W vs Phoenix Mercury W --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live2.jxa76.com/live/sd-6wXrJEpkYWADWwHZZ5_540p.m3u8?txSecret=5886624d4944247bc1ceb86557f54527&txTime=19FD58A3251",
-                    "m3u_url": "https://live2.jxa76.com/live/sd-6wXrJEpkYWADWwHZZ5_540p.m3u8?txSecret=5886624d4944247bc1ceb86557f54527&txTime=19FD58A3251|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live2.jxa76.com/live/sd-6wXrJEpkYWADWwHZZ5_540p.m3u8?txSecret=5886624d4944247bc1ceb86557f54527&txTime=19FD58A3251",
-                    "m3u_url": "http://live2.jxa76.com/live/sd-6wXrJEpkYWADWwHZZ5_540p.m3u8?txSecret=5886624d4944247bc1ceb86557f54527&txTime=19FD58A3251|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Penarol vs Wanderers",
-            "type": "live_event",
-            "league": "Uruguay Liga AUF",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/Penarol vs Wanderers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/OOOO.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/OOOO.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Philadelphia Phillies vs Washington Nationals",
             "type": "live_event",
             "league": "MLB Baseball",
@@ -650,62 +590,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/PPPPAAAA.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/PPPPAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "San Felipe vs U De Chile",
-            "type": "live_event",
-            "league": "Chile Copa",
-            "time": "23:00",
-            "page_link": "http://www.fawanews.sc/San Felipe vs U De Chile.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/FOOOVAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/FOOOVAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boca Juniors vs Estudiantes LP",
-            "type": "live_event",
-            "league": "Argentina Liga Profesional",
-            "time": "23:00",
-            "page_link": "http://www.fawanews.sc/Boca Juniors vs Estudiantes LP.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.192/hls/FJJJAA.m3u8",
-                    "m3u_url": "http://193.47.62.192/hls/FJJJAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cruzeiro vs Chapecoense-SC",
-            "type": "live_event",
-            "league": "Copa Betano do Brasil",
-            "time": "23:00",
-            "page_link": "http://www.fawanews.sc/Cruzeiro vs Chapecoense-SC.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.192/hls/FJJJA.m3u8",
-                    "m3u_url": "http://193.47.62.192/hls/FJJJA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Nacional Potosi vs The Strongest",
-            "type": "live_event",
-            "league": "Bolivia Division Profesional",
-            "time": "23:00",
-            "page_link": "http://www.fawanews.sc/Nacional Potosi vs The Strongest.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.192/hls/FJJJ.m3u8",
-                    "m3u_url": "http://193.47.62.192/hls/FJJJ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
