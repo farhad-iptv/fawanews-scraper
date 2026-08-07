@@ -1,8 +1,78 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-07T16:41:04.875226",
-    "total_with_streams": 42,
+    "fetched_at": "2026-08-07T17:40:20.237707",
+    "total_with_streams": 48,
     "events_with_streams": [
+        {
+            "name": "Altach vs Tirol",
+            "type": "live_event",
+            "league": "Austria Bundesliga",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Altach vs Tirol.html",
+            "image_url": "https://pbs.twimg.com/media/FUumFx6XwAANi53.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/JGGGAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/JGGGAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Winterthur vs Wil",
+            "type": "live_event",
+            "league": "Switzerland Challenge League",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Winterthur vs Wil.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/de/thumb/1/11/ChallengeLeague-logo.svg/250px-ChallengeLeague-logo.svg.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/JGGGAAA.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/JGGGAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Lausanne Ouchy vs Rapperswil-Jona",
+            "type": "live_event",
+            "league": "Switzerland Challenge League",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Lausanne Ouchy vs Rapperswil-Jona.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/de/thumb/1/11/ChallengeLeague-logo.svg/250px-ChallengeLeague-logo.svg.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/JGGGAA.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/JGGGAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kriens vs Yverdon",
+            "type": "live_event",
+            "league": "Switzerland Challenge League",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Kriens vs Yverdon.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/de/thumb/1/11/ChallengeLeague-logo.svg/250px-ChallengeLeague-logo.svg.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/JGGGA.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/JGGGA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "07 Vestur Sorvagur vs Streymur",
+            "type": "live_event",
+            "league": "Faroe Islands Premier League",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/07 Vestur Sorvagur vs Streymur.html",
+            "image_url": "https://pbs.twimg.com/profile_images/378800000810341478/69360847336070840a7525743d09d4c7_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/JGGG.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/JGGG.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Stormers vs New Zealand",
             "type": "live_event",
@@ -60,6 +130,48 @@
             ]
         },
         {
+            "name": "Sonderjyske vs Viborg",
+            "type": "live_event",
+            "league": "Denmark Superliga",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Sonderjyske vs Viborg.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/FQQQA.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/FQQQA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Brno vs Liberec",
+            "type": "live_event",
+            "league": "Czech Chance Liga",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Brno vs Liberec.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2004812101609459712/wwGcHUru_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/FQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/FQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kristianstad vs Angelholm",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Kristianstad vs Angelholm.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.193/hls/JEEEAAAa.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/JEEEAAAa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Mannheim vs Dusseldorf",
             "type": "live_event",
             "league": "German 3 liga",
@@ -112,34 +224,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/EPPP.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/EPPP.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Sonderjyske vs Viborg",
-            "type": "live_event",
-            "league": "Denmark Superliga",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Sonderjyske vs Viborg.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.191/hls/FQQQA.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/FQQQA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Brno vs Liberec",
-            "type": "live_event",
-            "league": "Czech Chance Liga",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Brno vs Liberec.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2004812101609459712/wwGcHUru_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.191/hls/FQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/FQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
