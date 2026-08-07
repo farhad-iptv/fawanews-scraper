@@ -1,8 +1,50 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-07T08:05:11.054599",
-    "total_with_streams": 4,
+    "fetched_at": "2026-08-07T09:29:17.020703",
+    "total_with_streams": 9,
     "events_with_streams": [
+        {
+            "name": "Bayern Munchen vs Aston Villa",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Bayern Munchen vs Aston Villa.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/AVVVVAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/AVVVVAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Gamba Osaka vs Urawa Reds",
+            "type": "live_event",
+            "league": "Japan J League",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Gamba Osaka vs Urawa Reds.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/AVVVVAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/AVVVVAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Yokohama F Marinos vs Kashima Antlers",
+            "type": "live_event",
+            "league": "Japan J League",
+            "time": "11:25",
+            "page_link": "http://www.fawanews.sc/Yokohama F Marinos vs Kashima Antlers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/AVVVVA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/AVVVVA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Sydney Roosters vs Canterbury Bulldogs",
             "type": "live_event",
@@ -28,6 +70,34 @@
                 {
                     "original_url": "http://193.47.62.190/hls/gnnnA.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/gnnnA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cycling Tour of Poland",
+            "type": "live_event",
+            "league": "Cycling",
+            "time": "10:15",
+            "page_link": "http://www.fawanews.sc/Cycling Tour of Poland.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/tnnn.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/tnnn.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "MotoGP Grand Prix of Great Britain",
+            "type": "live_event",
+            "league": "MotoGP",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/MotoGP Grand Prix of Great Britain.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/AVVVV.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/AVVVV.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
