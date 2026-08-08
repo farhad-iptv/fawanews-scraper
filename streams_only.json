@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-08T15:55:03.048628",
-    "total_with_streams": 111,
+    "fetched_at": "2026-08-08T16:20:56.005128",
+    "total_with_streams": 110,
     "events_with_streams": [
         {
             "name": "Manchester United vs PSG",
@@ -72,48 +72,6 @@
             ]
         },
         {
-            "name": "Tennis ATP Montreal",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "17:30",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Montreal --- CH 1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1808145962105556996/_G1A6Lg__400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/zazaza.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/zazaza.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis WTA Toronto",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "17:30",
-            "page_link": "http://www.fawanews.sc/Tennis WTA Toronto --- CH 1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1808146109652492288/AX7J6NHS_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/XAXAXA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/XAXAXA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Wigan Warriors vs Toulouse Olympique",
-            "type": "live_event",
-            "league": "English Rugby Super League",
-            "time": "17:30",
-            "page_link": "http://www.fawanews.sc/Wigan Warriors vs Toulouse Olympique.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/fiiiaaaa.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/fiiiaaaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Rotherham vs West Bromwich",
             "type": "live_event",
             "league": "English EFL Cup",
@@ -156,12 +114,54 @@
             ]
         },
         {
+            "name": "Tennis ATP Montreal",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Tennis ATP Montreal --- CH 1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1808145962105556996/_G1A6Lg__400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/zazaza.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/zazaza.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis WTA Toronto",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Tennis WTA Toronto --- CH 1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1808146109652492288/AX7J6NHS_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/XAXAXA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/XAXAXA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Wigan Warriors vs Toulouse Olympique",
+            "type": "live_event",
+            "league": "English Rugby Super League",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Wigan Warriors vs Toulouse Olympique.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/fiiiaaaa.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/fiiiaaaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Standard Liege vs Cercle Brugge",
             "type": "live_event",
             "league": "Belgium Pro League",
-            "time": "17:30",
+            "time": "17:15",
             "page_link": "http://www.fawanews.sc/Standard Liege vs Cercle Brugge.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1994499644521398272/E2_Sn5AM_400x400.jpg",
+            "image_url": "https://pbs.twimg.com/profile_images/2082438090145091584/D3dYErOV_400x400.jpg",
             "streams": [
                 {
                     "original_url": "http://193.47.62.190/hls/fiiiaaa.m3u8",
@@ -334,20 +334,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/ooooaaa.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/ooooaaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Narva vs Kalju",
-            "type": "live_event",
-            "league": "Estonia Meistriliiga",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Narva vs Kalju.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1977991086506225664/voApDdum_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/ooooaa.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/ooooaa.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
