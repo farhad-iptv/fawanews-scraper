@@ -1,8 +1,58 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-08T10:35:47.977898",
-    "total_with_streams": 29,
+    "fetched_at": "2026-08-08T11:19:48.574599",
+    "total_with_streams": 33,
     "events_with_streams": [
+        {
+            "name": "Juventus vs Inter Milan --- CH 1",
+            "type": "live_event",
+            "league": "Calcio Italia",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Juventus vs Inter Milan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/GGGG.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/GGGG.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Juventus vs Inter Milan --- CH 2",
+            "type": "live_event",
+            "league": "Calcio Italia",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Juventus vs Inter Milan --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6Mwe5HawpbLGsDVigB_540p.m3u8?txSecret=3220d8270478cbc5dc7901a43c7ba58d&txTime=19FE25B7739",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6Mwe5HawpbLGsDVigB_540p.m3u8?txSecret=3220d8270478cbc5dc7901a43c7ba58d&txTime=19FE25B7739|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6Mwe5HawpbLGsDVigB_540p.m3u8?txSecret=3220d8270478cbc5dc7901a43c7ba58d&txTime=19FE25B7739",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6Mwe5HawpbLGsDVigB_540p.m3u8?txSecret=3220d8270478cbc5dc7901a43c7ba58d&txTime=19FE25B7739|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Juventus vs Inter Milan --- HD",
+            "type": "live_event",
+            "league": "Calcio Italia",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Juventus vs Inter Milan --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3ea62e4c-d750-4919-9fe8-42b03c59ef72/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3ea62e4c-d750-4919-9fe8-42b03c59ef72/master.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3ea62e4c-d750-4919-9fe8-42b03c59ef72/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3ea62e4c-d750-4919-9fe8-42b03c59ef72/master.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Boxing : David Nyika vs Floyd Masson",
             "type": "live_event",
@@ -28,20 +78,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/HHHHAAAAA.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/HHHHAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Juventus vs Inter Milan",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/Juventus vs Inter Milan.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.191/hls/GGGG.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/GGGG.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -84,6 +120,34 @@
                 {
                     "original_url": "http://193.47.62.190/hls/UUUMQQQ.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/UUUMQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Eskilsminne vs Rosengard",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Eskilsminne vs Rosengard.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/GGGGff.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/GGGGff.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "AFC Malmo vs Trelleborg",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/AFC Malmo vs Trelleborg.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/GGGGf.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/GGGGf.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
