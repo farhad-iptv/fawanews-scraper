@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-08T20:56:02.870090",
+    "fetched_at": "2026-08-08T21:19:55.680524",
     "total_with_streams": 60,
     "events_with_streams": [
         {
@@ -214,6 +214,20 @@
             ]
         },
         {
+            "name": "Montevideo City vs Penarol",
+            "type": "live_event",
+            "league": "Uruguay Liga AUF",
+            "time": "22:30",
+            "page_link": "http://www.fawanews.sc/Montevideo City vs Penarol.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/ABBB.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/ABBB.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Coquimbo vs La Serena",
             "type": "live_event",
             "league": "Chile Liga de Primera",
@@ -266,20 +280,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/ABBBQ.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/ABBBQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Montevideo City vs Penarol",
-            "type": "live_event",
-            "league": "Uruguay Liga AUF",
-            "time": "22:00",
-            "page_link": "http://www.fawanews.sc/Montevideo City vs Penarol.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/ABBB.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/ABBB.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
