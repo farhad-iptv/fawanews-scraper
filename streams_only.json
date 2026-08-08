@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-08T11:19:48.574599",
-    "total_with_streams": 33,
+    "fetched_at": "2026-08-08T11:51:46.374163",
+    "total_with_streams": 50,
     "events_with_streams": [
         {
             "name": "Juventus vs Inter Milan --- CH 1",
@@ -50,6 +50,244 @@
                 {
                     "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3ea62e4c-d750-4919-9fe8-42b03c59ef72/master.m3u8",
                     "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3ea62e4c-d750-4919-9fe8-42b03c59ef72/master.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Chelsea vs AC Milan",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Chelsea vs AC Milan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/ijjjaaa.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/ijjjaaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cambridge Utd vs Barnet",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Cambridge Utd vs Barnet.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/ijjjaaaA.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/ijjjaaaA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Radomiak Radom vs Gornik Zabrze",
+            "type": "live_event",
+            "league": "Poland Ekstraklasa",
+            "time": "13:45",
+            "page_link": "http://www.fawanews.sc/Radomiak Radom vs Gornik Zabrze.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2072189899344613376/DeGLZ4Il_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/ijjjaaaAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/ijjjaaaAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Livyi Bereg vs Kudrivka",
+            "type": "live_event",
+            "league": "Ukraine Premier League",
+            "time": "13:30",
+            "page_link": "http://www.fawanews.sc/Livyi Bereg vs Kudrivka.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/ijjjaaaAAA.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/ijjjaaaAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Krylya Sovetov vs Baltika",
+            "type": "live_event",
+            "league": "Russia Premier League",
+            "time": "13:30",
+            "page_link": "http://www.fawanews.sc/Krylya Sovetov vs Baltika.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/ijjjaaaAA.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/ijjjaaaAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf PGA Wyndham Championship",
+            "type": "live_event",
+            "league": "Golf PGA",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Golf PGA Wyndham Championship.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1796101365007044610/uNsrOE0V_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/OORRR.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/OORRR.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf LPGA PIF London Championship",
+            "type": "live_event",
+            "league": "Golf LPGA",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Golf LPGA PIF London Championship.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1665698199661600769/nxoC7o2Q_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/OORRRA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/OORRRA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Valerenga vs Bodo Glimt",
+            "type": "live_event",
+            "league": "Norway Eliteserien",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Valerenga vs Bodo Glimt.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/ijjjaa.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/ijjjaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Wehen vs Preussen Munster",
+            "type": "live_event",
+            "league": "German 3 liga",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Wehen vs Preussen Munster.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/1/1b/Logo_3Liga.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/ijjja.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/ijjja.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Viktoria Koln vs Regensburg",
+            "type": "live_event",
+            "league": "German 3 liga",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Viktoria Koln vs Regensburg.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/1/1b/Logo_3Liga.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/ijjj.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/ijjj.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "TSV Havelse vs Stuttgart II",
+            "type": "live_event",
+            "league": "German 3 liga",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/TSV Havelse vs Stuttgart II.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/1/1b/Logo_3Liga.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/kvvvdaaaaa.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/kvvvdaaaaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ingolstadt vs Wurzburger Kickers",
+            "type": "live_event",
+            "league": "German 3 liga",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Ingolstadt vs Wurzburger Kickers.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/1/1b/Logo_3Liga.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/kvvvdaaaa.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/kvvvdaaaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Duisburg vs Meppen",
+            "type": "live_event",
+            "league": "German 3 liga",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Duisburg vs Meppen.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/1/1b/Logo_3Liga.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/kvvvdaaa.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/kvvvdaaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Aarhus Fremad vs Koge",
+            "type": "live_event",
+            "league": "Denmark Division 1",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Aarhus Fremad vs Koge.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/kvvvdaa.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/kvvvdaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Yunnan Yukun vs Chengdu Rongcheng",
+            "type": "live_event",
+            "league": "China Super League",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Yunnan Yukun vs Chengdu Rongcheng.html",
+            "image_url": "https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/kvvvda.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/kvvvda.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Zhejiang Professional vs Wuhan Three Towns",
+            "type": "live_event",
+            "league": "China Super League",
+            "time": "12:35",
+            "page_link": "http://www.fawanews.sc/Zhejiang Professional vs Wuhan Three Towns.html",
+            "image_url": "https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/kvvvd.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/kvvvd.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Dalian Yingbo vs Liaoning Tieren",
+            "type": "live_event",
+            "league": "China Super League",
+            "time": "12:35",
+            "page_link": "http://www.fawanews.sc/Dalian Yingbo vs Liaoning Tieren.html",
+            "image_url": "https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/kvvv.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/kvvv.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
