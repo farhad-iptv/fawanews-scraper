@@ -1,22 +1,8 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-08T21:19:55.680524",
+    "fetched_at": "2026-08-08T21:53:47.041997",
     "total_with_streams": 60,
     "events_with_streams": [
-        {
-            "name": "Argentina vs South Africa",
-            "type": "live_event",
-            "league": "Rugby Friendly",
-            "time": "20:00",
-            "page_link": "http://www.fawanews.sc/Argentina vs South Africa.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.193/hls/gaaa.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/gaaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
         {
             "name": "UFC Fight Night : Gamrot vs Salkilld",
             "type": "live_event",
@@ -28,6 +14,20 @@
                 {
                     "original_url": "http://193.47.62.192/hls/UUUU.m3u8",
                     "m3u_url": "http://193.47.62.192/hls/UUUU.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "UFC Fight Night : Gamrot vs Salkilld --- HD",
+            "type": "live_event",
+            "league": "UFC Fight Night",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/UFC Fight Night_Gamrot vs Salkilld --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.193/hls/UUUU.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/UUUU.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
