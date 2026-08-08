@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-08T13:26:25.371325",
-    "total_with_streams": 89,
+    "fetched_at": "2026-08-08T14:05:43.008664",
+    "total_with_streams": 115,
     "events_with_streams": [
         {
             "name": "Orlando Pirates vs Durban City",
@@ -82,24 +82,6 @@
             ]
         },
         {
-            "name": "Juventus vs Inter Milan --- HD",
-            "type": "live_event",
-            "league": "Calcio Italia",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/Juventus vs Inter Milan --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3ea62e4c-d750-4919-9fe8-42b03c59ef72/master.m3u8",
-                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3ea62e4c-d750-4919-9fe8-42b03c59ef72/master.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3ea62e4c-d750-4919-9fe8-42b03c59ef72/master.m3u8",
-                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3ea62e4c-d750-4919-9fe8-42b03c59ef72/master.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Cambridge Utd vs Barnet --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
@@ -132,7 +114,7 @@
             ]
         },
         {
-            "name": "Dundee FC vs Aberdeen",
+            "name": "Dundee FC vs Aberdeen --- CH 1",
             "type": "live_event",
             "league": "Scottish Premiership",
             "time": "15:00",
@@ -146,7 +128,21 @@
             ]
         },
         {
-            "name": "St Mirren vs St Johnstone",
+            "name": "Dundee FC vs Aberdeen --- CH 2",
+            "type": "live_event",
+            "league": "Scottish Premiership",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Dundee FC vs Aberdeen --- CH 2.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/bnnnAAA.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/bnnnAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "St Mirren vs St Johnstone --- CH 1",
             "type": "live_event",
             "league": "Scottish Premiership",
             "time": "15:00",
@@ -160,7 +156,21 @@
             ]
         },
         {
-            "name": "West Ham United vs Portsmouth",
+            "name": "St Mirren vs St Johnstone --- CH 2",
+            "type": "live_event",
+            "league": "Scottish Premiership",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/St Mirren vs St Johnstone --- CH 2.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/frrraaa.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/frrraaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "West Ham United vs Portsmouth --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -174,7 +184,25 @@
             ]
         },
         {
-            "name": "Watford vs Crawley",
+            "name": "West Ham United vs Portsmouth --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/West Ham United vs Portsmouth --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MweaAR1ji7cJZTVDm_540p.m3u8?txSecret=1c1d3d19af303582373100d1028719d1&txTime=19FE2F73C01",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MweaAR1ji7cJZTVDm_540p.m3u8?txSecret=1c1d3d19af303582373100d1028719d1&txTime=19FE2F73C01|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MweaAR1ji7cJZTVDm_540p.m3u8?txSecret=1c1d3d19af303582373100d1028719d1&txTime=19FE2F73C01",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MweaAR1ji7cJZTVDm_540p.m3u8?txSecret=1c1d3d19af303582373100d1028719d1&txTime=19FE2F73C01|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Watford vs Crawley --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -188,7 +216,25 @@
             ]
         },
         {
-            "name": "Swansea vs Birmingham",
+            "name": "Watford vs Crawley --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Watford vs Crawley --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6Mxia8qjJcG4ACTbNT_540p.m3u8?txSecret=603061b62de469e01d6d9917102e9b5e&txTime=19FE2F5E12B",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6Mxia8qjJcG4ACTbNT_540p.m3u8?txSecret=603061b62de469e01d6d9917102e9b5e&txTime=19FE2F5E12B|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6Mxia8qjJcG4ACTbNT_540p.m3u8?txSecret=603061b62de469e01d6d9917102e9b5e&txTime=19FE2F5E12B",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6Mxia8qjJcG4ACTbNT_540p.m3u8?txSecret=603061b62de469e01d6d9917102e9b5e&txTime=19FE2F5E12B|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Swansea vs Birmingham --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -202,7 +248,21 @@
             ]
         },
         {
-            "name": "Stoke City vs Oldham",
+            "name": "Swansea vs Birmingham --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Swansea vs Birmingham --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/tpppa.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/tpppa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Stoke City vs Oldham --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -216,7 +276,49 @@
             ]
         },
         {
-            "name": "Sheffield Wednesday vs Bolton",
+            "name": "Stoke City vs Oldham --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Stoke City vs Oldham --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/DDDDA.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/DDDDA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Stockport County vs Doncaster --- CH 1",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Stockport County vs Doncaster.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/hrrraaax.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/hrrraaax.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Stockport County vs Doncaster --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Stockport County vs Doncaster --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/hrrraaax.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/hrrraaax.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sheffield Wednesday vs Bolton --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -230,7 +332,21 @@
             ]
         },
         {
-            "name": "Salford vs Shrewsbury",
+            "name": "Sheffield Wednesday vs Bolton --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Sheffield Wednesday vs Bolton --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.193/hls/SIIIAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/SIIIAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Salford vs Shrewsbury --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -244,7 +360,21 @@
             ]
         },
         {
-            "name": "Preston vs Huddersfield",
+            "name": "Salford vs Shrewsbury --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Salford vs Shrewsbury --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/DDDD.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/DDDD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Preston vs Huddersfield --- CH &",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -258,7 +388,21 @@
             ]
         },
         {
-            "name": "Norwich City vs MK Dons",
+            "name": "Preston vs Huddersfield --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Preston vs Huddersfield --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/RRRRR.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/RRRRR.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Norwich City vs MK Dons --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -272,7 +416,25 @@
             ]
         },
         {
-            "name": "Leyton Orient vs Oxford Utd",
+            "name": "Norwich City vs MK Dons --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Norwich City vs MK Dons --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MweaAR1uQnd7Nx6VH_540p.m3u8?txSecret=0e9cf9990402956b8949913f6dd67744&txTime=19FE2F81BB5",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MweaAR1uQnd7Nx6VH_540p.m3u8?txSecret=0e9cf9990402956b8949913f6dd67744&txTime=19FE2F81BB5|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MweaAR1uQnd7Nx6VH_540p.m3u8?txSecret=0e9cf9990402956b8949913f6dd67744&txTime=19FE2F81BB5",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MweaAR1uQnd7Nx6VH_540p.m3u8?txSecret=0e9cf9990402956b8949913f6dd67744&txTime=19FE2F81BB5|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Leyton Orient vs Oxford Utd --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -286,7 +448,21 @@
             ]
         },
         {
-            "name": "Leicester City vs Northampton",
+            "name": "Leyton Orient vs Oxford Utd --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Leyton Orient vs Oxford Utd --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/FAFAFAZZZZ.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/FAFAFAZZZZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Leicester City vs Northampton --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -300,7 +476,21 @@
             ]
         },
         {
-            "name": "Grimsby vs Blackpool",
+            "name": "Leicester City vs Northampton --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Leicester City vs Northampton --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/hrrraaaa.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/hrrraaaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Grimsby vs Blackpool --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -314,7 +504,21 @@
             ]
         },
         {
-            "name": "Gillingham vs Luton",
+            "name": "Grimsby vs Blackpool --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Grimsby vs Blackpool --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.193/hls/SIIIAA.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/SIIIAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Gillingham vs Luton --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -328,7 +532,21 @@
             ]
         },
         {
-            "name": "Fleetwood vs Chesterfield",
+            "name": "Gillingham vs Luton --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Gillingham vs Luton --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/FAFAFAZZZ.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/FAFAFAZZZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Fleetwood vs Chesterfield --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -342,7 +560,21 @@
             ]
         },
         {
-            "name": "Derby vs Lincoln",
+            "name": "Fleetwood vs Chesterfield --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Fleetwood vs Chesterfield --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/hrrraaa.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/hrrraaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Derby vs Lincoln --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -356,7 +588,21 @@
             ]
         },
         {
-            "name": "Crewe vs Accrington",
+            "name": "Derby vs Lincoln --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Derby vs Lincoln --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.193/hls/SIIIA.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/SIIIA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Crewe vs Accrington --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -370,7 +616,25 @@
             ]
         },
         {
-            "name": "Cardiff City vs Swindon",
+            "name": "Crewe vs Accrington --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Crewe vs Accrington --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MweaAQFaaXwCPExbD_540p.m3u8?txSecret=0d920a813cf8d7e7a9d04815a392301e&txTime=19FE2F6D102",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MweaAQFaaXwCPExbD_540p.m3u8?txSecret=0d920a813cf8d7e7a9d04815a392301e&txTime=19FE2F6D102|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MweaAQFaaXwCPExbD_540p.m3u8?txSecret=0d920a813cf8d7e7a9d04815a392301e&txTime=19FE2F6D102",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MweaAQFaaXwCPExbD_540p.m3u8?txSecret=0d920a813cf8d7e7a9d04815a392301e&txTime=19FE2F6D102|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cardiff City vs Swindon --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -384,7 +648,21 @@
             ]
         },
         {
-            "name": "Burton vs Blackburn",
+            "name": "Cardiff City vs Swindon --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Cardiff City vs Swindon --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/hrrraa.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/hrrraa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Burton vs Blackburn --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -398,7 +676,21 @@
             ]
         },
         {
-            "name": "Burnley vs Notts County",
+            "name": "Burton vs Blackburn --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Burton vs Blackburn --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.193/hls/SIII.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/SIII.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Burnley vs Notts County --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -412,7 +704,21 @@
             ]
         },
         {
-            "name": "Bromley vs Reading",
+            "name": "Burnley vs Notts County --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Burnley vs Notts County --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/FAFAFAZ.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/FAFAFAZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Bromley vs Reading --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -426,7 +732,21 @@
             ]
         },
         {
-            "name": "Bristol Rovers vs Peterborough",
+            "name": "Bromley vs Reading --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Bromley vs Reading --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/hrrra.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/hrrra.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Bristol Rovers vs Peterborough --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -440,7 +760,21 @@
             ]
         },
         {
-            "name": "Bradford City vs Rochdale",
+            "name": "Bristol Rovers vs Peterborough --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Bristol Rovers vs Peterborough --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.193/hls/LLLLAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/LLLLAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Bradford City vs Rochdale --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -454,7 +788,25 @@
             ]
         },
         {
-            "name": "Barnsley vs Wigan",
+            "name": "Bradford City vs Rochdale --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Bradford City vs Rochdale --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MxiZoLhw7aDuuka8K_540p.m3u8?txSecret=432eccd2c55afcfd90115df4a39a6867&txTime=19FE2F7AF5D",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MxiZoLhw7aDuuka8K_540p.m3u8?txSecret=432eccd2c55afcfd90115df4a39a6867&txTime=19FE2F7AF5D|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MxiZoLhw7aDuuka8K_540p.m3u8?txSecret=432eccd2c55afcfd90115df4a39a6867&txTime=19FE2F7AF5D",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MxiZoLhw7aDuuka8K_540p.m3u8?txSecret=432eccd2c55afcfd90115df4a39a6867&txTime=19FE2F7AF5D|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Barnsley vs Wigan --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
@@ -468,11 +820,39 @@
             ]
         },
         {
-            "name": "AFC Wimbledon vs Newport",
+            "name": "Barnsley vs Wigan --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Barnsley vs Wigan --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/hrrr.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/hrrr.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "AFC Wimbledon vs Newport --- CH 1",
             "type": "live_event",
             "league": "English EFL Cup",
             "time": "15:00",
             "page_link": "http://www.fawanews.sc/AFC Wimbledon vs Newport.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.193/hls/LLLLAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/LLLLAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "AFC Wimbledon vs Newport --- CH 2",
+            "type": "live_event",
+            "league": "English EFL Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/AFC Wimbledon vs Newport --- CH 2.html",
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
@@ -492,6 +872,20 @@
                 {
                     "original_url": "http://193.47.62.192/hls/bnnnAAAA.m3u8",
                     "m3u_url": "http://193.47.62.192/hls/bnnnAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Lens vs Sunderland",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Lens vs Sunderland.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/iiiii.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/iiiii.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -594,30 +988,16 @@
             ]
         },
         {
-            "name": "Central Esp vs Progreso",
+            "name": "Stabaek vs Lyn",
             "type": "live_event",
-            "league": "Uruguay Liga AUF",
+            "league": "Norway OBOS-ligaen",
             "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Central Esp vs Progreso.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Stabaek vs Lyn.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.191/hls/frrra.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/frrra.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Bandirmaspor vs Istanbulspor AS",
-            "type": "live_event",
-            "league": "Turkey Lig 1",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Bandirmaspor vs Istanbulspor AS.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1577968897441120257/Bywq3Bso_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.193/hls/LLLL.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/LLLL.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.191/hls/frrr.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/frrr.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -632,20 +1012,6 @@
                 {
                     "original_url": "http://193.47.62.192/hls/bnnn.m3u8",
                     "m3u_url": "http://193.47.62.192/hls/bnnn.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Stabaek vs Lyn",
-            "type": "live_event",
-            "league": "Norway OBOS-ligaen",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Stabaek vs Lyn.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.191/hls/frrr.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/frrr.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -706,7 +1072,7 @@
             ]
         },
         {
-            "name": "Eintracht Frankfurt vs Hull City",
+            "name": "Eintracht Frankfurt vs Hull City --- CH 1",
             "type": "live_event",
             "league": "Friendly Match",
             "time": "14:00",
@@ -716,6 +1082,24 @@
                 {
                     "original_url": "http://193.47.62.190/hls/roooaa.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/roooaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Eintracht Frankfurt vs Hull City --- CH 2",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Eintracht Frankfurt vs Hull City --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MxiZutAuEMwtvCeRy_540p.m3u8?txSecret=c52b78d63cea054dd0eb66e4e467751e&txTime=19FE2DD4C88",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MxiZutAuEMwtvCeRy_540p.m3u8?txSecret=c52b78d63cea054dd0eb66e4e467751e&txTime=19FE2DD4C88|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MxiZutAuEMwtvCeRy_540p.m3u8?txSecret=c52b78d63cea054dd0eb66e4e467751e&txTime=19FE2DD4C88",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MxiZutAuEMwtvCeRy_540p.m3u8?txSecret=c52b78d63cea054dd0eb66e4e467751e&txTime=19FE2DD4C88|Referer=http://www.fawanews.sc"
                 }
             ]
         },
