@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-09T21:00:25.938501",
+    "fetched_at": "2026-08-09T21:31:35.626747",
     "total_with_streams": 58,
     "events_with_streams": [
         {
@@ -42,20 +42,6 @@
                 {
                     "original_url": "http://193.47.62.51/hls/FRFRFRA.m3u8",
                     "m3u_url": "http://193.47.62.51/hls/FRFRFRA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cuiaba vs Fortaleza",
-            "type": "live_event",
-            "league": "Brazil Serie B",
-            "time": "22:30",
-            "page_link": "http://www.fawanews.sc/Cuiaba vs Fortaleza.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/CSSSSA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/CSSSSA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -140,6 +126,20 @@
                 {
                     "original_url": "http://193.47.62.51/hls/FUUUAA.m3u8",
                     "m3u_url": "http://193.47.62.51/hls/FUUUAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cuiaba vs Fortaleza",
+            "type": "live_event",
+            "league": "Brazil Serie B",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/Cuiaba vs Fortaleza.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/CSSSSA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/CSSSSA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
