@@ -1,8 +1,64 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-09T08:07:34.050068",
-    "total_with_streams": 5,
+    "fetched_at": "2026-08-09T09:08:34.732500",
+    "total_with_streams": 8,
     "events_with_streams": [
+        {
+            "name": "MotoGP Grand Prix of Great Britain",
+            "type": "live_event",
+            "league": "MotoGP",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/MotoGP Grand Prix of Great Britain.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/AVVVV.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/AVVVV.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tokyo Verdy vs Kawasaki Frontale",
+            "type": "live_event",
+            "league": "Japan J League",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Tokyo Verdy vs Kawasaki Frontale.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/BBBHHHA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/BBBHHHA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Iwaki vs Imabari",
+            "type": "live_event",
+            "league": "Japan J2 League",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Iwaki vs Imabari.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/BBBHHH.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/BBBHHH.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sydney Roosters W vs Parramatta Eels W",
+            "type": "live_event",
+            "league": "NRL",
+            "time": "09:15",
+            "page_link": "http://www.fawanews.sc/Sydney Roosters W vs Parramatta Eels W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/AAAAAVV.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/AAAAAVV.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Young Africans Day Celebration Celebration",
             "type": "live_event",
@@ -32,20 +88,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/KJJJJT.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/KJJJJT.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "St George Illawarra Dragons vs Cronulla Sharks",
-            "type": "live_event",
-            "league": "NRL",
-            "time": "07:05",
-            "page_link": "http://www.fawanews.sc/St George Illawarra Dragons vs Cronulla Sharks.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/sssss.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/sssss.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
