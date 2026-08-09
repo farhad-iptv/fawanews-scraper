@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-09T11:27:40.936131",
-    "total_with_streams": 58,
+    "fetched_at": "2026-08-09T11:54:09.808907",
+    "total_with_streams": 60,
     "events_with_streams": [
         {
             "name": "Manchester City vs Atletico Madrid",
@@ -78,6 +78,20 @@
                 {
                     "original_url": "http://193.47.62.193/hls/HRRR.m3u8",
                     "m3u_url": "http://193.47.62.193/hls/HRRR.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Johor vs Chelsea",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Johor vs Chelsea.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/RRRRRRRR.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/RRRRRRRR.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -474,7 +488,7 @@
             ]
         },
         {
-            "name": "Gent vs KV Mechelen",
+            "name": "Gent vs KV Mechelen --- CH 1",
             "type": "live_event",
             "league": "Belgium Pro League",
             "time": "12:30",
@@ -484,6 +498,24 @@
                 {
                     "original_url": "http://193.47.62.190/hls/BLLLAAAAA.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/BLLLAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Gent vs KV Mechelen --- CH 2",
+            "type": "live_event",
+            "league": "Belgium Pro League",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Gent vs KV Mechelen --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2082438090145091584/D3dYErOV_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MwdqQjm7AUpFzJADH_540p.m3u8?txSecret=dc1e39b24a05ea25f1711fb7659b3609&txTime=19FE7907181",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MwdqQjm7AUpFzJADH_540p.m3u8?txSecret=dc1e39b24a05ea25f1711fb7659b3609&txTime=19FE7907181|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MwdqQjm7AUpFzJADH_540p.m3u8?txSecret=dc1e39b24a05ea25f1711fb7659b3609&txTime=19FE7907181",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MwdqQjm7AUpFzJADH_540p.m3u8?txSecret=dc1e39b24a05ea25f1711fb7659b3609&txTime=19FE7907181|Referer=http://www.fawanews.sc"
                 }
             ]
         },
