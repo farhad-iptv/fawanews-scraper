@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-09T17:55:57.837805",
-    "total_with_streams": 69,
+    "fetched_at": "2026-08-09T18:24:19.332214",
+    "total_with_streams": 71,
     "events_with_streams": [
         {
             "name": "Young Africans vs FC LAC",
@@ -226,16 +226,16 @@
             ]
         },
         {
-            "name": "Vikingur Reykjavik vs Vestmannaeyjar",
+            "name": "Indycar Grand Prix of Portland Race",
             "type": "live_event",
-            "league": "Iceland League",
+            "league": "IndyCar",
             "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Vikingur Reykjavik vs Vestmannaeyjar.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/IndyCar Grand Prix of Portland Race.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2081821636781625344/PYwn5If8_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.40/hls/AVVVFF.m3u8",
-                    "m3u_url": "http://193.47.62.40/hls/AVVVFF.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/vxxx.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/vxxx.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -268,30 +268,16 @@
             ]
         },
         {
-            "name": "Defensor Sp vs Wanderers",
+            "name": "Vikingur Reykjavik vs Vestmannaeyjar",
             "type": "live_event",
-            "league": "Uruguay Liga AUF",
+            "league": "Iceland League",
             "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Defensor Sp vs Wanderers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Vikingur Reykjavik vs Vestmannaeyjar.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.40/hls/DVVVAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.40/hls/DVVVAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Deportivo Garcilaso vs Moquegua",
-            "type": "live_event",
-            "league": "Peru Liga 1 Apertura",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Deportivo Garcilaso vs Moquegua.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.40/hls/DVVVAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.40/hls/DVVVAAAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.40/hls/AVVVFF.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/AVVVFF.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -348,6 +334,48 @@
                 {
                     "original_url": "http://193.47.62.40/hls/DVVV.m3u8",
                     "m3u_url": "http://193.47.62.40/hls/DVVV.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Defensor Sp vs Wanderers",
+            "type": "live_event",
+            "league": "Uruguay Liga AUF",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Defensor Sp vs Wanderers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/DVVVAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/DVVVAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Deportivo Garcilaso vs Moquegua",
+            "type": "live_event",
+            "league": "Peru Liga 1 Apertura",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Deportivo Garcilaso vs Moquegua.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/DVVVAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/DVVVAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Parma vs Sampdoria",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Parma vs Sampdoria.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/FGGGAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/FGGGAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
