@@ -1,26 +1,8 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-09T19:55:29.576490",
+    "fetched_at": "2026-08-09T20:20:23.191443",
     "total_with_streams": 84,
     "events_with_streams": [
-        {
-            "name": "Young Africans vs FC LAC",
-            "type": "live_event",
-            "league": "Tanzania Football",
-            "time": "18:40",
-            "page_link": "http://www.fawanews.sc/Young Africans Day Celebration.html",
-            "image_url": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.194/hls/eeeeA.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/eeeeA.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.193/hls/eeeeA.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/eeeeA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
         {
             "name": "Flamengo RJ vs Vitoria",
             "type": "live_event",
@@ -60,6 +42,20 @@
                 {
                     "original_url": "http://193.47.62.51/hls/FRFRFRA.m3u8",
                     "m3u_url": "http://193.47.62.51/hls/FRFRFRA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cuiaba vs Fortaleza",
+            "type": "live_event",
+            "league": "Brazil Serie B",
+            "time": "22:30",
+            "page_link": "http://www.fawanews.sc/Cuiaba vs Fortaleza.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/CSSSSA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/CSSSSA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
