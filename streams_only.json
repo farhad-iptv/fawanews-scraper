@@ -1,8 +1,36 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-10T10:56:17.354755",
-    "total_with_streams": 4,
+    "fetched_at": "2026-08-10T11:41:52.655654",
+    "total_with_streams": 8,
     "events_with_streams": [
+        {
+            "name": "Trent Rockets W vs Southern Brave W",
+            "type": "live_event",
+            "league": "Cricket The Hundred",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Trent Rockets W vs Southern Brave W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/EVVVAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/EVVVAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Polissya Zhytomyr vs FC Kharkiv",
+            "type": "live_event",
+            "league": "Ukraine Premier League",
+            "time": "13:30",
+            "page_link": "http://www.fawanews.sc/Polissya Zhytomyr vs FC Kharkiv.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/EVVV.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/EVVV.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Horse Racing --- CH 1",
             "type": "live_event",
@@ -32,6 +60,20 @@
             ]
         },
         {
+            "name": "Snooker China Open --- Table 1",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/eeee.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/eeee.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Snooker China Open --- Table 2",
             "type": "live_event",
             "league": "Snooker",
@@ -42,6 +84,20 @@
                 {
                     "original_url": "http://193.47.62.190/hls/eeeeAA.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/eeeeAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ireland vs Afghanistan",
+            "type": "live_event",
+            "league": "Cricket",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Ireland vs Afghanistan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/EOOOO.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/EOOOO.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
