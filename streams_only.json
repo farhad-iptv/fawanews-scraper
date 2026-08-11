@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-11T14:49:54.970143",
-    "total_with_streams": 16,
+    "fetched_at": "2026-08-11T15:48:32.265550",
+    "total_with_streams": 17,
     "events_with_streams": [
         {
             "name": "Sabah Baku vs Aarhus",
@@ -42,6 +42,24 @@
                 {
                     "original_url": "http://193.47.62.40/hls/ESSSA.m3u8",
                     "m3u_url": "http://193.47.62.40/hls/ESSSA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kairat Almaty vs Levski Sofia --- HD",
+            "type": "live_event",
+            "league": "UEFA Champions League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Kairat Almaty vs Levski Sofia --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MxiZdYDijUbRmAPP9_540p.m3u8?txSecret=fbcd5d09858e6ff654719037abc016e5&txTime=19FF2A2BDE8",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MxiZdYDijUbRmAPP9_540p.m3u8?txSecret=fbcd5d09858e6ff654719037abc016e5&txTime=19FF2A2BDE8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MxiZdYDijUbRmAPP9_540p.m3u8?txSecret=fbcd5d09858e6ff654719037abc016e5&txTime=19FF2A2BDE8",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MxiZdYDijUbRmAPP9_540p.m3u8?txSecret=fbcd5d09858e6ff654719037abc016e5&txTime=19FF2A2BDE8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
