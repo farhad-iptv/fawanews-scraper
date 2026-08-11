@@ -1,8 +1,148 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-11T12:04:50.340565",
-    "total_with_streams": 14,
+    "fetched_at": "2026-08-11T13:50:11.686608",
+    "total_with_streams": 24,
     "events_with_streams": [
+        {
+            "name": "Sabah Baku vs Aarhus",
+            "type": "live_event",
+            "league": "UEFA Champions League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Sabah Baku vs Aarhus.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/ESSSAAA.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/ESSSAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Bodo Glimt vs Royale Union SG",
+            "type": "live_event",
+            "league": "UEFA Champions League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Bodo Glimt vs Royale Union SG.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/ESSSAA.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/ESSSAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kairat Almaty vs Levski Sofia",
+            "type": "live_event",
+            "league": "UEFA Champions League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Kairat Almaty vs Levski Sofia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/ESSSA.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/ESSSA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Iberia 1999 vs Larne",
+            "type": "live_event",
+            "league": "UEFA Europa League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Iberia 1999 vs Larne.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/ESSS.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/ESSS.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Manchester Super Giants vs Sunrisers Leeds",
+            "type": "live_event",
+            "league": "Cricket The Hundred",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Manchester Super Giants vs Sunrisers Leeds.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/UZZZA.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/UZZZA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sharks vs New Zealand",
+            "type": "live_event",
+            "league": "Rugby Friendly",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Sharks vs New Zealand.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/GGGGFFFF.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/GGGGFFFF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Helsingborg vs Varnamo",
+            "type": "live_event",
+            "league": "Sweden Superettan",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Helsingborg vs Varnamo.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/GGGGFFF.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/GGGGFFF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Al-Ittihad Aleppo vs Bangladesh Police",
+            "type": "live_event",
+            "league": "AFC Challenge League",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Al-Ittihad Aleppo vs Bangladesh Police.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/GGGGFF.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/GGGGFF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Al Jazira vs Al Ittihad",
+            "type": "live_event",
+            "league": "AFC Champions League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Al Jazira vs Al Ittihad.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/GGGGF.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/GGGGF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Pakhtakor vs Al Hussein",
+            "type": "live_event",
+            "league": "AFC Champions League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Pakhtakor vs Al Hussein.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/GGGG.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/GGGG.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Dordoi Bishkek vs Homs Al Fidaa",
             "type": "live_event",
