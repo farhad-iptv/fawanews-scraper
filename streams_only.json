@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-11T18:44:54.697098",
-    "total_with_streams": 29,
+    "fetched_at": "2026-08-11T19:53:34.418945",
+    "total_with_streams": 18,
     "events_with_streams": [
         {
             "name": "Lyon vs Sparta Prague",
@@ -14,6 +14,24 @@
                 {
                     "original_url": "http://193.47.62.42/hls/DAAAAAAFAA.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/DAAAAAAFAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Lyon vs Sparta Prague --- HD",
+            "type": "live_event",
+            "league": "UEFA Champions League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Lyon vs Sparta Prague --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://hls.live123.fans/live/4602287.m3u8",
+                    "m3u_url": "https://hls.live123.fans/live/4602287.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://hls.live123.fans/live/4602287.m3u8",
+                    "m3u_url": "http://hls.live123.fans/live/4602287.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -164,48 +182,6 @@
             ]
         },
         {
-            "name": "Marumo Gallants vs Kruger United",
-            "type": "live_event",
-            "league": "South Africa Betway Premiership",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/Marumo Gallants vs Kruger United.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.49/hls/DFFFFRRA.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/DFFFFRRA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Chippa Utd vs Richards Bay",
-            "type": "live_event",
-            "league": "South Africa Betway Premiership",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/Chippa Utd vs Richards Bay.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.49/hls/DFFFFRR.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/DFFFFRR.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Sharks vs New Zealand",
-            "type": "live_event",
-            "league": "Rugby Friendly",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Sharks vs New Zealand.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.40/hls/GGGGFFFF.m3u8",
-                    "m3u_url": "http://193.47.62.40/hls/GGGGFFFF.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "NEC Nijmegen vs Olympiacos",
             "type": "live_event",
             "league": "UEFA Champions League",
@@ -228,12 +204,12 @@
             "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://live2.jxa76.com/live/sd-6MxiZdYEYkGR9ctWj5_540p.m3u8?txSecret=3222994ca2bcf5f83d4d5cc1a975791e&txTime=19FF3272A9D",
-                    "m3u_url": "https://live2.jxa76.com/live/sd-6MxiZdYEYkGR9ctWj5_540p.m3u8?txSecret=3222994ca2bcf5f83d4d5cc1a975791e&txTime=19FF3272A9D|Referer=http://www.fawanews.sc"
+                    "original_url": "https://live.kinxie.com/live/73007624_674bd734f5966656db97c1355291af05_1080p.m3u8?auth_key=1786490475-0-0-7ed140acaca5d5fdddece5b931e16288",
+                    "m3u_url": "https://live.kinxie.com/live/73007624_674bd734f5966656db97c1355291af05_1080p.m3u8?auth_key=1786490475-0-0-7ed140acaca5d5fdddece5b931e16288|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://live2.jxa76.com/live/sd-6MxiZdYEYkGR9ctWj5_540p.m3u8?txSecret=3222994ca2bcf5f83d4d5cc1a975791e&txTime=19FF3272A9D",
-                    "m3u_url": "http://live2.jxa76.com/live/sd-6MxiZdYEYkGR9ctWj5_540p.m3u8?txSecret=3222994ca2bcf5f83d4d5cc1a975791e&txTime=19FF3272A9D|Referer=http://www.fawanews.sc"
+                    "original_url": "http://live.kinxie.com/live/73007624_674bd734f5966656db97c1355291af05_1080p.m3u8?auth_key=1786490475-0-0-7ed140acaca5d5fdddece5b931e16288",
+                    "m3u_url": "http://live.kinxie.com/live/73007624_674bd734f5966656db97c1355291af05_1080p.m3u8?auth_key=1786490475-0-0-7ed140acaca5d5fdddece5b931e16288|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -260,108 +236,12 @@
             "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://live1.kinxie.com/live/73318694_7d2c572f41544d955fda7217f36b7208_1080p.m3u8?auth_key=1786483752-0-0-68a813ef9a698d4cf5fbced4a3111e7b",
-                    "m3u_url": "https://live1.kinxie.com/live/73318694_7d2c572f41544d955fda7217f36b7208_1080p.m3u8?auth_key=1786483752-0-0-68a813ef9a698d4cf5fbced4a3111e7b|Referer=http://www.fawanews.sc"
+                    "original_url": "https://hls.live123.fans/live/4602575.m3u8",
+                    "m3u_url": "https://hls.live123.fans/live/4602575.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://live1.kinxie.com/live/73318694_7d2c572f41544d955fda7217f36b7208_1080p.m3u8?auth_key=1786483752-0-0-68a813ef9a698d4cf5fbced4a3111e7b",
-                    "m3u_url": "http://live1.kinxie.com/live/73318694_7d2c572f41544d955fda7217f36b7208_1080p.m3u8?auth_key=1786483752-0-0-68a813ef9a698d4cf5fbced4a3111e7b|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Apollon vs Brann",
-            "type": "live_event",
-            "league": "UEFA Conference League",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Apollon vs Brann.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.57/hls/DFFFF.m3u8",
-                    "m3u_url": "http://193.47.62.57/hls/DFFFF.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Apollon vs Brann --- HD",
-            "type": "live_event",
-            "league": "UEFA Conference League",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Apollon vs Brann --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live2.jxa76.com/live/sd-6MxiZdaT1j3PfmnatB_540p.m3u8?txSecret=60a8fe297b55296b5026c8d97910477b&txTime=19FF317E17A",
-                    "m3u_url": "https://live2.jxa76.com/live/sd-6MxiZdaT1j3PfmnatB_540p.m3u8?txSecret=60a8fe297b55296b5026c8d97910477b&txTime=19FF317E17A|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live2.jxa76.com/live/sd-6MxiZdaT1j3PfmnatB_540p.m3u8?txSecret=60a8fe297b55296b5026c8d97910477b&txTime=19FF317E17A",
-                    "m3u_url": "http://live2.jxa76.com/live/sd-6MxiZdaT1j3PfmnatB_540p.m3u8?txSecret=60a8fe297b55296b5026c8d97910477b&txTime=19FF317E17A|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Kauno Zalgiris vs Dinamo Zagreb",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Kauno Zalgiris vs Dinamo Zagreb.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.40/hls/DAAA.m3u8",
-                    "m3u_url": "http://193.47.62.40/hls/DAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Kauno Zalgiris vs Dinamo Zagreb --- HD",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Kauno Zalgiris vs Dinamo Zagreb --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live2.jxa76.com/live/sd-6MxiZdYDiYVC5N2ocf_540p.m3u8?txSecret=f5b4a78118f1dd864e5be595feb79505&txTime=19FF30DF04D",
-                    "m3u_url": "https://live2.jxa76.com/live/sd-6MxiZdYDiYVC5N2ocf_540p.m3u8?txSecret=f5b4a78118f1dd864e5be595feb79505&txTime=19FF30DF04D|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live2.jxa76.com/live/sd-6MxiZdYDiYVC5N2ocf_540p.m3u8?txSecret=f5b4a78118f1dd864e5be595feb79505&txTime=19FF30DF04D",
-                    "m3u_url": "http://live2.jxa76.com/live/sd-6MxiZdYDiYVC5N2ocf_540p.m3u8?txSecret=f5b4a78118f1dd864e5be595feb79505&txTime=19FF30DF04D|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Bodo Glimt vs Royale Union SG",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Bodo Glimt vs Royale Union SG.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.40/hls/ESSSAA.m3u8",
-                    "m3u_url": "http://193.47.62.40/hls/ESSSAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Bodo Glimt vs Royale Union SG --- HD",
-            "type": "live_event",
-            "league": "UEFA Champions League",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Bodo Glimt vs Royale Union SG --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live2.jxa76.com/live/sd-6MxiZdYDiosZAipDgw_540p.m3u8?txSecret=a5005b467574c4acc492c4f071a46b7f&txTime=19FF2D6FBCE",
-                    "m3u_url": "https://live2.jxa76.com/live/sd-6MxiZdYDiosZAipDgw_540p.m3u8?txSecret=a5005b467574c4acc492c4f071a46b7f&txTime=19FF2D6FBCE|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live2.jxa76.com/live/sd-6MxiZdYDiosZAipDgw_540p.m3u8?txSecret=a5005b467574c4acc492c4f071a46b7f&txTime=19FF2D6FBCE",
-                    "m3u_url": "http://live2.jxa76.com/live/sd-6MxiZdYDiosZAipDgw_540p.m3u8?txSecret=a5005b467574c4acc492c4f071a46b7f&txTime=19FF2D6FBCE|Referer=http://www.fawanews.sc"
+                    "original_url": "http://hls.live123.fans/live/4602575.m3u8",
+                    "m3u_url": "http://hls.live123.fans/live/4602575.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -404,52 +284,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/zazaza.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/zazaza.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Helsingborg vs Varnamo --- CH 1",
-            "type": "live_event",
-            "league": "Sweden Superettan",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Helsingborg vs Varnamo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/GGGGFFF.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/GGGGFFF.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Helsingborg vs Varnamo --- CH 2",
-            "type": "live_event",
-            "league": "Sweden Superettan",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Helsingborg vs Varnamo --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live2.jxa76.com/live/sd-6MvZ6ZxCvuv97NYGWo_540p.m3u8?txSecret=6822ade61dd7d3959f16207e82c24250&txTime=19FF31CC268",
-                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvZ6ZxCvuv97NYGWo_540p.m3u8?txSecret=6822ade61dd7d3959f16207e82c24250&txTime=19FF31CC268|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live2.jxa76.com/live/sd-6MvZ6ZxCvuv97NYGWo_540p.m3u8?txSecret=6822ade61dd7d3959f16207e82c24250&txTime=19FF31CC268",
-                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvZ6ZxCvuv97NYGWo_540p.m3u8?txSecret=6822ade61dd7d3959f16207e82c24250&txTime=19FF31CC268|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Al-Ittihad Aleppo vs Bangladesh Police",
-            "type": "live_event",
-            "league": "AFC Challenge League",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Al-Ittihad Aleppo vs Bangladesh Police.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.40/hls/GGGGFF.m3u8",
-                    "m3u_url": "http://193.47.62.40/hls/GGGGFF.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
