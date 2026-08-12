@@ -1,8 +1,64 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-12T11:38:02.994382",
-    "total_with_streams": 11,
+    "fetched_at": "2026-08-12T12:41:29.281934",
+    "total_with_streams": 12,
     "events_with_streams": [
+        {
+            "name": "Arkadag vs Goa",
+            "type": "live_event",
+            "league": "AFC Challenge League II",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Arkadag vs Goa.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/DSSSSDA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/DSSSSDA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Welsh Fire vs London Spirit",
+            "type": "live_event",
+            "league": "Cricket The Hundred",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Welsh Fire vs London Spirit.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/UZZZddA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/UZZZddA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Birmingham Phoenix W vs MI London W",
+            "type": "live_event",
+            "league": "Cricket The Hundred",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Birmingham Phoenix W vs MI London W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/DSSSS.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/DSSSS.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "East Bengal vs Al Arabi",
+            "type": "live_event",
+            "league": "AFC Champions League II",
+            "time": "14:30",
+            "page_link": "http://www.fawanews.sc/East Bengal vs Al Arabi.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/DSSSSD.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/DSSSSD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Horse Racing --- CH 1",
             "type": "live_event",
@@ -74,20 +130,6 @@
             ]
         },
         {
-            "name": "A-Leagues All Stars W vs Chelsea W",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "10:45",
-            "page_link": "http://www.fawanews.sc/A-Leagues All Stars W vs Chelsea W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/ffdfdfdaa.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/ffdfdfdaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Boxing : Teremoana vs Savage",
             "type": "live_event",
             "league": "Boxing",
@@ -126,34 +168,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/EKKKAA.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/EKKKAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "APIA Leichhardt vs Sydney Utd",
-            "type": "live_event",
-            "league": "Australia Cup",
-            "time": "10:30",
-            "page_link": "http://www.fawanews.sc/APIA Leichhardt vs Sydney Utd.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1860822159175888896/lE95c4g-_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/ffdfdfda.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/ffdfdfda.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Brunswick Juventus vs Preston Lions",
-            "type": "live_event",
-            "league": "Australia Cup",
-            "time": "10:30",
-            "page_link": "http://www.fawanews.sc/Brunswick Juventus vs Preston Lions.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1860822159175888896/lE95c4g-_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/ffdfdfd.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/ffdfdfd.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
