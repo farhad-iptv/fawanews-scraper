@@ -1,8 +1,64 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-12T10:50:23.918445",
-    "total_with_streams": 9,
+    "fetched_at": "2026-08-12T11:38:02.994382",
+    "total_with_streams": 11,
     "events_with_streams": [
+        {
+            "name": "Horse Racing --- CH 1",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 2",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Snooker China Open --- Table 1",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/eeee.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/eeee.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Snooker China Open --- Table 2",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/eeeeAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/eeeeAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Welsh Fire W vs London Spirit W",
             "type": "live_event",
@@ -98,34 +154,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/ffdfdfd.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/ffdfdfd.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Snooker China Open --- Table 1",
-            "type": "live_event",
-            "league": "Snooker",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/eeee.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/eeee.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Snooker China Open --- Table 2",
-            "type": "live_event",
-            "league": "Snooker",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/eeeeAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/eeeeAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
