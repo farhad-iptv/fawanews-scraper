@@ -1,8 +1,26 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-12T17:25:41.914952",
-    "total_with_streams": 31,
+    "fetched_at": "2026-08-12T18:13:40.336510",
+    "total_with_streams": 30,
     "events_with_streams": [
+        {
+            "name": "Leeds United vs Manchester United",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Leeds United vs Manchester United.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/BJJJXAA.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/BJJJXAA.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.190/hls/BJJJXAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/BJJJXAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "AmaZulu vs Orlando Pirates",
             "type": "live_event",
@@ -22,6 +40,10 @@
                 {
                     "original_url": "http://193.47.62.193/hls/BJJJX.m3u8",
                     "m3u_url": "http://193.47.62.193/hls/BJJJX.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.194/hls/BJJJX.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/BJJJX.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -34,16 +56,20 @@
             "image_url": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.191/hls/BJJJXA.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/BJJJXA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.190/hls/BJJJXA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/BJJJXA.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.194/hls/BJJJXA.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/BJJJXA.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
                     "original_url": "http://193.47.62.192/hls/BJJJXA.m3u8",
                     "m3u_url": "http://193.47.62.192/hls/BJJJXA.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.193/hls/BJJJXA.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/BJJJXA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.191/hls/BJJJXA.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/BJJJXA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -56,16 +82,34 @@
             "image_url": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.191/hls/BJJJ.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/BJJJ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.191/hls/BJJJS.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/BJJJS.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.192/hls/BJJJ.m3u8",
-                    "m3u_url": "http://193.47.62.192/hls/BJJJ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.192/hls/BJJJS.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/BJJJS.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.193/hls/BJJJ.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/BJJJ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.193/hls/BJJJS.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/BJJJS.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.194/hls/BJJJS.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/BJJJS.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Milford FC vs Siwelele",
+            "type": "live_event",
+            "league": "South Africa Betway Premiership",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Milford FC vs Siwelele.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/JGGGAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/JGGGAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -270,16 +314,12 @@
             "image_url": "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.193/hls/BJJJXAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/BJJJXAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.190/hls/BJJJXAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/BJJJXAAAAAA.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.191/hls/BJJJXAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/BJJJXAAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.192/hls/BJJJXAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.192/hls/BJJJXAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.194/hls/BJJJXAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/BJJJXAAAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -360,34 +400,8 @@
                     "m3u_url": "http://193.47.62.194/hls/BJJJXAAA.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.191/hls/BJJJXAAA.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/BJJJXAAA.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.193/hls/BJJJXAAA.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/BJJJXAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Leeds United vs Manchester United",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "19:30",
-            "page_link": "http://www.fawanews.sc/Leeds United vs Manchester United.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.194/hls/BJJJXAA.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/BJJJXAA.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.192/hls/BJJJXAA.m3u8",
-                    "m3u_url": "http://193.47.62.192/hls/BJJJXAA.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.193/hls/BJJJXAA.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/BJJJXAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.190/hls/BJJJXAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/BJJJXAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -416,34 +430,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/JTTT.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/JTTT.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Durban City vs Golden Arrows",
-            "type": "live_event",
-            "league": "South Africa Betway Premiership",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/Durban City vs Golden Arrows.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/JGGGAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/JGGGAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Milford FC vs Siwelele",
-            "type": "live_event",
-            "league": "South Africa Betway Premiership",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/Milford FC vs Siwelele.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/JGGGAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/JGGGAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },

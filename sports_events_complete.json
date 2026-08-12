@@ -2,10 +2,64 @@
     "source": "fawanews.sc",
     "source_url": "http://www.fawanews.sc/",
     "referer": "http://www.fawanews.sc",
-    "fetched_at": "2026-08-12T17:25:41.914952",
-    "total_live_events": 31,
+    "fetched_at": "2026-08-12T18:13:40.336510",
+    "total_live_events": 30,
     "total_news_articles": 19,
     "live_events": [
+        {
+            "name": "Leeds United vs Manchester United",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "19:30",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Leeds United vs Manchester United.html",
+            "home_team": "Leeds United",
+            "away_team": "Manchester United",
+            "page_status": 200,
+            "page_title": "FawaNews - Leeds United vs Manchester United - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.194/hls/BJJJXAA.m3u8",
+                    "http://193.47.62.190/hls/BJJJXAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.194/hls/BJJJXAA.m3u8",
+                    "http://193.47.62.190/hls/BJJJXAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.194/hls/BJJJXAA.m3u8",
+                "http://193.47.62.190/hls/BJJJXAA.m3u8"
+            ]
+        },
         {
             "name": "AmaZulu vs Orlando Pirates",
             "type": "live_event",
@@ -25,7 +79,8 @@
                 "m3u8_links": [
                     "http://193.47.62.191/hls/BJJJX.m3u8",
                     "http://193.47.62.192/hls/BJJJX.m3u8",
-                    "http://193.47.62.193/hls/BJJJX.m3u8"
+                    "http://193.47.62.193/hls/BJJJX.m3u8",
+                    "http://193.47.62.194/hls/BJJJX.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -45,6 +100,7 @@
                     "http://193.47.62.191/hls/BJJJX.m3u8",
                     "http://193.47.62.192/hls/BJJJX.m3u8",
                     "http://193.47.62.193/hls/BJJJX.m3u8",
+                    "http://193.47.62.194/hls/BJJJX.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -60,7 +116,8 @@
             "best_stream_urls": [
                 "http://193.47.62.191/hls/BJJJX.m3u8",
                 "http://193.47.62.192/hls/BJJJX.m3u8",
-                "http://193.47.62.193/hls/BJJJX.m3u8"
+                "http://193.47.62.193/hls/BJJJX.m3u8",
+                "http://193.47.62.194/hls/BJJJX.m3u8"
             ]
         },
         {
@@ -80,9 +137,10 @@
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "http://193.47.62.191/hls/BJJJXA.m3u8",
+                    "http://193.47.62.190/hls/BJJJXA.m3u8",
+                    "http://193.47.62.194/hls/BJJJXA.m3u8",
                     "http://193.47.62.192/hls/BJJJXA.m3u8",
-                    "http://193.47.62.193/hls/BJJJXA.m3u8"
+                    "http://193.47.62.191/hls/BJJJXA.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -99,9 +157,10 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.191/hls/BJJJXA.m3u8",
+                    "http://193.47.62.190/hls/BJJJXA.m3u8",
+                    "http://193.47.62.194/hls/BJJJXA.m3u8",
                     "http://193.47.62.192/hls/BJJJXA.m3u8",
-                    "http://193.47.62.193/hls/BJJJXA.m3u8",
+                    "http://193.47.62.191/hls/BJJJXA.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -115,9 +174,10 @@
                 ]
             },
             "best_stream_urls": [
-                "http://193.47.62.191/hls/BJJJXA.m3u8",
+                "http://193.47.62.190/hls/BJJJXA.m3u8",
+                "http://193.47.62.194/hls/BJJJXA.m3u8",
                 "http://193.47.62.192/hls/BJJJXA.m3u8",
-                "http://193.47.62.193/hls/BJJJXA.m3u8"
+                "http://193.47.62.191/hls/BJJJXA.m3u8"
             ]
         },
         {
@@ -137,9 +197,10 @@
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "http://193.47.62.191/hls/BJJJ.m3u8",
-                    "http://193.47.62.192/hls/BJJJ.m3u8",
-                    "http://193.47.62.193/hls/BJJJ.m3u8"
+                    "http://193.47.62.191/hls/BJJJS.m3u8",
+                    "http://193.47.62.192/hls/BJJJS.m3u8",
+                    "http://193.47.62.193/hls/BJJJS.m3u8",
+                    "http://193.47.62.194/hls/BJJJS.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -156,9 +217,10 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.191/hls/BJJJ.m3u8",
-                    "http://193.47.62.192/hls/BJJJ.m3u8",
-                    "http://193.47.62.193/hls/BJJJ.m3u8",
+                    "http://193.47.62.191/hls/BJJJS.m3u8",
+                    "http://193.47.62.192/hls/BJJJS.m3u8",
+                    "http://193.47.62.193/hls/BJJJS.m3u8",
+                    "http://193.47.62.194/hls/BJJJS.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -172,9 +234,61 @@
                 ]
             },
             "best_stream_urls": [
-                "http://193.47.62.191/hls/BJJJ.m3u8",
-                "http://193.47.62.192/hls/BJJJ.m3u8",
-                "http://193.47.62.193/hls/BJJJ.m3u8"
+                "http://193.47.62.191/hls/BJJJS.m3u8",
+                "http://193.47.62.192/hls/BJJJS.m3u8",
+                "http://193.47.62.193/hls/BJJJS.m3u8",
+                "http://193.47.62.194/hls/BJJJS.m3u8"
+            ]
+        },
+        {
+            "name": "Milford FC vs Siwelele",
+            "type": "live_event",
+            "league": "South Africa Betway Premiership",
+            "time": "18:30",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
+            "page_link": "http://www.fawanews.sc/Milford FC vs Siwelele.html",
+            "home_team": "Milford FC",
+            "away_team": "Siwelele",
+            "page_status": 200,
+            "page_title": "FawaNews - Milford FC vs Siwelele - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.190/hls/JGGGAAAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.190/hls/JGGGAAAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.190/hls/JGGGAAAA.m3u8"
             ]
         },
         {
@@ -818,9 +932,8 @@
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "http://193.47.62.193/hls/BJJJXAAAAAA.m3u8",
-                    "http://193.47.62.191/hls/BJJJXAAAAAA.m3u8",
-                    "http://193.47.62.192/hls/BJJJXAAAAAA.m3u8"
+                    "http://193.47.62.190/hls/BJJJXAAAAAA.m3u8",
+                    "http://193.47.62.194/hls/BJJJXAAAAAA.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -837,9 +950,8 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.193/hls/BJJJXAAAAAA.m3u8",
-                    "http://193.47.62.191/hls/BJJJXAAAAAA.m3u8",
-                    "http://193.47.62.192/hls/BJJJXAAAAAA.m3u8",
+                    "http://193.47.62.190/hls/BJJJXAAAAAA.m3u8",
+                    "http://193.47.62.194/hls/BJJJXAAAAAA.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -853,9 +965,8 @@
                 ]
             },
             "best_stream_urls": [
-                "http://193.47.62.193/hls/BJJJXAAAAAA.m3u8",
-                "http://193.47.62.191/hls/BJJJXAAAAAA.m3u8",
-                "http://193.47.62.192/hls/BJJJXAAAAAA.m3u8"
+                "http://193.47.62.190/hls/BJJJXAAAAAA.m3u8",
+                "http://193.47.62.194/hls/BJJJXAAAAAA.m3u8"
             ]
         },
         {
@@ -1086,8 +1197,7 @@
                 "embed_sources": [],
                 "m3u8_links": [
                     "http://193.47.62.194/hls/BJJJXAAA.m3u8",
-                    "http://193.47.62.191/hls/BJJJXAAA.m3u8",
-                    "http://193.47.62.193/hls/BJJJXAAA.m3u8"
+                    "http://193.47.62.190/hls/BJJJXAAA.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -1105,8 +1215,7 @@
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
                     "http://193.47.62.194/hls/BJJJXAAA.m3u8",
-                    "http://193.47.62.191/hls/BJJJXAAA.m3u8",
-                    "http://193.47.62.193/hls/BJJJXAAA.m3u8",
+                    "http://193.47.62.190/hls/BJJJXAAA.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -1121,65 +1230,7 @@
             },
             "best_stream_urls": [
                 "http://193.47.62.194/hls/BJJJXAAA.m3u8",
-                "http://193.47.62.191/hls/BJJJXAAA.m3u8",
-                "http://193.47.62.193/hls/BJJJXAAA.m3u8"
-            ]
-        },
-        {
-            "name": "Leeds United vs Manchester United",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "19:30",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Leeds United vs Manchester United.html",
-            "home_team": "Leeds United",
-            "away_team": "Manchester United",
-            "page_status": 200,
-            "page_title": "FawaNews - Leeds United vs Manchester United - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.194/hls/BJJJXAA.m3u8",
-                    "http://193.47.62.192/hls/BJJJXAA.m3u8",
-                    "http://193.47.62.193/hls/BJJJXAA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.194/hls/BJJJXAA.m3u8",
-                    "http://193.47.62.192/hls/BJJJXAA.m3u8",
-                    "http://193.47.62.193/hls/BJJJXAA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.194/hls/BJJJXAA.m3u8",
-                "http://193.47.62.192/hls/BJJJXAA.m3u8",
-                "http://193.47.62.193/hls/BJJJXAA.m3u8"
+                "http://193.47.62.190/hls/BJJJXAAA.m3u8"
             ]
         },
         {
@@ -1282,108 +1333,6 @@
             },
             "best_stream_urls": [
                 "http://193.47.62.190/hls/JTTT.m3u8"
-            ]
-        },
-        {
-            "name": "Durban City vs Golden Arrows",
-            "type": "live_event",
-            "league": "South Africa Betway Premiership",
-            "time": "18:30",
-            "image_url": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
-            "page_link": "http://www.fawanews.sc/Durban City vs Golden Arrows.html",
-            "home_team": "Durban City",
-            "away_team": "Golden Arrows",
-            "page_status": 200,
-            "page_title": "FawaNews - Durban City vs Golden Arrows - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.190/hls/JGGGAAAAA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.190/hls/JGGGAAAAA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.190/hls/JGGGAAAAA.m3u8"
-            ]
-        },
-        {
-            "name": "Milford FC vs Siwelele",
-            "type": "live_event",
-            "league": "South Africa Betway Premiership",
-            "time": "18:30",
-            "image_url": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
-            "page_link": "http://www.fawanews.sc/Milford FC vs Siwelele.html",
-            "home_team": "Milford FC",
-            "away_team": "Siwelele",
-            "page_status": 200,
-            "page_title": "FawaNews - Milford FC vs Siwelele - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.190/hls/JGGGAAAA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.190/hls/JGGGAAAA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.190/hls/JGGGAAAA.m3u8"
             ]
         },
         {
@@ -2111,13 +2060,13 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
                     "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
                     "https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
@@ -2148,13 +2097,13 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
                     "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
                     "https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
@@ -2179,13 +2128,13 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
+                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
                     "http://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
                     "http://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
                     "http://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
@@ -2274,13 +2223,13 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
                     "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
                     "https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
@@ -2311,13 +2260,13 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
                     "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
                     "https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
@@ -2342,13 +2291,13 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
+                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
                     "http://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
                     "http://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
                     "http://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
@@ -2436,13 +2385,13 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
                     "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
                     "https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
@@ -2473,13 +2422,13 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
                     "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
                     "https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
@@ -2504,13 +2453,13 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
+                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
                     "http://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
                     "http://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
                     "http://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
@@ -2606,13 +2555,13 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
                     "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
                     "https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
@@ -2643,13 +2592,13 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
                     "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
                     "https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
@@ -2674,13 +2623,13 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
+                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
                     "http://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
                     "http://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
                     "http://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
@@ -2768,13 +2717,13 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
                     "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
                     "https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
@@ -2805,13 +2754,13 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
                     "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
                     "https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
@@ -2836,13 +2785,13 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
+                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
                     "http://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
                     "http://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/3675650015/dd25b3210e5dc25fd73ac86fd51a06b7_400x400.jpeg",
                     "http://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
