@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-13T10:51:23.967286",
+    "fetched_at": "2026-08-13T11:38:11.814903",
     "total_with_streams": 8,
     "events_with_streams": [
         {
@@ -28,6 +28,34 @@
                 {
                     "original_url": "http://193.47.62.190/hls/BBBBAAAA.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/BBBBAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Snooker China Open --- Table 1",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/eeee.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/eeee.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Snooker China Open --- Table 2",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/eeeeAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/eeeeAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -84,34 +112,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/BBBB.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/BBBB.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Snooker China Open --- Table 1",
-            "type": "live_event",
-            "league": "Snooker",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/eeee.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/eeee.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Snooker China Open --- Table 2",
-            "type": "live_event",
-            "league": "Snooker",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Snooker China Open --- Table 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/eeeeAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/eeeeAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
