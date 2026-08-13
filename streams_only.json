@@ -1,8 +1,22 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-13T14:14:21.851976",
-    "total_with_streams": 21,
+    "fetched_at": "2026-08-13T15:28:41.137875",
+    "total_with_streams": 23,
     "events_with_streams": [
+        {
+            "name": "RFS vs Jablonec",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/RFS vs Jablonec.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/BYYYAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/BYYYAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Qarabag vs Dynamo Kyiv",
             "type": "live_event",
@@ -46,7 +60,7 @@
             ]
         },
         {
-            "name": "Tobol vs Partizan",
+            "name": "Tobol vs Partizan --- CH 1",
             "type": "live_event",
             "league": "UEFA Conference League",
             "time": "16:00",
@@ -56,6 +70,24 @@
                 {
                     "original_url": "http://193.47.62.191/hls/BYYY.m3u8",
                     "m3u_url": "http://193.47.62.191/hls/BYYY.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tobol vs Partizan --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Tobol vs Partizan --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MxiZdbCfe1ak43YFV_540p.m3u8?txSecret=d25c15a7cc2e415b471b86bdfa47e1df&txTime=19FFCFA8449",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MxiZdbCfe1ak43YFV_540p.m3u8?txSecret=d25c15a7cc2e415b471b86bdfa47e1df&txTime=19FFCFA8449|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MxiZdbCfe1ak43YFV_540p.m3u8?txSecret=d25c15a7cc2e415b471b86bdfa47e1df&txTime=19FFCFA8449",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MxiZdbCfe1ak43YFV_540p.m3u8?txSecret=d25c15a7cc2e415b471b86bdfa47e1df&txTime=19FFCFA8449|Referer=http://www.fawanews.sc"
                 }
             ]
         },
