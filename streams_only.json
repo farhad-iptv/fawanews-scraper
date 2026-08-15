@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-15T22:09:58.749750",
-    "total_with_streams": 48,
+    "fetched_at": "2026-08-15T22:44:42.551580",
+    "total_with_streams": 50,
     "events_with_streams": [
         {
             "name": "UFC 330 : Islam Makhache vs Ian Garry",
@@ -60,6 +60,20 @@
                 {
                     "original_url": "http://193.47.62.190/hls/lmmmaaAAAa.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/lmmmaaAAAa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "INDYCAR Grand Prix of Markham",
+            "type": "live_event",
+            "league": "IndyCar",
+            "time": "23:30",
+            "page_link": "http://www.fawanews.sc/INDYCAR Grand Prix of Markham.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2087540246896390144/9-d_TaC8_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/ZPPP.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/ZPPP.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -130,6 +144,20 @@
                 {
                     "original_url": "http://193.47.62.190/hls/lmmma.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/lmmma.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf LPGA Standard Portland Classic",
+            "type": "live_event",
+            "league": "Golf LPGA",
+            "time": "23:00",
+            "page_link": "http://www.fawanews.sc/Golf LPGA Standard Portland Classic.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1665698199661600769/nxoC7o2Q_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/SFSGFD.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/SFSGFD.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
