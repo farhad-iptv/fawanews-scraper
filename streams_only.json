@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-15T13:50:39.899570",
+    "fetched_at": "2026-08-15T14:13:21.693291",
     "total_with_streams": 86,
     "events_with_streams": [
         {
@@ -80,20 +80,6 @@
             ]
         },
         {
-            "name": "Sheffield United vs Birmingham",
-            "type": "live_event",
-            "league": "English Championship",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Sheffield United vs Birmingham.html",
-            "image_url": "https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.193/hls/AUUUUAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/AUUUUAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Stoke City vs Swansea City",
             "type": "live_event",
             "league": "English Championship",
@@ -150,6 +136,20 @@
             ]
         },
         {
+            "name": "Charlton vs Derby County",
+            "type": "live_event",
+            "league": "English Championship",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Charlton vs Derby County.html",
+            "image_url": "https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/YNNN.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/YNNN.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Bristol City vs Millwall",
             "type": "live_event",
             "league": "English Championship",
@@ -186,8 +186,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.194/hls/YNNN.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/YNNN.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.194/hls/MRRRAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/MRRRAAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
