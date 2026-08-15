@@ -1,8 +1,50 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-15T08:51:50.494640",
-    "total_with_streams": 30,
+    "fetched_at": "2026-08-15T09:15:52.345188",
+    "total_with_streams": 31,
     "events_with_streams": [
+        {
+            "name": "Shimizu S-Pulse vs Yokohama F Marinos",
+            "type": "live_event",
+            "league": "Japan J League",
+            "time": "10:30",
+            "page_link": "http://www.fawanews.sc/Shimizu S-Pulse vs Yokohama F Marinos.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/RIIIAA.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/RIIIAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Mito vs Gamba Osaka",
+            "type": "live_event",
+            "league": "Japan J League",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Mito vs Gamba Osaka.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/RIIIA.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/RIIIA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kashima Antlers vs Nagoya Grampus",
+            "type": "live_event",
+            "league": "Japan J League",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Kashima Antlers vs Nagoya Grampus.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/RIII.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/RIII.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Parramatta Eels vs NQ Cowboys",
             "type": "live_event",
@@ -392,34 +434,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/KKKK.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/KKKK.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Cincinati",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Cincinati.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1744351891847303168/kkupwhya_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/zazaza.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/zazaza.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis WTA Cincinati",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Tennis WTA Cincinati.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1744351891847303168/kkupwhya_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/XAXAXA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/XAXAXA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
