@@ -1,8 +1,34 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-15T14:13:21.693291",
-    "total_with_streams": 86,
+    "fetched_at": "2026-08-15T14:46:31.563595",
+    "total_with_streams": 92,
     "events_with_streams": [
+        {
+            "name": "Manchester United vs AC Milan",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "15:45",
+            "page_link": "http://www.fawanews.sc/Manchester United vs AC Milan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/dtttE.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/dtttE.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.192/hls/dtttE.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/dtttE.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.193/hls/dtttE.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/dtttE.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.194/hls/dtttE.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/dtttE.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Kaizer Chiefs vs Mamelodi Sundowns",
             "type": "live_event",
@@ -48,6 +74,76 @@
                 {
                     "original_url": "http://193.47.62.193/hls/UMMMAX.m3u8",
                     "m3u_url": "http://193.47.62.193/hls/UMMMAX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Alverca vs Estrela",
+            "type": "live_event",
+            "league": "Portugal Primeira Liga",
+            "time": "15:30",
+            "page_link": "http://www.fawanews.sc/Alverca vs Estrela.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/riiiaAAAAa.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/riiiaAAAAa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ujpest vs MTK Budapest",
+            "type": "live_event",
+            "league": "Hungary NB 1 Liga",
+            "time": "15:30",
+            "page_link": "http://www.fawanews.sc/Ujpest vs MTK Budapest.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1619022597298995203/iCFS2Ka1_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/riiiaAAAa.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/riiiaAAAa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FC Volendam vs FC Oss",
+            "type": "live_event",
+            "league": "Dutch Eerste Divisie",
+            "time": "15:30",
+            "page_link": "http://www.fawanews.sc/FC Volendam vs FC Oss.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/riiiaAAa.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/riiiaAAa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Verl vs Duisburg",
+            "type": "live_event",
+            "league": "German 3 liga",
+            "time": "15:30",
+            "page_link": "http://www.fawanews.sc/Verl vs Duisburg.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/1/1b/Logo_3Liga.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/riiiaAa.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/riiiaAa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Willem II vs NEC Nijmegen",
+            "type": "live_event",
+            "league": "Dutch Eredivisie",
+            "time": "15:30",
+            "page_link": "http://www.fawanews.sc/Willem II vs NEC Nijmegen.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/riiiaa.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/riiiaa.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
