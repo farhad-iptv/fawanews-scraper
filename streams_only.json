@@ -1,8 +1,22 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-16T10:45:44.854300",
-    "total_with_streams": 23,
+    "fetched_at": "2026-08-16T11:10:58.675151",
+    "total_with_streams": 24,
     "events_with_streams": [
+        {
+            "name": "Tottenham Hotspur vs Hoffenheim",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Tottenham Hotspur vs Hoffenheim.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/RBBBAAA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/RBBBAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Liverpool vs Como",
             "type": "live_event",
@@ -14,6 +28,76 @@
                 {
                     "original_url": "http://193.47.62.44/hls/avvvvaa.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/avvvvaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Djurgarden vs AIK",
+            "type": "live_event",
+            "league": "Sweden Allsvenskan",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Djurgarden vs AIK.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/ESSSaaaaA.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/ESSSaaaaA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Degerfors vs Goteborg",
+            "type": "live_event",
+            "league": "Sweden Allsvenskan",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Degerfors vs Goteborg.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.57/hls/ESSSaaaa.m3u8",
+                    "m3u_url": "http://193.47.62.57/hls/ESSSaaaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Brommapojkarna vs Orgryte",
+            "type": "live_event",
+            "league": "Sweden Allsvenskan",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Brommapojkarna vs Orgryte.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ESSSaaa.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ESSSaaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Odense vs Horsens",
+            "type": "live_event",
+            "league": "Denmark Superliga",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Odense vs Horsens.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ESSSaa.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ESSSaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Nordsjaelland vs Silkeborg",
+            "type": "live_event",
+            "league": "Denmark Superliga",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Nordsjaelland vs Silkeborg.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ESSSa.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ESSSa.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -112,76 +196,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/eeee.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/eeee.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tottenham Hotspur vs Hoffenheim",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/Tottenham Hotspur vs Hoffenheim.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/RBBBAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/RBBBAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Varnamo vs Ostersund",
-            "type": "live_event",
-            "league": "Sweden Superettan",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/Varnamo vs Ostersund.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/TTBBBAA.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/TTBBBAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Trelleborg vs Eskilsminne",
-            "type": "live_event",
-            "league": "Sweden Division 1",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/Trelleborg vs Eskilsminne.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/TTBBBA.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/TTBBBA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Stockholm Internazionale vs Arlanda",
-            "type": "live_event",
-            "league": "Sweden Division 1",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/Stockholm Internazionale vs Arlanda.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/TTBBB.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/TTBBB.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Pitea vs Vasalund",
-            "type": "live_event",
-            "league": "Sweden Division 1",
-            "time": "11:30",
-            "page_link": "http://www.fawanews.sc/Pitea vs Vasalund.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/avvvva.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/avvvva.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
