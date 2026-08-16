@@ -1,8 +1,114 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-16T11:42:04.066677",
-    "total_with_streams": 29,
+    "fetched_at": "2026-08-16T12:16:25.037049",
+    "total_with_streams": 41,
     "events_with_streams": [
+        {
+            "name": "Watford vs Southampton",
+            "type": "live_event",
+            "league": "English Championship",
+            "time": "13:30",
+            "page_link": "http://www.fawanews.sc/Watford vs Southampton.html",
+            "image_url": "https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.47/hls/MMMMAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/MMMMAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Djurgarden vs AIK --- SD",
+            "type": "live_event",
+            "league": "Sweden Allsvenskan",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Djurgarden vs AIK.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.49/hls/ESSSaaaaA.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/ESSSaaaaA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Djurgarden vs AIK --- HD",
+            "type": "live_event",
+            "league": "Sweden Allsvenskan",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Djurgarden vs AIK --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/ESSSaaaaA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/ESSSaaaaA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Degerfors vs Goteborg --- SD",
+            "type": "live_event",
+            "league": "Sweden Allsvenskan",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Degerfors vs Goteborg.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.57/hls/ESSSaaaa.m3u8",
+                    "m3u_url": "http://193.47.62.57/hls/ESSSaaaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Degerfors vs Goteborg --- HD",
+            "type": "live_event",
+            "league": "Sweden Allsvenskan",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Degerfors vs Goteborg --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MvZ6ENnV82XTn7hjZ_540p.m3u8?txSecret=536fc6451872e2827e201a5417d79281&txTime=1A00BBB4EF3",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvZ6ENnV82XTn7hjZ_540p.m3u8?txSecret=536fc6451872e2827e201a5417d79281&txTime=1A00BBB4EF3|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MvZ6ENnV82XTn7hjZ_540p.m3u8?txSecret=536fc6451872e2827e201a5417d79281&txTime=1A00BBB4EF3",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvZ6ENnV82XTn7hjZ_540p.m3u8?txSecret=536fc6451872e2827e201a5417d79281&txTime=1A00BBB4EF3|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Brommapojkarna vs Orgryte --- SD",
+            "type": "live_event",
+            "league": "Sweden Allsvenskan",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Brommapojkarna vs Orgryte.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ESSSaaa.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ESSSaaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Brommapojkarna vs Orgryte --- HD",
+            "type": "live_event",
+            "league": "Sweden Allsvenskan",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Brommapojkarna vs Orgryte --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MvZ6ENnVAE1LFwctT_540p.m3u8?txSecret=bc9381c92dbfd4d7656758d8369afe48&txTime=1A00BBCAA67",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvZ6ENnVAE1LFwctT_540p.m3u8?txSecret=bc9381c92dbfd4d7656758d8369afe48&txTime=1A00BBCAA67|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MvZ6ENnVAE1LFwctT_540p.m3u8?txSecret=bc9381c92dbfd4d7656758d8369afe48&txTime=1A00BBCAA67",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvZ6ENnVAE1LFwctT_540p.m3u8?txSecret=bc9381c92dbfd4d7656758d8369afe48&txTime=1A00BBCAA67|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Tottenham Hotspur vs Hoffenheim",
             "type": "live_event",
@@ -32,44 +138,100 @@
             ]
         },
         {
-            "name": "Djurgarden vs AIK",
+            "name": "Motor Lublin vs GKS Katowice",
             "type": "live_event",
-            "league": "Sweden Allsvenskan",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Djurgarden vs AIK.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "league": "Poland Ekstraklasa",
+            "time": "13:45",
+            "page_link": "http://www.fawanews.sc/Motor Lublin vs GKS Katowice.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2072189899344613376/DeGLZ4Il_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.49/hls/ESSSaaaaA.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/ESSSaaaaA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/MMMMAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/MMMMAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Degerfors vs Goteborg",
+            "name": "FC Twente vs PEC Zwolle",
             "type": "live_event",
-            "league": "Sweden Allsvenskan",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Degerfors vs Goteborg.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "league": "Dutch Eredivisie",
+            "time": "13:30",
+            "page_link": "http://www.fawanews.sc/FC Twente vs PEC Zwolle.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.57/hls/ESSSaaaa.m3u8",
-                    "m3u_url": "http://193.47.62.57/hls/ESSSaaaa.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.190/hls/oeeeaaa.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/oeeeaaa.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Brommapojkarna vs Orgryte",
+            "name": "Feyenoord vs GA Eagles",
             "type": "live_event",
-            "league": "Sweden Allsvenskan",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Brommapojkarna vs Orgryte.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
+            "league": "Dutch Eredivisie",
+            "time": "13:30",
+            "page_link": "http://www.fawanews.sc/Feyenoord vs GA Eagles.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.42/hls/ESSSaaa.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/ESSSaaa.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.190/hls/oeeeaa.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/oeeeaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Aalesund vs Valerenga",
+            "type": "live_event",
+            "league": "Norway Eliteserien",
+            "time": "13:30",
+            "page_link": "http://www.fawanews.sc/Aalesund vs Valerenga.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/MMMMAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/MMMMAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "LKS Lodz vs Termalica B-B",
+            "type": "live_event",
+            "league": "Poland Division 1",
+            "time": "13:30",
+            "page_link": "http://www.fawanews.sc/LKS Lodz vs Termalica B-B.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1852296144723869696/2Ad94oXN_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/MMMMA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/MMMMA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FC Kharkiv vs Shakhtar Donetsk",
+            "type": "live_event",
+            "league": "Ukraine Premier League",
+            "time": "13:30",
+            "page_link": "http://www.fawanews.sc/FC Kharkiv vs Shakhtar Donetsk.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/MMMM.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/MMMM.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf PGA Fedex St Jude Championship",
+            "type": "live_event",
+            "league": "Golf PGA",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Golf PGA Fedex St Jude Championship.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/SFSGFD.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/SFSGFD.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -98,6 +260,20 @@
                 {
                     "original_url": "http://193.47.62.42/hls/ESSSa.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/ESSSa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Vendsyssel vs AB Copenhagen",
+            "type": "live_event",
+            "league": "Denmark Division 1",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Vendsyssel vs AB Copenhagen.html",
+            "image_url": "https://pbs.twimg.com/profile_images/896717277533544448/7XbOsUdT_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/ESSS.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ESSS.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
