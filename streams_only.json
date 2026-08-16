@@ -1,8 +1,34 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-16T13:07:33.996919",
-    "total_with_streams": 47,
+    "fetched_at": "2026-08-16T13:51:05.942574",
+    "total_with_streams": 56,
     "events_with_streams": [
+        {
+            "name": "Arsenal vs Manchester City",
+            "type": "live_event",
+            "league": "English FA Community Shield",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Arsenal vs Manchester City.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1988543709760131072/oYy4Yk3k_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/ZIIIIAAXx.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/ZIIIIAAXx.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.48/hls/ZIIIIAAXx.m3u8",
+                    "m3u_url": "http://193.47.62.48/hls/ZIIIIAAXx.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.52/hls/ZIIIIAAXx.m3u8",
+                    "m3u_url": "http://193.47.62.52/hls/ZIIIIAAXx.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.56/hls/ZIIIIAAXx.m3u8",
+                    "m3u_url": "http://193.47.62.56/hls/ZIIIIAAXx.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Chippa Utd vs Orlando Pirates",
             "type": "live_event",
@@ -52,6 +78,48 @@
                 {
                     "original_url": "http://193.47.62.56/hls/ZIIIIAAX.m3u8",
                     "m3u_url": "http://193.47.62.56/hls/ZIIIIAAX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Hibernian vs Partick Thistle",
+            "type": "live_event",
+            "league": "Scottish League Cup",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Hibernian vs Partick Thistle.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.51/hls/ZIIIIA.m3u8",
+                    "m3u_url": "http://193.47.62.51/hls/ZIIIIA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Hearts vs Inverness",
+            "type": "live_event",
+            "league": "Scottish League Cup",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Hearts vs Inverness.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.54/hls/ZIIII.m3u8",
+                    "m3u_url": "http://193.47.62.54/hls/ZIIII.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Stenhousemuir vs Motherwell",
+            "type": "live_event",
+            "league": "Scottish League Cup",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Stenhousemuir vs Motherwell.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/AMMMAAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/AMMMAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -180,44 +248,128 @@
             ]
         },
         {
-            "name": "Hibernian vs Partick Thistle",
+            "name": "NSI Runavik vs Streymur",
             "type": "live_event",
-            "league": "Scottish League Cup",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Hibernian vs Partick Thistle.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",
+            "league": "Faroe Islands Premier League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/NSI Runavik vs Streymur.html",
+            "image_url": "https://pbs.twimg.com/profile_images/378800000810341478/69360847336070840a7525743d09d4c7_400x400.png",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.51/hls/ZIIIIA.m3u8",
-                    "m3u_url": "http://193.47.62.51/hls/ZIIIIA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.42/hls/ftttaaa.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ftttaaa.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Hearts vs Inverness",
+            "name": "HB Torshavn vs Toftir",
             "type": "live_event",
-            "league": "Scottish League Cup",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Hearts vs Inverness.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",
+            "league": "Faroe Islands Premier League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/HB Torshavn vs Toftir.html",
+            "image_url": "https://pbs.twimg.com/profile_images/378800000810341478/69360847336070840a7525743d09d4c7_400x400.png",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.54/hls/ZIIII.m3u8",
-                    "m3u_url": "http://193.47.62.54/hls/ZIIII.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.42/hls/ftttaa.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/ftttaa.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Stenhousemuir vs Motherwell",
+            "name": "RAAL La Louviere vs Gent",
             "type": "live_event",
-            "league": "Scottish League Cup",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Stenhousemuir vs Motherwell.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",
+            "league": "Belgium Pro League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/RAAL La Louviere vs Gent.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2082438090145091584/D3dYErOV_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.42/hls/AMMMAAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/AMMMAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.42/hls/fttta.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/fttta.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Beerschot VA vs Gent U23",
+            "type": "live_event",
+            "league": "Belgium Challenger Pro League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Beerschot VA vs Gent U23.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2082438090145091584/D3dYErOV_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/fttt.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/fttt.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Nasaf Qarshi vs Pakhtakor",
+            "type": "live_event",
+            "league": "Uzbekistan Super League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Nasaf Qarshi vs Pakhtakor.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/NAAAAqqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/NAAAAqqqqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Progreso vs Maldonado",
+            "type": "live_event",
+            "league": "Uruguay Liga AUF",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Progreso vs Maldonado.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/NAAAAqqqq.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/NAAAAqqqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Krylya Sovetov vs Dynamo Makhachkala",
+            "type": "live_event",
+            "league": "Russia Premier League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Krylya Sovetov vs Dynamo Makhachkala.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/NAAAAqqq.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/NAAAAqqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Narva vs Paide",
+            "type": "live_event",
+            "league": "Estonia Meistriliiga",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Narva vs Paide.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1977991086506225664/voApDdum_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/NAAAAqq.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/NAAAAqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kalju vs Parnu JK Vaprus",
+            "type": "live_event",
+            "league": "Estonia Meistriliiga",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Kalju vs Parnu JK Vaprus.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1977991086506225664/voApDdum_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.42/hls/NAAAAq.m3u8",
+                    "m3u_url": "http://193.47.62.42/hls/NAAAAq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -274,20 +426,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/AMMMAAAAAA.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/AMMMAAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Norrkoping W vs Kristianstad W",
-            "type": "live_event",
-            "league": "Sweden Women Allsvenskan",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Norrkoping W vs Kristianstad W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/AMMMAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/AMMMAAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
