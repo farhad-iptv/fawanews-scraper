@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-16T17:42:34.793795",
-    "total_with_streams": 82,
+    "fetched_at": "2026-08-16T18:13:27.341749",
+    "total_with_streams": 67,
     "events_with_streams": [
         {
             "name": "Liverpool vs Como --- CH 1",
@@ -74,6 +74,20 @@
                 {
                     "original_url": "http://193.47.62.41/hls/TDDDDQQQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/TDDDDQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Amedspor vs Erzurumspor",
+            "type": "live_event",
+            "league": "Turkey Super Lig",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Amedspor vs Erzurumspor.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/vavavavava.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/vavavavava.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -878,34 +892,6 @@
             ]
         },
         {
-            "name": "Randers FC vs FC Copenhagen",
-            "type": "live_event",
-            "league": "Denmark Superliga",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Randers FC vs FC Copenhagen.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.49/hls/djjja.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/djjja.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Frosinone vs Juve Stabia",
-            "type": "live_event",
-            "league": "Coppa Italia",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Frosinone vs Juve Stabia.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/250px-Coccarda_Coppa_Italia.svg.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.49/hls/djjj.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/djjj.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "INDYCAR Grand Prix of Markham",
             "type": "live_event",
             "league": "IndyCar",
@@ -920,90 +906,6 @@
             ]
         },
         {
-            "name": "Basaksehir vs Kocaelispor",
-            "type": "live_event",
-            "league": "Turkey Super Lig",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Basaksehir vs Kocaelispor.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.49/hls/djjjaaaaa.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/djjjaaaaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Keciorengucu vs Pendikspor",
-            "type": "live_event",
-            "league": "Turkey Lig 1",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Keciorengucu vs Pendikspor.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1577968897441120257/Bywq3Bso_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.49/hls/djjjaaaa.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/djjjaaaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Kayserispor vs Sivasspor",
-            "type": "live_event",
-            "league": "Turkey Lig 1",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Kayserispor vs Sivasspor.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1577968897441120257/Bywq3Bso_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.49/hls/djjjaaa.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/djjjaaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Sporting Cristal vs Sport Huancayo",
-            "type": "live_event",
-            "league": "Peru Liga 1 Apertura",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Sporting Cristal vs Sport Huancayo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.49/hls/djjjaa.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/djjjaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Harju JK Laagri vs Levadia",
-            "type": "live_event",
-            "league": "Estonia Meistriliiga",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Harju JK Laagri vs Levadia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1977991086506225664/voApDdum_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.49/hls/CNNNaaaaaa.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/CNNNaaaaaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Flora vs Kuressaare",
-            "type": "live_event",
-            "league": "Estonia Meistriliiga",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Flora vs Kuressaare.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1977991086506225664/voApDdum_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.49/hls/CNNNaaaaa.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/CNNNaaaaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Supra du Quebec vs Atl Ottawa",
             "type": "live_event",
             "league": "Canada Premier League",
@@ -1014,118 +916,6 @@
                 {
                     "original_url": "http://193.47.62.49/hls/CNNNaaaa.m3u8",
                     "m3u_url": "http://193.47.62.49/hls/CNNNaaaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "CSKA Sofia vs Botev Vratsa",
-            "type": "live_event",
-            "league": "Bulgaria efbet League",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/CSKA Sofia vs Botev Vratsa.html",
-            "image_url": "https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.49/hls/CNNNaaa.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/CNNNaaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Zalgiris vs Banga",
-            "type": "live_event",
-            "league": "Lithuania Toplyga",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Zalgiris vs Banga.html",
-            "image_url": "https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.49/hls/CNNNaa.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/CNNNaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Grosuplje vs Mura",
-            "type": "live_event",
-            "league": "Slovenia Prva Liga",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Grosuplje vs Mura.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1414517889508462600/kxU3TDsE_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.49/hls/CNNNa.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/CNNNa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Kauno Zalgiris vs Transinvest",
-            "type": "live_event",
-            "league": "Lithuania Toplyga",
-            "time": "16:45",
-            "page_link": "http://www.fawanews.sc/Kauno Zalgiris vs Transinvest.html",
-            "image_url": "https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.49/hls/CNNN.m3u8",
-                    "m3u_url": "http://193.47.62.49/hls/CNNN.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Radomlje vs Aluminij",
-            "type": "live_event",
-            "league": "Slovenia Prva Liga",
-            "time": "16:30",
-            "page_link": "http://www.fawanews.sc/Radomlje vs Aluminij.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1414517889508462600/kxU3TDsE_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/BGBGBGAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/BGBGBGAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Otelul vs Univ Craiova",
-            "type": "live_event",
-            "league": "Romania Superliga",
-            "time": "16:30",
-            "page_link": "http://www.fawanews.sc/Otelul vs Univ Craiova.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/BGBGBGAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/BGBGBGAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cracovia vs Rakow",
-            "type": "live_event",
-            "league": "Poland Ekstraklasa",
-            "time": "16:30",
-            "page_link": "http://www.fawanews.sc/Cracovia vs Rakow.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2072189899344613376/DeGLZ4Il_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/BGBGBGA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/BGBGBGA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Puskas Academy vs Paks",
-            "type": "live_event",
-            "league": "Hungary NB 1 Liga",
-            "time": "16:30",
-            "page_link": "http://www.fawanews.sc/Puskas Academy vs Paks.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619022597298995203/iCFS2Ka1_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/BGBGBG.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/BGBGBG.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
