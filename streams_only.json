@@ -1,54 +1,8 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-16T18:54:09.196087",
-    "total_with_streams": 87,
+    "fetched_at": "2026-08-16T19:14:04.994718",
+    "total_with_streams": 84,
     "events_with_streams": [
-        {
-            "name": "Liverpool vs Como --- CH 1",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Liverpool vs Como2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/avvvvaaF.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/avvvvaaF.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Liverpool vs Como --- CH 2",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Liverpool vs Como --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live2.jxa76.com/live/sd-6MxiKkjzH1SaiEnKLw_540p.m3u8?txSecret=4929fe428803dcb511d4cd6282c22ad7&txTime=1A00CD42F5E",
-                    "m3u_url": "https://live2.jxa76.com/live/sd-6MxiKkjzH1SaiEnKLw_540p.m3u8?txSecret=4929fe428803dcb511d4cd6282c22ad7&txTime=1A00CD42F5E|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live2.jxa76.com/live/sd-6MxiKkjzH1SaiEnKLw_540p.m3u8?txSecret=4929fe428803dcb511d4cd6282c22ad7&txTime=1A00CD42F5E",
-                    "m3u_url": "http://live2.jxa76.com/live/sd-6MxiKkjzH1SaiEnKLw_540p.m3u8?txSecret=4929fe428803dcb511d4cd6282c22ad7&txTime=1A00CD42F5E|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Anorthosis vs APOEL",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Anorthosis vs APOEL.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.54/hls/EFFFAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.54/hls/EFFFAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
         {
             "name": "Lens vs PSG --- CH 1",
             "type": "live_event",
@@ -194,6 +148,34 @@
             ]
         },
         {
+            "name": "Vasco vs Santos",
+            "type": "live_event",
+            "league": "Brazil Serie A",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Vasco vs Santos.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/PFFFAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/PFFFAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Atletico-MG vs Gremio",
+            "type": "live_event",
+            "league": "Brazil Serie A",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Atletico-MG vs Gremio.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/PFFFAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/PFFFAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Sp Luqueno vs Libertad Asuncion",
             "type": "live_event",
             "league": "Paraguay Primera Division",
@@ -232,34 +214,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/PFFFAAAA.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/PFFFAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Vasco vs Santos",
-            "type": "live_event",
-            "league": "Brazil Serie A",
-            "time": "20:00",
-            "page_link": "http://www.fawanews.sc/Vasco vs Santos.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/PFFFAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/PFFFAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Atletico-MG vs Gremio",
-            "type": "live_event",
-            "league": "Brazil Serie A",
-            "time": "20:00",
-            "page_link": "http://www.fawanews.sc/Atletico-MG vs Gremio.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/PFFFAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/PFFFAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
