@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-15T23:42:01.745093",
-    "total_with_streams": 54,
+    "fetched_at": "2026-08-16T00:36:42.867884",
+    "total_with_streams": 60,
     "events_with_streams": [
         {
             "name": "UFC 330 : Islam Makhache vs Ian Garry",
@@ -12,30 +12,16 @@
             "image_url": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.192/hls/uaaa.m3u8",
-                    "m3u_url": "http://193.47.62.192/hls/uaaa.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.50/hls/uaaa.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/uaaa.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://193.47.62.193/hls/uaaa.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/uaaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "UFC 330 : Islam Makhache vs Ian Garry --- HD",
-            "type": "live_event",
-            "league": "UFC Fight Night",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/UFC 330_Islam Makhache vs Ian Garry --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live.kinescopecdn.net/on-air/3163e73f-ca7e-4777-9c0f-a3790791ca0e/441966fe-ca13-4fe3-ac7c-b10ecd91fddd/master.m3u8",
-                    "m3u_url": "https://live.kinescopecdn.net/on-air/3163e73f-ca7e-4777-9c0f-a3790791ca0e/441966fe-ca13-4fe3-ac7c-b10ecd91fddd/master.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/uaaa.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/uaaa.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://live.kinescopecdn.net/on-air/3163e73f-ca7e-4777-9c0f-a3790791ca0e/441966fe-ca13-4fe3-ac7c-b10ecd91fddd/master.m3u8",
-                    "m3u_url": "http://live.kinescopecdn.net/on-air/3163e73f-ca7e-4777-9c0f-a3790791ca0e/441966fe-ca13-4fe3-ac7c-b10ecd91fddd/master.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/uaaa.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/uaaa.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -64,6 +50,20 @@
                 {
                     "original_url": "http://193.47.62.190/hls/QQBBB.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/QQBBB.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Boxing : Keye Scott vs Claressa Shields",
+            "type": "live_event",
+            "league": "Boxing",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Boxing_Keye Scott vs Claressa Shields.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/AARRRAa.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/AARRRAa.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -174,8 +174,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.190/hls/JTTTDDDDaa.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/JTTTDDDDaa.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.190/hls/ZPPPAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/ZPPPAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -236,6 +236,20 @@
             ]
         },
         {
+            "name": "Australia vs Bangladesh",
+            "type": "live_event",
+            "league": "Cricket",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/Australia vs Bangladesh.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.192/hls/NNNND.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/NNNND.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Platense vs Boca Juniors",
             "type": "live_event",
             "league": "Argentina Liga Profesional",
@@ -246,6 +260,20 @@
                 {
                     "original_url": "http://193.47.62.190/hls/JTTTD.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/JTTTD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Jamaica Kingsmen vs Trinbago Knight Riders",
+            "type": "live_event",
+            "league": "Cricket Caribbean CPL",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/Jamaica Kingsmen vs Trinbago Knight Riders.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1780516442913292288/npRNFz7e_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/NNNE.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/NNNE.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -292,20 +320,6 @@
             ]
         },
         {
-            "name": "Boxing : Keye Scott vs Claressa Shields",
-            "type": "live_event",
-            "league": "Boxing",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Boxing_Keye Scott vs Claressa Shields.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/AARRRAa.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/AARRRAa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Las Vegas Aces W vs Minnesota Lynx W",
             "type": "live_event",
             "league": "WNBA Basketball",
@@ -334,7 +348,7 @@
             ]
         },
         {
-            "name": "Toronto FC vs New England Revolution",
+            "name": "Toronto FC vs New England Revolution --- CH 1",
             "type": "live_event",
             "league": "MLS League",
             "time": "00:30",
@@ -348,7 +362,25 @@
             ]
         },
         {
-            "name": "Orlando City vs FC Cincinnati",
+            "name": "Toronto FC vs New England Revolution --- CH 2",
+            "type": "live_event",
+            "league": "MLS League",
+            "time": "00:30",
+            "page_link": "http://www.fawanews.sc/Toronto FC vs New England Revolution --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MvZ6BA12zVwVauXkX_540p.m3u8?txSecret=4ee5e4e6e534e480df262920117f05d6&txTime=1A00917A285",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvZ6BA12zVwVauXkX_540p.m3u8?txSecret=4ee5e4e6e534e480df262920117f05d6&txTime=1A00917A285|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MvZ6BA12zVwVauXkX_540p.m3u8?txSecret=4ee5e4e6e534e480df262920117f05d6&txTime=1A00917A285",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvZ6BA12zVwVauXkX_540p.m3u8?txSecret=4ee5e4e6e534e480df262920117f05d6&txTime=1A00917A285|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Orlando City vs FC Cincinnati --- CH 1",
             "type": "live_event",
             "league": "MLS League",
             "time": "00:30",
@@ -362,7 +394,25 @@
             ]
         },
         {
-            "name": "Charlotte vs Columbus Crew",
+            "name": "Orlando City vs FC Cincinnati --- CH 2",
+            "type": "live_event",
+            "league": "MLS League",
+            "time": "00:30",
+            "page_link": "http://www.fawanews.sc/Orlando City vs FC Cincinnati --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MvZ6BA132hRN4jSuR_540p.m3u8?txSecret=aa71f1822242a497f2663f10b57c0461&txTime=1A009199A69",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvZ6BA132hRN4jSuR_540p.m3u8?txSecret=aa71f1822242a497f2663f10b57c0461&txTime=1A009199A69|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MvZ6BA132hRN4jSuR_540p.m3u8?txSecret=aa71f1822242a497f2663f10b57c0461&txTime=1A009199A69",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvZ6BA132hRN4jSuR_540p.m3u8?txSecret=aa71f1822242a497f2663f10b57c0461&txTime=1A009199A69|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Charlotte vs Columbus Crew --- CH 1",
             "type": "live_event",
             "league": "MLS League",
             "time": "00:30",
@@ -376,7 +426,25 @@
             ]
         },
         {
-            "name": "CF Montreal vs DC United",
+            "name": "Charlotte vs Columbus Crew --- CH 2",
+            "type": "live_event",
+            "league": "MLS League",
+            "time": "00:30",
+            "page_link": "http://www.fawanews.sc/Charlotte vs Columbus Crew --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MvZ6BA1CRnbD3ciwm_540p.m3u8?txSecret=bdf07a7df9fb03116e5ba464b0fc9fa6&txTime=1A009191EFF",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvZ6BA1CRnbD3ciwm_540p.m3u8?txSecret=bdf07a7df9fb03116e5ba464b0fc9fa6&txTime=1A009191EFF|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MvZ6BA1CRnbD3ciwm_540p.m3u8?txSecret=bdf07a7df9fb03116e5ba464b0fc9fa6&txTime=1A009191EFF",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvZ6BA1CRnbD3ciwm_540p.m3u8?txSecret=bdf07a7df9fb03116e5ba464b0fc9fa6&txTime=1A009191EFF|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "CF Montreal vs DC United --- CH 1",
             "type": "live_event",
             "league": "MLS League",
             "time": "00:30",
@@ -390,7 +458,25 @@
             ]
         },
         {
-            "name": "Atlanta Utd vs New York Red Bulls",
+            "name": "CF Montreal vs DC United --- CH 2",
+            "type": "live_event",
+            "league": "MLS League",
+            "time": "00:30",
+            "page_link": "http://www.fawanews.sc/CF Montreal vs DC United --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MvZ6BA1CPb7LZnons_540p.m3u8?txSecret=02f910499c442026225dc16c40d974a0&txTime=1A0091A1819",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvZ6BA1CPb7LZnons_540p.m3u8?txSecret=02f910499c442026225dc16c40d974a0&txTime=1A0091A1819|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MvZ6BA1CPb7LZnons_540p.m3u8?txSecret=02f910499c442026225dc16c40d974a0&txTime=1A0091A1819",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvZ6BA1CPb7LZnons_540p.m3u8?txSecret=02f910499c442026225dc16c40d974a0&txTime=1A0091A1819|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Atlanta Utd vs New York Red Bulls --- CH 1",
             "type": "live_event",
             "league": "MLS League",
             "time": "00:30",
@@ -400,6 +486,24 @@
                 {
                     "original_url": "http://193.47.62.190/hls/TBTBTB.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/TBTBTB.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Atlanta Utd vs New York Red Bulls --- CH 2",
+            "type": "live_event",
+            "league": "MLS League",
+            "time": "00:30",
+            "page_link": "http://www.fawanews.sc/Atlanta Utd vs New York Red Bulls --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.jxa76.com/live/sd-6MvZ6BA1CvMqXHMdwR_540p.m3u8?txSecret=414b43c6678995aba2e45f1483d32c1d&txTime=1A009186748",
+                    "m3u_url": "https://live2.jxa76.com/live/sd-6MvZ6BA1CvMqXHMdwR_540p.m3u8?txSecret=414b43c6678995aba2e45f1483d32c1d&txTime=1A009186748|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.jxa76.com/live/sd-6MvZ6BA1CvMqXHMdwR_540p.m3u8?txSecret=414b43c6678995aba2e45f1483d32c1d&txTime=1A009186748",
+                    "m3u_url": "http://live2.jxa76.com/live/sd-6MvZ6BA1CvMqXHMdwR_540p.m3u8?txSecret=414b43c6678995aba2e45f1483d32c1d&txTime=1A009186748|Referer=http://www.fawanews.sc"
                 }
             ]
         },
