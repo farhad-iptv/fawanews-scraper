@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-17T23:12:27.258323",
-    "total_with_streams": 21,
+    "fetched_at": "2026-08-17T23:43:29.732898",
+    "total_with_streams": 22,
     "events_with_streams": [
         {
             "name": "Pachuca vs Puebla",
@@ -102,7 +102,7 @@
             ]
         },
         {
-            "name": "WWE Monday Night RAW",
+            "name": "WWE Monday Night RAW --- SD",
             "type": "live_event",
             "league": "WWE Wrestling",
             "time": "01:00",
@@ -112,6 +112,20 @@
                 {
                     "original_url": "http://193.47.62.44/hls/UIIII.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/UIIII.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "WWE Monday Night RAW --- HD",
+            "type": "live_event",
+            "league": "WWE Wrestling",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/WWE Monday Night RAW --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/HEEEE.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/HEEEE.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
