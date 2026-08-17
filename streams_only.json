@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-17T14:51:13.831355",
+    "fetched_at": "2026-08-17T15:15:28.638071",
     "total_with_streams": 22,
     "events_with_streams": [
         {
@@ -158,6 +158,34 @@
             ]
         },
         {
+            "name": "Qarabag vs Shamakhi",
+            "type": "live_event",
+            "league": "Azerbaijan Premier League",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/Qarabag vs Shamakhi.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1358431560412848129/OTjhbLwt_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/yiiiqq.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/yiiiqq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Karditsa Karditsa vs Aris",
+            "type": "live_event",
+            "league": "Greece Cup",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Karditsa Karditsa vs Aris.html",
+            "image_url": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/yiiiq.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/yiiiq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "FA Siauliai vs FK Panevezys",
             "type": "live_event",
             "league": "Lithuania Toplyga",
@@ -196,34 +224,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/yiiiqqq.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/yiiiqqq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Qarabag vs Shamakhi",
-            "type": "live_event",
-            "league": "Azerbaijan Premier League",
-            "time": "16:30",
-            "page_link": "http://www.fawanews.sc/Qarabag vs Shamakhi.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1358431560412848129/OTjhbLwt_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/yiiiqq.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/yiiiqq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Karditsa Karditsa vs Aris",
-            "type": "live_event",
-            "league": "Greece Cup",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Karditsa Karditsa vs Aris.html",
-            "image_url": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/yiiiq.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/yiiiq.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
