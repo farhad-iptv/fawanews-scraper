@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-17T09:09:18.500428",
-    "total_with_streams": 5,
+    "fetched_at": "2026-08-17T10:02:37.168939",
+    "total_with_streams": 6,
     "events_with_streams": [
         {
             "name": "Horse Racing --- CH 1",
@@ -28,6 +28,20 @@
                 {
                     "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
                     "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "USA W vs Scotland W",
+            "type": "live_event",
+            "league": "Field Hockey World Cup",
+            "time": "10:10",
+            "page_link": "http://www.fawanews.sc/USA W vs Scotland W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2082386023133122560/zEXUDVoy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/BFUUU.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BFUUU.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
