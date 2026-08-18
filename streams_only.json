@@ -1,8 +1,36 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-18T14:59:11.996154",
-    "total_with_streams": 18,
+    "fetched_at": "2026-08-18T15:28:58.960857",
+    "total_with_streams": 14,
     "events_with_streams": [
+        {
+            "name": "Al Najma vs Al Ittihad",
+            "type": "live_event",
+            "league": "Saudi King Cup",
+            "time": "17:15",
+            "page_link": "http://www.fawanews.sc/Al Najma vs Al Ittihad.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/TPPPA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/TPPPA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Al Jabalain vs Al Ettifaq",
+            "type": "live_event",
+            "league": "Saudi King Cup",
+            "time": "17:15",
+            "page_link": "http://www.fawanews.sc/Al Jabalain vs Al Ettifaq.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/TPPP.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/TPPP.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Namungo vs Geita Gold",
             "type": "live_event",
@@ -32,20 +60,6 @@
             ]
         },
         {
-            "name": "Pirin Blagoevgrad vs Hebar 1918",
-            "type": "live_event",
-            "league": "Bulgaria 2nd League",
-            "time": "16:30",
-            "page_link": "http://www.fawanews.sc/Pirin Blagoevgrad vs Hebar 1918.html",
-            "image_url": "https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/RPPPAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/RPPPAAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Rodina Moscow vs Orenburg",
             "type": "live_event",
             "league": "Russia Cup",
@@ -70,6 +84,20 @@
                 {
                     "original_url": "http://193.47.62.190/hls/RPPPAAAA.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/RPPPAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Pirin Blagoevgrad vs Hebar 1918",
+            "type": "live_event",
+            "league": "Bulgaria 2nd League",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/Pirin Blagoevgrad vs Hebar 1918.html",
+            "image_url": "https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/RPPPAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/RPPPAAAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -144,76 +172,6 @@
             ]
         },
         {
-            "name": "Charlton U21 vs Bolton U21",
-            "type": "live_event",
-            "league": "English Premier League U21",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Chalrton U21 vs Bolton U21.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/AIIIQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/AIIIQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Fountain Gate vs Mashujaa",
-            "type": "live_event",
-            "league": "Tanzania Ligi Kuu Bara",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Fountain Gate vs Mashujaa.html",
-            "image_url": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/RARARAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/RARARAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Thailand vs Singapore",
-            "type": "live_event",
-            "league": "ASEAN Championship",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Thailand vs Singapore.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/RARARAAA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/RARARAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cycling Tour of Limousin",
-            "type": "live_event",
-            "league": "Cycling",
-            "time": "13:45",
-            "page_link": "http://www.fawanews.sc/Cycling Tour of Limousin.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/EEEA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/EEEA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Bristol City U21 vs Wigan U21",
-            "type": "live_event",
-            "league": "English Premier League U21",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Bristol City U21 vs Wigan U21.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/AIIIQq.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/AIIIQq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Horse Racing --- CH 1",
             "type": "live_event",
             "league": "Horse Racing",
@@ -238,20 +196,6 @@
                 {
                     "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
                     "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Sri Lanka vs India",
-            "type": "live_event",
-            "league": "Cricket",
-            "time": "08:00",
-            "page_link": "http://www.fawanews.sc/Sri Lanka vs India.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/KKKK.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/KKKK.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
