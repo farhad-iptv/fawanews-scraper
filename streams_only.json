@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-18T17:17:51.718935",
-    "total_with_streams": 36,
+    "fetched_at": "2026-08-18T17:50:48.191811",
+    "total_with_streams": 37,
     "events_with_streams": [
         {
             "name": "Levski Sofia vs AEK Athens",
@@ -158,20 +158,6 @@
             ]
         },
         {
-            "name": "Al-Faisaly vs Neom SC",
-            "type": "live_event",
-            "league": "Saudi King Cup",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Al-Faisaly vs Neom SC.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.57/hls/CACACAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.57/hls/CACACAAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Al Diriyah vs Al Nassr",
             "type": "live_event",
             "league": "Saudi King Cup",
@@ -186,16 +172,16 @@
             ]
         },
         {
-            "name": "Al Okhdood vs Al Khaleej",
+            "name": "Al-Faisaly vs Neom SC",
             "type": "live_event",
             "league": "Saudi King Cup",
             "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Al Okhdood vs Al Khaleej.html",
+            "page_link": "http://www.fawanews.sc/Al-Faisaly vs Neom SC.html",
             "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.57/hls/CACACAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.57/hls/CACACAAAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.57/hls/CACACAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.57/hls/CACACAAAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -238,6 +224,20 @@
                 {
                     "original_url": "http://193.47.62.44/hls/CACACA.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/CACACA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Nykobing vs Naestved",
+            "type": "live_event",
+            "league": "Denmark Cup",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Nykobing vs Naestved.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/TPPPAAAAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/TPPPAAAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -350,6 +350,20 @@
                 {
                     "original_url": "http://193.47.62.44/hls/TPPP.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/TPPP.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Al Okhdood vs Al Khaleej",
+            "type": "live_event",
+            "league": "Saudi King Cup",
+            "time": "17:15",
+            "page_link": "http://www.fawanews.sc/Al Okhdood vs Al Khaleej.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.57/hls/CACACAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.57/hls/CACACAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
