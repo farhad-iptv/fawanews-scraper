@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-18T19:47:09.191780",
-    "total_with_streams": 47,
+    "fetched_at": "2026-08-18T20:11:43.124827",
+    "total_with_streams": 49,
     "events_with_streams": [
         {
             "name": "Levski Sofia vs AEK Athens --- CH 1",
@@ -36,6 +36,20 @@
             ]
         },
         {
+            "name": "Levski Sofia vs AEK Athens --- HD",
+            "type": "live_event",
+            "league": "UEFA Champions League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Levski Sofia vs AEK Athens --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://217.156.122.221/Bpjn58eSBA/J4CnSKrQ3B/5.m3u8",
+                    "m3u_url": "http://217.156.122.221/Bpjn58eSBA/J4CnSKrQ3B/5.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Fenerbahce vs Lyon --- CH 1",
             "type": "live_event",
             "league": "UEFA Champions League",
@@ -64,6 +78,20 @@
                 {
                     "original_url": "http://live.666666.zip/live/4608842.m3u8",
                     "m3u_url": "http://live.666666.zip/live/4608842.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Fenerbahce vs Lyon --- HD",
+            "type": "live_event",
+            "league": "UEFA Champions League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Fenerbahce vs Lyon --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://217.156.122.221/Bpjn58eSBA/J4CnSKrQ3B/5.m3u8",
+                    "m3u_url": "http://217.156.122.221/Bpjn58eSBA/J4CnSKrQ3B/5.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
