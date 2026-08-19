@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-19T09:21:57.042270",
-    "total_with_streams": 8,
+    "fetched_at": "2026-08-19T09:55:20.719797",
+    "total_with_streams": 10,
     "events_with_streams": [
         {
             "name": "Pamba vs Simba",
@@ -120,6 +120,34 @@
                 {
                     "original_url": "http://193.47.62.192/hls/UGGGGQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.192/hls/UGGGGQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "England vs Pakistan",
+            "type": "live_event",
+            "league": "Cricket",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/England vs Pakistan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/QQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/QQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "APIA Leichhardt vs Melbourne Victory",
+            "type": "live_event",
+            "league": "Australia Cup",
+            "time": "10:30",
+            "page_link": "http://www.fawanews.sc/APIA Leichhardt vs Melbourne Victory.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1860822159175888896/lE95c4g-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/UGGGG.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/UGGGG.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
