@@ -1,8 +1,120 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-19T15:57:28.676725",
-    "total_with_streams": 21,
+    "fetched_at": "2026-08-19T16:22:21.837325",
+    "total_with_streams": 29,
     "events_with_streams": [
+        {
+            "name": "Trollhattan vs Mjallby",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Trollhattan vs Mjallby.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ICCCAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ICCCAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Pittsburgh Pirates vs Detroit Tigers",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "17:35",
+            "page_link": "http://www.fawanews.sc/Pittsburgh Pirates vs Detroit Tigers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ICCCA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ICCCA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "IK Franke vs Ljungskile",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/IK Franke vs Ljungskile.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ICCC.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ICCC.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "IFK Ostersund vs Degerfors",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/IFK Ostersund vs Degerfors.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GMMMAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GMMMAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Hogaborgs vs Oster",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Hogaborgs vs Oster.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GMMMAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GMMMAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FBK Karlstad vs Sundsvall",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/FBK Karlstad vs Sundsvall.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GMMMAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GMMMAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Enkoping SK vs Vasteras SK",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Enkoping SK vs Vasteras SK.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GMMMAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GMMMAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Angelholm vs Kalmar",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Angelholm vs Kalmar.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GMMMA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GMMMA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Jeddah vs Al Kholood",
             "type": "live_event",
@@ -32,6 +144,20 @@
             ]
         },
         {
+            "name": "Vaxjo Norra vs Varnamo",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Vaxjo Norra vs Varnamo.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GMMM.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GMMM.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Kagera Sugar vs Singida Black Stars",
             "type": "live_event",
             "league": "Tanzania Ligi Kuu Bara",
@@ -50,20 +176,6 @@
                 {
                     "original_url": "http://193.47.62.193/hls/UGGGGQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.193/hls/UGGGGQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Panserraikos vs Panthrakikos",
-            "type": "live_event",
-            "league": "Greece Cup",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Panserraikos vs Panthrakikos.html",
-            "image_url": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/OKKK.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/OKKK.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
