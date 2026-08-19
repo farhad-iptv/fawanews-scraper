@@ -1,14 +1,42 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-19T15:29:01.177969",
-    "total_with_streams": 14,
+    "fetched_at": "2026-08-19T15:57:28.676725",
+    "total_with_streams": 21,
     "events_with_streams": [
         {
-            "name": "Pamba vs Simba",
+            "name": "Jeddah vs Al Kholood",
+            "type": "live_event",
+            "league": "Saudi King Cup",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Jeddah vs Al Kholood.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/OKKKAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OKKKAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Damac vs Al Taawon",
+            "type": "live_event",
+            "league": "Saudi King Cup",
+            "time": "17:15",
+            "page_link": "http://www.fawanews.sc/Damac vs Al Taawon.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/OKKKAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OKKKAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kagera Sugar vs Singida Black Stars",
             "type": "live_event",
             "league": "Tanzania Ligi Kuu Bara",
-            "time": "14:15",
-            "page_link": "http://www.fawanews.sc/Pamba vs Simba.html",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Kagera Sugar vs Singida Black Stars.html",
             "image_url": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
             "streams": [
                 {
@@ -22,6 +50,48 @@
                 {
                     "original_url": "http://193.47.62.193/hls/UGGGGQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.193/hls/UGGGGQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Panserraikos vs Panthrakikos",
+            "type": "live_event",
+            "league": "Greece Cup",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Panserraikos vs Panthrakikos.html",
+            "image_url": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/OKKK.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OKKK.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "ASA Aarhus vs Randers FC",
+            "type": "live_event",
+            "league": "Denmark Cup",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/ASA Aarhus vs Randers FC.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/OKKKAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OKKKAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "ML Vitebsk vs Baranovici",
+            "type": "live_event",
+            "league": "Belarus Vysshaya Liga",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/ML Vitebsk vs Baranovici.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1469076834/125px-Flag_of_Belarus_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/OKKKA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OKKKA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -148,6 +218,34 @@
                 {
                     "original_url": "http://193.47.62.41/hls/OFFF.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/OFFF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Krylya Sovetov vs Zenit",
+            "type": "live_event",
+            "league": "Russia Cup",
+            "time": "14:15",
+            "page_link": "http://www.fawanews.sc/Krylya Sovetov vs Zenit.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/UGGGGQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/UGGGGQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Vietnam vs Malaysia",
+            "type": "live_event",
+            "league": "ASEAN Championship",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Vietnam vs Malaysia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/UGGGGQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/UGGGGQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
