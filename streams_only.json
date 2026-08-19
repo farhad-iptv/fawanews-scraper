@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-19T13:23:05.922165",
-    "total_with_streams": 10,
+    "fetched_at": "2026-08-19T14:03:36.506245",
+    "total_with_streams": 13,
     "events_with_streams": [
         {
             "name": "Pamba vs Simba",
@@ -18,6 +18,94 @@
                 {
                     "original_url": "http://193.47.62.192/hls/UGGGGQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.192/hls/UGGGGQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.193/hls/UGGGGQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/UGGGGQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FC Bihor vs Farul Constanta",
+            "type": "live_event",
+            "league": "Romania Copa",
+            "time": "15:30",
+            "page_link": "http://www.fawanews.sc/FC Bihor vs Farul Constanta.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/OFFFAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/OFFFAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kalamata vs Panetolikos",
+            "type": "live_event",
+            "league": "Greece Cup",
+            "time": "15:15",
+            "page_link": "http://www.fawanews.sc/Kalamata vs Panetolikos.html",
+            "image_url": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/OFFFAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/OFFFAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Zakynthos vs Kifisia",
+            "type": "live_event",
+            "league": "Greece Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Zakynthos vs Kifisia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/OFFFAAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/OFFFAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Niki Volos vs Panionios",
+            "type": "live_event",
+            "league": "Greece Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Niki Volos vs Panionios.html",
+            "image_url": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/OFFFAA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/OFFFAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Chrisoupolis vs Kalamaria",
+            "type": "live_event",
+            "league": "Greece Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Chrisoupolis vs Kalamaria.html",
+            "image_url": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/OFFFA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/OFFFA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "OKMK vs Dinamo Samarkand",
+            "type": "live_event",
+            "league": "Uzbekistan Super League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/OKMK vs Dinamo Samarkand.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/OFFF.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/OFFF.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -92,38 +180,6 @@
             ]
         },
         {
-            "name": "Shanghai Port vs Dalian Yingbo",
-            "type": "live_event",
-            "league": "China Super League",
-            "time": "12:35",
-            "page_link": "http://www.fawanews.sc/Shanghai Port vs Dalian Yingbo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/UGGGGQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/UGGGGQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Mbeya City vs Dodoma Jiji",
-            "type": "live_event",
-            "league": "Tanzania Ligi Kuu Bara",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/Mbeya City vs Dodoma Jiji.html",
-            "image_url": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.191/hls/UGGGGQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.191/hls/UGGGGQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.192/hls/UGGGGQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.192/hls/UGGGGQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "England vs Pakistan",
             "type": "live_event",
             "league": "Cricket",
@@ -134,20 +190,6 @@
                 {
                     "original_url": "http://193.47.62.194/hls/QQQQ.m3u8",
                     "m3u_url": "http://193.47.62.194/hls/QQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "APIA Leichhardt vs Melbourne Victory",
-            "type": "live_event",
-            "league": "Australia Cup",
-            "time": "10:30",
-            "page_link": "http://www.fawanews.sc/APIA Leichhardt vs Melbourne Victory.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1860822159175888896/lE95c4g-_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/UGGGG.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/UGGGG.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
