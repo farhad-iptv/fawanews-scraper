@@ -1,8 +1,114 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-19T16:22:21.837325",
+    "fetched_at": "2026-08-19T16:53:41.697483",
     "total_with_streams": 29,
     "events_with_streams": [
+        {
+            "name": "Mamelodi Sundowns vs Marumo Gallants",
+            "type": "live_event",
+            "league": "South Africa Betway Premiership",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Mamelodi Sundowns vs Marumo Gallants.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.191/hls/FBBBB.m3u8",
+                    "m3u_url": "http://193.47.62.191/hls/FBBBB.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.192/hls/FBBBB.m3u8",
+                    "m3u_url": "http://193.47.62.192/hls/FBBBB.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.193/hls/FBBBB.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/FBBBB.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Concordia vs Otelul",
+            "type": "live_event",
+            "league": "Romania Copa",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Concordia vs Otelul.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/OFFFAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OFFFAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Boston Red Sox vs Arizona Diamondbacks",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "18:40",
+            "page_link": "http://www.fawanews.sc/Boston Red Sox vs Arizona Diamondbacks.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/OPPPAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OPPPAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "New York Mets vs San Diego Padres",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "18:10",
+            "page_link": "http://www.fawanews.sc/New York Mets vs San Diego Padres.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ICCCAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ICCCAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "AIK vs Vita Hasten",
+            "type": "live_event",
+            "league": "Sweden Hockey",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/AIK vs Vita Hasten.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1313144463657701377/baQ905pC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/gyyy.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/gyyy.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Vaxjo vs Rogle",
+            "type": "live_event",
+            "league": "Sweden Hockey",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Vaxjo vs Rogle.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1313144463657701377/baQ905pC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/FYYYA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/FYYYA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Djurgarden vs HV 71",
+            "type": "live_event",
+            "league": "Sweden Hockey",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Djurgarden vs HV 71.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1313144463657701377/baQ905pC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/FYYY.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/FYYY.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Trollhattan vs Mjallby",
             "type": "live_event",
@@ -274,104 +380,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/OFFFAAAAAA.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/OFFFAAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "FC Bihor vs Farul Constanta",
-            "type": "live_event",
-            "league": "Romania Copa",
-            "time": "15:30",
-            "page_link": "http://www.fawanews.sc/FC Bihor vs Farul Constanta.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/OFFFAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/OFFFAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Kalamata vs Panetolikos",
-            "type": "live_event",
-            "league": "Greece Cup",
-            "time": "15:15",
-            "page_link": "http://www.fawanews.sc/Kalamata vs Panetolikos.html",
-            "image_url": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/OFFFAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/OFFFAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Niki Volos vs Panionios",
-            "type": "live_event",
-            "league": "Greece Cup",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Niki Volos vs Panionios.html",
-            "image_url": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/OFFFAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/OFFFAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "OKMK vs Dinamo Samarkand",
-            "type": "live_event",
-            "league": "Uzbekistan Super League",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/OKMK vs Dinamo Samarkand.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/OFFF.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/OFFF.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Krylya Sovetov vs Zenit",
-            "type": "live_event",
-            "league": "Russia Cup",
-            "time": "14:15",
-            "page_link": "http://www.fawanews.sc/Krylya Sovetov vs Zenit.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/UGGGGQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/UGGGGQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Vietnam vs Malaysia",
-            "type": "live_event",
-            "league": "ASEAN Championship",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Vietnam vs Malaysia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/UGGGGQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/UGGGGQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cycling Tour of Limousin",
-            "type": "live_event",
-            "league": "Cycling",
-            "time": "13:45",
-            "page_link": "http://www.fawanews.sc/Cycling Tour of Limousin.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/EEEA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/EEEA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
