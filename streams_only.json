@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-19T16:53:41.697483",
-    "total_with_streams": 29,
+    "fetched_at": "2026-08-19T17:17:34.099935",
+    "total_with_streams": 40,
     "events_with_streams": [
         {
             "name": "Mamelodi Sundowns vs Marumo Gallants",
@@ -22,6 +22,168 @@
                 {
                     "original_url": "http://193.47.62.193/hls/FBBBB.m3u8",
                     "m3u_url": "http://193.47.62.193/hls/FBBBB.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Celtic vs LASK",
+            "type": "live_event",
+            "league": "UEFA Champions League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Celtic vs LASK.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.45/hls/GGGG.m3u8",
+                    "m3u_url": "http://193.47.62.45/hls/GGGG.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/GGGG.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/GGGG.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Slovan Bratislava vs Celje",
+            "type": "live_event",
+            "league": "UEFA Champions League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Slovan Bratislava vs Celje.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/RVRVRVAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/RVRVRVAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "NEC Nijmegen vs Bodo Glimt",
+            "type": "live_event",
+            "league": "UEFA Champions League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/NEC Nijmegen vs Bodo Glimt.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/RVRVRVA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/RVRVRVA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "H Beer Sheva vs Sabah Baku",
+            "type": "live_event",
+            "league": "UEFA Champions League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/H Beer Sheva vs Sabah Baku.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/RVRVRV.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/RVRVRV.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Atletico Madrid vs Malaga",
+            "type": "live_event",
+            "league": "Spanish La Liga",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Atletico Madrid vs Malaga.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/OPPPAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OPPPAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Academia del Balompie vs Real Potosi",
+            "type": "live_event",
+            "league": "Bolivia Copa",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Academia del Balompie vs Real Potosi.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/OPPPAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OPPPAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Philadelphia Phillies vs Miami Marlins",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "19:20",
+            "page_link": "http://www.fawanews.sc/Philadelphia Phillies vs Miami Marlins.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/OSSS.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OSSS.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FC Barcelona vs Al Ahly",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/FC Barcelona vs Al Ahly.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.57/hls/TITITI.m3u8",
+                    "m3u_url": "http://193.47.62.57/hls/TITITI.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.54/hls/TITITI.m3u8",
+                    "m3u_url": "http://193.47.62.54/hls/TITITI.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Mansfield vs Manchester City U21",
+            "type": "live_event",
+            "league": "English EFL Trophy",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Mansfield vs Manchester City U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/OPPPA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OPPPA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Al-Ula vs Al Fateh",
+            "type": "live_event",
+            "league": "Saudi King Cup",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Al-Ula vs Al Fateh.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/OPPP.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OPPP.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Dynamo Moscow vs Krasnodar",
+            "type": "live_event",
+            "league": "Russia Cup",
+            "time": "18:45",
+            "page_link": "http://www.fawanews.sc/Dynamo Moscow vs Krasnodar.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ICCCAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ICCCAAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
