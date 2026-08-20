@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-20T11:16:22.775871",
+    "fetched_at": "2026-08-20T11:49:44.549457",
     "total_with_streams": 10,
     "events_with_streams": [
         {
@@ -88,6 +88,20 @@
             ]
         },
         {
+            "name": "Cycling Tour of Britain",
+            "type": "live_event",
+            "league": "Cycling",
+            "time": "12:15",
+            "page_link": "http://www.fawanews.sc/Cycling Tour of Britain.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/EEEA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/EEEA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "England vs Pakistan",
             "type": "live_event",
             "league": "Cricket",
@@ -126,20 +140,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/DEDEDE.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/DEDEDE.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Canterbury vs Northland",
-            "type": "live_event",
-            "league": "Rugby NZ NPC",
-            "time": "08:10",
-            "page_link": "http://www.fawanews.sc/Canterbury vs Northland.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/ZVVVAAAaA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/ZVVVAAAaA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
