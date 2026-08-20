@@ -1,22 +1,8 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-20T23:15:36.768027",
+    "fetched_at": "2026-08-20T23:47:00.418731",
     "total_with_streams": 26,
     "events_with_streams": [
-        {
-            "name": "Houston Texans vs Las Vegas Raiders",
-            "type": "live_event",
-            "league": "NFL American Football",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Houston Texans vs Las Vegas Raiders.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/mmmmAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/mmmmAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
         {
             "name": "Los Angeles Chargers vs San Francisco 49ers",
             "type": "live_event",
@@ -28,6 +14,20 @@
                 {
                     "original_url": "http://193.47.62.59/hls/mmmmAAAAA.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/mmmmAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Houston Texans vs Las Vegas Raiders",
+            "type": "live_event",
+            "league": "NFL American Football",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/Houston Texans vs Las Vegas Raiders.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/mmmmAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/mmmmAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -112,6 +112,20 @@
                 {
                     "original_url": "http://193.47.62.41/hls/DDAAAa.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/DDAAAa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis ATP Cincinati",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "01:30",
+            "page_link": "http://www.fawanews.sc/Tennis ATP Cincinati.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1744351891847303168/kkupwhya_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/zazaza.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/zazaza.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -322,20 +336,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/RRRRRAAA.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/RRRRRAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Cincinati",
-            "type": "live_event",
-            "league": "Tennis Masters",
-            "time": "20:00",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Cincinati.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1744351891847303168/kkupwhya_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.190/hls/zazaza.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/zazaza.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
