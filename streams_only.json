@@ -1,8 +1,124 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-21T09:05:00.617806",
-    "total_with_streams": 6,
+    "fetched_at": "2026-08-21T09:57:47.280075",
+    "total_with_streams": 14,
     "events_with_streams": [
+        {
+            "name": "Formula 1 GP Netherlands --- SD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Netherlands.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/dbbb.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/dbbb.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Netherlands --- HD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Netherlands --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/755a947b-7731-4f1f-aaea-91d8fca9e0c4/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/755a947b-7731-4f1f-aaea-91d8fca9e0c4/master.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/755a947b-7731-4f1f-aaea-91d8fca9e0c4/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/755a947b-7731-4f1f-aaea-91d8fca9e0c4/master.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 1",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 2",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf Nexo Championship",
+            "type": "live_event",
+            "league": "Golf",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Golf Nexo Championship.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2076748855295537152/wdI37nVJ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/DEDEDEAAX.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/DEDEDEAAX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cycling Tour of Britain",
+            "type": "live_event",
+            "league": "Cycling",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Cycling Tour of Britain.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1773758182705287168/c8FnoFaF_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/EEEA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/EEEA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FC Tokyo vs Chiba",
+            "type": "live_event",
+            "league": "Japan J League",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/FC Tokyo vs Chiba.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/dbbbAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/dbbbAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kashiwa Reysol vs V-Varen Nagasaki",
+            "type": "live_event",
+            "league": "Japan J League",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Kashiwa Reysol vs V-Varen Nagasaki.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/dbbbA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/dbbbA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Dolphins vs Parramatta Eels",
             "type": "live_event",
