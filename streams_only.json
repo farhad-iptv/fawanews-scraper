@@ -1,51 +1,19 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-21T15:34:24.562905",
-    "total_with_streams": 44,
+    "fetched_at": "2026-08-21T16:19:34.261744",
+    "total_with_streams": 42,
     "events_with_streams": [
         {
-            "name": "Formula 1 GP Netherlands --- SD",
+            "name": "Al Riyadh vs Al Nassr",
             "type": "live_event",
-            "league": "Formula 1 GP",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Formula 1 GP Netherlands.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "league": "Saudi Premier League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Al Riyadh vs Al Nassr.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/dbbb.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/dbbb.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Formula 1 GP Netherlands --- HD",
-            "type": "live_event",
-            "league": "Formula 1 GP",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Formula 1 GP Netherlands --- HD2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/25df985e-154e-4193-b025-5c94a81dc434/master.m3u8",
-                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/25df985e-154e-4193-b025-5c94a81dc434/master.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/25df985e-154e-4193-b025-5c94a81dc434/master.m3u8",
-                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/25df985e-154e-4193-b025-5c94a81dc434/master.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Al Nasr vs Al Wahda",
-            "type": "live_event",
-            "league": "UAE Premier League",
-            "time": "17:35",
-            "page_link": "http://www.fawanews.sc/Al Nasr vs Al Wahda.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/KFFFAAA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/KFFFAAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/KEEEAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/KEEEAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -60,6 +28,20 @@
                 {
                     "original_url": "http://193.47.62.59/hls/KFFFAA.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/KFFFAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Al Nasr vs Al Wahda",
+            "type": "live_event",
+            "league": "UAE Premier League",
+            "time": "17:35",
+            "page_link": "http://www.fawanews.sc/Al Nasr vs Al Wahda.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/KFFFAAA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/KFFFAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -102,20 +84,6 @@
                 {
                     "original_url": "http://193.47.62.59/hls/KEEEAAAAA.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/KEEEAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Al Riyadh vs Al Nassr",
-            "type": "live_event",
-            "league": "Saudi Premier League",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Al Riyadh vs Al Nassr.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/KEEEAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/KEEEAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
