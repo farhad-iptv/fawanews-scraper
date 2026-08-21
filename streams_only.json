@@ -1,8 +1,50 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-21T12:22:28.867063",
-    "total_with_streams": 14,
+    "fetched_at": "2026-08-21T13:23:55.332308",
+    "total_with_streams": 17,
     "events_with_streams": [
+        {
+            "name": "Pumas vs Griquas",
+            "type": "live_event",
+            "league": "SA Rugby Currie Cup",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Pumas vs Griquas.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1801151152290947072/iSkdmcvc_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/bzbzbz.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/bzbzbz.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Johor DT vs Kuching City FC",
+            "type": "live_event",
+            "league": "Malaysia Piala Sumbangsih",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Johor DT vs Kuching City FC.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1638733016985145344/DlS5U4Qj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ggggQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ggggQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Mamelodi Sundowns W vs Nsingizini Hotspurs W",
+            "type": "live_event",
+            "league": "COSAFA Champions League",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Mamelodi Sundowns W vs Nsingizini Hotspurs W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1585877185382043649/dT99TLst_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/gggg.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/gggg.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Formula 1 GP Netherlands --- SD",
             "type": "live_event",
@@ -26,12 +68,12 @@
             "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/755a947b-7731-4f1f-aaea-91d8fca9e0c4/master.m3u8",
-                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/755a947b-7731-4f1f-aaea-91d8fca9e0c4/master.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4786bad5-a248-42b3-bc12-38b31cabf7d4/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4786bad5-a248-42b3-bc12-38b31cabf7d4/master.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/755a947b-7731-4f1f-aaea-91d8fca9e0c4/master.m3u8",
-                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/755a947b-7731-4f1f-aaea-91d8fca9e0c4/master.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4786bad5-a248-42b3-bc12-38b31cabf7d4/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4786bad5-a248-42b3-bc12-38b31cabf7d4/master.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
