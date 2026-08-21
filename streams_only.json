@@ -1,8 +1,22 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-21T22:12:16.843816",
-    "total_with_streams": 27,
+    "fetched_at": "2026-08-21T22:47:49.227213",
+    "total_with_streams": 28,
     "events_with_streams": [
+        {
+            "name": "BKFC Fight Night : Bryce Henry vs Carlos Trinidad",
+            "type": "live_event",
+            "league": "Boxing",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/BKFC Fight Night_Bryce Henry vs Carlos Trinidad.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/bgbgbg.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/bgbgbg.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Philadelphia Phillies vs St Louis Cardinals",
             "type": "live_event",
