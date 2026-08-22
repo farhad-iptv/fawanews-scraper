@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-22T10:46:25.330630",
-    "total_with_streams": 33,
+    "fetched_at": "2026-08-22T11:11:07.864924",
+    "total_with_streams": 35,
     "events_with_streams": [
         {
             "name": "Hull City vs Manchester United",
@@ -138,6 +138,34 @@
                 {
                     "original_url": "http://193.47.62.41/hls/frrr.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/frrr.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Shenzhen Xinpengcheng vs Zhejiang Professional",
+            "type": "live_event",
+            "league": "China Super League",
+            "time": "12:35",
+            "page_link": "http://www.fawanews.sc/Shenzhen Xinpengcheng vs Zhejiang Professional.html",
+            "image_url": "https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/kddda.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/kddda.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Chengdu Rongcheng vs Shanghai Shenhua",
+            "type": "live_event",
+            "league": "China Super League",
+            "time": "12:35",
+            "page_link": "http://www.fawanews.sc/Chengdu Rongcheng vs Shanghai Shenhua.html",
+            "image_url": "https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/kddd.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/kddd.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
