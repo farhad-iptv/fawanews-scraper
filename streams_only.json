@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-22T23:11:17.093216",
+    "fetched_at": "2026-08-22T23:43:03.730701",
     "total_with_streams": 66,
     "events_with_streams": [
         {
@@ -42,6 +42,20 @@
                 {
                     "original_url": "http://193.47.62.59/hls/EIIII.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/EIIII.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Inter Miami vs Toronto FC",
+            "type": "live_event",
+            "league": "MLS League",
+            "time": "00:30",
+            "page_link": "http://www.fawanews.sc/Inter Miami vs Toronto FC.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/KHHHAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/KHHHAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -396,20 +410,6 @@
             ]
         },
         {
-            "name": "Inter Miami vs Toronto FC",
-            "type": "live_event",
-            "league": "MLS League",
-            "time": "00:30",
-            "page_link": "http://www.fawanews.sc/Inter Miami vs Toronto FC.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/KHHHAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/KHHHAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Orlando City vs Real Salt Lake",
             "type": "live_event",
             "league": "MLS League",
@@ -504,6 +504,20 @@
                 {
                     "original_url": "http://193.47.62.55/hls/KYYYAAAAAAA.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/KYYYAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Forge vs Pacific FC",
+            "type": "live_event",
+            "league": "Canada Premier League",
+            "time": "00:30",
+            "page_link": "http://www.fawanews.sc/Forge vs Pacific FC.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/JTTT.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/JTTT.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -672,20 +686,6 @@
                 {
                     "original_url": "http://193.47.62.50/hls/JTTTA.m3u8",
                     "m3u_url": "http://193.47.62.50/hls/JTTTA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Forge vs Pacific FC",
-            "type": "live_event",
-            "league": "Canada Premier League",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/Forge vs Pacific FC.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/JTTT.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/JTTT.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
