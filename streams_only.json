@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-22T22:45:52.845899",
-    "total_with_streams": 73,
+    "fetched_at": "2026-08-22T23:11:17.093216",
+    "total_with_streams": 66,
     "events_with_streams": [
         {
             "name": "UFC Fight Night : Hernandez vs Rodrigues",
@@ -32,16 +32,72 @@
             ]
         },
         {
-            "name": "Boxing : George Liddard vs Dario Morello",
+            "name": "Boxing : Rolando Romero vs Teofimo Lopez",
             "type": "live_event",
             "league": "Boxing",
             "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Boxing_George Liddard vs Dario Morello.html",
+            "page_link": "http://www.fawanews.sc/Boxing_Rolando Romero vs Teofimo Lopez.html",
             "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
             "streams": [
                 {
                     "original_url": "http://193.47.62.59/hls/EIIII.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/EIIII.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Arizona Cardinals vs Dallas Cowboys",
+            "type": "live_event",
+            "league": "NFL American Football",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/Arizona Cardinals vs Dallas Cowboys.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/edddaAAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/edddaAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tampa Bay Buccaneers vs Kansas City Chiefs",
+            "type": "live_event",
+            "league": "NFL American Football",
+            "time": "00:30",
+            "page_link": "http://www.fawanews.sc/Tampa Bay Buccaneers vs Kansas City Chiefs.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/KHHHAAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/KHHHAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "New England Patriots vs Philadelphia Eagles",
+            "type": "live_event",
+            "league": "NFL American Football",
+            "time": "00:00",
+            "page_link": "http://www.fawanews.sc/New England Patriots vs Philadelphia Eagles.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/JTTTAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/JTTTAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cincinnati Bengals vs Chicago Bears",
+            "type": "live_event",
+            "league": "NFL American Football",
+            "time": "00:00",
+            "page_link": "http://www.fawanews.sc/Cincinnati Bengals vs Chicago Bears.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/JTTTAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/JTTTAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -98,20 +154,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/edddaAAA.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/edddaAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Arizona Cardinals vs Dallas Cowboys",
-            "type": "live_event",
-            "league": "NFL American Football",
-            "time": "03:00",
-            "page_link": "http://www.fawanews.sc/Arizona Cardinals vs Dallas Cowboys.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/edddaAAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/edddaAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -354,16 +396,16 @@
             ]
         },
         {
-            "name": "Tampa Bay Buccaneers vs Kansas City Chiefs",
+            "name": "Inter Miami vs Toronto FC",
             "type": "live_event",
-            "league": "NFL American Football",
+            "league": "MLS League",
             "time": "00:30",
-            "page_link": "http://www.fawanews.sc/Tampa Bay Buccaneers vs Kansas City Chiefs.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Inter Miami vs Toronto FC.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/KHHHAAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/KHHHAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/KHHHAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/KHHHAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -392,20 +434,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/KHHHAAAAA.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/KHHHAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Inter Miami vs Toronto FC",
-            "type": "live_event",
-            "league": "MLS League",
-            "time": "00:30",
-            "page_link": "http://www.fawanews.sc/Inter Miami vs Toronto FC.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/KHHHAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/KHHHAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -634,34 +662,6 @@
             ]
         },
         {
-            "name": "New England Patriots vs Philadelphia Eagles",
-            "type": "live_event",
-            "league": "NFL American Football",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/New England Patriots vs Philadelphia Eagles.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/JTTTAAA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/JTTTAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cincinnati Bengals vs Chicago Bears",
-            "type": "live_event",
-            "league": "NFL American Football",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/Cincinnati Bengals vs Chicago Bears.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/JTTTAA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/JTTTAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "New York Liberty W vs Indiana Fever W",
             "type": "live_event",
             "league": "WNBA Basketball",
@@ -686,6 +686,20 @@
                 {
                     "original_url": "http://193.47.62.50/hls/JTTT.m3u8",
                     "m3u_url": "http://193.47.62.50/hls/JTTT.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Antigua-Barbuda Falcons vs Trinbago Knight Riders",
+            "type": "live_event",
+            "league": "Cricket CPL T20",
+            "time": "00:00",
+            "page_link": "http://www.fawanews.sc/Antigua-Barbuda Falcons vs Trinbago Knight Riders.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1780516442913292288/npRNFz7e_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/edddaAAAAAAAa.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/edddaAAAAAAAa.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -858,48 +872,6 @@
             ]
         },
         {
-            "name": "Juan Pablo II vs AD Tarma",
-            "type": "live_event",
-            "league": "Peru Liga 1 Apertura",
-            "time": "21:30",
-            "page_link": "http://www.fawanews.sc/Juan Pablo II vs AD Tarma.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/voooAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/voooAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Aguilas vs Millonarios",
-            "type": "live_event",
-            "league": "Colombia Primera A",
-            "time": "21:30",
-            "page_link": "http://www.fawanews.sc/Aguilas vs Millonarios.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/voooAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/voooAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cavalry vs Atl Ottawa",
-            "type": "live_event",
-            "league": "Canada Premier League",
-            "time": "21:30",
-            "page_link": "http://www.fawanews.sc/Cavalry vs Atl Ottawa.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/voooAAA.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/voooAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Miami Marlins vs Washington Nationals",
             "type": "live_event",
             "league": "MLB Baseball",
@@ -910,62 +882,6 @@
                 {
                     "original_url": "http://193.47.62.42/hls/voooAA.m3u8",
                     "m3u_url": "http://193.47.62.42/hls/voooAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Miami Dolphins vs New York Giants",
-            "type": "live_event",
-            "league": "NFL American Football",
-            "time": "21:00",
-            "page_link": "http://www.fawanews.sc/Miami Dolphins vs New York Giants.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/voooA.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/voooA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Los Angeles Rams vs New Orleans Saints",
-            "type": "live_event",
-            "league": "NFL American Football",
-            "time": "21:00",
-            "page_link": "http://www.fawanews.sc/Los Angeles Rams vs New Orleans Saints.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.42/hls/vooo.m3u8",
-                    "m3u_url": "http://193.47.62.42/hls/vooo.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Sporting Lisbon vs Alverca",
-            "type": "live_event",
-            "league": "Portugal Primeira Liga",
-            "time": "20:30",
-            "page_link": "http://www.fawanews.sc/Sporting Lisbon vs Alverca.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.40/hls/AIIII.m3u8",
-                    "m3u_url": "http://193.47.62.40/hls/AIIII.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Eldense vs Cadiz CF",
-            "type": "live_event",
-            "league": "Spanish Segunda Liga",
-            "time": "20:30",
-            "page_link": "http://www.fawanews.sc/Eldense vs Cadiz CF.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.40/hls/AIIIIA.m3u8",
-                    "m3u_url": "http://193.47.62.40/hls/AIIIIA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -994,20 +910,6 @@
                 {
                     "original_url": "http://193.47.62.190/hls/zazaza.m3u8",
                     "m3u_url": "http://193.47.62.190/hls/zazaza.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cleveland Browns vs Buffalo Bills",
-            "type": "live_event",
-            "league": "NFL American Football",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Cleveland Browns vs Buffalo Bills.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/YBBBAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/YBBBAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
