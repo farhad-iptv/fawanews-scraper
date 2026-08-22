@@ -1,8 +1,22 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-22T00:34:06.385508",
-    "total_with_streams": 43,
+    "fetched_at": "2026-08-22T02:08:50.107351",
+    "total_with_streams": 47,
     "events_with_streams": [
+        {
+            "name": "Denver Broncos vs Green Bay Packers",
+            "type": "live_event",
+            "league": "NFL American Football",
+            "time": "02:00",
+            "page_link": "http://www.fawanews.sc/Denver Broncos vs Green Bay Packers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.193/hls/afffq.m3u8",
+                    "m3u_url": "http://193.47.62.193/hls/afffq.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Jacksonville Jaguars vs Carolina Panthers",
             "type": "live_event",
@@ -28,6 +42,132 @@
                 {
                     "original_url": "http://193.47.62.194/hls/afffqQQ.m3u8",
                     "m3u_url": "http://193.47.62.194/hls/afffqQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "MMA LFA 239 : Exposito vs Mecate",
+            "type": "live_event",
+            "league": "MMA LFA",
+            "time": "02:00",
+            "page_link": "http://www.fawanews.sc/MMA LFA 239_Manuel Exposito vs Chris Mecate.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1587458834984890369/SO7m3mRI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/YTTTAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/YTTTAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Boxing : Erik Miloc vs Sanchez Torres",
+            "type": "live_event",
+            "league": "Boxing",
+            "time": "02:00",
+            "page_link": "http://www.fawanews.sc/Boxing_Erik Miloc vs Sanchez Torres.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/afff.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/afff.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Boxing : Amanda Serrano vs Lucrecia Manzur",
+            "type": "live_event",
+            "league": "Boxing",
+            "time": "01:45",
+            "page_link": "http://www.fawanews.sc/Boxing_Amanda Serrano vs Lucrecia Manzur.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ROOOBAAa.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ROOOBAAa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Bay of Plenty vs Taranaki",
+            "type": "live_event",
+            "league": "Rugby NZ NPC",
+            "time": "08:35",
+            "page_link": "http://www.fawanews.sc/Bay of Plenty vs Taranaki.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ROOOB.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ROOOB.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "South Sydney Rabbitohs vs New Zealand Warriors",
+            "type": "live_event",
+            "league": "NRL",
+            "time": "08:30",
+            "page_link": "http://www.fawanews.sc/South Sydney Rabbitohs vs New Zealand Warriors.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ROOO.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ROOO.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Melbourne Demons vs Western Bulldogs",
+            "type": "live_event",
+            "league": "AFL Aussie Rules",
+            "time": "07:15",
+            "page_link": "http://www.fawanews.sc/Melbourne Demons vs Western Bulldogs.html",
+            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ROOOBAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ROOOBAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "North Harbour vs Auckland",
+            "type": "live_event",
+            "league": "Rugby NZ NPC",
+            "time": "06:35",
+            "page_link": "http://www.fawanews.sc/North Harbour vs Auckland.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ROOOB.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ROOOB.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Newcastle Knights vs Manly Sea Eagles",
+            "type": "live_event",
+            "league": "NRL",
+            "time": "06:00",
+            "page_link": "http://www.fawanews.sc/Newcastle Knights vs Manly Sea Eagles.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ROOO.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ROOO.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Carlton Blues vs Fremantle Dockers",
+            "type": "live_event",
+            "league": "AFL Aussie Rules",
+            "time": "04:15",
+            "page_link": "http://www.fawanews.sc/Carlton Blues vs Fremantle Dockers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ROOOBA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ROOOBA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -144,16 +284,16 @@
             ]
         },
         {
-            "name": "MMA LFA 239 : Manuel Exposito vs Chris Mecate",
+            "name": "Tasman vs Southland",
             "type": "live_event",
-            "league": "MMA LFA",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/MMA LFA 239_Manuel Exposito vs Chris Mecate.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg",
+            "league": "Rugby NZ NPC",
+            "time": "02:05",
+            "page_link": "http://www.fawanews.sc/Tasman vs Southland.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/YTTTAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/YTTTAAAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/ROOO.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ROOO.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -182,34 +322,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/YPPPAAA.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/YPPPAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Denver Broncos vs Green Bay Packers",
-            "type": "live_event",
-            "league": "NFL American Football",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/Denver Broncos vs Green Bay Packers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.193/hls/afffq.m3u8",
-                    "m3u_url": "http://193.47.62.193/hls/afffq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boxing : Erik Miloc vs Sanchez Torres",
-            "type": "live_event",
-            "league": "Boxing",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/Boxing_Erik Miloc vs Sanchez Torres.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/afff.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/afff.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -382,20 +494,6 @@
             ]
         },
         {
-            "name": "Boxing : Kevin Furrer vs Hector Fernandez",
-            "type": "live_event",
-            "league": "Boxing",
-            "time": "00:30",
-            "page_link": "http://www.fawanews.sc/Boxing_Kevin Furrer vs Hector Fernandez.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/YTTTAAAaA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/YTTTAAAaA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Washington Mystics W vs Minnesota Lynx W",
             "type": "live_event",
             "league": "WNBA Basketball",
@@ -508,20 +606,6 @@
             ]
         },
         {
-            "name": "BKFC Fight Night : Bryce Henry vs Carlos Trinidad",
-            "type": "live_event",
-            "league": "Boxing",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/BKFC Fight Night_Bryce Henry vs Carlos Trinidad.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/bgbgbg.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/bgbgbg.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Philadelphia Phillies vs St Louis Cardinals",
             "type": "live_event",
             "league": "MLB Baseball",
@@ -532,34 +616,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/FIIIQQQ.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/FIIIQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "The Strongest vs Universitario de Vinto",
-            "type": "live_event",
-            "league": "Bolivia Division Profesional",
-            "time": "23:30",
-            "page_link": "http://www.fawanews.sc/The Strongest vs Universitario de Vinto.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/paaa.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/paaa.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Liverpool M vs CA Cerro",
-            "type": "live_event",
-            "league": "Uruguay Liga AUF",
-            "time": "23:00",
-            "page_link": "http://www.fawanews.sc/Liverpool M vs CA Cerro.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/FIIIQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/FIIIQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
