@@ -1,8 +1,70 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-22T16:11:55.749500",
-    "total_with_streams": 68,
+    "fetched_at": "2026-08-22T16:48:01.579062",
+    "total_with_streams": 90,
     "events_with_streams": [
+        {
+            "name": "Brentford vs Tottenham --- ENG 1",
+            "type": "live_event",
+            "league": "English Premier League",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Brentford vs Tottenham.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.46/hls/LLLLQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.46/hls/LLLLQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.58/hls/LLLLQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.58/hls/LLLLQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/LLLLQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/LLLLQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.53/hls/LLLLQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/LLLLQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Brentford vs Tottenham --- ENG 2",
+            "type": "live_event",
+            "league": "English Premier League",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Brentford vs Tottenham --- ENG 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://play1.315nb.com/live/72221164_6da9791550aac6489819e36fd7ee1d24_540p.m3u8?auth_key=1787430496-0-0-6b839d02c1c8bb45be77f2239e17202c",
+                    "m3u_url": "https://play1.315nb.com/live/72221164_6da9791550aac6489819e36fd7ee1d24_540p.m3u8?auth_key=1787430496-0-0-6b839d02c1c8bb45be77f2239e17202c|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://play1.315nb.com/live/72221164_6da9791550aac6489819e36fd7ee1d24_540p.m3u8?auth_key=1787430496-0-0-6b839d02c1c8bb45be77f2239e17202c",
+                    "m3u_url": "http://play1.315nb.com/live/72221164_6da9791550aac6489819e36fd7ee1d24_540p.m3u8?auth_key=1787430496-0-0-6b839d02c1c8bb45be77f2239e17202c|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Brentford vs Tottenham --- CH 2",
+            "type": "live_event",
+            "league": "English Premier League",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Brentford vs Tottenham --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.666666.zip/live/4558461.m3u8",
+                    "m3u_url": "https://live.666666.zip/live/4558461.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.666666.zip/live/4558461.m3u8",
+                    "m3u_url": "http://live.666666.zip/live/4558461.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "South Africa vs New Zealand",
             "type": "live_event",
@@ -56,7 +118,7 @@
             ]
         },
         {
-            "name": "Dundee United vs Dundee FC",
+            "name": "Dundee United vs Dundee FC --- CH 1",
             "type": "live_event",
             "league": "Scottish Premiership",
             "time": "17:45",
@@ -70,7 +132,249 @@
             ]
         },
         {
-            "name": "Sparta Rotterdam vs FC Utrecht",
+            "name": "Dundee United vs Dundee FC --- CH 2",
+            "type": "live_event",
+            "league": "Scottish Premiership",
+            "time": "17:45",
+            "page_link": "http://www.fawanews.sc/Dundee United vs Dundee FC --- CH 2.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",
+            "streams": [
+                {
+                    "original_url": "https://live.666666.zip/live/4557566.m3u8",
+                    "m3u_url": "https://live.666666.zip/live/4557566.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.666666.zip/live/4557566.m3u8",
+                    "m3u_url": "http://live.666666.zip/live/4557566.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Minnesota Vikings vs Baltimore Ravens",
+            "type": "live_event",
+            "league": "NFL American Football",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Minnesota Vikings vs Baltimore Ravens.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YBBBAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YBBBAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Indianapolis Colts vs Atlanta Falcons",
+            "type": "live_event",
+            "league": "NFL American Football",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Indianapolis Colts vs Atlanta Falcons.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YBBBAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YBBBAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Cleveland Browns vs Buffalo Bills",
+            "type": "live_event",
+            "league": "NFL American Football",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Cleveland Browns vs Buffalo Bills.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YBBBAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YBBBAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kalamata vs Aris",
+            "type": "live_event",
+            "league": "Greece Super League",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Kalamata vs Aris.html",
+            "image_url": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YBBBA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YBBBA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "AEK Athens vs Iraklis 1908",
+            "type": "live_event",
+            "league": "Greece Super League",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/AEK Athens vs Iraklis 1908.html",
+            "image_url": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YBBB.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YBBB.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ceuta vs Las Palmas",
+            "type": "live_event",
+            "league": "Spanish Segunda Liga",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Ceuta vs Las Palmas.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/EEUUUQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/EEUUUQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Albacete vs Real Sociedad B",
+            "type": "live_event",
+            "league": "Spanish Segunda Liga",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Albacete vs Real Sociedad B.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/EEUUUQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/EEUUUQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Estoril vs Rio Ave",
+            "type": "live_event",
+            "league": "Portugal Primeira Liga",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Estoril vs Rio Ave.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/EEUUUQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/EEUUUQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sudtirol vs Entella",
+            "type": "live_event",
+            "league": "Italy Serie B",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Sudtirol vs Entella.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2078047440620412928/8SA6AdGj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/EEUUUQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/EEUUUQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Carrarese vs Mantova",
+            "type": "live_event",
+            "league": "Italy Serie B",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Carrarese vs Mantova.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2078047440620412928/8SA6AdGj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/EEUUUQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/EEUUUQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Radnicki 1923 vs IMT Novi Beograd",
+            "type": "live_event",
+            "league": "Serbia Super Liga",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Radnicki 1923 vs IMT Novi Beograd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1681639346862948353/OPubFagD_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/EEUUU.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/EEUUU.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Maccabi Haifa vs Hapoel Ramat Gan",
+            "type": "live_event",
+            "league": "Israel Ligat ha'Al",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Maccabi Haifa vs Hapoel Ramat Gan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1344253261650530304/NhvOsx8h_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/YPPPAAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/YPPPAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Maccabi Petah Tikva vs Kiryat Shmona",
+            "type": "live_event",
+            "league": "Israel Ligat ha'Al",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Maccabi Petah Tikva vs Kiryat Shmona.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1344253261650530304/NhvOsx8h_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/YPPPAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/YPPPAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ironi Tiberias vs Hapoel Petah Tikva",
+            "type": "live_event",
+            "league": "Israel Ligat ha'Al",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Ironi Tiberias vs Hapoel Petah Tikva.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1344253261650530304/NhvOsx8h_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/YPPPAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/YPPPAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Al Masry vs Smouha",
+            "type": "live_event",
+            "league": "Egypt Premier League",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Al Masry vs Smouha.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1185152368108851201/3_mNlM6J_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/YPPPAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/YPPPAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ghazl El Mahallah vs Pyramids",
+            "type": "live_event",
+            "league": "Egypt Premier League",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Ghazl El Mahallah vs Pyramids.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1185152368108851201/3_mNlM6J_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/YPPPAAA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/YPPPAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sparta Rotterdam vs FC Utrecht --- CH 1",
             "type": "live_event",
             "league": "Dutch Eredivisie",
             "time": "17:45",
@@ -80,6 +384,24 @@
                 {
                     "original_url": "http://193.47.62.44/hls/UUUUAAAAAAAA.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/UUUUAAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sparta Rotterdam vs FC Utrecht --- CH 2",
+            "type": "live_event",
+            "league": "Dutch Eredivisie",
+            "time": "17:45",
+            "page_link": "http://www.fawanews.sc/Sparta Rotterdam vs FC Utrecht --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.666666.zip/live/4552167.m3u8",
+                    "m3u_url": "https://live.666666.zip/live/4552167.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.666666.zip/live/4552167.m3u8",
+                    "m3u_url": "http://live.666666.zip/live/4552167.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -98,33 +420,7 @@
             ]
         },
         {
-            "name": "Brentford vs Tottenham",
-            "type": "live_event",
-            "league": "English Premier League",
-            "time": "17:30",
-            "page_link": "http://www.fawanews.sc/Brentford vs Tottenham.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.46/hls/LLLLQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.46/hls/LLLLQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.58/hls/LLLLQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.58/hls/LLLLQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.50/hls/LLLLQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/LLLLQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://193.47.62.53/hls/LLLLQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.53/hls/LLLLQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Udinese vs Como",
+            "name": "Udinese vs Como --- CH 1",
             "type": "live_event",
             "league": "Italy Serie A",
             "time": "17:30",
@@ -138,7 +434,25 @@
             ]
         },
         {
-            "name": "Inter Milan vs Monza",
+            "name": "Udinese vs Como --- CH 2",
+            "type": "live_event",
+            "league": "Italy Serie A",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Udinese vs Como --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.666666.zip/live/4549159.m3u8",
+                    "m3u_url": "https://live.666666.zip/live/4549159.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.666666.zip/live/4549159.m3u8",
+                    "m3u_url": "http://live.666666.zip/live/4549159.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Inter Milan vs Monza --- CH 1",
             "type": "live_event",
             "league": "Italy Serie A",
             "time": "17:30",
@@ -148,6 +462,24 @@
                 {
                     "original_url": "http://193.47.62.59/hls/YPPPA.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/YPPPA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Inter Milan vs Monza --- CH 2",
+            "type": "live_event",
+            "league": "Italy Serie A",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Inter Milan vs Monza --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.666666.zip/live/4549142.m3u8",
+                    "m3u_url": "https://live.666666.zip/live/4549142.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live.666666.zip/live/4549142.m3u8",
+                    "m3u_url": "http://live.666666.zip/live/4549142.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -194,6 +526,20 @@
             ]
         },
         {
+            "name": "AB Copenhagen vs Hvidovre IF",
+            "type": "live_event",
+            "league": "Denmark Division 1",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/AB Copenhagen vs Hvidovre IF.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/UUUUAAA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/UUUUAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Charleroi vs KV Mechelen",
             "type": "live_event",
             "league": "Belgium Pro League",
@@ -204,20 +550,6 @@
                 {
                     "original_url": "http://193.47.62.44/hls/UUUUAA.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/UUUUAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Al Kholood vs Al Taawon",
-            "type": "live_event",
-            "league": "Saudi Premier League",
-            "time": "17:10",
-            "page_link": "http://www.fawanews.sc/Al Kholood vs Al Taawon.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/UUUUA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/UUUUA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
