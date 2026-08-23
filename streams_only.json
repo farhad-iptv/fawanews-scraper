@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-23T14:14:04.007572",
-    "total_with_streams": 61,
+    "fetched_at": "2026-08-23T14:47:05.487037",
+    "total_with_streams": 68,
     "events_with_streams": [
         {
             "name": "Manchester City vs Bournemouth --- ENG 1",
@@ -198,6 +198,214 @@
             ]
         },
         {
+            "name": "Newcastle United vs Liverpool",
+            "type": "live_event",
+            "league": "English Premier League",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/Newcastle United vs Liverpool.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.45/hls/dpdpdpFFFF.m3u8",
+                    "m3u_url": "http://193.47.62.45/hls/dpdpdpFFFF.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.57/hls/dpdpdpFFFF.m3u8",
+                    "m3u_url": "http://193.47.62.57/hls/dpdpdpFFFF.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.49/hls/dpdpdpFFFF.m3u8",
+                    "m3u_url": "http://193.47.62.49/hls/dpdpdpFFFF.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.53/hls/dpdpdpFFFF.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/dpdpdpFFFF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Univ Craiova vs FC Voluntari",
+            "type": "live_event",
+            "league": "Romania Superliga",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/Univ Craiova vs FC Voluntari.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/Y555AQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/Y555AQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Hegelmann vs Banga",
+            "type": "live_event",
+            "league": "Lithuania Toplyga",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/Hegelmann vs Banga.html",
+            "image_url": "https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/Y555AQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/Y555AQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "GKS Katowice vs Wisla Plock",
+            "type": "live_event",
+            "league": "Poland Ekstraklasa",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/GKS Katowice vs Wisla Plock.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2072189899344613376/DeGLZ4Il_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/Y555AQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/Y555AQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Gyor vs Zalaegerszegi",
+            "type": "live_event",
+            "league": "Hungary NB 1 Liga",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/Gyor vs Zalaegerszegi.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1619022597298995203/iCFS2Ka1_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/Y555AQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/Y555AQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kisvarda vs Debrecen",
+            "type": "live_event",
+            "league": "Hungary NB 1 Liga",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/Kisvarda vs Debrecen.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1619022597298995203/iCFS2Ka1_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/Y555A.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/Y555A.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Le Havre vs AS Monaco",
+            "type": "live_event",
+            "league": "Ligue 1 France",
+            "time": "16:15",
+            "page_link": "http://www.fawanews.sc/Le Havre vs AS Monaco.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1531920610514853890/FgxuEE_k_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/Y555.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/Y555.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Atletico Madrid vs Villarreal",
+            "type": "live_event",
+            "league": "Spanish La Liga",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Atletico Madrid vs Villarreal.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/P777QQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/P777QQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Eibar vs Valladolid",
+            "type": "live_event",
+            "league": "Spanish Segunda Liga",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Eibar vs Valladolid.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/P777QQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/P777QQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Norrby vs Sandviken",
+            "type": "live_event",
+            "league": "Sweden Superettan",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Norrby vs Sandviken.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/P777QQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/P777QQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Trencin vs Trnava",
+            "type": "live_event",
+            "league": "Slovakia Nike liga",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Trencin vs Trnava.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1675145822843944961/Nrv2TM-g_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/P777QQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/P777QQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Puszcza vs Skierniewice",
+            "type": "live_event",
+            "league": "Poland Division 1",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Puszcza vs Skierniewice.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1852296144723869696/2Ad94oXN_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/P777QQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/P777QQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "TPS vs Inter Turku",
+            "type": "live_event",
+            "league": "Finland Veikkausliiga",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/TPS vs Inter Turku.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/P777Q.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/P777Q.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Teplice vs Brno",
+            "type": "live_event",
+            "league": "Czech Chance Liga",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Teplice vs Brno.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2004812101609459712/wwGcHUru_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/P777.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/P777.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Cambuur vs Feyenoord",
             "type": "live_event",
             "league": "Dutch Eredivisie",
@@ -282,6 +490,62 @@
             ]
         },
         {
+            "name": "Athletics Diamond League Silezie",
+            "type": "live_event",
+            "league": "Athletics",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Athletics Diamond League Silezie.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1209141368909713408/L7NcM5Cg_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ZZZZ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ZZZZ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Arlanda vs FBK Karlstad",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Arlanda vs FBK Karlstad.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ZZZZfaa.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ZZZZfaa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Hammarby TFF vs Pitea",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Hammarby TFF vs Pitea.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ZZZZfa.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ZZZZfa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Skovde AIK vs Kristianstad",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Skovde AIK vs Kristianstad.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ZZZZf.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ZZZZf.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "York RLFC vs Leeds",
             "type": "live_event",
             "league": "English Rugby Super League",
@@ -306,6 +570,20 @@
                 {
                     "original_url": "http://193.47.62.41/hls/U666AAA.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/U666AAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Golf PGA Fedex Playoffs BMW Championship",
+            "type": "live_event",
+            "league": "Golf PGA",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Golf PGA Fedex Playoffs BMW Championship.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/DEDEDEAAAX.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/DEDEDEAAAX.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -744,178 +1022,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/1BBBAAA.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/1BBBAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Goteborg vs Elfsborg --- CH 1",
-            "type": "live_event",
-            "league": "Sweden Allsvenskan",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Goteborg vs Elfsborg.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/1BBBA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/1BBBA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Goteborg vs Elfsborg --- CH 2",
-            "type": "live_event",
-            "league": "Sweden Allsvenskan",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Goteborg vs Elfsborg --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live1.kinxie.com/live/67126714_0d1567aa6da942e323e1a270c7532676_1080p.m3u8?auth_key=1787500710-0-0-0b7c2ac8126dd5fd3131c65d7068e2d8",
-                    "m3u_url": "https://live1.kinxie.com/live/67126714_0d1567aa6da942e323e1a270c7532676_1080p.m3u8?auth_key=1787500710-0-0-0b7c2ac8126dd5fd3131c65d7068e2d8|Referer=http://www.fawanews.sc"
-                },
-                {
-                    "original_url": "http://live1.kinxie.com/live/67126714_0d1567aa6da942e323e1a270c7532676_1080p.m3u8?auth_key=1787500710-0-0-0b7c2ac8126dd5fd3131c65d7068e2d8",
-                    "m3u_url": "http://live1.kinxie.com/live/67126714_0d1567aa6da942e323e1a270c7532676_1080p.m3u8?auth_key=1787500710-0-0-0b7c2ac8126dd5fd3131c65d7068e2d8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Vasteras SK vs Kalmar",
-            "type": "live_event",
-            "league": "Sweden Allsvenskan",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Vasteras SK vs Kalmar.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/1BBBAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/1BBBAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Midtjylland vs Randers FC",
-            "type": "live_event",
-            "league": "Denmark SuperLiga",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Midtjylland vs Randers FC.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/Y222AAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/Y222AAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Aarhus vs Odense",
-            "type": "live_event",
-            "league": "Denmark SuperLiga",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Aarhus vs Odense.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/Y222AAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/Y222AAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Pitea W vs Uppsala W",
-            "type": "live_event",
-            "league": "Sweden Women Allsvenskan",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Pitea W vs Uppsala W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/1BBB.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/1BBB.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "KuPS vs Mariehamn",
-            "type": "live_event",
-            "league": "Finland Veikkausliiga",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/KuPS vs Mariehamn.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/Y222AAAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/Y222AAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "HJK vs Gnistan",
-            "type": "live_event",
-            "league": "Finland Veikkausliiga",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/HJK vs Gnistan.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/Y222AAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/Y222AAAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Young Boys vs Vaduz",
-            "type": "live_event",
-            "league": "Switzerland Super League",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Young Boys vs Vaduz.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1939931354528980992/MjIErFvg_400x400.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/Y222AAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/Y222AAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Yverdon vs Aarau",
-            "type": "live_event",
-            "league": "Switzerland Challenge League",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Yverdon vs Aarau.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/de/thumb/1/11/ChallengeLeague-logo.svg/250px-ChallengeLeague-logo.svg.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/Y222AAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/Y222AAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Hoffenheim W vs Stuttgart W",
-            "type": "live_event",
-            "league": "German Women Bundesliga",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Hoffenheim W vs Stuttgart W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/880436063424131074/ECth5ahp_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/Y222AA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/Y222AA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Chongqing Tonglianglong vs Dalian Yingbo",
-            "type": "live_event",
-            "league": "China Super League",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Chongqing Tonglianglong vs Dalian Yingbo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/Y222A.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/Y222A.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
