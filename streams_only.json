@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-23T23:11:11.739204",
-    "total_with_streams": 49,
+    "fetched_at": "2026-08-23T23:43:07.889259",
+    "total_with_streams": 50,
     "events_with_streams": [
         {
             "name": "Tennessee Titans vs Seattle Seahawks",
@@ -40,8 +40,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/RRRRRQAAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/RRRRRQAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.44/hls/RRRRR.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/RRRRR.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -98,6 +98,20 @@
                 {
                     "original_url": "http://193.47.62.44/hls/RRRRRQAAA.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/RRRRRQAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis WTA Cincinati",
+            "type": "live_event",
+            "league": "Tennis Masters",
+            "time": "00:30",
+            "page_link": "http://www.fawanews.sc/Tennis WTA Cincinati.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1744351891847303168/kkupwhya_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/XAXAXA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/XAXAXA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
