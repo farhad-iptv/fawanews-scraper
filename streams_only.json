@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-23T10:12:18.663136",
-    "total_with_streams": 21,
+    "fetched_at": "2026-08-23T10:47:13.569631",
+    "total_with_streams": 23,
     "events_with_streams": [
         {
             "name": "West Bromwich vs Burnley",
@@ -14,6 +14,20 @@
                 {
                     "original_url": "http://193.47.62.44/hls/Y666AAAA.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/Y666AAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Manchester United W vs Liverpool W",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Manchester United W vs Liverpool W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/A777AA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/A777AA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -168,6 +182,20 @@
                 {
                     "original_url": "http://193.47.62.41/hls/TGGGAAAAAA.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/TGGGAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "De Graafschap W vs Heerenveen W",
+            "type": "live_event",
+            "league": "Dutch Women Eredivisie",
+            "time": "11:15",
+            "page_link": "http://www.fawanews.sc/De Graafschap W vs Heerenveen W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/Y555AQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/Y555AQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
