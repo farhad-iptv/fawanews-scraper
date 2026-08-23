@@ -1,10 +1,10 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-23T10:47:13.569631",
-    "total_with_streams": 23,
+    "fetched_at": "2026-08-23T11:11:54.469790",
+    "total_with_streams": 24,
     "events_with_streams": [
         {
-            "name": "West Bromwich vs Burnley",
+            "name": "West Bromwich vs Burnley --- CH 1",
             "type": "live_event",
             "league": "English Championship",
             "time": "12:00",
@@ -14,6 +14,24 @@
                 {
                     "original_url": "http://193.47.62.44/hls/Y666AAAA.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/Y666AAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "West Bromwich vs Burnley --- CH 2",
+            "type": "live_event",
+            "league": "English Championship",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/West Bromwich vs Burnley --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://play3.315nb.com/live/72339714_0e82a527ad36b7997f4ffce0348c80dd_540p.m3u8?auth_key=1787497069-0-0-110650de1c0edda54f14c7ee1a60e0ea",
+                    "m3u_url": "https://play3.315nb.com/live/72339714_0e82a527ad36b7997f4ffce0348c80dd_540p.m3u8?auth_key=1787497069-0-0-110650de1c0edda54f14c7ee1a60e0ea|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://play3.315nb.com/live/72339714_0e82a527ad36b7997f4ffce0348c80dd_540p.m3u8?auth_key=1787497069-0-0-110650de1c0edda54f14c7ee1a60e0ea",
+                    "m3u_url": "http://play3.315nb.com/live/72339714_0e82a527ad36b7997f4ffce0348c80dd_540p.m3u8?auth_key=1787497069-0-0-110650de1c0edda54f14c7ee1a60e0ea|Referer=http://www.fawanews.sc"
                 }
             ]
         },
