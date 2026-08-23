@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-23T14:47:05.487037",
-    "total_events": 68,
+    "fetched_at": "2026-08-23T15:12:48.840048",
+    "total_events": 69,
     "events": [
         {
             "name": "Manchester City vs Bournemouth --- ENG 1",
@@ -871,14 +871,14 @@
             ]
         },
         {
-            "name": "Atletico Madrid vs Villarreal",
+            "name": "Atletico Madrid vs Villarreal --- SD",
             "type": "live_event",
             "league": "Spanish La Liga",
             "time": "16:00",
             "image_url": "https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",
             "page_link": "http://www.fawanews.sc/Atletico Madrid vs Villarreal.html",
             "home_team": "Atletico Madrid",
-            "away_team": "Villarreal",
+            "away_team": "Villarreal --- SD",
             "page_status": 200,
             "page_title": "FawaNews - Atletico Madrid vs Villarreal - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
@@ -919,6 +919,59 @@
             },
             "best_stream_urls": [
                 "http://193.47.62.41/hls/P777QQQQQQ.m3u8"
+            ]
+        },
+        {
+            "name": "Atletico Madrid vs Villarreal --- HD",
+            "type": "live_event",
+            "league": "Spanish La Liga",
+            "time": "16:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Atletico Madrid vs Villarreal --- HD.html",
+            "home_team": "Atletico Madrid",
+            "away_team": "Villarreal --- HD",
+            "page_status": 200,
+            "page_title": "FawaNews - Atletico Madrid vs Villarreal - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "https://live.kinxie.com/live/72478488_297ae857839880eba0665ab62b1b3e70_1080p.m3u8?auth_key=1787511535-0-0-f351887e8bd0fdb1bf0c0d46719ff023"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://live.kinxie.com/live/72478488_297ae857839880eba0665ab62b1b3e70_1080p.m3u8?auth_key=1787511535-0-0-f351887e8bd0fdb1bf0c0d46719ff023",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://live.kinxie.com/live/72478488_297ae857839880eba0665ab62b1b3e70_1080p.m3u8?auth_key=1787511535-0-0-f351887e8bd0fdb1bf0c0d46719ff023",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "https://live.kinxie.com/live/72478488_297ae857839880eba0665ab62b1b3e70_1080p.m3u8?auth_key=1787511535-0-0-f351887e8bd0fdb1bf0c0d46719ff023",
+                "http://live.kinxie.com/live/72478488_297ae857839880eba0665ab62b1b3e70_1080p.m3u8?auth_key=1787511535-0-0-f351887e8bd0fdb1bf0c0d46719ff023"
             ]
         },
         {
