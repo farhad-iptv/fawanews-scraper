@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-23T23:43:07.889259",
-    "total_with_streams": 50,
+    "fetched_at": "2026-08-24T00:36:30.983934",
+    "total_with_streams": 51,
     "events_with_streams": [
         {
             "name": "Tennessee Titans vs Seattle Seahawks",
@@ -14,6 +14,20 @@
                 {
                     "original_url": "http://193.47.62.59/hls/DUUUU.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/DUUUU.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "BC Lions vs Saskatchewan Roughriders",
+            "type": "live_event",
+            "league": "CFL Canadaian Football",
+            "time": "00:00",
+            "page_link": "http://www.fawanews.sc/BC Lions vs Saskatchewan Roughriders.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2091663326757478400/PKXoDBhn_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/DUUUUa.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/DUUUUa.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
