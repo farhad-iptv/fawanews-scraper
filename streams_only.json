@@ -1,8 +1,162 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-25T15:11:31.525377",
-    "total_with_streams": 13,
+    "fetched_at": "2026-08-25T16:06:30.674418",
+    "total_with_streams": 24,
     "events_with_streams": [
+        {
+            "name": "Lions vs New Zealand",
+            "type": "live_event",
+            "league": "Rugby Friendly",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Lions vs New Zealand.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GUUUFF.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GUUUFF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Oster vs Sundsvall",
+            "type": "live_event",
+            "league": "Sweden Superettan",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Oster vs Sundsvall.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GUUUF.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GUUUF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Orebro vs Varberg",
+            "type": "live_event",
+            "league": "Sweden Superettan",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Orebro vs Varberg.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GUUU.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GUUU.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sabah Baku vs H Beer Sheva",
+            "type": "live_event",
+            "league": "UEFA Champions League",
+            "time": "17:45",
+            "page_link": "http://www.fawanews.sc/Sabah Baku vs H Beer Sheva.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/DGPPPAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/DGPPPAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Utsikten vs Hacken",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Utsikten vs Hacken.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/DGPPPAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/DGPPPAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Eskilsminne vs Orgryte",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Eskilsminne vs Orgryte.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/DGPPPAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/DGPPPAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Al Taawon vs Al Fayha",
+            "type": "live_event",
+            "league": "Saudi Premier League",
+            "time": "17:10",
+            "page_link": "http://www.fawanews.sc/Al Taawon vs Al Fayha.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/DGPPPAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/DGPPPAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Abha vs Al Khaleej",
+            "type": "live_event",
+            "league": "Saudi Premier League",
+            "time": "17:05",
+            "page_link": "http://www.fawanews.sc/Abha vs Al Khaleej.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/DGPPPAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/DGPPPAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Unirea Slobozia vs Metaloglobus Bucharest",
+            "type": "live_event",
+            "league": "Romania Liga 2",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Unirea Slobozia vs Metaloglobus Bucharest.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/DGPPPA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/DGPPPA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Auda vs FK Liepaja",
+            "type": "live_event",
+            "league": "Latvia Virsliga",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Auda vs FK Liepaja.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/DGPPP.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/DGPPP.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Vatanspor vs AaB Aalborg",
+            "type": "live_event",
+            "league": "Denmark Cup",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/Vatanspor vs AaB Aalborg.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.54/hls/IEEEEQQQAQ.m3u8",
+                    "m3u_url": "http://193.47.62.54/hls/IEEEEQQQAQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Namungo vs Fountain Gate",
             "type": "live_event",
