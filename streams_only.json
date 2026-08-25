@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-25T22:15:17.916700",
+    "fetched_at": "2026-08-25T22:52:10.154375",
     "total_with_streams": 49,
     "events_with_streams": [
         {
@@ -70,6 +70,20 @@
                 {
                     "original_url": "http://193.47.62.41/hls/ORRR.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/ORRR.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sol de America vs Sportivo Trinidense",
+            "type": "live_event",
+            "league": "Paraguay Copa",
+            "time": "22:30",
+            "page_link": "http://www.fawanews.sc/Sol de America vs Sportivo Trinidense.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/toooa.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/toooa.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -736,20 +750,6 @@
                 {
                     "original_url": "http://live4.ftlcbx.com/live/73667708_78ad42dba76c305e9fb93c5cc81a1e9c_540p.m3u8?auth_key=1787698068-0-0-75fe5dbe374140d750fddc866182ddbb",
                     "m3u_url": "http://live4.ftlcbx.com/live/73667708_78ad42dba76c305e9fb93c5cc81a1e9c_540p.m3u8?auth_key=1787698068-0-0-75fe5dbe374140d750fddc866182ddbb|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Barnsley vs Crewe --- CH 1",
-            "type": "live_event",
-            "league": "English EFL Cup",
-            "time": "19:45",
-            "page_link": "http://www.fawanews.sc/Barnsley vs Crewe.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.54/hls/IEEEE.m3u8",
-                    "m3u_url": "http://193.47.62.54/hls/IEEEE.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
