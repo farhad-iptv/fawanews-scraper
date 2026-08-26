@@ -1,19 +1,243 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-26T10:58:01.377617",
-    "total_with_streams": 9,
+    "fetched_at": "2026-08-26T11:24:24.898323",
+    "total_with_streams": 26,
     "events_with_streams": [
         {
             "name": "Boxing : Tszyu vs Mahoney",
             "type": "live_event",
             "league": "Boxing",
-            "time": "09:00",
+            "time": "--:--",
             "page_link": "http://www.fawanews.sc/Boxing_Tszyu vs Mahoney.html",
             "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",
             "streams": [
                 {
                     "original_url": "http://193.47.62.59/hls/eyyy.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/eyyy.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "SK Rapid vs Hearts",
+            "type": "live_event",
+            "league": "UEFA Conference League",
+            "time": "17:45",
+            "page_link": "http://www.fawanews.sc/SK Rapid vs Hearts.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/GAAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/GAAAAQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Stockholm Internazionale vs Hammarby",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Stockholm Internazionale vs Hammarby.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Skovde AIK vs Halmstad",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Skovde AIK vs Halmstad.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/CCCCFAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/CCCCFAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Friska Viljor vs Sirius",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Friska Viljor vs Sirius.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/CCCCFAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/CCCCFAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Dalstorps vs Norrby",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Dalstorps vs Norrby.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/CCCCFAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/CCCCFAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Bollstanas vs Nordic United",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Bollstanas vs Nordic United.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/CCCCFAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/CCCCFAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Fredericia vs Odense",
+            "type": "live_event",
+            "league": "Denmark Cup",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Fredericia vs Odense.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/CCCCFA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/CCCCFA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Al-Faisaly vs Al Fateh",
+            "type": "live_event",
+            "league": "Saudi Premier League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Al-Faisaly vs Al Fateh.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/CCCCF.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/CCCCF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tammeka vs Flora",
+            "type": "live_event",
+            "league": "Estonia Meistriliiga",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Tammeka vs Flora.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1977991086506225664/voApDdum_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/CCCC.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/CCCC.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Tennis US Open",
+            "type": "live_event",
+            "league": "Tennis",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Tennis US Open.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.190/hls/XAXAXA.m3u8",
+                    "m3u_url": "http://193.47.62.190/hls/XAXAXA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Qizilqum vs Nasaf Qarshi",
+            "type": "live_event",
+            "league": "Uzbekistan Super League",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Qizilqum vs Nasaf Qarshi.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GTTTAAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GTTTAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Mashal Muborak vs Navbahor Namangan",
+            "type": "live_event",
+            "league": "Uzbekistan Super League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Mashal Muborak vs Navbahor Namangan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GTTTAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GTTTAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Lokomotiv Tashkent vs Bunyodkor",
+            "type": "live_event",
+            "league": "Uzbekistan Super League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Lokomotiv Tashkent vs Bunyodkor.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GTTTAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GTTTAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Smouha vs Asyut Petroleum",
+            "type": "live_event",
+            "league": "Egypt Premier League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Smouha vs Asyut Petroleum.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1185152368108851201/3_mNlM6J_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GTTTAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GTTTAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Vietnam vs Thailand",
+            "type": "live_event",
+            "league": "ASEAN Championship",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Vietnam vs Thailand.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GTTTAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GTTTAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Kuala Lumpur City vs Kuching City FC",
+            "type": "live_event",
+            "league": "Malaysia Super League",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Kuala Lumpur City vs Kuching City FC.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1638733016985145344/DlS5U4Qj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GTTTAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GTTTAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -28,6 +252,20 @@
                 {
                     "original_url": "http://193.47.62.41/hls/TNNNN.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/TNNNN.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Johor DT vs Kelantan Red Warrior",
+            "type": "live_event",
+            "league": "Malaysia Super League",
+            "time": "13:15",
+            "page_link": "http://www.fawanews.sc/Johor DT vs Kelantan Red Warrior.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1638733016985145344/DlS5U4Qj_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GTTTA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GTTTA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
