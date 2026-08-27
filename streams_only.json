@@ -1,8 +1,22 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-08-26T23:50:11.203639",
-    "total_with_streams": 34,
+    "fetched_at": "2026-08-27T05:31:32.940219",
+    "total_with_streams": 35,
     "events_with_streams": [
+        {
+            "name": "Southland vs Hawkes Bay",
+            "type": "live_event",
+            "league": "Rugby NZ NPC",
+            "time": "08:10",
+            "page_link": "http://www.fawanews.sc/Southland vs Hawkes Bay.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.58/hls/YGGGa.m3u8",
+                    "m3u_url": "http://193.47.62.58/hls/YGGGa.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Snooker Wuhan Open",
             "type": "live_event",
@@ -228,6 +242,20 @@
             ]
         },
         {
+            "name": "AEW Dynamite",
+            "type": "live_event",
+            "league": "AEW Wrestling",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/AEW Dynamite.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2033318081175621633/JctrbH2d_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.58/hls/YGGG.m3u8",
+                    "m3u_url": "http://193.47.62.58/hls/YGGG.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "North Carolina Courage W vs Angel City W",
             "type": "live_event",
             "league": "USA NWSL Women",
@@ -448,20 +476,6 @@
                 {
                     "original_url": "http://193.47.62.43/hls/iiiiTA.m3u8",
                     "m3u_url": "http://193.47.62.43/hls/iiiiTA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cristobal Colon FC vs Olimpia Asuncion",
-            "type": "live_event",
-            "league": "Paraguay Copa",
-            "time": "22:30",
-            "page_link": "http://www.fawanews.sc/Cristobal Colon FC vs Olimpia Asuncion.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.43/hls/iiiiT.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/iiiiT.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
