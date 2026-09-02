@@ -1,8 +1,78 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-02T09:46:03.217041",
-    "total_with_streams": 26,
+    "fetched_at": "2026-09-02T13:56:28.109995",
+    "total_with_streams": 22,
     "events_with_streams": [
+        {
+            "name": "Marko vs Kifisia",
+            "type": "live_event",
+            "league": "Greece Cup",
+            "time": "15:30",
+            "page_link": "http://www.fawanews.sc/Marko vs Kifisia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/YOOOAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/YOOOAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Chrisoupolis vs AEK Athens",
+            "type": "live_event",
+            "league": "Greece Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Chrisoupolis vs AEK Athens.html",
+            "image_url": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/YOOOAAA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/YOOOAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Vanspor FK vs Batman Petrolspor",
+            "type": "live_event",
+            "league": "Turkey Lig 1",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Vanspor FK vs Batman Petrolspor.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1577968897441120257/Bywq3Bso_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YOOOAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YOOOAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "El Gouna vs Arab Contractors",
+            "type": "live_event",
+            "league": "Egypt Premier League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/El Gouna vs Arab Contractors.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1185152368108851201/3_mNlM6J_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YOOOA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YOOOA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FC Botosani vs Corvinul",
+            "type": "live_event",
+            "league": "Romania Cup",
+            "time": "14:45",
+            "page_link": "http://www.fawanews.sc/FC Botosani vs Corvinul.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/YOOO.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/YOOO.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Orenburg vs Rubin Kazan",
             "type": "live_event",
@@ -18,6 +88,38 @@
             ]
         },
         {
+            "name": "Sassuolo vs Frosinone --- CH 1",
+            "type": "live_event",
+            "league": "Coppa Italia",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Sassuolo vs Frosinone.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/250px-Coccarda_Coppa_Italia.svg.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/PTTTQQQQQQAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/PTTTQQQQQQAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Sassuolo vs Frosinone --- CH 2",
+            "type": "live_event",
+            "league": "Coppa Italia",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Sassuolo vs Frosinone --- CH 2.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/250px-Coccarda_Coppa_Italia.svg.png",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/d0ba03e9-4831-4f10-8b3a-4cced701b717.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/d0ba03e9-4831-4f10-8b3a-4cced701b717.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/d0ba03e9-4831-4f10-8b3a-4cced701b717.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/d0ba03e9-4831-4f10-8b3a-4cced701b717.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
             "name": "Minerul Lupeni vs UTA Arad",
             "type": "live_event",
             "league": "Romania Cup",
@@ -28,20 +130,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/PTTTQQQQQQAAAA.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/PTTTQQQQQQAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Sassuolo vs Frosinone",
-            "type": "live_event",
-            "league": "Coppa Italia",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Sassuolo vs Frosinone.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/250px-Coccarda_Coppa_Italia.svg.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/PTTTQQQQQQAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/PTTTQQQQQQAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -158,156 +246,16 @@
             ]
         },
         {
-            "name": "Sabah vs Selangor",
+            "name": "Cycling Tour of Britain",
             "type": "live_event",
-            "league": "Malaysia Cup",
-            "time": "12:30",
-            "page_link": "http://www.fawanews.sc/Sabah vs Selangor.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1638733016985145344/DlS5U4Qj_400x400.jpg",
+            "league": "Cycling",
+            "time": "10:30",
+            "page_link": "http://www.fawanews.sc/Cycling Tour of Britain_3.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/PTTTQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/PTTTQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Yokohama F Marinos vs Kyoto",
-            "type": "live_event",
-            "league": "Japan J League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Yokohama F Marinos vs Kyoto.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/PTTTQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/PTTTQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tokyo Verdy vs Vissel Kobe",
-            "type": "live_event",
-            "league": "Japan J League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Tokyo Verdy vs Vissel Kobe.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/PTTTQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/PTTTQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "V-Varen Nagasaki vs Gamba Osaka",
-            "type": "live_event",
-            "league": "Japan J League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/V-Varen Nagasaki vs Gamba Osaka.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/PTTT.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/PTTT.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Shimizu S-Pulse vs FC Tokyo",
-            "type": "live_event",
-            "league": "Japan J League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Shimizu S-Pulse vs FC Tokyo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/PSSSAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/PSSSAAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Sanfrecce Hiroshima vs Nagoya Grampus",
-            "type": "live_event",
-            "league": "Japan J League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Sanfrecce Hiroshima vs Nagoya Grampus.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/PSSSAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/PSSSAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Mito vs Kashima Antlers",
-            "type": "live_event",
-            "league": "Japan J League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Mito vs Kashima Antlers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/PSSSAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/PSSSAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Machida vs Kawasaki Frontale",
-            "type": "live_event",
-            "league": "Japan J League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Machida vs Kawasaki Frontale.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/PSSSAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/PSSSAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Chiba vs Okayama",
-            "type": "live_event",
-            "league": "Japan J League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Chiba vs Okayama.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/PSSSAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/PSSSAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cerezo Osaka vs Kashiwa Reysol",
-            "type": "live_event",
-            "league": "Japan J League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Cerezo Osaka vs Kashiwa Reysol.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/PSSSA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/PSSSA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Avispa Fukuoka vs Urawa Reds",
-            "type": "live_event",
-            "league": "Japan J League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Avispa Fukuoka vs Urawa Reds.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/PSSS.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/PSSS.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/TGGGAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/TGGGAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
