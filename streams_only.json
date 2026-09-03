@@ -1,8 +1,92 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-03T09:17:27.356415",
-    "total_with_streams": 14,
+    "fetched_at": "2026-09-03T13:41:30.507295",
+    "total_with_streams": 18,
     "events_with_streams": [
+        {
+            "name": "FC Bacau vs Univ Craiova",
+            "type": "live_event",
+            "league": "Romania Cup",
+            "time": "15:30",
+            "page_link": "http://www.fawanews.sc/FC Bacau vs Univ Craiova.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ODDDQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ODDDQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FA Siauliai vs Kauno Zalgiris",
+            "type": "live_event",
+            "league": "Lithuania Cup",
+            "time": "15:15",
+            "page_link": "http://www.fawanews.sc/FA Siauliai vs Kauno Zalgiris.html",
+            "image_url": "https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ODDDQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ODDDQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Igdir FK vs Manisa FK",
+            "type": "live_event",
+            "league": "Turkey Lig 1",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Igdir FK vs Manisa FK.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1577968897441120257/Bywq3Bso_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ODDDQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ODDDQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "OKMK vs Xorazm Urganch",
+            "type": "live_event",
+            "league": "Uzbekistan Super League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/OKMK vs Xorazm Urganch.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ODDDQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ODDDQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Al Ahli Doha vs Qatar SC",
+            "type": "live_event",
+            "league": "Qatar QSL",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Al Ahli Doha vs Qatar SC.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2080991487475527680/01VevBEC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ODDDQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ODDDQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Isloch vs BATE",
+            "type": "live_event",
+            "league": "Belarus Vysshaya Liga",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Isloch vs BATE.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1469076834/125px-Flag_of_Belarus_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ODDD.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ODDD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Poland W vs Netherlands W",
             "type": "live_event",
@@ -154,34 +238,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/TNNNN.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/TNNNN.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Fremantle Dockers vs Hawthorn Hawks",
-            "type": "live_event",
-            "league": "AFL Aussie Rules",
-            "time": "11:10",
-            "page_link": "http://www.fawanews.sc/Fremantle Dockers vs Hawthorn Hawks.html",
-            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/rpppq.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/rpppq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Canterbury Bulldogs vs Brisbane Broncos",
-            "type": "live_event",
-            "league": "NRL",
-            "time": "10:50",
-            "page_link": "http://www.fawanews.sc/Canterbury Bulldogs vs Brisbane Broncos.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/rppp.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/rppp.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
