@@ -1,33 +1,75 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-12T00:25:30.585623",
-    "total_with_streams": 38,
+    "fetched_at": "2026-09-12T04:47:32.690823",
+    "total_with_streams": 18,
     "events_with_streams": [
         {
-            "name": "Tennis US Open --- CH 1",
+            "name": "Canterbury vs Wellington",
             "type": "live_event",
-            "league": "Tennis",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis US Open.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg",
+            "league": "Rugby NZ NPC",
+            "time": "08:10",
+            "page_link": "http://www.fawanews.sc/Canterbury vs Wellington.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.190/hls/XAXAXA.m3u8",
-                    "m3u_url": "http://193.47.62.190/hls/XAXAXA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/BYYYQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BYYYQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Tennis US Open --- CH 2",
+            "name": "Bahrain vs China",
             "type": "live_event",
-            "league": "Tennis",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis US Open --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg",
+            "league": "Basketball Asian Games",
+            "time": "08:00",
+            "page_link": "http://www.fawanews.sc/Bahrain vs China.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/FHHHQQQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/FHHHQQQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.50/hls/QQQQAAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/QQQQAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "New Zealand Warriors vs Dolphins",
+            "type": "live_event",
+            "league": "NRL",
+            "time": "07:05",
+            "page_link": "http://www.fawanews.sc/New Zealand Warriors vs Dolphins.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/BYYYQqQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BYYYQqQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Northland vs Waikato",
+            "type": "live_event",
+            "league": "Rugby NZ NPC",
+            "time": "06:05",
+            "page_link": "http://www.fawanews.sc/Northland vs Waikato.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/BYYYQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BYYYQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Qatar vs Jordan",
+            "type": "live_event",
+            "league": "Basketball Asian Games",
+            "time": "05:00",
+            "page_link": "http://www.fawanews.sc/Qatar vs Jordan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/QQQQAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/QQQQAAAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -70,6 +112,34 @@
                 {
                     "original_url": "http://193.47.62.50/hls/QQQQAAA.m3u8",
                     "m3u_url": "http://193.47.62.50/hls/QQQQAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Auckland vs Counties Manukau",
+            "type": "live_event",
+            "league": "Rugby NZ NPC",
+            "time": "03:05",
+            "page_link": "http://www.fawanews.sc/Auckland vs Counties Manukau.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/BYYYQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BYYYQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Parramatta Eels W vs NQ Cowboys W",
+            "type": "live_event",
+            "league": "NRL",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/Parramatta Eels W vs NQ Cowboys W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/BYYY.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BYYY.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -130,20 +200,6 @@
             ]
         },
         {
-            "name": "Necaxa vs Puebla",
-            "type": "live_event",
-            "league": "Mexico Liga MX",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/Necaxa vs Puebla.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/ABBBBQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/ABBBBQQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Chinese Taipei vs Iran",
             "type": "live_event",
             "league": "Basketball Asian Games",
@@ -154,20 +210,6 @@
                 {
                     "original_url": "http://193.47.62.50/hls/ABBBBQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.50/hls/ABBBBQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boca Juniors vs Central Cordoba",
-            "type": "live_event",
-            "league": "Argentina Liga Profesional",
-            "time": "01:30",
-            "page_link": "http://www.fawanews.sc/Boca Juniors vs Central Cordoba.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/ABBBBQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/ABBBBQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -186,20 +228,6 @@
             ]
         },
         {
-            "name": "Minnesota Twins vs Cleveland Guardians",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "01:10",
-            "page_link": "http://www.fawanews.sc/Minnesota Twins vs Cleveland Guardians.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/ABBBBQ.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/ABBBBQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Kansas vs Missouri",
             "type": "live_event",
             "league": "NCAA American Football",
@@ -214,272 +242,6 @@
             ]
         },
         {
-            "name": "Boxing BKFC 93 Perdomo vs Hill",
-            "type": "live_event",
-            "league": "BKFC",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Boxing BKFC 93 Perdomo vs Hill.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/HJJJ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/HJJJ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "WWE Friday Night Smackdown --- SD",
-            "type": "live_event",
-            "league": "WWE Wrestling",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/WWE Friday Night Smackdown.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/HIIIS.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/HIIIS.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "WWE Friday Night Smackdown --- HD",
-            "type": "live_event",
-            "league": "WWE Wrestling",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/WWE Friday Night Smackdown --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/HIIISS.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/HIIISS.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Coritiba vs Athletico-PR",
-            "type": "live_event",
-            "league": "Brazil Serie A",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Coritiba vs Athletico-PR.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/FEEEVQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FEEEVQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Cusco vs FBC Melgar",
-            "type": "live_event",
-            "league": "Peru Liga 1 Apertura",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Cusco vs FBC Melgar.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/FEEEVQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FEEEVQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Real Potosi vs Oriente Petrolero",
-            "type": "live_event",
-            "league": "Bolivia Division Profesional",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Real Potosi vs Oriente Petrolero.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/FEEEVQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FEEEVQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Kansas City Current W vs Orlando Pride W",
-            "type": "live_event",
-            "league": "USA NWSL Women",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Kansas City Current W vs Orlando Pride W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/FEEEV.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FEEEV.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Milwaukee Brewers vs Cincinnati Reds",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "00:45",
-            "page_link": "http://www.fawanews.sc/Milwaukee Brewers vs Cincinnati Reds.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/FEEE.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/FEEE.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boston College vs Rutgers",
-            "type": "live_event",
-            "league": "NCAA American Football",
-            "time": "00:30",
-            "page_link": "http://www.fawanews.sc/Boston College vs Rutgers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/ZEEEAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/ZEEEAAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Jaguares de Cordoba vs Fortaleza",
-            "type": "live_event",
-            "league": "Colombia Primera A",
-            "time": "00:15",
-            "page_link": "http://www.fawanews.sc/Jaguares de Cordoba vs Fortaleza.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/ZEEEAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/ZEEEAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Atlanta Braves vs Philadelphia Phillies",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "00:15",
-            "page_link": "http://www.fawanews.sc/Atlanta Braves vs Philadelphia Phillies.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/ZEEEAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/ZEEEAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Tampa Bay Rays vs Houston Astros",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "00:10",
-            "page_link": "http://www.fawanews.sc/Tampa Bay Rays vs Houston Astros.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/ZEEEAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/ZEEEAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Miami Marlins vs Los Angeles Dodgers",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "00:10",
-            "page_link": "http://www.fawanews.sc/Miami Marlins vs Los Angeles Dodgers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/ZEEEAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/ZEEEAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Boston Red Sox vs Kansas City Royals",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "00:10",
-            "page_link": "http://www.fawanews.sc/Boston Red Sox vs Kansas City Royals.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/ZEEEA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/ZEEEA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Toronto Blue Jays vs Baltimore Orioles",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "00:07",
-            "page_link": "http://www.fawanews.sc/Toronto Blue Jays vs Baltimore Orioles.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/ZEEE.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/ZEEE.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "New York Yankees vs New York Mets",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "00:05",
-            "page_link": "http://www.fawanews.sc/New York Yankees vs New York Mets.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/EIIIIQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/EIIIIQQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Virginia vs Norfolk State",
-            "type": "live_event",
-            "league": "NCAA American Football",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/Virginia vs Norfolk State.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/EIIIIQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/EIIIIQQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "North Carolina State vs Richmond Spiders",
-            "type": "live_event",
-            "league": "NCAA American Football",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/North Carolina State vs Richmond Spiders.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/EIIIIQQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/EIIIIQQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Louisville vs Villanova Wildcats",
-            "type": "live_event",
-            "league": "NCAA American Football",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/Louisville vs Villanova Wildcats.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/EIIIIQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/EIIIIQ.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
             "name": "Guyana Amazon Warriors vs Trinbago Knight Riders",
             "type": "live_event",
             "league": "Cricket CPL T20",
@@ -490,48 +252,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/EIIII.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/EIIII.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Washington Nationals vs Los Angeles Angels",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "23:45",
-            "page_link": "http://www.fawanews.sc/Washington Nationals vs Los Angeles Angels.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/ccccAAAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/ccccAAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Detroit Tigers vs Colorado Rockies",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "23:40",
-            "page_link": "http://www.fawanews.sc/Detroit Tigers vs Colorado Rockies.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/ccccAAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/ccccAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Racing Louisville W vs Gotham W",
-            "type": "live_event",
-            "league": "USA NWSL Women",
-            "time": "23:30",
-            "page_link": "http://www.fawanews.sc/Racing Louisville W vs Gotham W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/ccccAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/ccccAAAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
