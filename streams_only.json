@@ -1,359 +1,1087 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-29T13:10:28.275178",
-    "total_with_streams": 23,
+    "fetched_at": "2026-09-29T18:45:53.452280",
+    "total_with_streams": 65,
     "events_with_streams": [
         {
-            "name": "Lesotho vs Morocco --- CH 1",
+            "name": "UEFA Nations League Simulcast",
             "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Lesotho vs Morocco.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/UEFA Nations League Simulcast.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/HHHHAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/HHHHAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/TPPP.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/TPPP.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Lesotho vs Morocco --- CH 2",
+            "name": "Spain vs Croatia --- CH 1",
             "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Lesotho vs Morocco --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Spain vs Croatia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://www.rtmpcdn.com/live/d7cea3f1-30e9-4a19-ab2b-e9cf5b22fd41.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/d7cea3f1-30e9-4a19-ab2b-e9cf5b22fd41.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/BYDDQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BYDDQQQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://www.rtmpcdn.com/live/d7cea3f1-30e9-4a19-ab2b-e9cf5b22fd41.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/d7cea3f1-30e9-4a19-ab2b-e9cf5b22fd41.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Ethiopia vs Senegal --- CH 1",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Ethiopia vs Senegal1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/HHHHAAAAX.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/HHHHAAAAX.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Ethiopia vs Senegal --- CH 2",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Ethiopia vs Senegal --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/e4991261-1bea-4515-be6f-3abe51f54dbd.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/e4991261-1bea-4515-be6f-3abe51f54dbd.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.44/hls/BYDDQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BYDDQQQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://www.rtmpcdn.com/live/e4991261-1bea-4515-be6f-3abe51f54dbd.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/e4991261-1bea-4515-be6f-3abe51f54dbd.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "South Sudan vs Egypt --- CH 1",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/South Sudan vs Egypt.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/HHHHAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/HHHHAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "South Sudan vs Egypt --- CH 2",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/South Sudan vs Egypt --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/f950c555-3551-4cf4-bc19-e8cf68fcd899.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/f950c555-3551-4cf4-bc19-e8cf68fcd899.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/BYDDQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/BYDDQQQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://www.rtmpcdn.com/live/f950c555-3551-4cf4-bc19-e8cf68fcd899.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/f950c555-3551-4cf4-bc19-e8cf68fcd899.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.50/hls/BYDDQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/BYDDQQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Mozambique vs Sudan --- CH 1",
+            "name": "Spain vs Croatia --- CH 2",
             "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Mozambique vs Sudan.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Spain vs Croatia --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/HHHHAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/HHHHAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Mozambique vs Sudan --- CH 2",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Mozambique vs Sudan --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/029100ff-448e-4087-8661-c1d1f788b69c.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/029100ff-448e-4087-8661-c1d1f788b69c.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://www.rtmpcdn.com/live/05213fd0-0c33-49a6-a1d1-d8209356b688.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/05213fd0-0c33-49a6-a1d1-d8209356b688.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://www.rtmpcdn.com/live/029100ff-448e-4087-8661-c1d1f788b69c.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/029100ff-448e-4087-8661-c1d1f788b69c.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://www.rtmpcdn.com/live/05213fd0-0c33-49a6-a1d1-d8209356b688.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/05213fd0-0c33-49a6-a1d1-d8209356b688.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Burundi vs Algeria --- CH 1",
+            "name": "Czech Republic vs England --- CH 1",
             "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Burundi vs Algeria.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Czech Republic vs England.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/HHHHA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/HHHHA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Burundi vs Algeria --- CH 2",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Burundi vs Algeria --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/818f657c-997d-44b8-9fba-56c606249370.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/818f657c-997d-44b8-9fba-56c606249370.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/BYDDQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BYDDQQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://www.rtmpcdn.com/live/818f657c-997d-44b8-9fba-56c606249370.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/818f657c-997d-44b8-9fba-56c606249370.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Comoros vs Namibia --- CH 1",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Comoros vs Namibia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/088c677d-0fea-4d05-92a1-4906966a87eb.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/088c677d-0fea-4d05-92a1-4906966a87eb.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.44/hls/BYDDQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BYDDQQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://www.rtmpcdn.com/live/088c677d-0fea-4d05-92a1-4906966a87eb.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/088c677d-0fea-4d05-92a1-4906966a87eb.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Comoros vs Namibia --- CH 2",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Comoros vs Namibia --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/088c677d-0fea-4d05-92a1-4906966a87eb.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/088c677d-0fea-4d05-92a1-4906966a87eb.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.59/hls/BYDDQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/BYDDQQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://www.rtmpcdn.com/live/088c677d-0fea-4d05-92a1-4906966a87eb.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/088c677d-0fea-4d05-92a1-4906966a87eb.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.50/hls/BYDDQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/BYDDQQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Madagascar vs Tanzania --- CH 1",
+            "name": "Slovenia vs North Macedonia --- CH 1",
             "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Madagascar vs Tanzania.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Slovenia vs North Macedonia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/HHHHAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/HHHHAAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Madagascar vs Tanzania --- CH 2",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Madagascar vs Tanzania --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/a9ae09cb-a47f-4658-b028-404135be932b.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/a9ae09cb-a47f-4658-b028-404135be932b.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/BYDDQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BYDDQ.m3u8|Referer=http://www.fawanews.sc"
                 },
                 {
-                    "original_url": "http://www.rtmpcdn.com/live/a9ae09cb-a47f-4658-b028-404135be932b.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/a9ae09cb-a47f-4658-b028-404135be932b.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.44/hls/BYDDQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BYDDQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/BYDDQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/BYDDQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/BYDDQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/BYDDQ.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Thailand vs Vietnam",
+            "name": "Slovenia vs North Macedonia --- CH 2",
             "type": "live_event",
-            "league": "ASEAN Cup",
-            "time": "13:30",
-            "page_link": "http://www.fawanews.sc/Thailand vs Vietnam1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Slovenia vs North Macedonia --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/EGGGC.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/EGGGC.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://www.rtmpcdn.com/live/5641bf62-0518-4e0b-bfb1-274efda9c1ea.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/5641bf62-0518-4e0b-bfb1-274efda9c1ea.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/5641bf62-0518-4e0b-bfb1-274efda9c1ea.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/5641bf62-0518-4e0b-bfb1-274efda9c1ea.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Horse Racing --- CH 1",
+            "name": "Scotland vs Switzerland --- CH 1",
             "type": "live_event",
-            "league": "Horse Racing",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Scotland vs Switzerland.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/BYDD.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BYDD.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.44/hls/BYDD.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BYDD.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/BYDD.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/BYDD.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/BYDD.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/BYDD.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Horse Racing --- CH 2",
+            "name": "Scotland vs Switzerland --- CH 2",
             "type": "live_event",
-            "league": "Horse Racing",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Scotland vs Switzerland --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://www.rtmpcdn.com/live/7c0a56d4-3bb4-4f6b-833a-9d6cb5f30744.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/7c0a56d4-3bb4-4f6b-833a-9d6cb5f30744.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/7c0a56d4-3bb4-4f6b-833a-9d6cb5f30744.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/7c0a56d4-3bb4-4f6b-833a-9d6cb5f30744.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Tennis ATP Hangzhou",
+            "name": "Slovakia vs Kazakhstan --- CH 1",
             "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "12:30",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Hangzhou.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Slovakia vs Kazakhstan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/NUUUQQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/NUUUQQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/TPPPAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/TPPPAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Tennis ATP Chengdu",
+            "name": "Slovakia vs Kazakhstan --- CH 2",
             "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Chengdu.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Slovakia vs Kazakhstan --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/NUUUQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/NUUUQ.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://www.rtmpcdn.com/live/b406606e-5b23-4ee5-8c86-896d8ca9775d.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/b406606e-5b23-4ee5-8c86-896d8ca9775d.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/b406606e-5b23-4ee5-8c86-896d8ca9775d.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/b406606e-5b23-4ee5-8c86-896d8ca9775d.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Snooker Shenzhen Open --- Table 1",
+            "name": "San Marino vs Albania --- CH 1",
             "type": "live_event",
-            "league": "Snooker",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Snooker Shenzhen Open --- Table 1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/San Marino vs Albania.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/grrrAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/grrrAAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/TPPPAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/TPPPAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Snooker Shenzhen Open --- Table 2",
+            "name": "San Marino vs Albania --- CH 2",
             "type": "live_event",
-            "league": "Snooker",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Snooker Shenzhen Open --- Table 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/San Marino vs Albania --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/grrrAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/grrrAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://www.rtmpcdn.com/live/54381920-20d2-43f1-9d66-339deac424f8.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/54381920-20d2-43f1-9d66-339deac424f8.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/54381920-20d2-43f1-9d66-339deac424f8.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/54381920-20d2-43f1-9d66-339deac424f8.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Snooker Shenzhen Open --- Table 3",
+            "name": "Luxembourg vs Iceland --- CH 1",
             "type": "live_event",
-            "league": "Snooker",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Snooker Shenzhen Open --- Table 3.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Luxembourg vs Iceland.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/grrrA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/grrrA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.55/hls/TPPPAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/TPPPAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
         {
-            "name": "Snooker Shenzhen Open --- Table 4",
+            "name": "Luxembourg vs Iceland --- CH 2",
             "type": "live_event",
-            "league": "Snooker",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Snooker Shenzhen Open --- Table 4.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Luxembourg vs Iceland --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/grrr.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/grrr.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "https://www.rtmpcdn.com/live/9311e749-affa-4d97-9dfe-c1106196e3f4.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/9311e749-affa-4d97-9dfe-c1106196e3f4.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/9311e749-affa-4d97-9dfe-c1106196e3f4.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/9311e749-affa-4d97-9dfe-c1106196e3f4.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Bulgaria vs Estonia --- CH 1",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Bulgaria vs Estonia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/TPPPA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/TPPPA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Bulgaria vs Estonia --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Bulgaria vs Estonia --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/f88076ea-fbaf-4683-ba73-69dd77dc0ddd.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/f88076ea-fbaf-4683-ba73-69dd77dc0ddd.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/f88076ea-fbaf-4683-ba73-69dd77dc0ddd.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/f88076ea-fbaf-4683-ba73-69dd77dc0ddd.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Congo vs Cameroon --- CH 1",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Congo vs Cameroon.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/BYDDQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BYDDQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.44/hls/BYDDQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BYDDQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/BYDDQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/BYDDQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/BYDDQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/BYDDQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Congo vs Cameroon --- CH 2",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Congo vs Cameroon --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/ac3431da-4a0b-41a5-9e00-f8ccabdebea5.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/ac3431da-4a0b-41a5-9e00-f8ccabdebea5.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/ac3431da-4a0b-41a5-9e00-f8ccabdebea5.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/ac3431da-4a0b-41a5-9e00-f8ccabdebea5.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Somalia vs Ivory Coast --- CH 1",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Somalia vs Ivory Coast.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/BYDDQQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BYDDQQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.44/hls/BYDDQQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BYDDQQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/BYDDQQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/BYDDQQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/BYDDQQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/BYDDQQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Somalia vs Ivory Coast --- CH 2",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Somalia vs Ivory Coast --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/8e67f8bf-2089-4593-ade1-d206fab4d201.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/8e67f8bf-2089-4593-ade1-d206fab4d201.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/8e67f8bf-2089-4593-ade1-d206fab4d201.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/8e67f8bf-2089-4593-ade1-d206fab4d201.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Liberia vs Mali --- CH 1",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Liberia vs Mali.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/BYDDQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BYDDQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.44/hls/BYDDQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BYDDQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/BYDDQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/BYDDQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/BYDDQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/BYDDQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Liberia vs Mali --- CH 2",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Liberia vs Mali --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/962ed314-8003-466c-9f75-2594b10f914e.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/962ed314-8003-466c-9f75-2594b10f914e.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/962ed314-8003-466c-9f75-2594b10f914e.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/962ed314-8003-466c-9f75-2594b10f914e.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Gabon vs Niger --- CH 1",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Gabon vs Niger.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/BYDDQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BYDDQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.44/hls/BYDDQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BYDDQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/BYDDQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/BYDDQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/BYDDQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/BYDDQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Gabon vs Niger --- CH 2",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Gabon vs Niger --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/08d797f4-634f-4268-b7fc-0caa32be4d20.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/08d797f4-634f-4268-b7fc-0caa32be4d20.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/08d797f4-634f-4268-b7fc-0caa32be4d20.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/08d797f4-634f-4268-b7fc-0caa32be4d20.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Benin vs Mauritania --- CH 1",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Benin vs Mauritania.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/UDDDA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/UDDDA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Benin vs Mauritania --- CH 2",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Benin vs Mauritania --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/e62ef467-383f-4e21-9200-8ecd23d4ce2a.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/e62ef467-383f-4e21-9200-8ecd23d4ce2a.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/e62ef467-383f-4e21-9200-8ecd23d4ce2a.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/e62ef467-383f-4e21-9200-8ecd23d4ce2a.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "British Virgin Islands vs Turks and Caicos Islands",
+            "type": "live_event",
+            "league": "CONCACAF Nations League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/British Virgin Islands vs Turks and Caicos Islands.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/TATATAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/TATATAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Universitario de Vinto vs Guabira",
+            "type": "live_event",
+            "league": "Bolivia Copa",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Universitario de Vinto vs Guabira.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/TATATA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/TATATA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Yeovil vs Worthing",
+            "type": "live_event",
+            "league": "English National League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Yeovil vs Worthing.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/OFFFAAAAAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/OFFFAAAAAAAQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Woking vs Solihull Moors",
+            "type": "live_event",
+            "league": "English National League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Woking vs Solihull Moors.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/OFFFAAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/OFFFAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Hornchurch vs Aldershot",
+            "type": "live_event",
+            "league": "English National League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Hornchurch vs Aldershot.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/OFFFAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/OFFFAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Hartlepool vs Harrogate",
+            "type": "live_event",
+            "league": "English National League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Hartlepool vs Harrogate.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/OFFFAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/OFFFAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Gateshead vs Altrincham",
+            "type": "live_event",
+            "league": "English National League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Gateshead vs Altrincham.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/OFFFAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/OFFFAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Forest Green vs Wealdstone",
+            "type": "live_event",
+            "league": "English National League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Forest Green vs Wealdstone.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/OFFFAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/OFFFAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "FC Halifax vs Boston Utd",
+            "type": "live_event",
+            "league": "English National League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/FC Halifax vs Boston Utd.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/OFFFAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/OFFFAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Barrow vs Scunthorpe",
+            "type": "live_event",
+            "league": "English National League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Barrow vs Scunthorpe.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/OFFFA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/OFFFA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "AFC Fylde vs Carlisle",
+            "type": "live_event",
+            "league": "English National League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/AFC Fylde vs Carlisle.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/OFFF.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/OFFF.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Paris vs Partizan --- CH 1",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Paris vs Partizan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/NYYYAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/NYYYAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Paris vs Partizan --- CH 2",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Paris vs Partizan --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/NYYYAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/NYYYAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Valencia vs Baskonia --- CH 1",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Valencia vs Baskonia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/NYYYA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/NYYYA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Valencia vs Baskonia --- CH 2",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Valencia vs Baskonia --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/ab4b350a-d71c-4d94-9899-534f9c84fcac.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/ab4b350a-d71c-4d94-9899-534f9c84fcac.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/ab4b350a-d71c-4d94-9899-534f9c84fcac.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/ab4b350a-d71c-4d94-9899-534f9c84fcac.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Olimpia Milano vs Virtus Bologna --- CH 1",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Olimpia Milano vs Virtus Bologna.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/NYYY.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/NYYY.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Olimpia Milano vs Virtus Bologna --- CH 2",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Olimpia Milano vs Virtus Bologna --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/66b6f6ee-84b4-4ae3-8211-5a418eef232a.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/66b6f6ee-84b4-4ae3-8211-5a418eef232a.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/66b6f6ee-84b4-4ae3-8211-5a418eef232a.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/66b6f6ee-84b4-4ae3-8211-5a418eef232a.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Boreham Wood vs Kidderminster",
+            "type": "live_event",
+            "league": "English National League",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Boreham Wood vs Kidderminster.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/UDDDAAAAAAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/UDDDAAAAAAAAQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Atlanta Braves vs Philadelphia Phillies",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Atlanta Braves vs Philadelphia Phillies.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/UDDDAAAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/UDDDAAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Crvena Zvezda vs Hapoel Tel Aviv --- CH 1",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Crvena Zvezda vs Hapoel Tel Aviv.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/UDDDAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/UDDDAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Crvena Zvezda vs Hapoel Tel Aviv --- CH 2",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Crvena Zvezda vs Hapoel Tel Aviv.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/UDDDAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/UDDDAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Le Mans vs Aris",
+            "type": "live_event",
+            "league": "Basketball Eurocup",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Le Mans vs Aris.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018292396694372354/nBdWXvtu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/UDDDAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/UDDDAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Ireland U21 vs Kazakhstan U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Ireland U21 vs Kazakhstan U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/UDDDAAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/UDDDAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Belgium U21 vs Wales U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Belgium U21 vs Wales U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/UDDDAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/UDDDAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Fenerbahce vs Bayern Munchen --- CH 1",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "18:45",
+            "page_link": "http://www.fawanews.sc/Fenerbahce vs Bayern Munchen.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/UDDDAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/UDDDAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Fenerbahce vs Bayern Munchen --- CH 2",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "18:45",
+            "page_link": "http://www.fawanews.sc/Fenerbahce vs Bayern Munchen --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/e4581200-ff1d-4694-8776-0e865c175bfc.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/e4581200-ff1d-4694-8776-0e865c175bfc.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/e4581200-ff1d-4694-8776-0e865c175bfc.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/e4581200-ff1d-4694-8776-0e865c175bfc.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Oman vs Kuwait --- CH 1",
+            "type": "live_event",
+            "league": "Arabian Gulf Cup",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Oman vs Kuwait.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2082830186618220544/hgedrGV6_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/UDDDAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/UDDDAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Oman vs Kuwait --- CH 2",
+            "type": "live_event",
+            "league": "Arabian Gulf Cup",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Oman vs Kuwait --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2082830186618220544/hgedrGV6_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/d3fcc04d-bd4f-47b3-bffe-cd39b3cde383.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/d3fcc04d-bd4f-47b3-bffe-cd39b3cde383.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/d3fcc04d-bd4f-47b3-bffe-cd39b3cde383.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/d3fcc04d-bd4f-47b3-bffe-cd39b3cde383.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Saudi Arabia vs Iraq --- CH 1",
+            "type": "live_event",
+            "league": "Arabian Gulf Cup",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Saudi Arabia vs Iraq.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2082830186618220544/hgedrGV6_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/UDDD.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/UDDD.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Saudi Arabia vs Iraq --- CH 2",
+            "type": "live_event",
+            "league": "Arabian Gulf Cup",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Saudi Arabia vs Iraq --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2082830186618220544/hgedrGV6_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/c059f3af-dee2-4f35-b8a9-07f4f37f4b1f.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/c059f3af-dee2-4f35-b8a9-07f4f37f4b1f.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/c059f3af-dee2-4f35-b8a9-07f4f37f4b1f.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/c059f3af-dee2-4f35-b8a9-07f4f37f4b1f.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Zalgiris Kaunas vs Olympiacos --- CH 1",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Zalgiris Kaunas vs Olympiacos1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/ZRRRAAAAX.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/ZRRRAAAAX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Zalgiris Kaunas vs Olympiacos --- CH 2",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Zalgiris Kaunas vs Olympiacos --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/b29c00fa-1ec4-4310-a9f7-aecfcc108a00.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/b29c00fa-1ec4-4310-a9f7-aecfcc108a00.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/b29c00fa-1ec4-4310-a9f7-aecfcc108a00.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/b29c00fa-1ec4-4310-a9f7-aecfcc108a00.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Anadolu Efes vs Real Madrid --- CH 1",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Anadolu Efes vs Real Madrid.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/ZRRRAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/ZRRRAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Anadolu Efes vs Real Madrid --- CH 2",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Anadolu Efes vs Real Madrid --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/af6fb94b-6322-4c1b-a092-0af930dac6a9.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/af6fb94b-6322-4c1b-a092-0af930dac6a9.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/af6fb94b-6322-4c1b-a092-0af930dac6a9.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/af6fb94b-6322-4c1b-a092-0af930dac6a9.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Darts World Grand Prix",
+            "type": "live_event",
+            "league": "Darts",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Darts World Grand Prix_2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/ZRRRAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/ZRRRAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Skelleftea vs Lulea",
+            "type": "live_event",
+            "league": "Sweden Hockey SHL",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Skelleftea vs Lulea.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/ZRRRAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/ZRRRAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "IF Bjorkloven vs HV 71",
+            "type": "live_event",
+            "league": "Sweden Hockey SHL",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/IF Bjorkloven vs HV 71.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/ZRRRA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/ZRRRA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Brynas vs Timra",
+            "type": "live_event",
+            "league": "Sweden Hockey SHL",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Brynas vs Timra.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/ZRRR.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/ZRRR.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Zambia vs Togo",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Zambia vs Togo.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/HYHYHYAX.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HYHYHYAX.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
