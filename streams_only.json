@@ -1,8 +1,36 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-30T01:44:17.852003",
-    "total_with_streams": 31,
+    "fetched_at": "2026-09-30T07:39:44.087078",
+    "total_with_streams": 32,
     "events_with_streams": [
+        {
+            "name": "San Diego Padres vs Chicago Cubs",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/San Diego Padres vs Chicago Cubs.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/UDDDAAAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/UDDDAAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "South Korea U23 vs China U23",
+            "type": "live_event",
+            "league": "Asian Games",
+            "time": "07:00",
+            "page_link": "http://www.fawanews.sc/South Korea U23 vs China U23.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/YYYYZAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/YYYYZAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Vegas Golden Knights vs Chicago Blackhawks",
             "type": "live_event",
@@ -50,20 +78,6 @@
                 {
                     "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ad91261c-8634-429c-8731-f49defb12a57/master.m3u8",
                     "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ad91261c-8634-429c-8731-f49defb12a57/master.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "San Diego Padres vs Chicago Cubs",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "03:00",
-            "page_link": "http://www.fawanews.sc/San Diego Padres vs Chicago Cubs.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/UDDDAAAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/UDDDAAAAAAAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
